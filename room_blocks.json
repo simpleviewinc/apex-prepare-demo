@@ -1,0 +1,204 @@
+[
+	{
+		"name": "Cookies VIP",
+		"attendees": 15,
+		"response_due_at": "2023-02-15T00:00:00Z",
+		"request_rate_range": "175 - 250 per night",
+		comments: "Single occupancy. King bed or business suite preferred",
+		opportunity_id: "1",
+		hotels: {
+			docs: [
+				{
+					account_id: "1",
+					contact_id: "1",
+					is_awarded: true,
+					is_headquarters: true,
+					responses: {
+						docs: [
+							{
+								opportunity_date_id: "1",
+								comments: "We would be happy to host",
+								average_daily_rate: 175,
+								proposed_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-01T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-02T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-03T00:00:00Z",
+											count: 15
+										}
+									]
+								},
+								contracted_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-01T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-02T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-03T00:00:00Z",
+											count: 15
+										}
+									]
+								},
+								pickedup_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-01T00:00:00Z",
+											count: 12
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-02T00:00:00Z",
+											count: 16
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-03T00:00:00Z",
+											count: 16
+										}
+									]
+								}
+							},
+							{
+								opportunity_date_id: "2",
+								comments: "We can host alternate dates as well",
+								proposed_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-17T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-18T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-19T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-20T00:00:00Z",
+											count: 15
+										}
+									]
+								},
+								contracted_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-19T00:00:00Z",
+											count: 15
+										}
+									]
+								},
+								pickedup_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-19T00:00:00Z",
+											count: 10
+										}
+									]
+								}
+							},
+						]
+					}
+				},
+				{
+					account_id: "2",
+					contact_id: "6",
+					is_awarded: false,
+					is_headquarters: false,
+					responses: {
+						docs: [
+							{
+								opportunity_date_id: "1",
+								comments: "A comment",
+								proposed_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-17T00:00:00Z",
+											count: 10
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-18T00:00:00Z",
+											count: 12
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-19T00:00:00Z",
+											count: 12
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-20T00:00:00Z",
+											count: 15
+										}
+
+									]
+								},
+								contracted_rooms: {
+									docs: [
+										{
+											room_type_id: "1",
+											date_at: "2023-10-17T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-18T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-19T00:00:00Z",
+											count: 15
+										},
+										{
+											room_type_id: "1",
+											date_at: "2023-10-20T00:00:00Z",
+											count: 10
+										}
+									]
+								},
+								pickedup_rooms: {
+									docs: [
+										{
+											room_type_id: "3",
+											date_at: "2023-02-23T00:00:00Z",
+											count: 12
+										}
+									]
+								}
+							}
+						]
+					}
+				},
+			]
+		}
+	}
+]
