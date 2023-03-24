@@ -1,0 +1,283 @@
+[
+	{
+		"external_id": "1",
+		"account_name": "Starr Pass Resort",
+		"account_name_sort": "Starr Pass Resort",
+		"former_account_name": "JW Marriott ",
+		"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+		"is_send_email": true,
+		"account_description": "a luxury hotel with world-class golf, excellent dining and resort amenities near downtown Tucson.",
+		"keywords": "Hotel, Resort, Spa, Golf",
+		"is_active": true,
+		"engagement_level_id": "2",
+		"sleeping_rooms": 800,
+		"meeting_facility_desc": "Professional Business and Events Center",
+		"addresses": {
+			"docs": {
+				"address_line_1": "3800 W Starr Pass Blvd",
+				"address_line_2": null,
+				"address_line_3": null,
+				"city": "Tucson",
+				"state_id": "US_AZ",
+				"postal_code": "85745",
+				"country_id": "US",
+				"is_billing": true,
+				"is_physical": true,
+				"is_shipping": false
+			}
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "email+starrpass@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "15207923500"
+				},
+				{
+					"is_primary": false,
+					"phone_number": "19998887777"
+				},
+				{
+					"is_primary": false,
+					"phone_number": "14445556666"
+				}
+			]
+		}
+	},
+	{
+		"external_id": "2",
+		"account_name": "Hacienda Del Sol Guest Ranch Resort",
+		"account_name_sort": "Hacienda Del Sol Guest Ranch Resort",
+		"former_account_name": "Hacienda Del Sol",
+		"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
+		"is_send_email": true,
+		"account_description": "Circa-1929, Southwestern-style property set amid desert landscapes with a regional restaurant.",
+		"keywords": "Hotel, Resort, Spa, Golf",
+		"is_active": true,
+		"engagement_level_id": "2",
+		"sleeping_rooms": 300,
+		"meeting_facility_desc": "Professional Business and Events Center",
+		"addresses": {
+			"docs": {
+				"address_line_1": "5501 N Hacienda Del Sol Rd",
+				"address_line_2": null,
+				"address_line_3": null,
+				"city": "Tucson",
+				"state_id": "US_AZ",
+				"postal_code": "85718",
+				"country_id": "US",
+				"is_billing": true,
+				"is_physical": true,
+				"is_shipping": false
+			}
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "email+delsol@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "15202991501"
+				}
+			]
+		}
+	},
+	{
+		"external_id": "3",
+		"account_name": "The Westin La Paloma Resort & Spa",
+		"account_name_sort": "The Westin La Paloma Resort & Spa",
+		"former_account_name": "Westin La Paloma",
+		"weburl": "https://www.marriott.com/en-us/hotels/tuswi-the-westin-la-paloma-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+		"is_send_email": true,
+		"account_description": "Upscale resort offering 5 pools & a waterslide, plus a 27-hole golf course & a spa.",
+		"keywords": "Hotel, Resort, Spa, Golf",
+		"is_active": true,
+		"engagement_level_id": "2",
+		"sleeping_rooms": 380,
+		"meeting_facility_desc": "Professional Business and Events Center",
+		"addresses": {
+			"docs": {
+				"address_line_1": "3800 E Sunrise Dr, Tucson, AZ 85718",
+				"address_line_2": null,
+				"address_line_3": null,
+				"city": "Tucson",
+				"state_id": "US_AZ",
+				"postal_code": "85718",
+				"country_id": "US",
+				"is_billing": true,
+				"is_physical": true,
+				"is_shipping": false
+			}
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "email+wlapaloma@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "15207426000"
+				}
+			]
+		}
+	},
+	{
+		"external_id": "4",
+		"account_name": "Gold Coast Tourism Corporation",
+		"account_name_sort": " ",
+		"former_account_name": " ",
+		"weburl": " ",
+		"account_description": "Gold Coast Tourism Corporation Australian Simpleview Client",
+		"is_active": true,
+		"engagement_level_id": "2",
+		"number_of_rooms": 0,
+		"addresses": {
+			"docs": [
+				{
+					"address_line_1": "12 Charles Avenue",
+					"city": "Broadbeach ",
+					"state_id": "AU_QLD",
+					"postal_code": "4218",
+					"country_id": "AU",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			]
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "email+GoldCoast@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "61755703144"
+				}
+			]
+		}
+	},
+	{
+		"external_id": "124944",
+		"account_name": "The 1895 House - DNM",
+		"account_name_sort": "1895 House, The",
+		"former_account_name": "Anne Cottage - Lighthouse Keeper's Quarters",
+		"weburl": "http://www.newenglandhistoricalsociety.com",
+		"account_description": "B&B, Bed and Breakfast, historic",
+		"is_active": true,
+		"engagement_level_id": "1",
+		"sleeping_rooms": 50,
+		"addresses": {
+			"docs": [
+				{
+					"address_line_1": "6 2 Lights Terrace",
+					"city": "Cape Elizabeth",
+					"state_id": "US_ME",
+					"postal_code": "04107",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			]
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "Jfraz+1895@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "17275208898"
+				}
+			]
+		}
+	},
+	{
+		"external_id": "129067",
+		"account_name": "Avenue Pizza & More",
+		"account_name_sort": "Avenue Pizza & More",
+		"former_account_name": "",
+		"weburl": "",
+		"account_description": "pizza and dining",
+		"is_active": true,
+		"engagement_level_id": "1",
+		"number_of_rooms": 0,
+		"addresses": {
+			"docs": [
+				{
+					"address_line_1": "265 N Gallatin Ave",
+					"city": "Uniontown",
+					"state_id": "US_PA",
+					"postal_code": "15401",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			]
+		},
+		"groups": {
+			"set": [
+				1
+			]
+		},
+		"emails": {
+			"docs": {
+				"email_address": "unionavepizza@email.fake",
+				"is_primary": true
+			}
+		},
+		"phones": {
+			"docs": [
+				{
+					"is_primary": true,
+					"phone_number": "17245504116"
+				}
+			]
+		}
+	}
+]
