@@ -1,65 +1,68 @@
-[
-	{
-		"opportunity_name": "Cookies to go",
-		"opportunity_status_id": 3,
-		"opportunity_type_id": 3,
-		"decision_due_at": "2023-02-15T20:45:11.203Z",
-		"is_repeat": false,
-		"source_id": 2,
-		"sales_territory_id": 1,
-		"market_segment_id": "71",
-		"account_id": 4,
-		"contacts": {
-			"set": [
-				3,
-				6
-			]
+{
+	"model": "opportunities",
+	"data": [
+		{
+			"opportunity_name": "Cookies to go",
+			"opportunity_status_id": 3,
+			"opportunity_type_id": 3,
+			"decision_due_at": "2023-02-15T20:45:11.203Z",
+			"is_repeat": false,
+			"source_id": 2,
+			"sales_territory_id": 1,
+			"market_segment_id": "71",
+			"account_id": 4,
+			"contacts": {
+				"set": [
+					3,
+					6
+				]
+			},
+			"date_comments": "1 day shoulder before and 2 day shoulder after. Primary dates 10/1/23 - 10/3/23. Alt 1 dates 10/17/23 - 10/20/23",
+			"shoulder_before": 1,
+			"shoulder_after": 2,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2023-10-01T12:20:47.947Z",
+						"end_at": "2023-10-03T12:20:47.947Z"
+					},
+					{
+						"start_at": "2023-10-17T12:20:47.947Z",
+						"end_at": "2023-10-20T12:20:47.947Z"
+					}
+				]
+			}
 		},
-		"date_comments": "1 day shoulder before and 2 day shoulder after. Primary dates 10/1/23 - 10/3/23. Alt 1 dates 10/17/23 - 10/20/23",
-		"shoulder_before": 1,
-		"shoulder_after": 2,
-		"opportunity_dates": {
-			"docs": [
-				{
-					"start_at": "2023-10-01T12:20:47.947Z",
-					"end_at": "2023-10-03T12:20:47.947Z"
-				},
-				{
-					"start_at": "2023-10-17T12:20:47.947Z",
-					"end_at": "2023-10-20T12:20:47.947Z"
-				}
-			]
+		{
+			"opportunity_name": "Mega Meet 2024",
+			"opportunity_status_id": 2,
+			"opportunity_type_id": 6,
+			"decision_due_at": "2023-10-25T20:45:11.203Z",
+			"is_repeat": true,
+			"source_id": 1,
+			"sales_territory_id": 1,
+			"market_segment_id": "71",
+			"account_id": 2,
+			"contacts": {
+				"set": [
+					1
+				]
+			},
+			"date_comments": "Primary dates 04/01/24 - 04/03/24. Alt 1 dates 04/17/24 - 04/20/24. 2 day shoulder before and 2 day shoulder after. ",
+			"shoulder_before": 2,
+			"shoulder_after": 2,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2024-04-01T12:20:47.947Z",
+						"end_at": "2024-04-03T12:20:47.947Z"
+					},
+					{
+						"start_at": "2024-04-17T12:20:47.947Z",
+						"end_at": "2024-04-20T12:20:47.947Z"
+					}
+				]
+			}
 		}
-	},
-	{
-		"opportunity_name": "Mega Meet 2024",
-		"opportunity_status_id": 2,
-		"opportunity_type_id": 6,
-		"decision_due_at": "2023-10-25T20:45:11.203Z",
-		"is_repeat": true,
-		"source_id": 1,
-		"sales_territory_id": 1,
-		"market_segment_id": "71",
-		"account_id": 2,
-		"contacts": {
-			"set": [
-				1
-			]
-		},
-		"date_comments": "Primary dates 04/01/24 - 04/03/24. Alt 1 dates 04/17/24 - 04/20/24. 2 day shoulder before and 2 day shoulder after. ",
-		"shoulder_before": 2,
-		"shoulder_after": 2,
-		"opportunity_dates": {
-			"docs": [
-				{
-					"start_at": "2024-04-01T12:20:47.947Z",
-					"end_at": "2024-04-03T12:20:47.947Z"
-				},
-				{
-					"start_at": "2024-04-17T12:20:47.947Z",
-					"end_at": "2024-04-20T12:20:47.947Z"
-				}
-			]
-		}
-	}
-]
+	]
+}
