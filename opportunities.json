@@ -3,14 +3,19 @@
 	"data": [
 		{
 			"opportunity_name": "Cookies to go",
-			"opportunity_status_id": 3,
-			"opportunity_type_id": 3,
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "3",
 			"decision_due_at": "2023-02-15T20:45:11.203Z",
-			"is_repeat": false,
-			"source_id": 2,
-			"sales_territory_id": 1,
+			"is_repeat": true,
+			"source_id": "2",
+			"sales_territory_id": "1",
 			"market_segment_id": "71",
-			"account_id": 4,
+			"event_attendees": 900,
+			"competitors": "Dallas, Las Vegas, Denver",
+			"event_requirements": "In hotel or attached facility; we need meeting and exhibitor space for 50 or more vendors",
+			"schedule": "Day 1 - set up and opening reception.  Day 2 - meetings and trade show.  Day 3 - meetings and trade show.  Day 4 - tear down",
+			"decision_making_process": "other",
+			"account_id": "4",
 			"contacts": {
 				"set": [
 					3,
@@ -35,14 +40,19 @@
 		},
 		{
 			"opportunity_name": "Mega Meet 2024",
-			"opportunity_status_id": 2,
-			"opportunity_type_id": 6,
+			"opportunity_status_id": "2",
+			"opportunity_type_id": "6",
 			"decision_due_at": "2023-10-25T20:45:11.203Z",
 			"is_repeat": true,
-			"source_id": 1,
-			"sales_territory_id": 1,
+			"source_id": "1",
+			"sales_territory_id": "1",
 			"market_segment_id": "71",
-			"account_id": 2,
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "2",
 			"contacts": {
 				"set": [
 					1
@@ -60,6 +70,312 @@
 					{
 						"start_at": "2024-04-17T12:20:47.947Z",
 						"end_at": "2024-04-20T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "2028 United Soccer Coaches Convention",
+			"opportunity_status_id": "2",
+			"opportunity_type_id": "4",
+			"decision_due_at": "2023-04-24T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "2",
+			"sales_territory_id": "2",
+			"market_segment_id": "71",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "11",
+			"contacts": {
+				"set": [
+					4
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2028-05-10T12:20:47.947Z",
+						"end_at": "2028-05-13T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "Fiona's Wedding",
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "1",
+			"decision_due_at": "2023-02-13T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "1",
+			"sales_territory_id": "1",
+			"market_segment_id": "71",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "14",
+			"contacts": {
+				"set": [
+					9
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2023-10-30T12:20:47.947Z",
+						"end_at": "2023-10-31T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "Small Business Conference 2025",
+			"opportunity_status_id": "2",
+			"opportunity_type_id": "6",
+			"decision_due_at": "2023-05-26T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "1",
+			"sales_territory_id": "1",
+			"market_segment_id": "72",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "6",
+			"contacts": {
+				"set": [
+					16
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2025-08-05T12:20:47.947Z",
+						"end_at": "2025-08-09T12:20:47.947Z"
+					},
+					{
+						"start_at": "2025-08-15T12:20:47.947Z",
+						"end_at": "2025-08-19T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "2024 Annual Gamers Summit",
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "2",
+			"decision_due_at": "2023-03-18T00:00:00.000Z",
+			"is_repeat": true,
+			"source_id": "1",
+			"sales_territory_id": "1",
+			"market_segment_id": "44-45",
+			"event_attendees": null,
+			"competitors": "Phoenix",
+			"event_requirements": "require space for exhibits, vendors,  and gaming tables.",
+			"schedule": "3 days of gaming and pop culture presentations.",
+			"decision_making_process": null,
+			"account_id": "22",
+			"contacts": {
+				"set": [
+					6,
+					17
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2024-06-20T12:20:47.947Z",
+						"end_at": "2024-06-23T12:20:47.947Z"
+					},
+					{
+						"start_at": "2024-06-11T12:20:47.947Z",
+						"end_at": "2024-06-14T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "2026 Annual Meeting and Tradeshow",
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "1",
+			"decision_due_at": "2023-05-13T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "3",
+			"sales_territory_id": "2",
+			"market_segment_id": "72",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "17",
+			"contacts": {
+				"set": [
+					2
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2026-07-20T12:20:47.947Z",
+						"end_at": "2026-07-23T12:20:47.947Z"
+					},
+					{
+						"start_at": "2026-06-11T12:20:47.947Z",
+						"end_at": "2026-06-14T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "Restaurants Europe 2023",
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "5",
+			"decision_due_at": "2022-09-26T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "1",
+			"sales_territory_id": "4",
+			"market_segment_id": "72",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "8",
+			"contacts": {
+				"set": [
+					25,
+					22,
+					18
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2023-02-18T12:20:47.947Z",
+						"end_at": "2023-02-20T12:20:47.947Z"
+					},
+					{
+						"start_at": "2023-03-11T12:20:47.947Z",
+						"end_at": "2023-03-14T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "The Governance Institute Meeting 2025",
+			"opportunity_status_id": "1",
+			"opportunity_type_id": "1",
+			"decision_due_at": "2023-08-15T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "3",
+			"sales_territory_id": "1",
+			"market_segment_id": "62",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "11",
+			"contacts": {
+				"set": [
+					4,
+					23
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": null
+		},
+		{
+			"opportunity_name": "Spring Showcase 2026",
+			"opportunity_status_id": "2",
+			"opportunity_type_id": "4",
+			"decision_due_at": "2025-10-01T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "4",
+			"sales_territory_id": "1",
+			"market_segment_id": "71",
+			"event_attendees": null,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "26",
+			"contacts": {
+				"set": [
+					19
+				]
+			},
+			"date_comments": null,
+			"shoulder_before": 0,
+			"shoulder_after": 0,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2026-09-02T12:20:47.947Z",
+						"end_at": "2026-09-04T12:20:47.947Z"
+					}
+				]
+			}
+		},
+		{
+			"opportunity_name": "The Global Produce and Floral Show 2025",
+			"opportunity_status_id": "3",
+			"opportunity_type_id": "3",
+			"decision_due_at": "2021-11-12T00:00:00.000Z",
+			"is_repeat": false,
+			"source_id": "4",
+			"sales_territory_id": null,
+			"market_segment_id": "11",
+			"event_attendees": 2500,
+			"competitors": null,
+			"event_requirements": null,
+			"schedule": null,
+			"decision_making_process": null,
+			"account_id": "27",
+			"contacts": {
+				"set": [
+					26,
+					17
+				]
+			},
+			"date_comments": "Citywide event. Blocks for attendees and exhibitors. Need convention center space.",
+			"shoulder_before": 2,
+			"shoulder_after": 2,
+			"opportunity_dates": {
+				"docs": [
+					{
+						"start_at": "2025-05-10T12:20:47.947Z",
+						"end_at": "2025-05-14T12:20:47.947Z"
+					},
+					{
+						"start_at": "2025-05-01T12:20:47.947Z",
+						"end_at": "2025-05-04T12:20:47.947Z"
 					}
 				]
 			}
