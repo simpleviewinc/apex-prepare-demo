@@ -4,7 +4,6 @@
 		{
 			"external_id": "5",
 			"account_name": "The 1895 House",
-			"account_name_sort": "1895 House, The",
 			"former_account_name": "Anne Cottage - Lighthouse Keeper's Quarters",
 			"sleeping_rooms": 50,
 			"weburl": "http://www.newenglandhistoricalsociety.com",
@@ -40,7 +39,6 @@
 		{
 			"external_id": "1",
 			"account_name": "Starr Pass Resort",
-			"account_name_sort": "Starr Pass Resort",
 			"former_account_name": "JW Marriott",
 			"sleeping_rooms": 800,
 			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
@@ -77,7 +75,6 @@
 		{
 			"external_id": "2",
 			"account_name": "Hacienda Del Sol Guest Ranch Resort",
-			"account_name_sort": "Hacienda Del Sol Guest Ranch Resort",
 			"former_account_name": "Hacienda Del Sol",
 			"sleeping_rooms": 300,
 			"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
@@ -114,7 +111,6 @@
 		{
 			"external_id": "7",
 			"account_name": "Prep & Pastry",
-			"account_name_sort": "",
 			"former_account_name": "",
 			"sleeping_rooms": 0,
 			"weburl": "",
@@ -153,7 +149,6 @@
 		{
 			"external_id": "6",
 			"account_name": "Avenue Pizza & More",
-			"account_name_sort": "Avenue Pizza & More",
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": "",
@@ -189,7 +184,6 @@
 		{
 			"external_id": "4",
 			"account_name": "Gold Coast Tourism Corporation",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": " ",
@@ -225,7 +219,6 @@
 		{
 			"external_id": "3",
 			"account_name": "The Westin La Paloma Resort & Spa",
-			"account_name_sort": "The Westin La Paloma Resort & Spa",
 			"former_account_name": "Westin La Paloma",
 			"sleeping_rooms": 380,
 			"weburl": "https://www.marriott.com/en-us/hotels/tuswi-the-westin-la-paloma-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
@@ -262,7 +255,6 @@
 		{
 			"external_id": "14",
 			"account_name": "Arizona-Sonora Desert Museum",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -301,7 +293,6 @@
 		{
 			"external_id": "12",
 			"account_name": "The Tartan Club",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -337,7 +328,6 @@
 		{
 			"external_id": "17",
 			"account_name": "Better Business Connection Inc. T/A BBC Express",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -360,7 +350,6 @@
 		{
 			"external_id": "9",
 			"account_name": "Windflower Tours",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -396,7 +385,6 @@
 		{
 			"external_id": "13",
 			"account_name": "Senior Citizens Council",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -419,7 +407,6 @@
 		{
 			"external_id": "18",
 			"account_name": "4th Street Market",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -442,7 +429,6 @@
 		{
 			"external_id": "19",
 			"account_name": "Adalberto's Mexican Food",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -465,7 +451,6 @@
 		{
 			"external_id": "11",
 			"account_name": "Global Travel Alliance",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -501,7 +486,6 @@
 		{
 			"external_id": "22",
 			"account_name": "Visit Anaheim",
-			"account_name_sort": null,
 			"former_account_name": "Anaheim/Orange County CVB",
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -540,7 +524,6 @@
 		{
 			"external_id": "26",
 			"account_name": "International Association of Amusement Parks and Attractions",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -579,7 +562,6 @@
 		{
 			"external_id": "8",
 			"account_name": "Euro-American Tours",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -615,7 +597,6 @@
 		{
 			"external_id": "10",
 			"account_name": "Tumerico",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": 0,
 			"weburl": null,
@@ -654,7 +635,6 @@
 		{
 			"external_id": "16",
 			"account_name": "Potomac River Boat Company",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -677,7 +657,6 @@
 		{
 			"external_id": "20",
 			"account_name": "Affinia Hotel South",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": 350,
 			"weburl": null,
@@ -700,7 +679,6 @@
 		{
 			"external_id": "15",
 			"account_name": "Elite Coach",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -723,7 +701,6 @@
 		{
 			"external_id": "21",
 			"account_name": "Affinia Manhattan",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": 460,
 			"weburl": null,
@@ -746,7 +723,6 @@
 		{
 			"external_id": "23",
 			"account_name": "Banff/Lake Louise Tourism Bureau",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
@@ -785,7 +761,6 @@
 		{
 			"external_id": "25",
 			"account_name": "Four Points by Sheraton Manhattan Chelsea",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": 900,
 			"weburl": null,
@@ -821,7 +796,6 @@
 		{
 			"external_id": "24",
 			"account_name": "Flatotel New York City",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": 600,
 			"weburl": null,
@@ -857,7 +831,6 @@
 		{
 			"external_id": "27",
 			"account_name": "International Fresh Produce Association",
-			"account_name_sort": null,
 			"former_account_name": null,
 			"sleeping_rooms": null,
 			"weburl": null,
