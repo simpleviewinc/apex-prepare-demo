@@ -11,37 +11,38 @@
 			"birthday": 1,
 			"title": "Director of Travel Industry Sales",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "laguilar@noemail.com"
-				}
-			},
-			"accounts": {
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
 				"set": [
-					1
+					1,
+					3,
+					2
 				]
 			},
+			"tags": null,
 			"addresses": {
 				"docs": {
 					"address_line_1": "3800 W Starr Pass Blvd",
 					"address_line_2": null,
-					"address_line_3": null,
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85745",
 					"country_id": "US",
-					"is_billing": true,
 					"is_physical": true,
-					"is_shipping": false
+					"is_shipping": false,
+					"is_billing": true
 				}
 			},
-			"groups": {
-				"set": [
-					1,
-					3
-				]
-			}
+			"emails": {
+				"docs": {
+					"email_address": "laguilar@noemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "12",
@@ -53,37 +54,38 @@
 			"birthday": 1,
 			"title": "Engineer",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "awilkins@noemail.com"
-				}
-			},
-			"accounts": {
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
 				"set": [
-					1
+					1,
+					3,
+					2
 				]
 			},
+			"tags": null,
 			"addresses": {
 				"docs": {
 					"address_line_1": "3800 W Starr Pass Blvd",
 					"address_line_2": null,
-					"address_line_3": null,
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85745",
 					"country_id": "US",
-					"is_billing": true,
 					"is_physical": true,
-					"is_shipping": false
+					"is_shipping": false,
+					"is_billing": true
 				}
 			},
-			"groups": {
-				"set": [
-					1,
-					3
-				]
-			}
+			"emails": {
+				"docs": {
+					"email_address": "awilkins@noemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "345",
@@ -95,37 +97,38 @@
 			"birthday": 1,
 			"title": "Meeting Planner",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "vroberts@noemail.com"
-				}
-			},
-			"accounts": {
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
 				"set": [
+					1,
+					3,
 					2
 				]
 			},
+			"tags": null,
 			"addresses": {
 				"docs": {
 					"address_line_1": "5501 N Hacienda Del Sol Rd",
 					"address_line_2": null,
-					"address_line_3": null,
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85718",
 					"country_id": "US",
-					"is_billing": true,
 					"is_physical": true,
-					"is_shipping": false
+					"is_shipping": false,
+					"is_billing": true
 				}
 			},
-			"groups": {
-				"set": [
-					1,
-					3
-				]
-			}
+			"emails": {
+				"docs": {
+					"email_address": "vroberts@noemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "95",
@@ -137,37 +140,38 @@
 			"birthday": 16,
 			"title": "Planner",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "email+Cheryl@email.email"
-				}
-			},
-			"accounts": {
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
 				"set": [
-					3
+					1,
+					3,
+					2
 				]
 			},
+			"tags": null,
 			"addresses": {
 				"docs": {
 					"address_line_1": "3800 E Sunrise Dr, Tucson, AZ 85718",
 					"address_line_2": null,
-					"address_line_3": null,
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85718",
 					"country_id": "US",
-					"is_billing": true,
 					"is_physical": true,
-					"is_shipping": false
+					"is_shipping": false,
+					"is_billing": true
 				}
 			},
-			"groups": {
-				"set": [
-					1,
-					3
-				]
-			}
+			"emails": {
+				"docs": {
+					"email_address": "email+Cheryl@email.email",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "95",
@@ -179,36 +183,38 @@
 			"birthday": 1,
 			"title": "Owner",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "email+MarciCat@email.email"
-				}
-			},
-			"accounts": {
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
 				"set": [
+					1,
+					3,
 					2
 				]
 			},
+			"tags": null,
 			"addresses": {
 				"docs": {
 					"address_line_1": "5501 N Hacienda Del Sol Rd",
 					"address_line_2": null,
-					"address_line_3": null,
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85718",
 					"country_id": "US",
-					"is_billing": true,
 					"is_physical": true,
-					"is_shipping": false
+					"is_shipping": false,
+					"is_billing": true
 				}
 			},
-			"groups": {
-				"set": [
-					1
-				]
-			}
+			"emails": {
+				"docs": {
+					"email_address": "email+MarciCat@email.email",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "01",
@@ -220,37 +226,38 @@
 			"birthday": 6,
 			"title": "QA",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "jfrazierqa@gmail.com"
-				}
-			},
-			"accounts": {
-				"set": [
-					4
-				]
-			},
-			"addresses": {
-				"docs": [
-					{
-						"address_line_1": "12 Charles Avenue",
-						"city": "Broadbeach ",
-						"state_id": "AU_QLD",
-						"postal_code": "4218",
-						"country_id": "AU",
-						"is_physical": true,
-						"is_shipping": true,
-						"is_billing": true
-					}
-				]
-			},
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
 			"groups": {
 				"set": [
 					1,
+					3,
 					2
 				]
-			}
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "12 Charles Avenue",
+					"address_line_2": null,
+					"city": "Broadbeach ",
+					"state_id": "AU_QLD",
+					"postal_code": "4218",
+					"country_id": "AU",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "jfrazierqa@gmail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		},
 		{
 			"external_id": "218",
@@ -262,23 +269,769 @@
 			"birthday": 23,
 			"title": "Planner",
 			"is_send_email": true,
-			"emails": {
-				"docs": {
-					"is_primary": true,
-					"email_address": "goemaila@email.fake"
-				}
-			},
-			"accounts": {
-				"set": [
-					2
-				]
-			},
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
 			"groups": {
 				"set": [
 					1,
+					3,
 					2
 				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "goemaila@email.fake",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Gary",
+			"last_name": "Beck",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Planner",
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "North Silverbell Road",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": null,
+					"postal_code": "85743",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "GRR@Gbeck.com",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "15555557410",
+					"is_primary": true,
+					"phone_type": null
+				}
 			}
+		},
+		{
+			"external_id": null,
+			"first_name": "Jay",
+			"last_name": "Pierse",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type_id": "1",
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "2840 East Skyline Drive",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85718",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "Jpiers@notanemail.email",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "15552223333",
+					"is_primary": true,
+					"phone_type": null
+				}
+			}
+		},
+		{
+			"external_id": null,
+			"first_name": "Doug",
+			"last_name": "Alkire",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Administrative Assistant",
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "North Broken Lance Drive",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85742",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "DA@DAemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Bethany",
+			"last_name": "Peters",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": null,
+			"is_deleted": false,
+			"preferred_contact_type_id": "2",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "Bethany@notanemail.emal",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "14037620295",
+					"is_primary": true,
+					"phone_type": null
+				}
+			}
+		},
+		{
+			"external_id": null,
+			"first_name": "Fabiola",
+			"last_name": "Acosta",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": false,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "Fabiiacosta1@mail.fake",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "16469999999",
+					"is_primary": true,
+					"phone_type": null
+				}
+			}
+		},
+		{
+			"external_id": null,
+			"first_name": "Jarlene",
+			"last_name": "Baizan",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": null,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "3",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "Jarlenex3@gil.co",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Eileen",
+			"last_name": "Abbattista",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Owner",
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "West Tangerine Road",
+					"address_line_2": null,
+					"city": "Marana ",
+					"state_id": "US_AZ",
+					"postal_code": "85658",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "Abba@noemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Stacy",
+			"last_name": "Aaron",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "North Silverbell Road",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85743",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "sa@getemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Jake",
+			"last_name": "Ackerman",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Chairman",
+			"is_send_email": false,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "West Orange Grove Road",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85704",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": null,
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Linda",
+			"last_name": "Akright",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "West Tangerine Road",
+					"address_line_2": null,
+					"city": "Marana ",
+					"state_id": "US_AZ",
+					"postal_code": "85653",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "AA@replyemail.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Abdul",
+			"last_name": "Saheer",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Manager",
+			"is_send_email": null,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "23 Manama Center",
+					"address_line_2": null,
+					"city": "Manama ",
+					"state_id": "BH_13",
+					"postal_code": "c",
+					"country_id": "BH",
+					"is_physical": false,
+					"is_shipping": true,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "abdulsaheer123@gmail.gmail",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Heidi",
+			"last_name": "Albertson",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Manager",
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": null,
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Carolina",
+			"last_name": "Leal",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Director",
+			"is_send_email": null,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "eduardo@turism.com.noemail",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Sheetal",
+			"last_name": "Aiyer",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "CEO",
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "West Linda Vista Boulevard",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85742",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "SheetalCEO@CEO.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Dean",
+			"last_name": "Phelus",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Sales Manager",
+			"is_send_email": null,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "meetings@aam-us.org",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Carmen",
+			"last_name": "Becker",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Planner",
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": null,
+			"tags": null,
+			"addresses": null,
+			"emails": {
+				"docs": {
+					"email_address": "KB@karenss.com",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Chris",
+			"last_name": "Baum",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Planner",
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type": null,
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "East Speedway Boulevard",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85710",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "CB@email.com",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "15555551000",
+					"is_primary": true,
+					"phone_type": null
+				}
+			}
+		},
+		{
+			"external_id": null,
+			"first_name": "Odell",
+			"last_name": "Beckham",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": true,
+			"is_deleted": false,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "North Camino De Oeste",
+					"address_line_2": null,
+					"city": "Tucson ",
+					"state_id": "US_AZ",
+					"postal_code": "85741",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": false
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "OB@OBOB.com",
+					"is_primary": true
+				}
+			},
+			"phones": {
+				"docs": {
+					"phone_number": "15852002000",
+					"is_primary": true,
+					"phone_type": null
+				}
+			}
+		},
+		{
+			"external_id": null,
+			"first_name": "A.L.",
+			"last_name": "Whitaker",
+			"suffix": null,
+			"alias": null,
+			"birthmonth": null,
+			"birthday": null,
+			"title": "Director of Marketing",
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "5210 Belfort Road",
+					"address_line_2": "Suite 300",
+					"city": "Jacksonville",
+					"state_id": "US_FL",
+					"postal_code": "32256",
+					"country_id": "US",
+					"is_physical": false,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "awhitaker@noemaild.cm",
+					"is_primary": true
+				}
+			},
+			"phones": null
 		}
 	]
+	
 }
