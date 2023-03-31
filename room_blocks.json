@@ -34,7 +34,7 @@
 								}
 							]
 						},
-						"pickedup_rooms": {
+						"pickup_rooms": {
 							"docs": [
 								{
 									"room_type_id": "1",
@@ -139,7 +139,7 @@
 								}
 							]
 						},
-						"pickedup_rooms": {
+						"pickup_rooms": {
 							"docs": [
 								{
 									"room_type_id": "3",
