@@ -6,7 +6,7 @@
 			"attendees": 15,
 			"response_due_at": "2023-02-15T00:00:00Z",
 			"request_rate_range": "175 - 250 per night",
-			"comments": "Single occupancy. King bed or business suite preferred",
+			"comments": "Single occupancy. King bed or business suite preferred.",
 			"opportunity_id": "1",
 			"hotels": {
 				"docs": [
@@ -19,37 +19,48 @@
 							"docs": [
 								{
 									"room_type_id": "1",
+									"date_at": "2023-09-30T00:00:00Z",
+									"count": 10
+								},
+								{
+									"room_type_id": "1",
 									"date_at": "2023-10-01T00:00:00Z",
-									"count": 15
+									"count": 20
 								},
 								{
 									"room_type_id": "1",
 									"date_at": "2023-10-02T00:00:00Z",
-									"count": 15
+									"count": 20
 								},
 								{
 									"room_type_id": "1",
 									"date_at": "2023-10-03T00:00:00Z",
-									"count": 15
-								}
-							]
-						},
-						"pickup_rooms": {
-							"docs": [
+									"count": 20
+								},
 								{
 									"room_type_id": "1",
+									"date_at": "2023-10-04T00:00:00Z",
+									"count": 10
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-05T00:00:00Z",
+									"count": 10
+								},
+								{
+									"room_type_id": "3",
 									"date_at": "2023-10-01T00:00:00Z",
-									"count": 12
+									"count": 2
 								},
 								{
-									"room_type_id": "1",
+									"room_type_id": "3",
 									"date_at": "2023-10-02T00:00:00Z",
-									"count": 16
+									"count": 2
 								},
 								{
-									"room_type_id": "1",
+									"room_type_id": "3",
 									"date_at": "2023-10-03T00:00:00Z",
-									"count": 16
+									"count": 2
 								}
 							]
 						},
@@ -58,9 +69,13 @@
 								{
 									"opportunity_date_id": "1",
 									"comments": "We would be happy to host",
-									"average_daily_rate": 175,
 									"proposed_rooms": {
 										"docs": [
+											{
+												"room_type_id": "1",
+												"date_at": "2023-09-30T00:00:00Z",
+												"count": 5
+											},
 											{
 												"room_type_id": "1",
 												"date_at": "2023-10-01T00:00:00Z",
@@ -75,6 +90,31 @@
 												"room_type_id": "1",
 												"date_at": "2023-10-03T00:00:00Z",
 												"count": 15
+											},
+											{
+												"room_type_id": "1",
+												"date_at": "2023-10-04T00:00:00Z",
+												"count": 5
+											},
+											{
+												"room_type_id": "1",
+												"date_at": "2023-10-05T00:00:00Z",
+												"count": 5
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-01T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-02T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-03T00:00:00Z",
+												"count": 2
 											}
 										]
 									}
@@ -84,6 +124,11 @@
 									"comments": "We can host alternate dates as well",
 									"proposed_rooms": {
 										"docs": [
+											{
+												"room_type_id": "1",
+												"date_at": "2023-10-16T00:00:00Z",
+												"count": 5
+											},
 											{
 												"room_type_id": "1",
 												"date_at": "2023-10-17T00:00:00Z",
@@ -102,7 +147,27 @@
 											{
 												"room_type_id": "1",
 												"date_at": "2023-10-20T00:00:00Z",
-												"count": 15
+												"count": 5
+											},
+											{
+												"room_type_id": "1",
+												"date_at": "2023-10-21T00:00:00Z",
+												"count": 5
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-17T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-18T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-19T00:00:00Z",
+												"count": 2
 											}
 										]
 									}
@@ -115,67 +180,28 @@
 						"contact_id": "6",
 						"is_awarded": false,
 						"is_headquarters": false,
-						"contracted_rooms": {
-							"docs": [
-								{
-									"room_type_id": "1",
-									"date_at": "2023-10-17T00:00:00Z",
-									"count": 15
-								},
-								{
-									"room_type_id": "1",
-									"date_at": "2023-10-18T00:00:00Z",
-									"count": 15
-								},
-								{
-									"room_type_id": "1",
-									"date_at": "2023-10-19T00:00:00Z",
-									"count": 15
-								},
-								{
-									"room_type_id": "1",
-									"date_at": "2023-10-20T00:00:00Z",
-									"count": 10
-								}
-							]
-						},
-						"pickup_rooms": {
-							"docs": [
-								{
-									"room_type_id": "3",
-									"date_at": "2023-02-23T00:00:00Z",
-									"count": 12
-								}
-							]
-						},
 						"responses": {
 							"docs": [
 								{
 									"opportunity_date_id": "1",
-									"comments": "A comment",
+									"comments": "Only able to handle part of the request.",
 									"proposed_rooms": {
 										"docs": [
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-17T00:00:00Z",
+												"date_at": "2023-10-01T00:00:00Z",
 												"count": 10
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-18T00:00:00Z",
-												"count": 12
-											},
-											{
-												"room_type_id": "1",
-												"date_at": "2023-10-19T00:00:00Z",
-												"count": 12
-											},
-											{
-												"room_type_id": "1",
-												"date_at": "2023-10-20T00:00:00Z",
+												"date_at": "2023-10-02T00:00:00Z",
 												"count": 15
+											},
+											{
+												"room_type_id": "1",
+												"date_at": "2023-10-03T00:00:00Z",
+												"count": 10
 											}
-
 										]
 									}
 								}
@@ -188,13 +214,426 @@
 				"docs": [
 					{
 						"room_type_id": "1",
-						"date_at": "2024-04-01T00:00:00Z",
-						"count": 1
+						"date_at": "2023-09-30T00:00:00Z",
+						"count": 5
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2024-04-02T00:00:00Z",
-						"count": 4
+						"date_at": "2023-10-01T00:00:00Z",
+						"count": 15
+					},
+					{
+						"room_type_id": "1",
+						"date_at": "2023-10-02T00:00:00Z",
+						"count": 15
+					},
+					{
+						"room_type_id": "1",
+						"date_at": "2023-10-03T00:00:00Z",
+						"count": 15
+					},
+					{
+						"room_type_id": "1",
+						"date_at": "2023-10-04T00:00:00Z",
+						"count": 5
+					},
+					{
+						"room_type_id": "1",
+						"date_at": "2023-10-05T00:00:00Z",
+						"count": 5
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-10-01T00:00:00Z",
+						"count": 2
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-10-02T00:00:00Z",
+						"count": 2
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-10-03T00:00:00Z",
+						"count": 2
+					}
+				]
+			}
+		},
+		{
+			"name": "Attendees",
+			"attendees": 500,
+			"response_due_at": "2023-02-15T00:00:00Z",
+			"request_rate_range": "99 - 150 per night",
+			"opportunity_id": "1",
+			"hotels": {
+				"docs": [
+					{
+						"account_id": "2",
+						"contact_id": "6",
+						"is_awarded": true,
+						"is_headquarters": false,
+						"contracted_rooms": {
+							"docs": [
+								{
+									"room_type_id": "2",
+									"date_at": "2023-09-30T00:00:00Z",
+									"count": 50
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-01T00:00:00Z",
+									"count": 100
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-02T00:00:00Z",
+									"count": 100
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-03T00:00:00Z",
+									"count": 100
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-04T00:00:00Z",
+									"count": 50
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-09-30T00:00:00Z",
+									"count": 150
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-10-01T00:00:00Z",
+									"count": 400
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-10-02T00:00:00Z",
+									"count": 400
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-10-03T00:00:00Z",
+									"count": 400
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-10-04T00:00:00Z",
+									"count": 150
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-10-05T00:00:00Z",
+									"count": 50
+								}
+							]
+						},
+						"responses": {
+							"docs": [
+								{
+									"opportunity_date_id": "1",
+									"comments": "We can handle all attendees",
+									"proposed_rooms": {
+										"docs": [
+											{
+												"room_type_id": "2",
+												"date_at": "2023-09-30T00:00:00Z",
+												"count": 50
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-01T00:00:00Z",
+												"count": 100
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-02T00:00:00Z",
+												"count": 100
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-03T00:00:00Z",
+												"count": 100
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-04T00:00:00Z",
+												"count": 50
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-09-30T00:00:00Z",
+												"count": 150
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-01T00:00:00Z",
+												"count": 400
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-02T00:00:00Z",
+												"count": 400
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-03T00:00:00Z",
+												"count": 400
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-04T00:00:00Z",
+												"count": 150
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-05T00:00:00Z",
+												"count": 50
+											}
+										]
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"requested_rooms": {
+				"docs": [
+					{
+						"room_type_id": "2",
+						"date_at": "2023-09-30T00:00:00Z",
+						"count": 50
+					},
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-01T00:00:00Z",
+						"count": 100
+					},
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-02T00:00:00Z",
+						"count": 100
+					},
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-03T00:00:00Z",
+						"count": 100
+					},
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-04T00:00:00Z",
+						"count": 50
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-09-30T00:00:00Z",
+						"count": 150
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-01T00:00:00Z",
+						"count": 400
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-02T00:00:00Z",
+						"count": 400
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-03T00:00:00Z",
+						"count": 400
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-04T00:00:00Z",
+						"count": 150
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-05T00:00:00Z",
+						"count": 50
+					}
+				]
+			}
+		},
+		{
+			"name": "Attendees",
+			"attendees": 850,
+			"response_due_at": "2022-09-26T00:00:00Z",
+			"request_rate_range": "99 - 150 per night",
+			"opportunity_id": "8",
+			"hotels": {
+				"docs": [
+					{
+						"account_id": "25",
+						"contact_id": "6",
+						"is_awarded": true,
+						"is_headquarters": true,
+						"contracted_rooms": {
+							"docs": [
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-18T00:00:00Z",
+									"count": 4
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-19T00:00:00Z",
+									"count": 5
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-20T00:00:00Z",
+									"count": 4
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-02-18T00:00:00Z",
+									"count": 875
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-02-19T00:00:00Z",
+									"count": 875
+								},
+								{
+									"room_type_id": "4",
+									"date_at": "2023-02-20T00:00:00Z",
+									"count": 875
+								}
+							]
+						},
+						"pickup_rooms": {
+							"docs": [
+								{
+									"room_type_id": "1",
+									"date_at": "2023-02-18T00:00:00Z",
+									"count": 321
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-02-19T00:00:00Z",
+									"count": 333
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-02-20T00:00:00Z",
+									"count": 292
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-02-18T00:00:00Z",
+									"count": 415
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-02-19T00:00:00Z",
+									"count": 425
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-02-20T00:00:00Z",
+									"count": 381
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-18T00:00:00Z",
+									"count": 2
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-19T00:00:00Z",
+									"count": 5
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-02-20T00:00:00Z",
+									"count": 4
+								}
+							]
+						},
+						"responses": {
+							"docs": [
+								{
+									"opportunity_date_id": "15",
+									"comments": "We can handle all attendees",
+									"proposed_rooms": {
+										"docs": [
+											{
+												"room_type_id": "3",
+												"date_at": "2023-02-18T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-02-19T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-02-20T00:00:00Z",
+												"count": 2
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-02-18T00:00:00Z",
+												"count": 850
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-02-19T00:00:00Z",
+												"count": 850
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-02-20T00:00:00Z",
+												"count": 850
+											}
+										]
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"requested_rooms": {
+				"docs": [
+					{
+						"room_type_id": "3",
+						"date_at": "2023-02-18T00:00:00Z",
+						"count": 2
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-02-19T00:00:00Z",
+						"count": 2
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-02-20T00:00:00Z",
+						"count": 2
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-02-18T00:00:00Z",
+						"count": 850
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-02-19T00:00:00Z",
+						"count": 850
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-02-20T00:00:00Z",
+						"count": 850
 					}
 				]
 			}
