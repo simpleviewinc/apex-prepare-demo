@@ -120,18 +120,18 @@
 		{
 			"opportunity_name": "Fiona's Wedding",
 			"opportunity_status_id": "3",
-			"opportunity_type_id": "1",
+			"opportunity_type_id": "7",
 			"decision_due_at": "2023-02-13T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "1",
 			"sales_territory_id": "1",
 			"market_segment_id": "71",
-			"event_attendees": null,
+			"event_attendees": 250,
 			"competitors": null,
-			"event_requirements": null,
+			"event_requirements": "Halloween wedding. Will need a ballroom in venue with space heaters for outdoor space. Open Bar.",
 			"schedule": null,
 			"decision_making_process": null,
-			"account_id": "14",
+			"account_id": null,
 			"contacts": {
 				"set": [
 					9
