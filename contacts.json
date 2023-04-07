@@ -862,7 +862,7 @@
 			"addresses": null,
 			"emails": {
 				"docs": {
-					"email_address": "meetings@aam-us.org",
+					"email_address": "meetingsmaster@meethere-us.email",
 					"is_primary": true
 				}
 			},
@@ -1027,6 +1027,49 @@
 			"emails": {
 				"docs": {
 					"email_address": "awhitaker@noemaild.cm",
+					"is_primary": true
+				}
+			},
+			"phones": null
+		},
+		{
+			"external_id": null,
+			"first_name": "Fiona",
+			"last_name": "Barnes",
+			"suffix": null,
+			"alias": "the Bride",
+			"birthmonth": null,
+			"birthday": null,
+			"title": null,
+			"is_send_email": true,
+			"is_deleted": false,
+			"prefix": null,
+			"preferred_contact_type_id": "1",
+			"gender": null,
+			"groups": {
+				"set": [
+					1,
+					3,
+					2
+				]
+			},
+			"tags": null,
+			"addresses": {
+				"docs": {
+					"address_line_1": "339 N Fairfax Ave",
+					"address_line_2": "#45",
+					"city": "Los Angeles",
+					"state_id": "US_CA",
+					"postal_code": "90036",
+					"country_id": "US",
+					"is_physical": true,
+					"is_shipping": true,
+					"is_billing": true
+				}
+			},
+			"emails": {
+				"docs": {
+					"email_address": "msFBarnes.fakeemail@noemaild.cm",
 					"is_primary": true
 				}
 			},
