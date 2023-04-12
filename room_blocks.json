@@ -68,6 +68,7 @@
 							"docs": [
 								{
 									"opportunity_date_id": "1",
+									"is_pursuing": true,
 									"comments": "We would be happy to host",
 									"proposed_rooms": {
 										"docs": [
@@ -122,6 +123,7 @@
 								{
 									"opportunity_date_id": "2",
 									"comments": "We can host alternate dates as well",
+									"is_pursuing": true,
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -185,6 +187,7 @@
 								{
 									"opportunity_date_id": "1",
 									"comments": "Only able to handle part of the request.",
+									"is_pursuing": true,
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -337,6 +340,7 @@
 								{
 									"opportunity_date_id": "1",
 									"comments": "We can handle all attendees",
+									"is_pursuing": true,
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -563,6 +567,7 @@
 								{
 									"opportunity_date_id": "15",
 									"comments": "We can handle all attendees",
+									"is_pursuing": true,
 									"proposed_rooms": {
 										"docs": [
 											{
