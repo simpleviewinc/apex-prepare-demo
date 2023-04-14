@@ -332,11 +332,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "15555557410",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "565555557410",
+						"is_primary": true,
+						"phone_type_id": "1"
+					},
+					{
+						"phone_number": "565555661009",
+						"is_primary": false,
+						"phone_type_id": "2"
+					}
+				]
 			}
 		},
 		{
@@ -379,11 +386,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "15552223333",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "415552223333",
+						"is_primary": true,
+						"phone_type_id": "2"
+					},
+					{
+						"phone_number": "415551110000",
+						"is_primary": false,
+						"phone_type_id": "3"
+					}
+				]
 			}
 		},
 		{
@@ -458,11 +472,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "14037620295",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "524037620295",
+						"is_primary": true,
+						"phone_type_id": "4"
+					},
+					{
+						"phone_number": "524037698120",
+						"is_primary": false,
+						"phone_type_id": "5"
+					}
+				]
 			}
 		},
 		{
@@ -495,11 +516,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "16469999999",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "446469999999",
+						"is_primary": true,
+						"phone_type_id": "3"
+					},
+					{
+						"phone_number": "446460698113",
+						"is_primary": false,
+						"phone_type_id": "1"
+					}
+				]
 			}
 		},
 		{
@@ -934,11 +962,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "15555551000",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "15555551000",
+						"is_primary": true,
+						"phone_type_id": "5"
+					},
+					{
+						"phone_number": "15555559999",
+						"is_primary": false,
+						"phone_type_id": "2"
+					}
+				]
 			}
 		},
 		{
@@ -982,11 +1017,18 @@
 				}
 			},
 			"phones": {
-				"docs": {
-					"phone_number": "15852002000",
-					"is_primary": true,
-					"phone_type": null
-				}
+				"docs": [
+					{
+						"phone_number": "9715852002000",
+						"is_primary": true,
+						"phone_type_id": "3"
+					},
+					{
+						"phone_number": "9715855005000",
+						"is_primary": false,
+						"phone_type_id": "4"
+					}
+				]
 			}
 		},
 		{
