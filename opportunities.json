@@ -9,7 +9,7 @@
 			"is_repeat": true,
 			"source_id": "2",
 			"sales_territory_id": "1",
-			"market_segment_id": "71",
+			"market_segment_id": "44-45",
 			"event_attendees": 900,
 			"competitors": "Dallas, Las Vegas, Denver",
 			"event_requirements": "In hotel or attached facility; we need meeting and exhibitor space for 50 or more vendors",
@@ -52,12 +52,7 @@
 			"source_id": "1",
 			"sales_territory_id": "1",
 			"market_segment_id": "71",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "2",
+			"account_id": "15",
 			"contacts": {
 				"set": [
 					1
@@ -89,24 +84,21 @@
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "4",
 			"decision_due_at": "2023-04-24T00:00:00.000Z",
-			"is_repeat": false,
+			"is_repeat": true,
 			"source_id": "2",
 			"sales_territory_id": "2",
 			"market_segment_id": "71",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "11",
+			"event_attendees": 1500,
+			"competitors": "San Diego",
+			"decision_making_process_id": "2",
+			"account_id": "22",
 			"contacts": {
 				"set": [
 					4
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
+			"shoulder_before": 2,
+			"shoulder_after": 1,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -123,23 +115,16 @@
 			"opportunity_type_id": "7",
 			"decision_due_at": "2023-02-13T00:00:00.000Z",
 			"is_repeat": false,
-			"source_id": "1",
+			"source_id": "4",
 			"sales_territory_id": "1",
-			"market_segment_id": "71",
+			"market_segment_id": "81",
 			"event_attendees": 250,
-			"competitors": null,
 			"event_requirements": "Halloween wedding. Will need a ballroom in venue with space heaters for outdoor space. Open Bar.",
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": null,
 			"contacts": {
 				"set": [
-					9
+					23
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -155,24 +140,20 @@
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "6",
 			"decision_due_at": "2023-05-26T00:00:00.000Z",
-			"is_repeat": false,
+			"is_repeat": true,
 			"source_id": "1",
 			"sales_territory_id": "1",
-			"market_segment_id": "72",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "6",
+			"market_segment_id": "53",
+			"event_attendees": 3500,
+			"decision_making_process_id": "3",
+			"account_id": "10",
 			"contacts": {
 				"set": [
 					16
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
+			"shoulder_before": 2,
+			"shoulder_after": 1,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -195,22 +176,22 @@
 			"is_repeat": true,
 			"source_id": "1",
 			"sales_territory_id": "1",
-			"market_segment_id": "44-45",
-			"event_attendees": null,
-			"competitors": "Phoenix",
+			"market_segment_id": "71",
+			"event_attendees": 6500,
+			"competitors": "Phoenix, Houston",
 			"event_requirements": "require space for exhibits, vendors,  and gaming tables.",
 			"schedule": "3 days of gaming and pop culture presentations.",
-			"decision_making_process_id": null,
-			"account_id": "22",
+			"decision_making_process_id": "2",
+			"account_id": "28",
 			"contacts": {
 				"set": [
 					6,
 					17
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
+			"date_comments": "prefer June or May",
+			"shoulder_before": 1,
+			"shoulder_after": 2,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -232,22 +213,15 @@
 			"decision_due_at": "2023-05-13T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "3",
-			"sales_territory_id": "2",
-			"market_segment_id": "72",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
+			"sales_territory_id": "4",
+			"market_segment_id": "42",
+			"event_attendees": 3500,
 			"account_id": "17",
 			"contacts": {
 				"set": [
 					2
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -271,12 +245,10 @@
 			"source_id": "1",
 			"sales_territory_id": "4",
 			"market_segment_id": "72",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "8",
+			"event_attendees": 1800,
+			"event_requirements": "Exhibitor space for celebrity chef demonstrations, and a charrity cooking competition.",
+			"decision_making_process_id": "2",
+			"account_id": "18",
 			"contacts": {
 				"set": [
 					25,
@@ -284,9 +256,6 @@
 					18
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -302,30 +271,22 @@
 			}
 		},
 		{
-			"opportunity_name": "The Governance Institute Meeting 2025",
+			"opportunity_name": "The Governance Institute Meeting 2026",
 			"opportunity_status_id": "1",
 			"opportunity_type_id": "1",
-			"decision_due_at": "2023-08-15T00:00:00.000Z",
+			"decision_due_at": "2024-08-15T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "3",
 			"sales_territory_id": "1",
-			"market_segment_id": "62",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "11",
+			"market_segment_id": "92",
+			"event_attendees": 85,
+			"account_id": "12",
 			"contacts": {
 				"set": [
 					4,
-					23
+					24
 				]
-			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
-			"opportunity_dates": null
+			}
 		},
 		{
 			"opportunity_name": "Spring Showcase 2026",
@@ -336,20 +297,12 @@
 			"source_id": "4",
 			"sales_territory_id": "1",
 			"market_segment_id": "71",
-			"event_attendees": null,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
-			"account_id": "26",
+			"account_id": "8",
 			"contacts": {
 				"set": [
 					19
 				]
 			},
-			"date_comments": null,
-			"shoulder_before": 0,
-			"shoulder_after": 0,
 			"opportunity_dates": {
 				"docs": [
 					{
@@ -367,13 +320,10 @@
 			"decision_due_at": "2021-11-12T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "4",
-			"sales_territory_id": null,
+			"sales_territory_id": "5",
 			"market_segment_id": "11",
 			"event_attendees": 2500,
-			"competitors": null,
-			"event_requirements": null,
-			"schedule": null,
-			"decision_making_process_id": null,
+			"decision_making_process_id": "3",
 			"account_id": "27",
 			"contacts": {
 				"set": [
