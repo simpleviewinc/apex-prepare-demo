@@ -15,6 +15,18 @@
 						"contact_id": "1",
 						"is_awarded": true,
 						"is_headquarters": true,
+						"daily_contracted_room_rates": {
+							"docs": [
+								{
+									"rate": 175.0,
+									"room_type_id": "1"
+								},
+								{
+									"rate": 275.0,
+									"room_type_id": "3"
+								}
+							]
+						},
 						"contracted_rooms": {
 							"docs": [
 								{
@@ -70,6 +82,18 @@
 									"opportunity_date_id": "1",
 									"is_pursuing": true,
 									"comments": "We would be happy to host",
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 175.0,
+												"room_type_id": "1"
+											},
+											{
+												"rate": 225.0,
+												"room_type_id": "3"
+											}
+										]
+									},
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -124,6 +148,18 @@
 									"opportunity_date_id": "2",
 									"comments": "We can host alternate dates as well",
 									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 175.0,
+												"room_type_id": "1"
+											},
+											{
+												"rate": 225.0,
+												"room_type_id": "3"
+											}
+										]
+									},
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -188,6 +224,14 @@
 									"opportunity_date_id": "1",
 									"comments": "Only able to handle part of the request.",
 									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 175.0,
+												"room_type_id": "1"
+											}
+										]
+									},
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -276,6 +320,18 @@
 						"contact_id": "6",
 						"is_awarded": true,
 						"is_headquarters": false,
+						"daily_contracted_room_rates": {
+							"docs": [
+								{
+									"rate": 125.0,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 175.0,
+									"room_type_id": "4"
+								}
+							]
+						},
 						"contracted_rooms": {
 							"docs": [
 								{
@@ -341,6 +397,18 @@
 									"opportunity_date_id": "1",
 									"comments": "We can handle all attendees",
 									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 125.0,
+												"room_type_id": "2"
+											},
+											{
+												"rate": 175.0,
+												"room_type_id": "4"
+											}
+										]
+									},
 									"proposed_rooms": {
 										"docs": [
 											{
@@ -470,7 +538,7 @@
 			"name": "Attendees",
 			"attendees": 850,
 			"response_due_at": "2022-09-26T00:00:00Z",
-			"request_rate_range": "99 - 150 per night",
+			"request_rate_range": "99 - 250 per night",
 			"opportunity_id": "8",
 			"hotels": {
 				"docs": [
@@ -479,6 +547,18 @@
 						"contact_id": "6",
 						"is_awarded": true,
 						"is_headquarters": true,
+						"daily_contracted_room_rates": {
+							"docs": [
+								{
+									"rate": 225.0,
+									"room_type_id": "3"
+								},
+								{
+									"rate": 175.0,
+									"room_type_id": "4"
+								}
+							]
+						},
 						"contracted_rooms": {
 							"docs": [
 								{
@@ -510,6 +590,22 @@
 									"room_type_id": "4",
 									"date_at": "2023-02-20T00:00:00Z",
 									"count": 875
+								}
+							]
+						},
+						"daily_pickup_room_rates": {
+							"docs": [
+								{
+									"rate": 125.0,
+									"room_type_id": "1"
+								},
+								{
+									"rate": 175.0,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 225.0,
+									"room_type_id": "3"
 								}
 							]
 						},
@@ -568,6 +664,26 @@
 									"opportunity_date_id": "15",
 									"comments": "We can handle all attendees",
 									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 125.0,
+												"room_type_id": "1"
+											},
+											{
+												"rate": 175.0,
+												"room_type_id": "2"
+											},
+											{
+												"rate": 225.0,
+												"room_type_id": "3"
+											},
+											{
+												"rate": 175.0,
+												"room_type_id": "4"
+											}
+										]
+									},
 									"proposed_rooms": {
 										"docs": [
 											{
