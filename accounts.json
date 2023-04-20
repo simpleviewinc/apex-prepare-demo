@@ -2,14 +2,12 @@
 	"model": "accounts",
 	"data": [
 		{
-			"external_id": "5",
 			"account_name": "The 1895 House",
 			"former_account_name": "Anne Cottage - Lighthouse Keeper's Quarters",
 			"sleeping_rooms": 50,
-			"weburl": "http://www.newenglandhistoricalsociety.com",
 			"account_description": "Queen Anne style Victorian mansion and Bed and Breakfast on the National Register of Historic Places.",
-			"geo_coordinates": null,
 			"keywords": "B&B, Bed and Breakfast, historic",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 6,
 			"engagement_level_id": "1",
@@ -17,8 +15,8 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					2,
+					3
 				]
 			},
 			"addresses": {
@@ -37,15 +35,12 @@
 			}
 		},
 		{
-			"external_id": "1",
 			"account_name": "Starr Pass Resort",
 			"former_account_name": "JW Marriott",
 			"sleeping_rooms": 800,
-			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-			"is_send_email": true,
 			"account_description": "a luxury hotel with world-class golf, excellent dining and resort amenities near downtown Tucson.",
-			"geo_coordinates": null,
 			"keywords": "Hotel, Resort, Spa, Golf",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 7,
 			"engagement_level_id": "2",
@@ -53,8 +48,8 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					2,
+					3
 				]
 			},
 			"addresses": {
@@ -73,15 +68,12 @@
 			}
 		},
 		{
-			"external_id": "2",
 			"account_name": "Hacienda Del Sol Guest Ranch Resort",
 			"former_account_name": "Hacienda Del Sol",
 			"sleeping_rooms": 300,
-			"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
-			"is_send_email": true,
 			"account_description": "Circa-1929, Southwestern-style property set amid desert landscapes with a regional restaurant.",
-			"geo_coordinates": null,
 			"keywords": "Hotel, Resort, Spa, Golf",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 4,
 			"engagement_level_id": "2",
@@ -89,8 +81,8 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					2,
+					3
 				]
 			},
 			"addresses": {
@@ -109,26 +101,21 @@
 			}
 		},
 		{
-			"external_id": "7",
 			"account_name": "Prep & Pastry",
-			"former_account_name": "",
-			"sleeping_rooms": 0,
-			"weburl": "",
 			"account_description": "Modern Brunch dining, and bakery",
 			"geo_coordinates": {
 				"lat": 32.255573,
 				"long": -110.9435384
 			},
 			"keywords": "brunch, bakery",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 1,
 			"engagement_level_id": "2",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -147,23 +134,16 @@
 			}
 		},
 		{
-			"external_id": "6",
 			"account_name": "Avenue Pizza & More",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": "",
 			"account_description": "pizza and dining",
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "1",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -182,14 +162,9 @@
 			}
 		},
 		{
-			"external_id": "4",
 			"account_name": "Gold Coast Tourism Corporation",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": " ",
-			"account_description": "Gold Coast Tourism Corporation Australian Simpleview Client",
-			"geo_coordinates": null,
-			"keywords": null,
+			"account_description": "Gold Coast Tourism Corporation Australian Travel and Tourism",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "2",
@@ -197,8 +172,8 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					2,
+					3
 				]
 			},
 			"addresses": {
@@ -217,15 +192,12 @@
 			}
 		},
 		{
-			"external_id": "3",
 			"account_name": "The Westin La Paloma Resort & Spa",
 			"former_account_name": "Westin La Paloma",
 			"sleeping_rooms": 380,
-			"weburl": "https://www.marriott.com/en-us/hotels/tuswi-the-westin-la-paloma-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-			"is_send_email": true,
 			"account_description": "Upscale resort offering 5 pools & a waterslide, plus a 27-hole golf course & a spa.",
-			"geo_coordinates": null,
 			"keywords": "Hotel, Resort, Spa, Golf",
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
@@ -233,8 +205,7 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -253,17 +224,13 @@
 			}
 		},
 		{
-			"external_id": "14",
 			"account_name": "Arizona-Sonora Desert Museum",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
 			"account_description": "The Desert Museum is a fusion experience:\nzoo, botanical garden, art gallery & classes, natural history museum, and aquarium",
 			"geo_coordinates": {
 				"lat": 32.2445949,
 				"long": -111.1664559
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 7,
 			"engagement_level_id": "2",
@@ -271,7 +238,6 @@
 			"groups": {
 				"set": [
 					1,
-					3,
 					2
 				]
 			},
@@ -280,7 +246,7 @@
 					"address_line_1": "2021 North Kinney Road",
 					"address_line_2": null,
 					"address_line_3": null,
-					"city": "Tucson ",
+					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85743",
 					"country_id": "US",
@@ -291,23 +257,15 @@
 			}
 		},
 		{
-			"external_id": "12",
 			"account_name": "The Tartan Club",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 1,
 			"engagement_level_id": "2",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -326,45 +284,28 @@
 			}
 		},
 		{
-			"external_id": "17",
 			"account_name": "Better Business Connection Inc. T/A BBC Express",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
-			"engagement_level_id": null,
+			"engagement_level_id": "1",
 			"naics_id": "48-49",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "9",
 			"account_name": "Windflower Tours",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
 			"naics_id": "48-49",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -372,7 +313,7 @@
 					"address_line_1": "East Broadway Boulevard",
 					"address_line_2": null,
 					"address_line_3": null,
-					"city": "Tucson ",
+					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85716",
 					"country_id": "US",
@@ -383,36 +324,21 @@
 			}
 		},
 		{
-			"external_id": "13",
 			"account_name": "Senior Citizens Council",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 1,
-			"engagement_level_id": null,
+			"engagement_level_id": "1",
 			"naics_id": "71",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "18",
 			"account_name": "4th Street Market",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "2",
@@ -420,21 +346,13 @@
 			"groups": {
 				"set": [
 					1,
-					3,
 					2
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "19",
 			"account_name": "Adalberto's Mexican Food",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
@@ -442,30 +360,20 @@
 			"groups": {
 				"set": [
 					1,
-					3,
 					2
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "11",
 			"account_name": "Global Travel Alliance",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "2",
 			"naics_id": "61",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -484,17 +392,13 @@
 			}
 		},
 		{
-			"external_id": "22",
 			"account_name": "Visit Anaheim",
 			"former_account_name": "Anaheim/Orange County CVB",
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
 			"geo_coordinates": {
 				"lat": 33.7964263,
 				"long": -117.8899757
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 7,
 			"engagement_level_id": "2",
@@ -502,8 +406,8 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					2,
+					3
 				]
 			},
 			"addresses": {
@@ -522,26 +426,20 @@
 			}
 		},
 		{
-			"external_id": "26",
 			"account_name": "International Association of Amusement Parks and Attractions",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
 			"account_description": "International audience: 22% - representing 114 countries.",
 			"geo_coordinates": {
 				"lat": 28.4167648,
 				"long": -81.4275013
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "1",
 			"naics_id": "71",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -560,23 +458,15 @@
 			}
 		},
 		{
-			"external_id": "8",
 			"account_name": "Euro-American Tours",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 4,
 			"engagement_level_id": "2",
 			"naics_id": "54",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -585,7 +475,7 @@
 					"address_line_2": null,
 					"address_line_3": null,
 					"city": "Gainesville ",
-					"state_id": "US_GA",
+					"state_id": "US_FL",
 					"postal_code": "30507",
 					"country_id": "US",
 					"is_billing": false,
@@ -595,26 +485,20 @@
 			}
 		},
 		{
-			"external_id": "10",
 			"account_name": "Tumerico",
-			"former_account_name": null,
-			"sleeping_rooms": 0,
-			"weburl": null,
 			"account_description": "Latin Inspired Vegan & Vegetarian Food",
 			"geo_coordinates": {
 				"lat": 32.2296088,
 				"long": -110.9067552
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "1",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -633,36 +517,23 @@
 			}
 		},
 		{
-			"external_id": "16",
 			"account_name": "Potomac River Boat Company",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 6,
-			"engagement_level_id": null,
+			"engagement_level_id": "1",
 			"naics_id": "48-49",
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					3
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "20",
 			"account_name": "Affinia Hotel South",
-			"former_account_name": null,
 			"sleeping_rooms": 350,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
@@ -670,77 +541,51 @@
 			"groups": {
 				"set": [
 					1,
-					3,
-					2
+					3
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "15",
 			"account_name": "Elite Coach",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 3,
-			"engagement_level_id": null,
+			"engagement_level_id": "2",
 			"naics_id": "48-49",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "21",
 			"account_name": "Affinia Manhattan",
-			"former_account_name": null,
 			"sleeping_rooms": 460,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
 			"engagement_level_id": "2",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
-			},
-			"addresses": null
+			}
 		},
 		{
-			"external_id": "23",
 			"account_name": "Banff/Lake Louise Tourism Bureau",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
-			"account_description": null,
 			"geo_coordinates": {
 				"lat": 51.1788096,
 				"long": -115.5716669
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 4,
 			"engagement_level_id": "2",
 			"naics_id": "51",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -759,23 +604,16 @@
 			}
 		},
 		{
-			"external_id": "25",
 			"account_name": "Four Points by Sheraton Manhattan Chelsea",
-			"former_account_name": null,
-			"sleeping_rooms": 900,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"sleeping_rooms": 500,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -794,23 +632,16 @@
 			}
 		},
 		{
-			"external_id": "24",
 			"account_name": "Flatotel New York City",
-			"former_account_name": null,
 			"sleeping_rooms": 600,
-			"weburl": null,
-			"account_description": null,
-			"geo_coordinates": null,
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 6,
 			"engagement_level_id": "2",
 			"naics_id": "72",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					1
 				]
 			},
 			"addresses": {
@@ -829,26 +660,20 @@
 			}
 		},
 		{
-			"external_id": "27",
 			"account_name": "International Fresh Produce Association",
-			"former_account_name": null,
-			"sleeping_rooms": null,
-			"weburl": null,
 			"account_description": "International Fresh Produce Association (formerly Produce Marketing Association) is a trade organization representing companies from every segment of the global fresh produce and floral supply chain. PMA helps members grow by providing connections that expand business opportunities and increase sales and consumption.",
 			"geo_coordinates": {
 				"lat": 39.67230989999999,
 				"long": -75.7712608
 			},
-			"keywords": null,
+			"is_deleted": false,
 			"is_active": true,
 			"region_id": 5,
 			"engagement_level_id": "2",
 			"naics_id": "11",
 			"groups": {
 				"set": [
-					1,
-					3,
-					2
+					3
 				]
 			},
 			"addresses": {
@@ -859,6 +684,3015 @@
 					"city": "Newark ",
 					"state_id": "US_DE",
 					"postal_code": "19711",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "A1 Amusement",
+			"keywords": "Amusement Places",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "71",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "30 Buttermilk Hollow Rd S",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Irwin",
+					"state_id": "AU_WA",
+					"postal_code": "06525",
+					"country_id": "AU",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Hiland Terrace Motel",
+			"sleeping_rooms": 197,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "14390 Route 30",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Irwin",
+					"state_id": "AU_WA",
+					"postal_code": "06525",
+					"country_id": "AU",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Huntington Inn Motel",
+			"sleeping_rooms": 308,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "13930 Wallo Corners",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Irwin",
+					"state_id": "AU_WA",
+					"postal_code": "06525",
+					"country_id": "AU",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "King Coal Hookah Lounge",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": true,
+			"is_active": false,
+			"region_id": 5,
+			"engagement_level_id": "3",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "327 N Hillside St # 200",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Toronto",
+					"state_id": "CA_ON",
+					"postal_code": " M5V 1H2",
+					"country_id": "CA",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Napoli Italian Eatery",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "7718 E 37th St N",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Toronto",
+					"state_id": "CA_ON",
+					"postal_code": " M5V 1H2",
+					"country_id": "CA",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Pine Slopes Lodge",
+			"sleeping_rooms": 183,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "118 Pineslope Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Toronto",
+					"state_id": "CA_ON",
+					"postal_code": " M5V 1H2",
+					"country_id": "CA",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Foggy Mountain Lodge",
+			"sleeping_rooms": 650,
+			"keywords": "Resort Hotel",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 165",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Toronto",
+					"state_id": "CA_ON",
+					"postal_code": " M5V 1H2",
+					"country_id": "CA",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Ninza Sushi East",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "306 N Rock Rd # 20",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Toronto",
+					"state_id": "CA_ON",
+					"postal_code": " M5V 1H2",
+					"country_id": "CA",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Amusement World",
+			"keywords": "Amusement Places",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "71",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "100 Lindley Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Camelback Lodge",
+			"former_account_name": "Old Town Inn",
+			"sleeping_rooms": 453,
+			"account_description": "Camelback Grand Ballroom can accommodate 65 booths for trade shows and exhibits.",
+			"keywords": "Camelback Mountain Resort JackRabbit",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "6302 E Camelback Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Scottsdale",
+					"state_id": "US_AZ",
+					"postal_code": "85251",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Harbor Inn Restaurant & Lounge",
+			"keywords": "Diners",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "805 Bethel Church Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Comfort Inn",
+			"sleeping_rooms": 250,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "325 N 1st St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Melody Motor Lodge",
+			"sleeping_rooms": 70,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1607 Morrell Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Ramada By Wyndham Ligonier",
+			"sleeping_rooms": 168,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "216 W Loyalhanna St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Sunset Cottages",
+			"sleeping_rooms": 85,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1651 Route 30",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Budget Inn",
+			"sleeping_rooms": 436,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "843 Finley Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Clarion",
+			"sleeping_rooms": 274,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "827 Finley Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Laurel Manor Motel",
+			"sleeping_rooms": 120,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 212",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Olde Stagecoach ",
+			"sleeping_rooms": 27,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 227",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Springhill Suites",
+			"sleeping_rooms": 154,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "115 Arnold Palmer Dr",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Tropical Sunsations",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "600 Cedar St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "D's Six Pack & Dogs",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "4608 William Penn Hwy",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Idlewild & Soakzone",
+			"keywords": "Amusement & Theme Parks",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "71",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box C",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Grand Central Hotel Inc",
+			"sleeping_rooms": 159,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1115 Graham Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Tucson",
+					"state_id": "US_AZ",
+					"postal_code": "85710",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Saguaro Dude Ranch",
+			"former_account_name": "Sleepy J Ranch",
+			"sleeping_rooms": 50,
+			"account_description": "Large rustic hall and private cabins ",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "5896 Bumblebee Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Bumblebee ",
+					"state_id": "US_AZ",
+					"postal_code": "85324",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Ann's Red Roost Inn",
+			"sleeping_rooms": 187,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "218 Weyand Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Inn At Ligoneir",
+			"sleeping_rooms": 534,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2053 State Route 711",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Flagstaff",
+					"state_id": "US_AZ",
+					"postal_code": "86005",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Comfort Suites",
+			"sleeping_rooms": 759,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "675 W Main St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85208",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Central Hotel",
+			"sleeping_rooms": 140,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "114 Station St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Tucson",
+					"state_id": "US_AZ",
+					"postal_code": "85710",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "River's Edge Cafe ",
+			"keywords": "Breakfast and Brunch",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "203 Yough St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85211",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Highland House Hotel",
+			"sleeping_rooms": 223,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "92 W Main St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mesa",
+					"state_id": "US_AZ",
+					"postal_code": "85212",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Brass Rail",
+			"keywords": "Amusement Places",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "71",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2 S Main St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "North Huntington Beach",
+					"state_id": "US_CA",
+					"postal_code": "92605",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Hickory Hollow Camp Ground",
+			"sleeping_rooms": 25,
+			"account_description": "Campground with some cabins. RV hookups.",
+			"keywords": "Campgrounds & RV",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "176 Big Hickory Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "North Huntington Beach",
+					"state_id": "US_CA",
+					"postal_code": "92605",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Budget Inn-New Stanton",
+			"sleeping_rooms": 153,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "115 E Byers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Stanton",
+					"state_id": "US_CA",
+					"postal_code": "92804",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Days Inn By Wyndham New",
+			"sleeping_rooms": 272,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "127 W Byers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Stanton",
+					"state_id": "US_CA",
+					"postal_code": "92804",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Motel 6",
+			"sleeping_rooms": 215,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "221 E Byers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Stanton",
+					"state_id": "US_CA",
+					"postal_code": "92804",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Hampton Inn-North",
+			"sleeping_rooms": 416,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "8441 Country Club Dr",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "North Huntington Beach",
+					"state_id": "US_CA",
+					"postal_code": "92605",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Big Black Grill",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "103 E Byers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Stanton",
+					"state_id": "US_CA",
+					"postal_code": "92804",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Big Barn Country Store",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "3189 Pittsburgh Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "North Huntington Beach",
+					"state_id": "US_CA",
+					"postal_code": "92605",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Cracker Barrel Old Country Str",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "154 W Pennsylvania Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Stanton",
+					"state_id": "US_CA",
+					"postal_code": "92804",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Tech Air",
+			"account_description": "Company Overview Tech Air has been a leading provider of industrial, medical and specialty gases, equipment and supplies since 1935. We offer the finest in products, most competent people, highest level of service and by far the best value - guaranteed. After more than seven decades we continue to maintain the highest standards so we can provide our customers with Nothing But the Best in experience, quality and reliability.",
+			"keywords": "gasses, equiptment",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "1",
+			"naics_id": "23",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "50 Mill Plain Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Danbury",
+					"state_id": "US_CT",
+					"postal_code": "06811",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Fairmount Hospitality LLC",
+			"sleeping_rooms": 397,
+			"account_description": "Meeting and event space is available for groups up to 250. On site banquet room and dance floor.",
+			"keywords": "Clarion Inn",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "101 Broad Street",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Water Gap",
+					"state_id": "US_DE",
+					"postal_code": "19720",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Super 8 By Wyndham Delmont",
+			"sleeping_rooms": 809,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "180 Sheffield Dr",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Water Gap",
+					"state_id": "US_DE",
+					"postal_code": "19720",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Log Cabin Lodge & Suites",
+			"sleeping_rooms": 465,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 346",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Water Gap",
+					"state_id": "US_DE",
+					"postal_code": "19720",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Antiochian Village Camp",
+			"sleeping_rooms": 16,
+			"account_description": "Campground with some cabins. RV hookups.",
+			"keywords": "Camps",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "201 Saint Ignatius Trl",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo Beach",
+					"state_id": "US_FL",
+					"postal_code": "33572",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Country Manor Motel",
+			"sleeping_rooms": 684,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "4168 State Route 66",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo Beach",
+					"state_id": "US_FL",
+					"postal_code": "33572",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "New National Hotel",
+			"sleeping_rooms": 950,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "302 Main St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo Beach",
+					"state_id": "US_FL",
+					"postal_code": "33572",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Lodge At Chalk Hill",
+			"sleeping_rooms": 407,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 240",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo Beach",
+					"state_id": "US_FL",
+					"postal_code": "33572",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Helen's Hideaway Inn",
+			"sleeping_rooms": 416,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1441 County Line Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo Beach",
+					"state_id": "US_FL",
+					"postal_code": "33572",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Creekside Diner",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "4907 State Route 66",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Apollo",
+					"state_id": "US_FL",
+					"postal_code": "34787",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Sleep Inn-Suites Park City",
+			"sleeping_rooms": 325,
+			"keywords": "Hotels (Except Casino Hotels) And Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "970 N Connolly Ct",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Park City",
+					"state_id": "US_FL",
+					"postal_code": "34787",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Candlewood Suites Belle Vernon",
+			"sleeping_rooms": 159,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "715 Rostraver Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Vernon",
+					"state_id": "US_IL",
+					"postal_code": "19720",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Scooter's Coffeehouse",
+			"account_description": "Snack And Nonalcoholic Beverage Bars",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1468 S Maize Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67209",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Bann Thai",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "3811 W 13th St N",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67203",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Bella Capri'z Club Cafe",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2901 W Central Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67203",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Tortilleria Los Los III",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "318 W 29th St N",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67204",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Rodeway Inn Greensburg",
+			"sleeping_rooms": 514,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "5351 State Route 30",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Greensburg",
+					"state_id": "US_KS",
+					"postal_code": "67054",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Crumbl Cookies",
+			"keywords": "Retail Bakeries",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2564 N Greenwich Rd # 500",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67226",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Keeper Of The Crepes",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "1",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "9 N Beech Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67206",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Holiday Inn Express",
+			"sleeping_rooms": 375,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "137 Blair St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Greensburg",
+					"state_id": "US_KS",
+					"postal_code": "67054",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Old Route 66 Grille",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "991 Old State Route 66",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Greensburg",
+					"state_id": "US_KS",
+					"postal_code": "67054",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Bijou Spa & Boutique",
+			"keywords": "Beauty Salons",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "62",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "200 N Broadway Ave # 220",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Wichita",
+					"state_id": "US_KS",
+					"postal_code": "67202",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Knights Inn Greensburg",
+			"sleeping_rooms": 153,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1215 S Main St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Greensburg",
+					"state_id": "US_KS",
+					"postal_code": "67054",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "A-1 economy Inn",
+			"sleeping_rooms": 382,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1138 N Center Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Budget Host",
+			"sleeping_rooms": 690,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "799 N Center Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Budget Inn Somerset",
+			"sleeping_rooms": 360,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "736 N Center Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Dollar Inn",
+			"sleeping_rooms": 463,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1146 N Center Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Fairfield Inn",
+			"sleeping_rooms": 177,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "117 Tollgate Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Knights Inn Somerset",
+			"sleeping_rooms": 383,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "238 Tollgate Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_KY",
+					"postal_code": "42502",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Edward Jones",
+			"account_description": "As a full-service brokerage firm and private partnership, we serve nearly 7 million investors with a convenient, personalized approach through more than 12,000 financial advisors in the United States and Canada.",
+			"keywords": "banking",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "52",
+			"groups": {
+				"set": [
+					1,
+					2
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "12555 Manchester Rd.",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Saint Louis",
+					"state_id": "US_MO",
+					"postal_code": "63131",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Quality Inn-Conference Ctr",
+			"sleeping_rooms": 358,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "215 Ramada Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_NJ",
+					"postal_code": "08875",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Stone Wood Lodge",
+			"sleeping_rooms": 990,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "499 Jimtown Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_NJ",
+					"postal_code": "08876",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Sure Stay Plus Hotel By Best",
+			"sleeping_rooms": 659,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "165 Waterworks Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_NJ",
+					"postal_code": "08877",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Golf Club Of Somerset",
+			"keywords": "Public Golf club",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "92",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 546",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Somerset",
+					"state_id": "US_NJ",
+					"postal_code": "08878",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Motorcycle Extravaganza Inc",
+			"account_description": "Family Friendly Motorcycle Show.",
+			"is_deleted": true,
+			"is_active": false,
+			"region_id": 1,
+			"engagement_level_id": "4",
+			"naics_id": "71",
+			"groups": {
+				"set": [
+					1
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "P.O. Box 454",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Point Pleasant Beach",
+					"state_id": "US_NJ",
+					"postal_code": "08742",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Stone House Country Inn",
+			"sleeping_rooms": 236,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "3023 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Farmington",
+					"state_id": "US_NM",
+					"postal_code": "87401",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Silver Birches Resort",
+			"former_account_name": "Ehrhardt's Waterfront Resort",
+			"sleeping_rooms": 334,
+			"account_description": "Silver Birches has maintained a reputation for excellence in service and hospitality. Our spectacular location on the shore of Lake Wallenpaupack – provides an ideal setting for meetings, reunions and many other occasions.",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "Lake Wallenpaupack",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Hawley",
+					"state_id": "US_PA",
+					"postal_code": "18428",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "French Manor Inn and Spa",
+			"sleeping_rooms": 119,
+			"account_description": "Set like a jewel on top of Huckleberry Mountain, The French Manor provides an atmosphere for elegant, yet comfortable gatherings, the perfect setting for small exclusive conferences. Our service and gourmet French cuisine is exceptional. The French Manor is an authentic French Chateau, built by Joseph Hirshhorn as a replica of his chateau in France. It is truly a miniature castle. The mountainous setting of the French Manor with magnificent vistas, a stone terrace, and rolling lawns creates a perfect atmosphere for clear productive thinking. The French Manor has nineteen luxurious accommodations and meeting facilities that can accommodate numerous setups. The attentive service of our staff provides an excellent atmosphere for exclusive meetings and banquets. For additional information, please call 1-877-720-6090 and ask for Genevieve Reese or Bridget Weber. Or email us at meetings@thefrenchmanor.com",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "50 Huntingdon Drive",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "South Sterling",
+					"state_id": "US_PA",
+					"postal_code": "18445",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Blue Mountain Motel",
+			"sleeping_rooms": 574,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1057 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Uniontown",
+					"state_id": "US_PA",
+					"postal_code": "15401",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Hilton Garden Inn Uniontown",
+			"sleeping_rooms": 555,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "555 Synergy Dr",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Uniontown",
+					"state_id": "US_PA",
+					"postal_code": "15401",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Quality Inn & Suites",
+			"sleeping_rooms": 525,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "283 Mcclellandtown Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Uniontown",
+					"state_id": "US_PA",
+					"postal_code": "15401",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Levi Deal Mansion ",
+			"sleeping_rooms": 20,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "301 Meyers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Meyersdale",
+					"state_id": "US_PA",
+					"postal_code": "15552",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Yoder's Guest House",
+			"sleeping_rooms": 275,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "106 Meyers Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Meyersdale",
+					"state_id": "US_PA",
+					"postal_code": "15552",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Castle In The Sand",
+			"sleeping_rooms": 418,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "141 Rita Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "New Kensington",
+					"state_id": "US_PA",
+					"postal_code": "15068",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Mountain Villas by Exploria Resorts",
+			"former_account_name": "Fernwood",
+			"sleeping_rooms": 870,
+			"account_description": "offers amenities and villa accommodations specializing in group golf outings, family reunions, winter snowtubing groups, adventure/team building",
+			"keywords": "Live Cam, TreeVentures, Resort",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2157 River Road",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "East Stroudsburg",
+					"state_id": "US_PA",
+					"postal_code": "18302",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Twin Rocks Cafe",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "130 Sunshine Hollow Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Mc Clellandtown",
+					"state_id": "US_PA",
+					"postal_code": "15458",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "611 Pub, Inc.",
+			"account_description": "The Garden boasts a grand, open space with ample room to seat up to 250 guests.",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2054 Route 611 South",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Swiftwater",
+					"state_id": "US_PA",
+					"postal_code": "18370",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "A Cottage At Campbell Farm",
+			"sleeping_rooms": 37,
+			"keywords": "Cottages & Cabins",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1723 Fort Hill Rd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Fort Hill",
+					"state_id": "US_SC",
+					"postal_code": "29715",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Anthony's Longfellow Hotel",
+			"sleeping_rooms": 231,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "323 Longfellow St",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Fort Hill",
+					"state_id": "US_SC",
+					"postal_code": "29715",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Big Shot Bob's",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "217 Walmart Dr",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Fort Hill",
+					"state_id": "US_SC",
+					"postal_code": "29715",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Freddy's Frozen Custard",
+			"keywords": "Full-Service Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 5,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2021 N Amidon Ave",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Manor",
+					"state_id": "US_TX",
+					"postal_code": "78653",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Hopwood Motel",
+			"sleeping_rooms": 512,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 4,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1151 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Round Rock",
+					"state_id": "US_TX",
+					"postal_code": "78665",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "M G Motel",
+			"sleeping_rooms": 92,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "7909 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Round Rock",
+					"state_id": "US_TX",
+					"postal_code": "78665",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "National Trail Motel",
+			"sleeping_rooms": 171,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "4617 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Round Rock",
+					"state_id": "US_TX",
+					"postal_code": "78665",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Astorris Tavern",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 6,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "2831 State Route 66",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Manor",
+					"state_id": "US_TX",
+					"postal_code": "78653",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Curt's Family Restaurant",
+			"keywords": "Restaurants",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 7,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "4906 National Pike",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Round Rock",
+					"state_id": "US_TX",
+					"postal_code": "78665",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Crossroads Inn",
+			"sleeping_rooms": 271,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 1,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "1127 State Route 356",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Leesburg",
+					"state_id": "US_VA",
+					"postal_code": "20175",
+					"country_id": "US",
+					"is_billing": false,
+					"is_physical": true,
+					"is_shipping": false
+				}
+			}
+		},
+		{
+			"account_name": "Perry-O Inn & Suites",
+			"sleeping_rooms": 554,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 2,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 655",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Leesburg",
+					"state_id": "US_VA",
+					"postal_code": "20175",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			}
+		},
+		{
+			"account_name": "Pleasant Corner Inn",
+			"sleeping_rooms": 571,
+			"keywords": "Hotels & Motels",
+			"is_deleted": false,
+			"is_active": true,
+			"region_id": 3,
+			"engagement_level_id": "2",
+			"naics_id": "72",
+			"groups": {
+				"set": [
+					1,
+					2,
+					3
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "PO Box 57",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Leesburg",
+					"state_id": "US_VA",
+					"postal_code": "20175",
 					"country_id": "US",
 					"is_billing": true,
 					"is_physical": true,
