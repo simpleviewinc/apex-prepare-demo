@@ -535,6 +535,380 @@
 			}
 		},
 		{
+			"name": "Barnes/Fiore Wedding Guests",
+			"attendees": 250,
+			"response_due_at": "2022-12-10T00:00:00Z",
+			"request_rate_range": "150 - 225 per night",
+			"opportunity_id": "4",
+			"hotels": {
+				"docs": [
+					{
+						"account_id": "55",
+						"contact_id": "132",
+						"is_awarded": true,
+						"is_headquarters": true,
+						"daily_contracted_room_rates": {
+							"docs": [
+								{
+									"rate": 150.0,
+									"room_type_id": "1"
+								},
+								{
+									"rate": 180.0,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 220.0,
+									"room_type_id": "3"
+								}
+							]
+						},
+						"contracted_rooms": {
+							"docs": [
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-30T00:00:00Z",
+									"count": 75
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-30T00:00:00Z",
+									"count": 175
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-31T00:00:00Z",
+									"count": 75
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-31T00:00:00Z",
+									"count": 175
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-31T00:00:00Z",
+									"count": 1
+								}
+							]
+						},
+						"daily_pickup_room_rates": {
+							"docs": [
+								{
+									"rate": 150.0,
+									"room_type_id": "1"
+								},
+								{
+									"rate": 180.0,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 220.0,
+									"room_type_id": "3"
+								}
+							]
+						},
+						"pickup_rooms": {
+							"docs": [
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 72
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 173
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 1
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 72
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 173
+								}
+							]
+						},
+						"responses": {
+							"docs": [
+								{
+									"opportunity_date_id": "8",
+									"comments": "Happy to host. Please see Joann's email for more information; there were several options attached.",
+									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 185.0,
+												"room_type_id": "4"
+											}
+										]
+									},
+									"proposed_rooms": {
+										"docs": [
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-30T00:00:00Z",
+												"count": 250
+											},
+											{
+												"room_type_id": "4",
+												"date_at": "2023-10-31T00:00:00Z",
+												"count": 250
+											}
+										]
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"requested_rooms": {
+				"docs": [
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-30T00:00:00.000Z",
+						"count": 250
+					},
+					{
+						"room_type_id": "4",
+						"date_at": "2023-10-31T00:00:00.000Z",
+						"count": 250
+					}
+				]
+			}
+		},
+		{
+			"name": "Barnes/Fiore Wedding Party",
+			"attendees": 14,
+			"response_due_at": "2022-12-10T00:00:00Z",
+			"request_rate_range": "175 - 300 per night",
+			"opportunity_id": "4",
+			"hotels": {
+				"docs": [
+					{
+						"account_id": "47",
+						"contact_id": null,
+						"is_awarded": false,
+						"is_headquarters": false,
+						"daily_contracted_room_rates": null,
+						"contracted_rooms": null,
+						"daily_pickup_room_rates": null,
+						"pickup_rooms": null,
+						"responses": {
+							"docs": [
+								{
+									"opportunity_date_id": "8",
+									"comments": "Happy to host. Please see Joann's email for more information; there were several options attached.",
+									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 175,
+												"room_type_id": "2"
+											},
+											{
+												"rate": 300,
+												"room_type_id": "3"
+											}
+										]
+									},
+									"proposed_rooms": {
+										"docs": [
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-30T00:00:00.000Z",
+												"count": 12
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-30T00:00:00.000Z",
+												"count": 1
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-31T00:00:00.000Z",
+												"count": 12
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-31T00:00:00.000Z",
+												"count": 1
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					{
+						"account_id": "58",
+						"contact_id": "38",
+						"is_awarded": true,
+						"is_headquarters": true,
+						"daily_contracted_room_rates": {
+							"docs": [
+								{
+									"rate": 170,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 280,
+									"room_type_id": "3"
+								}
+							]
+						},
+						"contracted_rooms": {
+							"docs": [
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 12
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 1
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 12
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 1
+								}
+							]
+						},
+						"daily_pickup_room_rates": {
+							"docs": [
+								{
+									"rate": 155,
+									"room_type_id": "1"
+								},
+								{
+									"rate": 170,
+									"room_type_id": "2"
+								},
+								{
+									"rate": 280,
+									"room_type_id": "3"
+								}
+							]
+						},
+						"pickup_rooms": {
+							"docs": [
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 12
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-30T00:00:00.000Z",
+									"count": 1
+								},
+								{
+									"room_type_id": "1",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 1
+								},
+								{
+									"room_type_id": "2",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 12
+								},
+								{
+									"room_type_id": "3",
+									"date_at": "2023-10-31T00:00:00.000Z",
+									"count": 1
+								}
+							]
+						},
+						"responses": {
+							"docs": [
+								{
+									"opportunity_date_id": "8",
+									"comments": "proposal was mailed.",
+									"is_pursuing": true,
+									"daily_room_rates": {
+										"docs": [
+											{
+												"rate": 175,
+												"room_type_id": "2"
+											},
+											{
+												"rate": 295,
+												"room_type_id": "3"
+											}
+										]
+									},
+									"proposed_rooms": {
+										"docs": [
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-30T00:00:00.000Z",
+												"count": 12
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-30T00:00:00.000Z",
+												"count": 1
+											},
+											{
+												"room_type_id": "2",
+												"date_at": "2023-10-31T00:00:00.000Z",
+												"count": 12
+											},
+											{
+												"room_type_id": "3",
+												"date_at": "2023-10-31T00:00:00.000Z",
+												"count": 1
+											}
+										]
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"requested_rooms": {
+				"docs": [
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-30T00:00:00.000Z",
+						"count": 12
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-10-30T00:00:00.000Z",
+						"count": 1
+					},
+					{
+						"room_type_id": "2",
+						"date_at": "2023-10-31T00:00:00.000Z",
+						"count": 12
+					},
+					{
+						"room_type_id": "3",
+						"date_at": "2023-10-31T00:00:00.000Z",
+						"count": 1
+					}
+				]
+			}
+		},		
+		{
 			"name": "Attendees",
 			"attendees": 850,
 			"response_due_at": "2022-09-26T00:00:00Z",

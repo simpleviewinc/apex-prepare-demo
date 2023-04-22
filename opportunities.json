@@ -22,6 +22,22 @@
 					6
 				]
 			},
+			"notes": {
+				"docs": [
+					{
+						"title": "Venue Meeting",
+						"text": "Met with convention center for walkthrough of event space. "
+					},
+					{
+						"title": "Transportation",
+						"text": "Transportation arranged for VIP attendees through Enterprise Black Car."
+					}, 
+					{
+						"title": "Contracts Signed",
+						"text": "Contracts to be signed at next meeting"
+					}
+				]
+			},
 			"date_comments": "1 day shoulder before and 2 day shoulder after. Primary dates 10/1/23 - 10/3/23. Alt 1 dates 10/17/23 - 10/20/23",
 			"shoulder_before": 1,
 			"shoulder_after": 2,
@@ -123,6 +139,18 @@
 			"contacts": {
 				"set": [
 					23
+				]
+			},
+			"notes": {
+				"docs": [
+					{
+						"title": "Transportation",
+						"text": "Limo arranged for bride - ClassicCars Club."
+					}, 
+					{
+						"title": "Contracts",
+						"text": "Contracts to be signed at next meeting, during venue walkthtough"
+					}
 				]
 			},
 			"opportunity_dates": {
@@ -254,6 +282,22 @@
 					25,
 					22,
 					18
+				]
+			},
+			"notes": {
+				"docs": [
+					{
+						"title": "Site Walkthrough",
+						"text": "Met with convention center for walkthrough of event space. "
+					},
+					{
+						"title": "Rhino Stage Crew",
+						"text": "Rhino events team will be on site for setup and crew of competition stage and demo area. Fire Marshal to clear temp kitchens day of."
+					}, 
+					{
+						"title": "Contracts Signed",
+						"text": "Contracts to be signed at next meeting"
+					}
 				]
 			},
 			"opportunity_dates": {
