@@ -4,6 +4,7 @@
 		{
 			"account_name": "The 1895 House",
 			"former_account_name": "Anne Cottage - Lighthouse Keeper's Quarters",
+			"weburl": "http://www.newenglandhistoricalsociety.com",
 			"sleeping_rooms": 50,
 			"account_description": "Queen Anne style Victorian mansion and Bed and Breakfast on the National Register of Historic Places.",
 			"keywords": "B&B, Bed and Breakfast, historic",
@@ -37,6 +38,7 @@
 		{
 			"account_name": "Starr Pass Resort",
 			"former_account_name": "JW Marriott",
+			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
 			"sleeping_rooms": 800,
 			"account_description": "a luxury hotel with world-class golf, excellent dining and resort amenities near downtown Tucson.",
 			"keywords": "Hotel, Resort, Spa, Golf",
@@ -70,6 +72,7 @@
 		{
 			"account_name": "Hacienda Del Sol Guest Ranch Resort",
 			"former_account_name": "Hacienda Del Sol",
+			"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
 			"sleeping_rooms": 300,
 			"account_description": "Circa-1929, Southwestern-style property set amid desert landscapes with a regional restaurant.",
 			"keywords": "Hotel, Resort, Spa, Golf",
@@ -338,6 +341,7 @@
 		},
 		{
 			"account_name": "4th Street Market",
+			"weburl": "https://4thstreetmarket.com",
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": 2,
