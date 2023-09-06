@@ -3,6 +3,7 @@
 	"data": [
 		{
 			"name": "Visitor Guide Request",
+			"form_type_id": "1",
 			"is_posted_on_website":true,
 			"is_active":true,
 			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
@@ -13,6 +14,7 @@
 		},
 		{
 			"name": "Newsletter Sign Up",
+			"form_type_id": "2",
 			"is_posted_on_website":true,
 			"is_active":true,
 			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
