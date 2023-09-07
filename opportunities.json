@@ -18,8 +18,8 @@
 			"account_id": "4",
 			"contacts": {
 				"set": [
-					3,
-					6
+					"3",
+					"6"
 				]
 			},
 			"notes": {
@@ -71,7 +71,7 @@
 			"account_id": "15",
 			"contacts": {
 				"set": [
-					1
+					"1"
 				]
 			},
 			"date_comments": "Primary dates 04/01/24 - 04/03/24. Alt 1 dates 04/17/24 - 04/20/24. 2 day shoulder before and 2 day shoulder after. ",
@@ -110,7 +110,7 @@
 			"account_id": "22",
 			"contacts": {
 				"set": [
-					4
+					"4"
 				]
 			},
 			"shoulder_before": 2,
@@ -138,7 +138,7 @@
 			"event_requirements": "Halloween wedding. Will need a ballroom in venue with space heaters for outdoor space. Open Bar.",
 			"contacts": {
 				"set": [
-					23
+					"23"
 				]
 			},
 			"notes": {
@@ -177,7 +177,7 @@
 			"account_id": "10",
 			"contacts": {
 				"set": [
-					16
+					"16"
 				]
 			},
 			"shoulder_before": 2,
@@ -213,8 +213,8 @@
 			"account_id": "28",
 			"contacts": {
 				"set": [
-					6,
-					17
+					"6",
+					"17"
 				]
 			},
 			"date_comments": "prefer June or May",
@@ -247,7 +247,7 @@
 			"account_id": "17",
 			"contacts": {
 				"set": [
-					2
+					"2"
 				]
 			},
 			"opportunity_dates": {
@@ -279,9 +279,9 @@
 			"account_id": "18",
 			"contacts": {
 				"set": [
-					25,
-					22,
-					18
+					"25",
+					"22",
+					"18"
 				]
 			},
 			"notes": {
@@ -327,8 +327,8 @@
 			"account_id": "12",
 			"contacts": {
 				"set": [
-					4,
-					24
+					"4",
+					"24"
 				]
 			}
 		},
@@ -344,7 +344,7 @@
 			"account_id": "8",
 			"contacts": {
 				"set": [
-					19
+					"19"
 				]
 			},
 			"opportunity_dates": {
@@ -371,8 +371,8 @@
 			"account_id": "27",
 			"contacts": {
 				"set": [
-					26,
-					17
+					"26",
+					"17"
 				]
 			},
 			"date_comments": "Citywide event. Blocks for attendees and exhibitors. Need convention center space.",
