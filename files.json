@@ -1,5 +1,5 @@
 {
-	"model": "files_insert",
+	"model": "files",
 	"data": [
 		{
 			"name": "ASDM_map_large.jpg",
