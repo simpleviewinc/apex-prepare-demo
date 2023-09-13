@@ -1,0 +1,65 @@
+{
+	"model": "account_images",
+	"data": [
+		{
+			"account_id":"8",
+			"title":"ASDM Map",
+			"type_id":"image",
+			"file_id": "1",
+			"alt_text":"Desert Museum Trail Map",
+			"credits":"Arizona Sonora Desert Museum",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"8",
+			"title":"Coyote",
+			"type_id":"image",
+			"file_id": "2",
+			"alt_text":"Sleeping Coyote at the ASM Zoo park",
+			"credits":"Staff photo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"8",
+			"title":"Trail Overlook",
+			"type_id":"image",
+			"file_id": "3",
+			"alt_text":"Scenic trail overlook",
+			"credits":"Staff photo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"13",
+			"title":"4SM Logo",
+			"type_id":"logo",
+			"file_id": "4",
+			"alt_text":"Logo",
+			"credits":"Ad Agency",
+			"is_publication_consent": true,
+			"is_deleted": false
+		}, 
+		{
+			"account_id":"13",
+			"title":"4SM French Toast Waffles",
+			"type_id":"image",
+			"file_id": "5",
+			"alt_text":"French Toast Waffles with berries",
+			"credits":"Staff Photo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"13",
+			"title":"4SM Coctails",
+			"type_id":"image",
+			"file_id": "6",
+			"alt_text":"Native Son Cocktail",
+			"credits":"Staff Photo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		}
+	]
+}

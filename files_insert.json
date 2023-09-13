@@ -1,0 +1,41 @@
+{
+	"model": "files_insert",
+	"data": [
+		{
+			"name": "ASDM_map_large.jpg",
+			"is_public": false,
+			"file_size": 1223509,
+			"is_deleted": false
+		},
+		{
+			"name": "ASM-coyote.jpg",
+			"is_public": false,
+			"file_size": 59312,
+			"is_deleted": false
+		},
+		{
+			"name": "Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
+			"is_public": false,
+			"file_size": 1369763,
+			"is_deleted": false
+		},
+		{
+			"name": "4SMLogoBlue.png",
+			"is_public": false,
+			"file_size": 15865,
+			"is_deleted": false
+		},
+		{
+			"name": "4sm image8_psd.jpg",
+			"is_public": false,
+			"file_size": 161466,
+			"is_deleted": false
+		},
+		{
+			"name": "4sm Native+Son-502-Edit.jpg",
+			"is_public": false,
+			"file_size": 69140,
+			"is_deleted": false
+		}
+	]
+}

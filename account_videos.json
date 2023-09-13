@@ -1,0 +1,44 @@
+{
+	"model": "account_videos",
+	"data": [
+		{
+			"account_id":"8",
+			"title":"ARIZONA-SONORA DESERT MUSEUM | Tucson, Arizona | 2022 Tour",
+			"type_id":"youtube",
+			"external_id":"SCGXAybkWeM",
+			"credits":"Cactus Atlas",
+			"internal_notes":"A fusion of part zoo, botanical garden, aquarium, and natural history museum, the Arizona-Sonora History Museum in Tucson, Arizona provides an excellent weekend adventure. Join us as we revisit some of the best parts of this amazing place.\n\n\nThis amazing museum is a bit different than your ordinary walkthrough. The Arizona-Sonora Desert Museum is ranked as one of the top 10 museums in the country according to tripadvisor.com and roughly 85% of the experience is outside!\n\nWhen visiting, you can walk through nearly two miles of desert habitats and see native animals, plant life, and regional minerals. \n\nAnimal habitats include an aquarium, riparian exhibit, reptile hall, walk-in aviary, woodland life, pollination garden, cat canyon, and mountain woodland life.\n\nThe site offers multiple dining establishments - Ironwood Terraces, a quick-service food court as well as the Ocotillo Café, a casual dining full-service restaurant. In addition, there are Phoebe's Coffee Bar and The Cottonwood, each offering hot and cold drinks as well as sandwiches or ice cream treats. \n\nWhile much of the museum is a walking experience, wheelchairs and strollers are available as well as rent-able electric scooters.  \n\n\nVIDEO FILMED: 02/05/2022",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"8",
+			"title":"A Day at the Arizona Sonora Desert Museum!",
+			"type_id":"youtube",
+			"external_id":"ZWaCyEzzOik",
+			"credits":"Brave Wilderness 2014",
+			"internal_notes":"On this week's adventure Coyote is getting the chance to walk the grounds of the Arizona Sonora Desert Museum (ASDM) with Curator of Animal Experiences Will Bruner.  \n\nFrom species ambassadors like the Mountain Lion to the Desert Bighorn Sheep the ASDM is home to a plethora of animal species! \n\nLocated in Tucson Mountain Park, and founded in 1952, the ASDM is one of the top zoological societies and museums in the world and is the perfect place to visit if you want to get a look at all of the magnificent wildlife of the Southwest has to offer!  \n\nSpecial Thanks to all of the wonderful staff at the ASDM for their assistance in the making of this episode!\n\nBreaking Trail leaves the map behind and follows adventurer and animal enthusiast Coyote Peterson and his crew as they explore a variety of wildlife in the most amazing environments throughout North America!",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"13",
+			"title":"A Taste of 4th Street Market in Santa Ana",
+			"type_id":"youtube",
+			"external_id":"52a3xO9zk6Q",
+			"credits":"Andy V Nguyen 2018",
+			"internal_notes":"Archel and I were invited to an exclusive tasting of all of the vendors at 4th Street Market in Santa Ana. 4th Street Market is one of the foodie wonders of Orange County. Primarily, it is a food hall. You can get a huge variety of food and drink without even stepping out of the building. It is part of downtown Santa Ana's new development and is really making its mark in the restaurant business right now.",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"13",
+			"title":"Dave checks out 4th Street Market in Downtown Santa Ana",
+			"type_id":"youtube",
+			"external_id":"yUen1D_n4iY",
+			"credits":"KLIX - So Cal's Online Hotspot",
+			"is_publication_consent": true,
+			"is_deleted": false
+		}
+	]
+}
