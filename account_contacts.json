@@ -1,0 +1,15 @@
+{
+	"model": "account_contacts",
+	"data": [
+		{
+			"account_id":"13",
+			"contact_id":"28",
+			"title":"Facility & Event Sales"
+		},
+		{
+			"account_id":"13",
+			"contact_id":"5",
+			"title":"Owner"
+		}
+	]
+}
