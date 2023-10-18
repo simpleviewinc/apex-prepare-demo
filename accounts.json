@@ -341,7 +341,14 @@
 		},
 		{
 			"account_name": "4th Street Market",
+			"former_account_name": "Market Square",
+			"account_description": "4th St Market offers an unparalleled, multi-functional venue with event capabilities suitable for a wide variety of private and corporate gatherings. Event settings range from intimate birthday parties, to large community events, to corporate team building weekends.",
+			"keywords": "dining, event venue, shopping",
+			"email": "info@4thstreetmarket.com",
+			"is_send_email": true,
 			"weburl": "https://4thstreetmarket.com",
+			"social_facebook": "4thstreetmarketdtsa",
+			"social_instagram": "4thstreetmarket",
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "2",
@@ -352,6 +359,25 @@
 					"1",
 					"2"
 				]
+			},
+			"source_id": "1",
+			"addresses": {
+				"docs": {
+					"address_line_1": "201 East 4th Street",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Santa Ana",
+					"state_id": "US_CA",
+					"postal_code": "92701",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			},
+			"geo_coordinates": {
+				"lat": 33.7482829,
+				"long": -117.8662159
 			}
 		},
 		{
