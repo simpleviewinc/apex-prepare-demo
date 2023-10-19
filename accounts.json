@@ -162,18 +162,6 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
-			},
-			"notes": {
-				"docs": [
-					{
-						"title": "Upgrade to full Member 10/23/2020",
-						"text": "account upgraded to full membership. Reviewing listings and benefits."
-					},
-					{
-						"title": "Call Vicki to plan food truck roundup",
-						"text": "Food truck roundup is around the corner. lock in visitor center table and staffing"
-					}
-				]
 			}
 		},
 		{
@@ -390,6 +378,18 @@
 			"geo_coordinates": {
 				"lat": 33.7482829,
 				"long": -117.8662159
+			},
+			"notes": {
+				"docs": [
+					{
+						"title": "Upgrade to full Member 10/23/2020",
+						"text": "account upgraded to full membership. Reviewing listings and benefits."
+					},
+					{
+						"title": "Call Vicki to plan food truck roundup",
+						"text": "Food truck roundup is around the corner. lock in visitor center table and staffing"
+					}
+				]
 			}
 		},
 		{
