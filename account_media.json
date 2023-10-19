@@ -3,19 +3,19 @@
 	"data": [
 		{
 			"ref_id": "dms://models/listings/1",
-			"video_id": 3
+			"video_id": "3"
 		},
 		{
 			"ref_id": "dms://models/listings/1",
-			"image_id": 4
+			"image_id": "4"
 		},
 		{
 			"ref_id": "dms://models/listings/1",
-			"image_id": 5
+			"image_id": "5"
 		},
 		{
 			"ref_id": "dms://models/listings/1",
-			"image_id": 6
+			"image_id": "6"
 		}
 	]
 }
