@@ -387,7 +387,10 @@
 					},
 					{
 						"title": "Call Vicki to plan food truck roundup",
-						"text": "Food truck roundup is around the corner. lock in visitor center table and staffing"
+						"text": "Food truck roundup is around the corner. lock in visitor center table and staffing",
+						"files": {
+							"set": "7"
+						}
 					}
 				]
 			}
