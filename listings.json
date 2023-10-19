@@ -10,26 +10,6 @@
 			"keyword": "shopping, dining",
 			"is_active": true,
 			"listing_type_id": "1",
-			"media": {
-				"docs": [
-					{
-						"video_id": "3",
-						"ref_id": ""
-					},
-					{
-						"image_id": "4",
-						"ref_id": ""
-					},
-					{
-						"image_id": "5",
-						"ref_id": ""
-					},
-					{
-						"image_id": "6",
-						"ref_id": ""
-					}
-				]
-			}
 		},
 		{
 			"account_id": "2",
