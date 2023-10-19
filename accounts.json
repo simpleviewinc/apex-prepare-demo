@@ -378,18 +378,6 @@
 			"geo_coordinates": {
 				"lat": 33.7482829,
 				"long": -117.8662159
-			},
-			"contacts": {
-				"docs": [
-					{
-						"contact_id": "28",
-						"title": "Facility & Event Sales"
-					},
-					{
-						"contact_id": "5",
-						"title": "Owner"
-					}
-				]
 			}
 		},
 		{
