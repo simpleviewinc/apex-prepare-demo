@@ -69,13 +69,22 @@
 					"is_billing": true
 				}
 			},
-			"emails": {
-				"docs": {
-					"email_address": "awilkins@noemail.com",
-					"email_type_id": "2",
-					"is_primary": true
+			"emails": [
+				{
+					"docs": {
+						"email_address": "awilkins@noemail.com",
+						"email_type_id": "2",
+						"is_primary": true
+					}
+				},
+				{
+					"docs": {
+						"email_address": "aswilkinsIII@noemail.com",
+						"email_type_id": "1",
+						"is_primary": false
+					}
 				}
-			},
+			],
 			"phones": null
 		},
 		{
