@@ -82,9 +82,22 @@
 						"is_primary": false
 					}
 				]
+			},
+			"phones": {
+				"docs": [
+					{
+						"phone_number": "12092012868",
+						"phone_extension": "345",
+						"is_primary": true,
+						"phone_type_id": "1"
+					},
+					{
+						"phone_number": "16531080483",
+						"is_primary": false,
+						"phone_type_id": "3"
+					}
+				]
 			}
-			,
-			"phones": null
 		},
 		{
 			"external_id": "345",
