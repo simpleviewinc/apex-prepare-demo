@@ -49,6 +49,7 @@
 			"preferred_contact_type_id": "1",
 			"is_send_email": true,
 			"is_deleted": false,
+			"social_facebook": "simpleview",
 			"groups": {
 				"set": [
 					"1",
