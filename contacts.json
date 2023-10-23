@@ -38,9 +38,15 @@
 		},
 		{
 			"external_id": "12",
+			"prefix": "Mr",
 			"first_name": "Aaron",
+			"middle_name": "S",
 			"last_name": "Bilkins",
+			"suffix": "Junior",
 			"title": "Engineer",
+			"gender_id": "1",
+			"pronouns": "He / Him",
+			"preferred_contact_type_id": "1",
 			"is_send_email": true,
 			"is_deleted": false,
 			"groups": {
@@ -66,6 +72,7 @@
 			"emails": {
 				"docs": {
 					"email_address": "awilkins@noemail.com",
+					"email_type_id": "2",
 					"is_primary": true
 				}
 			},
