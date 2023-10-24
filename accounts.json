@@ -341,7 +341,14 @@
 		},
 		{
 			"account_name": "4th Street Market",
+			"former_account_name": "Market Square",
+			"account_description": "4th St Market offers an unparalleled, multi-functional venue with event capabilities suitable for a wide variety of private and corporate gatherings. Event settings range from intimate birthday parties, to large community events, to corporate team building weekends.",
+			"keywords": "dining, event venue, shopping",
+			"email": "info@4thstreetmarket.com",
+			"is_send_email": true,
 			"weburl": "https://4thstreetmarket.com",
+			"social_facebook": "4thstreetmarketdtsa",
+			"social_instagram": "4thstreetmarket",
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "2",
@@ -352,10 +359,45 @@
 					"1",
 					"2"
 				]
+			},
+			"source_id": "1",
+			"addresses": {
+				"docs": {
+					"address_line_1": "201 East 4th Street",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Santa Ana",
+					"state_id": "US_CA",
+					"postal_code": "92701",
+					"country_id": "US",
+					"is_billing": true,
+					"is_physical": true,
+					"is_shipping": true
+				}
+			},
+			"geo_coordinates": {
+				"lat": 33.7482829,
+				"long": -117.8662159
+			},
+			"notes": {
+				"docs": [
+					{
+						"title": "Upgrade to full Member 10/23/2020",
+						"text": "account upgraded to full membership. Reviewing listings and benefits."
+					},
+					{
+						"title": "Call Vicki to plan food truck roundup",
+						"text": "Food truck roundup is around the corner. lock in visitor center table and staffing",
+						"files": {
+							"set": "7"
+						}
+					}
+				]
 			}
 		},
 		{
 			"account_name": "Adalberto's Mexican Food",
+			"parent_id": "13",
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "5",
@@ -2308,6 +2350,7 @@
 		},
 		{
 			"account_name": "Bann Thai",
+			"parent_id": "13",
 			"keywords": "Full-Service Restaurants",
 			"is_deleted": false,
 			"is_active": true,
@@ -3309,6 +3352,7 @@
 		{
 			"account_name": "611 Pub, Inc.",
 			"account_description": "The Garden boasts a grand, open space with ample room to seat up to 250 guests.",
+			"parent_id": "13",
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "7",
