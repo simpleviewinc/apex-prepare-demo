@@ -2,43 +2,57 @@
 	"model": "files",
 	"data": [
 		{
+			"filestorage_id": "gcp://apex/ASDM_map_large.jpg",
 			"name": "ASDM_map_large.jpg",
+			"guid": "test1",
 			"is_public": false,
 			"file_size": 1223509,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/ASM-coyote.jpg",
 			"name": "ASM-coyote.jpg",
+			"guid": "test2",
 			"is_public": false,
 			"file_size": 59312,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
 			"name": "Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
+			"guid": "test3",
 			"is_public": false,
 			"file_size": 1369763,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/4SMLogoBlue.png",
 			"name": "4SMLogoBlue.png",
+			"guid": "test4",
 			"is_public": false,
 			"file_size": 15865,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/4sm image8_psd.jpg",
 			"name": "4sm image8_psd.jpg",
+			"guid": "test5",
 			"is_public": false,
 			"file_size": 161466,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/4sm Native+Son-502-Edit.jpg",
 			"name": "4sm Native+Son-502-Edit.jpg",
+			"guid": "test6",
 			"is_public": false,
 			"file_size": 69140,
 			"is_deleted": false
 		},
 		{
+			"filestorage_id": "gcp://apex/food truck round up.jpg",
 			"name": "food truck round up.jpg",
+			"guid": "test7",
 			"is_public": false,
 			"file_size": 118441,
 			"is_deleted": false
