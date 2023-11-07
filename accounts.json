@@ -5,7 +5,6 @@
 			"account_name": "The 1895 House",
 			"former_account_name": "Anne Cottage - Lighthouse Keeper's Quarters",
 			"weburl": "http://www.newenglandhistoricalsociety.com",
-			"sleeping_rooms": 50,
 			"account_description": "Queen Anne style Victorian mansion and Bed and Breakfast on the National Register of Historic Places.",
 			"keywords": "B&B, Bed and Breakfast, historic",
 			"is_deleted": false,
@@ -39,7 +38,6 @@
 			"account_name": "Starr Pass Resort",
 			"former_account_name": "JW Marriott",
 			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-			"sleeping_rooms": 800,
 			"account_description": "a luxury hotel with world-class golf, excellent dining and resort amenities near downtown Tucson.",
 			"keywords": "Hotel, Resort, Spa, Golf",
 			"is_deleted": false,
@@ -73,7 +71,6 @@
 			"account_name": "Hacienda Del Sol Guest Ranch Resort",
 			"former_account_name": "Hacienda Del Sol",
 			"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
-			"sleeping_rooms": 300,
 			"account_description": "Circa-1929, Southwestern-style property set amid desert landscapes with a regional restaurant.",
 			"keywords": "Hotel, Resort, Spa, Golf",
 			"is_deleted": false,
@@ -197,7 +194,6 @@
 		{
 			"account_name": "The Westin La Paloma Resort & Spa",
 			"former_account_name": "Westin La Paloma",
-			"sleeping_rooms": 380,
 			"account_description": "Upscale resort offering 5 pools & a waterslide, plus a 27-hole golf course & a spa.",
 			"keywords": "Hotel, Resort, Spa, Golf",
 			"is_deleted": false,
@@ -578,7 +574,6 @@
 		},
 		{
 			"account_name": "Affinia Hotel South",
-			"sleeping_rooms": 350,
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "5",
@@ -606,7 +601,6 @@
 		},
 		{
 			"account_name": "Affinia Manhattan",
-			"sleeping_rooms": 460,
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "2",
@@ -651,7 +645,6 @@
 		},
 		{
 			"account_name": "Four Points by Sheraton Manhattan Chelsea",
-			"sleeping_rooms": 500,
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "5",
@@ -679,7 +672,6 @@
 		},
 		{
 			"account_name": "Flatotel New York City",
-			"sleeping_rooms": 600,
 			"is_deleted": false,
 			"is_active": true,
 			"region_id": "6",
@@ -769,7 +761,6 @@
 		},
 		{
 			"account_name": "Hiland Terrace Motel",
-			"sleeping_rooms": 197,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -800,7 +791,6 @@
 		},
 		{
 			"account_name": "Huntington Inn Motel",
-			"sleeping_rooms": 308,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -891,7 +881,6 @@
 		},
 		{
 			"account_name": "Pine Slopes Lodge",
-			"sleeping_rooms": 183,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -922,7 +911,6 @@
 		},
 		{
 			"account_name": "Foggy Mountain Lodge",
-			"sleeping_rooms": 650,
 			"keywords": "Resort Hotel",
 			"is_deleted": false,
 			"is_active": true,
@@ -1012,7 +1000,6 @@
 		{
 			"account_name": "Camelback Lodge",
 			"former_account_name": "Old Town Inn",
-			"sleeping_rooms": 453,
 			"account_description": "Camelback Grand Ballroom can accommodate 65 booths for trade shows and exhibits.",
 			"keywords": "Camelback Mountain Resort JackRabbit",
 			"is_deleted": false,
@@ -1074,7 +1061,6 @@
 		},
 		{
 			"account_name": "Comfort Inn",
-			"sleeping_rooms": 250,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1105,7 +1091,6 @@
 		},
 		{
 			"account_name": "Melody Motor Lodge",
-			"sleeping_rooms": 70,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1136,7 +1121,6 @@
 		},
 		{
 			"account_name": "Ramada By Wyndham Ligonier",
-			"sleeping_rooms": 168,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1167,7 +1151,6 @@
 		},
 		{
 			"account_name": "Sunset Cottages",
-			"sleeping_rooms": 85,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1198,7 +1181,6 @@
 		},
 		{
 			"account_name": "Budget Inn",
-			"sleeping_rooms": 436,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1229,7 +1211,6 @@
 		},
 		{
 			"account_name": "Clarion",
-			"sleeping_rooms": 274,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1260,7 +1241,6 @@
 		},
 		{
 			"account_name": "Laurel Manor Motel",
-			"sleeping_rooms": 120,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1291,7 +1271,6 @@
 		},
 		{
 			"account_name": "Olde Stagecoach ",
-			"sleeping_rooms": 27,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1322,7 +1301,6 @@
 		},
 		{
 			"account_name": "Springhill Suites",
-			"sleeping_rooms": 154,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1442,7 +1420,6 @@
 		},
 		{
 			"account_name": "Grand Central Hotel Inc",
-			"sleeping_rooms": 159,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1473,7 +1450,6 @@
 		{
 			"account_name": "Saguaro Dude Ranch",
 			"former_account_name": "Sleepy J Ranch",
-			"sleeping_rooms": 50,
 			"account_description": "Large rustic hall and private cabins ",
 			"is_deleted": false,
 			"is_active": true,
@@ -1502,7 +1478,6 @@
 		},
 		{
 			"account_name": "Ann's Red Roost Inn",
-			"sleeping_rooms": 187,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1531,7 +1506,6 @@
 		},
 		{
 			"account_name": "Inn At Ligoneir",
-			"sleeping_rooms": 534,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1560,7 +1534,6 @@
 		},
 		{
 			"account_name": "Comfort Suites",
-			"sleeping_rooms": 759,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1589,7 +1562,6 @@
 		},
 		{
 			"account_name": "Central Hotel",
-			"sleeping_rooms": 140,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1647,7 +1619,6 @@
 		},
 		{
 			"account_name": "Highland House Hotel",
-			"sleeping_rooms": 223,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1707,7 +1678,6 @@
 		},
 		{
 			"account_name": "Hickory Hollow Camp Ground",
-			"sleeping_rooms": 25,
 			"account_description": "Campground with some cabins. RV hookups.",
 			"keywords": "Campgrounds & RV",
 			"is_deleted": false,
@@ -1739,7 +1709,6 @@
 		},
 		{
 			"account_name": "Budget Inn-New Stanton",
-			"sleeping_rooms": 153,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1770,7 +1739,6 @@
 		},
 		{
 			"account_name": "Days Inn By Wyndham New",
-			"sleeping_rooms": 272,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1801,7 +1769,6 @@
 		},
 		{
 			"account_name": "Motel 6",
-			"sleeping_rooms": 215,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1832,7 +1799,6 @@
 		},
 		{
 			"account_name": "Hampton Inn-North",
-			"sleeping_rooms": 416,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -1981,7 +1947,6 @@
 		},
 		{
 			"account_name": "Fairmount Hospitality LLC",
-			"sleeping_rooms": 397,
 			"account_description": "Meeting and event space is available for groups up to 250. On site banquet room and dance floor.",
 			"keywords": "Clarion Inn",
 			"is_deleted": false,
@@ -2013,7 +1978,6 @@
 		},
 		{
 			"account_name": "Super 8 By Wyndham Delmont",
-			"sleeping_rooms": 809,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2044,7 +2008,6 @@
 		},
 		{
 			"account_name": "Log Cabin Lodge & Suites",
-			"sleeping_rooms": 465,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2075,7 +2038,6 @@
 		},
 		{
 			"account_name": "Antiochian Village Camp",
-			"sleeping_rooms": 16,
 			"account_description": "Campground with some cabins. RV hookups.",
 			"keywords": "Camps",
 			"is_deleted": false,
@@ -2107,7 +2069,6 @@
 		},
 		{
 			"account_name": "Country Manor Motel",
-			"sleeping_rooms": 684,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2138,7 +2099,6 @@
 		},
 		{
 			"account_name": "New National Hotel",
-			"sleeping_rooms": 950,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2169,7 +2129,6 @@
 		},
 		{
 			"account_name": "Lodge At Chalk Hill",
-			"sleeping_rooms": 407,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2200,7 +2159,6 @@
 		},
 		{
 			"account_name": "Helen's Hideaway Inn",
-			"sleeping_rooms": 416,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2260,7 +2218,6 @@
 		},
 		{
 			"account_name": "Sleep Inn-Suites Park City",
-			"sleeping_rooms": 325,
 			"keywords": "Hotels (Except Casino Hotels) And Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2289,7 +2246,6 @@
 		},
 		{
 			"account_name": "Candlewood Suites Belle Vernon",
-			"sleeping_rooms": 159,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2441,7 +2397,6 @@
 		},
 		{
 			"account_name": "Rodeway Inn Greensburg",
-			"sleeping_rooms": 514,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2528,7 +2483,6 @@
 		},
 		{
 			"account_name": "Holiday Inn Express",
-			"sleeping_rooms": 375,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2614,7 +2568,6 @@
 		},
 		{
 			"account_name": "Knights Inn Greensburg",
-			"sleeping_rooms": 153,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2644,7 +2597,6 @@
 		},
 		{
 			"account_name": "A-1 economy Inn",
-			"sleeping_rooms": 382,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2675,7 +2627,6 @@
 		},
 		{
 			"account_name": "Budget Host",
-			"sleeping_rooms": 690,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2706,7 +2657,6 @@
 		},
 		{
 			"account_name": "Budget Inn Somerset",
-			"sleeping_rooms": 360,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2737,7 +2687,6 @@
 		},
 		{
 			"account_name": "Dollar Inn",
-			"sleeping_rooms": 463,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2768,7 +2717,6 @@
 		},
 		{
 			"account_name": "Fairfield Inn",
-			"sleeping_rooms": 177,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2797,7 +2745,6 @@
 		},
 		{
 			"account_name": "Knights Inn Somerset",
-			"sleeping_rooms": 383,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2857,7 +2804,6 @@
 		},
 		{
 			"account_name": "Quality Inn-Conference Ctr",
-			"sleeping_rooms": 358,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2888,7 +2834,6 @@
 		},
 		{
 			"account_name": "Stone Wood Lodge",
-			"sleeping_rooms": 990,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -2919,7 +2864,6 @@
 		},
 		{
 			"account_name": "Sure Stay Plus Hotel By Best",
-			"sleeping_rooms": 659,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3008,7 +2952,6 @@
 		},
 		{
 			"account_name": "Stone House Country Inn",
-			"sleeping_rooms": 236,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3040,7 +2983,6 @@
 		{
 			"account_name": "Silver Birches Resort",
 			"former_account_name": "Ehrhardt's Waterfront Resort",
-			"sleeping_rooms": 334,
 			"account_description": "Silver Birches has maintained a reputation for excellence in service and hospitality. Our spectacular location on the shore of Lake Wallenpaupack – provides an ideal setting for meetings, reunions and many other occasions.",
 			"is_deleted": false,
 			"is_active": true,
@@ -3071,7 +3013,6 @@
 		},
 		{
 			"account_name": "French Manor Inn and Spa",
-			"sleeping_rooms": 119,
 			"account_description": "Set like a jewel on top of Huckleberry Mountain, The French Manor provides an atmosphere for elegant, yet comfortable gatherings, the perfect setting for small exclusive conferences. Our service and gourmet French cuisine is exceptional. The French Manor is an authentic French Chateau, built by Joseph Hirshhorn as a replica of his chateau in France. It is truly a miniature castle. The mountainous setting of the French Manor with magnificent vistas, a stone terrace, and rolling lawns creates a perfect atmosphere for clear productive thinking. The French Manor has nineteen luxurious accommodations and meeting facilities that can accommodate numerous setups. The attentive service of our staff provides an excellent atmosphere for exclusive meetings and banquets. For additional information, please call 1-877-720-6090 and ask for Genevieve Reese or Bridget Weber. Or email us at meetings@thefrenchmanor.com",
 			"is_deleted": false,
 			"is_active": true,
@@ -3102,7 +3043,6 @@
 		},
 		{
 			"account_name": "Blue Mountain Motel",
-			"sleeping_rooms": 574,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3133,7 +3073,6 @@
 		},
 		{
 			"account_name": "Hilton Garden Inn Uniontown",
-			"sleeping_rooms": 555,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3164,7 +3103,6 @@
 		},
 		{
 			"account_name": "Quality Inn & Suites",
-			"sleeping_rooms": 525,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3195,7 +3133,6 @@
 		},
 		{
 			"account_name": "Levi Deal Mansion ",
-			"sleeping_rooms": 20,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3226,7 +3163,6 @@
 		},
 		{
 			"account_name": "Yoder's Guest House",
-			"sleeping_rooms": 275,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3257,7 +3193,6 @@
 		},
 		{
 			"account_name": "Castle In The Sand",
-			"sleeping_rooms": 418,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3289,7 +3224,6 @@
 		{
 			"account_name": "Mountain Villas by Exploria Resorts",
 			"former_account_name": "Fernwood",
-			"sleeping_rooms": 870,
 			"account_description": "offers amenities and villa accommodations specializing in group golf outings, family reunions, winter snowtubing groups, adventure/team building",
 			"keywords": "Live Cam, TreeVentures, Resort",
 			"is_deleted": false,
@@ -3382,7 +3316,6 @@
 		},
 		{
 			"account_name": "A Cottage At Campbell Farm",
-			"sleeping_rooms": 37,
 			"keywords": "Cottages & Cabins",
 			"is_deleted": false,
 			"is_active": true,
@@ -3413,7 +3346,6 @@
 		},
 		{
 			"account_name": "Anthony's Longfellow Hotel",
-			"sleeping_rooms": 231,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3504,7 +3436,6 @@
 		},
 		{
 			"account_name": "Hopwood Motel",
-			"sleeping_rooms": 512,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3535,7 +3466,6 @@
 		},
 		{
 			"account_name": "M G Motel",
-			"sleeping_rooms": 92,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3566,7 +3496,6 @@
 		},
 		{
 			"account_name": "National Trail Motel",
-			"sleeping_rooms": 171,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3657,7 +3586,6 @@
 		},
 		{
 			"account_name": "Crossroads Inn",
-			"sleeping_rooms": 271,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3688,7 +3616,6 @@
 		},
 		{
 			"account_name": "Perry-O Inn & Suites",
-			"sleeping_rooms": 554,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
@@ -3719,7 +3646,6 @@
 		},
 		{
 			"account_name": "Pleasant Corner Inn",
-			"sleeping_rooms": 571,
 			"keywords": "Hotels & Motels",
 			"is_deleted": false,
 			"is_active": true,
