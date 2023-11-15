@@ -74,12 +74,12 @@
 				"docs": [
 					{
 						"email_address": "awilkins@noemail.com",
-						"email_type_id": "2",
+						"email_type_id": "work",
 						"is_primary": true
 					},
 					{
 						"email_address": "aswilkinsIII@noemail.com",
-						"email_type_id": "1",
+						"email_type_id": "personal",
 						"is_primary": false
 					}
 				]
