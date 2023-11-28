@@ -328,7 +328,7 @@
 								},
 								{
 									"rate": 175.0,
-									"room_type_id": "4"
+									"room_type_id": "3"
 								}
 							]
 						},
@@ -358,36 +358,6 @@
 									"room_type_id": "2",
 									"date_at": "2023-10-04T00:00:00Z",
 									"count": 50
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-09-30T00:00:00Z",
-									"count": 150
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-10-01T00:00:00Z",
-									"count": 400
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-10-02T00:00:00Z",
-									"count": 400
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-10-03T00:00:00Z",
-									"count": 400
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-10-04T00:00:00Z",
-									"count": 150
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-10-05T00:00:00Z",
-									"count": 50
 								}
 							]
 						},
@@ -405,7 +375,7 @@
 											},
 											{
 												"rate": 175.0,
-												"room_type_id": "4"
+												"room_type_id": "3"
 											}
 										]
 									},
@@ -434,36 +404,6 @@
 											{
 												"room_type_id": "2",
 												"date_at": "2023-10-04T00:00:00Z",
-												"count": 50
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-09-30T00:00:00Z",
-												"count": 150
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-10-01T00:00:00Z",
-												"count": 400
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-10-02T00:00:00Z",
-												"count": 400
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-10-03T00:00:00Z",
-												"count": 400
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-10-04T00:00:00Z",
-												"count": 150
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-10-05T00:00:00Z",
 												"count": 50
 											}
 										]
@@ -499,36 +439,6 @@
 					{
 						"room_type_id": "2",
 						"date_at": "2023-10-04T00:00:00Z",
-						"count": 50
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-09-30T00:00:00Z",
-						"count": 150
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-10-01T00:00:00Z",
-						"count": 400
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-10-02T00:00:00Z",
-						"count": 400
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-10-03T00:00:00Z",
-						"count": 400
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-10-04T00:00:00Z",
-						"count": 150
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-10-05T00:00:00Z",
 						"count": 50
 					}
 				]
@@ -647,19 +557,19 @@
 										"docs": [
 											{
 												"rate": 185.0,
-												"room_type_id": "4"
+												"room_type_id": "3"
 											}
 										]
 									},
 									"proposed_rooms": {
 										"docs": [
 											{
-												"room_type_id": "4",
+												"room_type_id": "3",
 												"date_at": "2023-10-30T00:00:00Z",
 												"count": 250
 											},
 											{
-												"room_type_id": "4",
+												"room_type_id": "3",
 												"date_at": "2023-10-31T00:00:00Z",
 												"count": 250
 											}
@@ -674,12 +584,12 @@
 			"requested_rooms": {
 				"docs": [
 					{
-						"room_type_id": "4",
+						"room_type_id": "3",
 						"date_at": "2023-10-30T00:00:00.000Z",
 						"count": 250
 					},
 					{
-						"room_type_id": "4",
+						"room_type_id": "3",
 						"date_at": "2023-10-31T00:00:00.000Z",
 						"count": 250
 					}
@@ -926,10 +836,6 @@
 								{
 									"rate": 225.0,
 									"room_type_id": "3"
-								},
-								{
-									"rate": 175.0,
-									"room_type_id": "4"
 								}
 							]
 						},
@@ -949,21 +855,6 @@
 									"room_type_id": "3",
 									"date_at": "2023-02-20T00:00:00Z",
 									"count": 4
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-02-18T00:00:00Z",
-									"count": 875
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-02-19T00:00:00Z",
-									"count": 875
-								},
-								{
-									"room_type_id": "4",
-									"date_at": "2023-02-20T00:00:00Z",
-									"count": 875
 								}
 							]
 						},
@@ -1051,10 +942,6 @@
 											{
 												"rate": 225.0,
 												"room_type_id": "3"
-											},
-											{
-												"rate": 175.0,
-												"room_type_id": "4"
 											}
 										]
 									},
@@ -1074,21 +961,6 @@
 												"room_type_id": "3",
 												"date_at": "2023-02-20T00:00:00Z",
 												"count": 2
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-02-18T00:00:00Z",
-												"count": 850
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-02-19T00:00:00Z",
-												"count": 850
-											},
-											{
-												"room_type_id": "4",
-												"date_at": "2023-02-20T00:00:00Z",
-												"count": 850
 											}
 										]
 									}
@@ -1114,21 +986,6 @@
 						"room_type_id": "3",
 						"date_at": "2023-02-20T00:00:00Z",
 						"count": 2
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-02-18T00:00:00Z",
-						"count": 850
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-02-19T00:00:00Z",
-						"count": 850
-					},
-					{
-						"room_type_id": "4",
-						"date_at": "2023-02-20T00:00:00Z",
-						"count": 850
 					}
 				]
 			}
