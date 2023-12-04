@@ -3,19 +3,23 @@
 	"data": [
 		{
 			"listing_id": "1",
-			"video_id": "3"
+			"video_id": "3",
+			"sort_order": 1
 		},
 		{
 			"listing_id": "1",
-			"image_id": "4"
+			"image_id": "4",
+			"sort_order": 2
 		},
 		{
 			"listing_id": "1",
-			"image_id": "5"
+			"image_id": "5",
+			"sort_order": 3
 		},
 		{
 			"listing_id": "1",
-			"image_id": "6"
+			"image_id": "6",
+			"sort_order": 4
 		}
 	]
 }
