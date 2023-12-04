@@ -4,47 +4,32 @@
 		{
 			"account_id": "13",
 			"title": "4th Street Market - Dining - American",
-			"account_name": "4th Street Market",
-			"weburl": "https://4thstreetmarket.com/",
 			"description": "Our Vendors are Still Cookin! Visit us at 4th Street Market for great food from our local merchants. Hit the link below to see Market & vendor hours!",
-			"keyword": "shopping, dining",
-			"is_active": true
+			"keywords": "shopping, dining"
 		},
 		{
 			"account_id": "2",
 			"title": "Starr Pass Resort - Accommodations - Resorts",
-			"account_name": "Starr Pass Resort",
-			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/",
 			"description": "Welcome to JW Marriott Tucson Starr Pass Resort & Spa. A desert oasis near downtown Tucson, AZ. Stay where style and comfort intersect at JW Marriott Tucson Starr Pass Resort & Spa. Located near downtown Tucson, AZ, our hotel offers uncomplicated relaxation amid the city's top attractions. Featuring luxury amenities and excellent service, our downtown resort is a sanctuary where your comfort is always a certainty. Test your swing on the Arnold Palmer-designed desert golf courses, pamper yourself at our spa or take a dip in our multi-level pool and lazy river. Hike and bike on Tucson’s spectacular trails or explore Mountain Park, Kino Sports complex and Old Tucson Studios. In the evening, indulge in delicious cuisine in one of our resort's buzz-worthy restaurants before retreating to well-appointed rooms and suites with stylish decor, plush bedding and separate sitting areas. If visiting downtown Tucson for business or social events, succeed like never before in our sophisticated venues with room for up to 3,300 guests. Let JW Marriott Tucson Starr Pass Resort & Spa ensure a memorable stay.",
-			"keyword": "resort, spa, golf",
-			"is_active": true
+			"keywords": "resort, spa, golf"
 		},
 		{
 			"account_id": "8",
 			"title": "Arizona-Sonora Desert Museum - Things To Do - Outdoors",
-			"account_name": "Arizona-Sonora Desert Museum",
-			"weburl": "https://www.desertmuseum.org/",
 			"description": "The 98 acre Desert Museum is a fusion experience: zoo, botanical garden, art gallery, natural history museum, and aquarium.   The Desert Museum is ranked on TripAdvisor.com as one of the Top 10 Museums in the country and the #1 Tucson attraction. Unlike most museums, about 85% of the experience is outdoors! ",
-			"keyword": "Outdoor, museum, Zoo",
-			"is_active": true
+			"keywords": "Outdoor, museum, Zoo"
 		},
 		{
 			"account_id": "114",
 			"title": "611 Pub, Inc. - Dining - Bar & Grill",
-			"account_name": "611 Pub, Inc.",
-			"weburl": "https://thepit611.com/",
 			"description": "Easy to Find, Hard to Leave! Pit 611 is your friendly neighborhood bar and grill situated near Audubon, in the heart of Minnesota’s beautiful lakes country. Our clean, relaxed, family-friendly atmosphere provides the perfect backdrop for delicious, home cooked meals, a wide selection of beverages and an all-around great time. Dining options include an outdoor patio with a gorgeous view. Located at the corner of county highways 6 and 11, we’re the easy to find, hard to leave place you won’t soon forget!",
-			"keyword": "Local, Pub",
-			"is_active": true
+			"keywords": "Local, Pub"
 		},
 		{
 			"account_id": "115",
 			"title": "A Cottage At Campbell Farm - Accommodations - Extended Stay",
-			"account_name": "A Cottage At Campbell Farm",
-			"weburl": "http://www.acottageatcampbellfarm.com/",
 			"description": "Private, Romantic, Picturesque and Tranquil. Nestled between pond and forest on our 1780's mountain farm, our cottages are a perfect retreat or a base from which to explore.",
-			"keyword": "Cottages, Cabins",
-			"is_active": true
+			"keywords": "Cottages, Cabins"
 		}
 	]
 }
