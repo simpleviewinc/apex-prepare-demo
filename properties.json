@@ -1,0 +1,10 @@
+{
+	"model": "properties",
+	"data": [
+		{
+			"account_id":"13",
+			"name":"A Property",
+			"property_type_id":"1"
+		}
+	]
+}
