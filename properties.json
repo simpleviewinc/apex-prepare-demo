@@ -3,7 +3,12 @@
 	"data": [
 		{
 			"account_id":"13",
-			"name":"A Property",
+			"name":"4th Street Property",
+			"property_type_id":"1"
+		},
+		{
+			"account_id":"114",
+			"name":"611 Pub Property",
 			"property_type_id":"1"
 		}
 	]
