@@ -1,0 +1,16 @@
+{
+	"model": "meeting_facilities",
+	"data": [
+		{
+			"amenities": {
+				"set": [
+					"accessible_bathroom",
+					"accessible_business_center_or_conference_rooms",
+					"accessible_parking"
+				]
+			},
+			"property_id": "1",
+			"rooms": 20
+		}
+	]
+}
