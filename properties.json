@@ -4,11 +4,26 @@
 		{
 			"account_id":"13",
 			"name":"4th Street Property",
-			"property_type_id":"1"
+			"property_type_id":"5"
 		},
 		{
 			"account_id":"114",
 			"name":"611 Pub Property",
+			"property_type_id":"5"
+		},
+		{
+			"account_id":"2",
+			"name":"Star Pass Property",
+			"property_type_id":"1"
+		},
+		{
+			"account_id":"8",
+			"name":"Arizona-Sonora Property",
+			"property_type_id":"1"
+		},
+		{
+			"account_id":"115",
+			"name":"A Cottage Property",
 			"property_type_id":"1"
 		}
 	]
