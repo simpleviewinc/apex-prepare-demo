@@ -1,0 +1,16 @@
+{
+	"model": "accommodation_facilities",
+	"data": [
+		{
+			"accommodation_type": { "set": "3" },
+			"property_id": "1",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 1, "capacity": 2 },
+					{ "room_type_id": "2", "count": 3, "capacity": 4 },
+					{ "room_type_id": "3", "count": 5, "capacity": 6 }
+				]
+			}
+		}
+	]
+}
