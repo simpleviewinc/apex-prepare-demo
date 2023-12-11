@@ -2,20 +2,24 @@
 	"model": "account_media",
 	"data": [
 		{
-			"ref_id": "dms://models/listings/1",
-			"video_id": "3"
+			"listing_id": "1",
+			"video_id": "3",
+			"sort_order": 1
 		},
 		{
-			"ref_id": "dms://models/listings/1",
-			"image_id": "4"
+			"listing_id": "1",
+			"image_id": "4",
+			"sort_order": 2
 		},
 		{
-			"ref_id": "dms://models/listings/1",
-			"image_id": "5"
+			"listing_id": "1",
+			"image_id": "5",
+			"sort_order": 3
 		},
 		{
-			"ref_id": "dms://models/listings/1",
-			"image_id": "6"
+			"listing_id": "1",
+			"image_id": "6",
+			"sort_order": 4
 		}
 	]
 }
