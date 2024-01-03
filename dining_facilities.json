@@ -3,7 +3,7 @@
 	"data": [
 		{
 			"amenities": { "set": ["accessible_parking", "accessible_restaurant"] },
-			"establishment_types": { "set": ["7"] },
+			"dining_types": { "set": ["7"] },
 			"property_id": "1"
 		}
 	]

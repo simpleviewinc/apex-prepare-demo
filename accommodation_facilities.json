@@ -2,7 +2,7 @@
 	"model": "accommodation_facilities",
 	"data": [
 		{
-			"accommodation_type": { "set": "3" },
+			"accommodation_type": { "set": ["3"] },
 			"property_id": "1",
 			"sleeping_rooms": {
 				"docs": [
