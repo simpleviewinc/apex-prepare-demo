@@ -40,6 +40,12 @@
 			"keywords": "Cottages, Cabins",
 			"property": { "set": "5" },
 			"subcategories": { "set": ["7"] }
+		},
+		{
+			"account": { "set": "13" },
+			"title": "4th Street Event Center Listing",
+			"property": { "set": "6" },
+			"property_id": "6"
 		}
 	]
 }
