@@ -1,0 +1,7 @@
+{
+	"model": "leisure_events_tags",
+	"data": [
+		{ "label": "market" },
+		{ "label": "family" }
+	]
+}
