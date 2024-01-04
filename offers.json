@@ -1,0 +1,31 @@
+{
+	"model": "offers",
+	"data": [
+		{
+			"account": { "set": "13" },
+			"media": null,
+			"title": "My 4th Street Basic Offer"
+		},
+		{
+			"account": { "set": "13" },
+			"categories": { "set": ["1", "2", "4"] },
+			"channels": { "set": ["1"] },
+			"description": "This is my 4th Street Offer!\nCome and get it!",
+			"leisure_events": { "set": ["3"] },
+			"listings": { "set": ["1"] },
+			"media": {
+				"docs": [
+					{ "image_id": "4", "sort_order": 1 },
+					{ "image_id": "5", "sort_order": 2 }
+				]
+			},
+			"post_from_at": "2024-01-18T07:00:00.000Z",
+			"post_to_at": "2024-01-21T07:00:00.000Z",
+			"redeem_from_at": "2024-01-19T07:00:00.000Z",
+			"redeem_to_at": "2024-01-20T07:00:00.000Z",
+			"tags": { "set": ["2", "3"] },
+			"title": "My 4th Street Full Offer",
+			"weburl": "http://www.4thstreetmarket.com"
+		}
+	]
+}

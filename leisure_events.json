@@ -72,7 +72,7 @@
 				]
 			},
 			"media": { "docs": [{ "image_id": "4", "sort_order": 1 }] },
-			"offers": null,
+			"offers": { "set": "2" },
 			"phone": "15554385427",
 			"rank": { "set": "1" },
 			"social_facebook": "4thstreetmarket",
@@ -80,6 +80,7 @@
 			"social_tiktok": "@4thstreetmarket",
 			"social_x": "@4thstreetmarket",
 			"social_youtube": "@4thstreetmkt",
+			"tags": { "set": ["2", "1"] },
 			"title": "4th Street Market Full Event",
 			"venue_listing": { "set": "1" },
 			"venue_type": { "set": "listing" },
