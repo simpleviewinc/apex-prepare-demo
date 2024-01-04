@@ -11,7 +11,7 @@
 			"categories": { "set": ["1", "2", "4"] },
 			"channels": { "set": ["1"] },
 			"description": "This is my 4th Street Offer!\nCome and get it!",
-			"leisure_events": { "set": ["3"] },
+			"leisure_events": { "set": ["1"] },
 			"listings": { "set": ["1"] },
 			"media": {
 				"docs": [
