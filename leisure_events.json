@@ -19,6 +19,31 @@
 			"media": null,
 			"offers": null,
 			"title": "My 4th Street Event",
+			"venue_listing": { "set": "1" },
+			"venue_type": { "set": "listing" }
+		},
+		{
+			"account": { "set": "114" },
+			"contact": null,
+			"host_type": { "set": "listing" },
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"count": null,
+						"days": { "docs": [{ "label": "Friday", "day_id": "friday" }] },
+						"end_date_at": "2024-06-19T07:00:00.000Z",
+						"interval": 2,
+						"leisure_event_end_option_id": "date",
+						"leisure_event_frequency_id": "weekly",
+						"start_date_at": "2024-01-12T07:00:00.000Z",
+						"start_time": "7:00 PM"
+					}
+				]
+			},
+			"media": null,
+			"offers": null,
+			"title": "611 Pub Event",
+			"venue_listing": { "set": "4" },
 			"venue_type": { "set": "listing" }
 		}
 	]
