@@ -18,7 +18,7 @@
 			},
 			"media": null,
 			"offers": null,
-			"title": "My 4th Street Event",
+			"title": "My 4th Street Simple Event",
 			"venue_listing": { "set": "1" },
 			"venue_type": { "set": "listing" }
 		},
@@ -42,9 +42,48 @@
 			},
 			"media": null,
 			"offers": null,
-			"title": "611 Pub Event",
+			"title": "611 Pub Simple Event",
 			"venue_listing": { "set": "4" },
 			"venue_type": { "set": "listing" }
+		},
+		{
+			"account": { "set": "13" },
+			"admission": "$5 adult, children under 11 free",
+			"categories": { "set": ["2", "3"] },
+			"channels": { "set": ["1"] },
+			"contact": { "set": "28" },
+			"description": "My 4th Street Event!\nCome and have fun every Friday!",
+			"email": "rebecca.brook@4thstreetmarket.com",
+			"host_listing": { "set": "1" },
+			"host_type": { "set": "listing" },
+			"is_featured": true,
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"count": 52,
+						"days": { "docs": [{ "label": "Friday", "day_id": "friday" }] },
+						"end_date_at": null,
+						"interval": 1,
+						"leisure_event_end_option_id": "occurrences",
+						"leisure_event_frequency_id": "weekly",
+						"start_date_at": "2024-01-05T07:00:00.000Z",
+						"start_time": "2:00 PM"
+					}
+				]
+			},
+			"media": { "docs": [{ "image_id": "4", "sort_order": 1 }] },
+			"offers": null,
+			"phone": "15554385427",
+			"rank": { "set": "1" },
+			"social_facebook": "4thstreetmarket",
+			"social_instagram": "4thstreetmarket",
+			"social_tiktok": "@4thstreetmarket",
+			"social_x": "@4thstreetmarket",
+			"social_youtube": "@4thstreetmkt",
+			"title": "4th Street Market Full Event",
+			"venue_listing": { "set": "1" },
+			"venue_type": { "set": "listing" },
+			"weburl": "http://www.4thstreetmarket.com"
 		}
 	]
 }
