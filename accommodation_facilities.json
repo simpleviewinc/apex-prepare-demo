@@ -2,7 +2,7 @@
 	"model": "accommodation_facilities",
 	"data": [
 		{
-			"accommodation_type": { "set": "16" },
+			"accommodation_types": { "set": "16" },
 			"amenities": { "set": ["airport_shuttle", "cable", "coffee_tea_maker"] },
 			"cancellation_policy": "Must cancel a week in advance.",
 			"check_in_time": "Noon",
