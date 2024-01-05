@@ -2,9 +2,26 @@
 	"model": "dining_facilities",
 	"data": [
 		{
-			"amenities": { "set": ["accessible_parking", "accessible_restaurant"] },
-			"dining_types": { "set": ["7"] },
-			"property_id": "1"
+			"amenities": {
+				"set": [
+					"24_hours",
+					"accessible_restaurant",
+					"bar",
+					"buffet",
+					"cafe"
+				]
+			},
+			"cuisines": { "set": ["3", "6"] },
+			"dietary_options": { "set": ["1"] },
+			"group_dining_policy": "Bring your friends!",
+			"max_seating_capacity": 150,
+			"max_standing_capacity": 20,
+			"meals_served": { "set": ["1", "2", "4", "3"] },
+			"menu_link": "http://4thstreetmarket.com/menu",
+			"price": { "set": "2" },
+			"private_dining_capacity": 25,
+			"property_id": "1",
+			"reservation_link": "http://4thstreetmarket.com"
 		}
 	]
 }

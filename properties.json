@@ -25,6 +25,11 @@
 			"account_id":"115",
 			"name":"A Cottage Property",
 			"property_type_id":"1"
+		},
+		{
+			"account_id":"13",
+			"name":"4th Street Event Center",
+			"property_type_id":"6"
 		}
 	]
 }

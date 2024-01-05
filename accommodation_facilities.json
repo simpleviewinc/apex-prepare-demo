@@ -2,8 +2,12 @@
 	"model": "accommodation_facilities",
 	"data": [
 		{
-			"accommodation_types": { "set": ["3"] },
-			"property_id": "1",
+			"accommodation_types": { "set": "16" },
+			"amenities": { "set": ["airport_shuttle", "cable", "coffee_tea_maker"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "Noon",
+			"check_out_time": "10 AM",
+			"reservation_link": "http://www.myhotel.com",
 			"sleeping_rooms": {
 				"docs": [
 					{ "room_type_id": "1", "count": 1, "capacity": 2 },
