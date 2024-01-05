@@ -13,7 +13,6 @@
 			},
 			"cuisines": { "set": ["3", "6"] },
 			"dietary_options": { "set": ["1"] },
-			"establishment_types": { "set": ["5"] },
 			"group_dining_policy": "Bring your friends!",
 			"max_seating_capacity": 150,
 			"max_standing_capacity": 20,
