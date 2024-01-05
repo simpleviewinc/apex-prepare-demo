@@ -10,7 +10,8 @@
 				]
 			},
 			"property_id": "1",
-			"rooms": 20
+			"rooms": 20,
+			"meeting_facility_types": { "set": ["4"] }
 		}
 	]
 }
