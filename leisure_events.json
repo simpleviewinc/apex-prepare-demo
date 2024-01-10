@@ -83,6 +83,61 @@
 			"venue_listing": { "set": "1" },
 			"venue_type": { "set": "listing" },
 			"weburl": "http://www.4thstreetmarket.com"
+		},
+		{
+			"account": { "set": "127" },
+			"description": "Join us for an open mic night of stand up comedy at Laffs. Bring your jokes to the stage, sign up at 8pm show begins at 8:30pm!\n\nGeneral Admission: free, box office opens a half hour prior to show time.\nBeer, Wine, drinks, and snacks!",
+			"host_type": { "set": "listing" },
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"days": { "docs": [{ "label": "Thursday", "day_id": "thursday" }] },
+						"interval": 1,
+						"leisure_event_end_option_id": "never",
+						"leisure_event_frequency_id": "weekly",
+						"start_date_at": "2024-01-11T07:00:00.000Z",
+						"start_time": "8:00 PM"
+					}
+				]
+			},
+			"title": "Open Mic Night",
+			"venue_type": { "set": "listing" }
+		},
+		{
+			"account": { "set": "113" },
+			"description": "Live performance by music superstar Ann Derby, one night only!",
+			"host_type": { "set": "listing" },
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"leisure_event_frequency_id": "single_date",
+						"start_date_at": "2024-05-24T07:00:00.000Z",
+						"start_time": "7:00 PM"
+					}
+				]
+			},
+			"title": "Performance by Ann Derby",
+			"venue_type": { "set": "listing" }
+		},
+		{
+			"account": { "set": "28" },
+			"description": "Disney On Ice is here in town for the next 10 days! Come by an enjoy the experience!",
+			"host_type": { "set": "listing" },
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"count": 10,
+						"interval": 1,
+						"leisure_event_end_option_id": "occurrences",
+						"leisure_event_frequency_id": "daily",
+						"start_date_at": "2024-04-05T07:00:00.000Z",
+						"start_time": "2:00 PM"
+					}
+				]
+			},
+			"title": "Disney On Ice - Follow Your Heart",
+			"venue_type": { "set": "listing" },
+			"weburl": "http://www.disneyonice.com/"
 		}
 	]
 }
