@@ -197,6 +197,26 @@
 			},
 			"title": "Cinco de Mayo Celebration",
 			"venue_type": { "set": "listing" }
+		},
+		{
+			"account": { "set": "60" },
+			"description": "Come and paint our beautiful mountains every other Friday for entire summer!",
+			"host_type": { "set": "listing" },
+			"leisure_event_date_rule_sets": {
+				"docs": [
+					{
+						"count": 6,
+						"days": { "docs": [{ "label": "Friday", "day_id": "friday" }] },
+						"interval": 2,
+						"leisure_event_end_option_id": "occurrences",
+						"leisure_event_frequency_id": "weekly",
+						"start_date_at": "2024-06-01T07:00:00.000Z",
+						"start_time": "5:00 PM"
+					}
+				]
+			},
+			"title": "Painting Mountains!",
+			"venue_type": { "set": "listing" }
 		}
 	]
 }
