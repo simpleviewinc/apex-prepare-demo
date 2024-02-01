@@ -30,7 +30,7 @@
 				"docs": [
 					{
 						"count": null,
-						"days": { "docs": [{ "label": "Friday", "day_id": "friday" }] },
+						"days": { "set": ["friday"] },
 						"end_date_at": "2024-06-19T07:00:00.000Z",
 						"interval": 2,
 						"end_option_id": "date",
@@ -61,7 +61,7 @@
 				"docs": [
 					{
 						"count": 52,
-						"days": { "docs": [{ "label": "Friday", "day_id": "friday" }] },
+						"days": { "set": ["friday"] },
 						"end_date_at": null,
 						"interval": 1,
 						"end_option_id": "occurrences",
