@@ -3673,6 +3673,15 @@
 					"is_shipping": true
 				}
 			}
+		},
+		{
+			"account_name": "Laffs Comedy",
+			"engagement_level": { "set": "2" },
+			"groups": { "set": ["2", "1"] },
+			"is_active": true,
+			"keywords": "Comedy, Cocktails",
+			"region": { "set": "1" },
+			"weburl": "https://laffscomedyclub.com/"
 		}
 	]
 }
