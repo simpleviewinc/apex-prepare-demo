@@ -50,6 +50,7 @@
 			"account": { "set": "13" },
 			"admission": "$5 adult, children under 11 free",
 			"categories": { "set": ["2", "3"] },
+			"tags": { "set": ["1", "2"] },
 			"channels": { "set": ["1"] },
 			"contact": { "set": "28" },
 			"description": "My 4th Street Event!\nCome and have fun every Friday!",
@@ -72,8 +73,11 @@
 				]
 			},
 			"media": { "docs": [{ "image_id": "4", "sort_order": 1 }] },
+			"offers": { "set": "2" },
 			"phone": "15554385427",
 			"rank": { "set": "1" },
+			"post_from_at": "2024-01-18T07:00:00.000Z",
+			"post_to_at": "2024-01-21T07:00:00.000Z",
 			"social_facebook": "4thstreetmarket",
 			"social_instagram": "4thstreetmarket",
 			"social_tiktok": "@4thstreetmarket",
@@ -82,7 +86,10 @@
 			"title": "4th Street Market Full Event",
 			"venue_listing": { "set": "1" },
 			"venue_type": { "set": "listing" },
-			"weburl": "http://www.4thstreetmarket.com"
+			"weburl": "http://www.4thstreetmarket.com",
+			"doors_open": "8:00 AM",
+			"purchase_tickets": "https://www.4thstreetmarket.com/gift-cards",
+			"premium_upgrade": "https://www.4thstreetmarket.com/private-event-space#event-contact-form"
 		}
 	]
 }
