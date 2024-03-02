@@ -25,6 +25,32 @@
 			"tags": { "set": ["2", "3"] },
 			"title": "My 4th Street Full Offer",
 			"weburl": "http://www.4thstreetmarket.com"
+		},
+		{
+			"account": { "set": "2" },
+			"categories": { "set": ["3"] },
+			"channels": { "set": ["1","3"] },
+			"listings": { "set": ["2"] },
+			"post_from_at": "2023-01-12T07:00:00.000Z",
+			"post_to_at": "2024-05-31T07:00:00.000Z",
+			"redeem_from_at": "2023-01-12T07:00:00.000Z",
+			"redeem_to_at": "2024-05-31T07:00:00.000Z",
+			"description": "Settle in and save on 5+ consecutive nights. Book by Monday,May 27, 2024. Minimum stay 5+ nights at hotels, 7+ nights at resorts.\nAvailable at participating properties in the U.S., Canada, Caribbean and Latin America only.\n\nUnlock amazing benefits. Join Marriott Bonvoy™.\nHow to Book\nBe sure that the Promotional Code appears in the Corporate/Promotional code box when making your online reservation, or call 1-800-228-9290 and ask for the promotional code. For toll-free numbers outside the US please visit Global Reservation Numbers\n",
+			"title": "Save on 5+ Nights",
+			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp"
+		},
+		{
+			"account": { "set": "2" },
+			"categories": { "set": ["2","3"] },
+			"channels": { "set": ["1"] },
+			"listings": { "set": ["2"] },
+			"post_from_at": "2023-12-01T07:00:00.000Z",
+			"post_to_at": "2025-01-01T07:00:00.000Z",
+			"redeem_from_at": "2024-01-01T07:00:00.000Z",
+			"redeem_to_at": "2025-01-15T07:00:00.000Z",
+			"description": "Escape to a world of serenity and relaxation with our Spa Retreats Package at the JW Marriott Starr Pass. \nUnwind, rejuvenate, and embrace the tranquility of every moment. Your retreat includes one 50 minute spa treatment per day, and a daily resort credit of $50. Your pathway to unparalleled is one click away.\nHow to Book\n\nBe sure that the Promotional Code appears in the Corporate/Promotional code box when making your online reservation, or call 520-791-6117 and ask for the promotional code. For toll-free numbers outside the US please visit Global Reservation Numbers\nNeed to Know\n\n    Promotional Code: SPA\n    Valid stay dates: January 18, 2024 - January 15, 2025\n",
+			"title": "Spa Retreats - Relax and Rejuvenate",
+			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp"
 		}
 	]
 }

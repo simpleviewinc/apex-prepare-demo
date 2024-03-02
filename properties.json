@@ -13,8 +13,14 @@
 		},
 		{
 			"account_id":"2",
-			"name":"Star Pass Property",
-			"property_type_id":"1"
+			"name":"JW Marriott Tucson Starr Pass Resort & Spa",
+			"property_type_id":"1",	
+			"brand":"JW Marriott",
+			"built_at":"2005-01-01T07:00:00.000Z",
+			"renovated_at":"2013-01-01T07:00:00.000Z",
+			"number_of_floors": 8,
+			"parking": { "set": ["1","2","3","4","6","8"] },
+			"languages_spoken": { "set": ["4","5","15"] }
 		},
 		{
 			"account_id":"8",
