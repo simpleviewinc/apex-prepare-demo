@@ -48,9 +48,9 @@
 			"engagement_level_id": "2",
 			"market_segment_id": "72",
 			"source_id": "3",
-			"social_facebook": "https://www.facebook.com/jwstarrpass/",
-			"social_instagram": "https://www.instagram.com/jwstarrpass/",
-			"social_x": "https://twitter.com/JWStarrPass",
+			"social_facebook": "jwstarrpass",
+			"social_instagram": "jwstarrpass",
+			"social_x": "@JWStarrPass",
 			"geo_coordinates": {
 				"lat": 32.2158531,
 				"long": -111.0500871

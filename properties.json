@@ -20,7 +20,9 @@
 			"renovated_at":"2013-01-01T07:00:00.000Z",
 			"number_of_floors": 8,
 			"parking": { "set": ["1","2","3","4","6","8"] },
-			"languages_spoken": { "set": ["4","5","15"] }
+			"languages_spoken": { "set": ["4","5","15"] },
+			"contact_id":"11",
+			"amenities": { "set": ["airport_shuttle"] }
 		},
 		{
 			"account_id":"8",
@@ -36,6 +38,24 @@
 			"account_id":"13",
 			"name":"4th Street Event Center",
 			"property_type_id":"6"
+		},
+		{
+			"account_id":"2",
+			"name":"The Club at Starr Pass",
+			"property_type_id":"6",
+			"built_at":"1986-01-01T07:00:00.000Z",
+			"renovated_at":"1993-01-01T07:00:00.000Z",
+			"parking": { "set": ["1","2","3","4","6","8"] },
+			"contact_id":"25",
+			"weburl":"https://www.theclubatstarrpass.com/",
+			"email": "info@theclubatstarrpass.com",
+			"geo_coordinates": {
+				"lat": 32.2088722,
+				"long": -111.0431067
+			},
+			"social_facebook":"starrpassgc",
+			"social_instagram":"theclubatstarrpass",
+			"social_youtube":"@troon"
 		}
 	]
 }

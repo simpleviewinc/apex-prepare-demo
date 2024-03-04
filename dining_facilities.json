@@ -22,6 +22,24 @@
 			"private_dining_capacity": 25,
 			"property_id": "1",
 			"reservation_link": "http://4thstreetmarket.com"
+		},
+		{
+			"amenities": {
+				"set": [
+					"accessible_restaurant",
+					"bar",
+					"champagne_service",
+					"smoke_free_property",
+					"lounge"
+				]
+			},
+			"cuisines": { "set": ["3"] },
+			"meals_served": { "set": ["3", "4"] },
+			"dining_types": { "set": ["1", "5"] },
+			"menu_link": "https://www.theclubatstarrpass.com/Files/Library/CBCOMENU1_12JSH2.PDF",
+			"price": { "set": "2" },
+			"property_id": "7",
+			"reservation_link": "https://www.opentable.com/r/catalina-sports-bar-tucson"
 		}
 	]
 }

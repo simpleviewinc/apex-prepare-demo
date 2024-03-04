@@ -90,6 +90,67 @@
 			"doors_open": "8:00 AM",
 			"purchase_tickets": "https://www.4thstreetmarket.com/gift-cards",
 			"premium_upgrade": "https://www.4thstreetmarket.com/private-event-space#event-contact-form"
+		},
+		{
+			"account": { "set": "2" },
+			"categories": { "set": ["1", "2", "5"] },
+			"channels": { "set": ["1"] },
+			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": null,
+						"end_option_id": null,
+						"frequency_id": "single_date",
+						"start_date_at": "2024-03-08T07:00:00.000Z",
+						"start_time": "04:00 PM",
+						"end_time": "06:00 PM"
+					}
+				]
+			},
+			"is_featured": true,
+			"title": "Wildlife Wonders - Juried Exhibition of the Society of Animal Artists",
+			"venue_listing": { "set": "2" },
+			"venue_type": { "set": "listing" },
+			"host_listing": { "set": "3" },
+			"host_type": { "set": "listing" },
+			"social_facebook": "SocietyOfAnimalArtists",
+			"social_instagram": "societyofanimalartists",
+			"weburl": "https://www.desertmuseumarts.com/wildlife-wonders",
+			"email": "arts@desertmuseum.org",
+			"phone": "(520) 883-3024",
+			"rank": { "set": "1" },
+			"post_from_at": "2024-03-01T07:00:00.000Z"			
+		},
+		{
+			"account": { "set": "2" },
+			"admission": "$45. Adults, Youth $25",
+			"categories": { "set": ["2", "7"] },
+			"channels": { "set": ["1","7"] },
+			"description": "The Amerind Museum presents the 5th Annual Texas Canyon Mountain Bike Race.  Saturday, May 18, 2024 is your opportunity to enjoy this awe-inspiring region that is normally closed to bikes. Experience mountain biking at its best on a course that takes you on one or two 7.9-mile loops through spectacular Texas Canyon. \nOpen to ages 12-99, participants may select from three event options, including a non-competitive e-bike course.  Awards will be given to overall Male and Female winners in both races and 1st through 3rd Place Male and Female in each race division.  Awards will not be given in the non-competitive e-bike division.\nRace Divisions: Jr Male/Female 12-19, Male/Female 20-59, Male/Female 60+\nAfter the awards ceremony simply show your bike plate number or free guest passes to the admissions desk for free entry into the Amerind Museum, Art Gallery and, Nature Preserve hiking trails included with registration.  Make a day of it!\nParticipation in the event enables Amerind to further its mission of fostering and promoting knowledge and understanding of the Native Peoples of the Americas through research, education, conservation, and community engagement.\nThe race starts at 7:30 am. for the 2 lap (15.8 mile) division and 7:40 am for the 1 lap (7.9 mile) division. E-bikes will start at 7:45 am - AFTER all competitive riders have cleared the start line.\n",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": null,
+						"end_option_id": null,
+						"frequency_id": "single_date",
+						"start_date_at": "2024-05-18T07:00:00.000Z",
+						"start_time": "07:30 AM",
+						"end_time": "11:00 AM"
+					}
+				]
+			},
+			"is_featured": true,
+			"title": "5th Annual Texas Canyon Mountain Bike Race",
+			"venue_listing": { "set": "7" },
+			"venue_type": { "set": "listing" },
+			"weburl": "https://www.amerind.org/events/texas-canyon-mountain-bike-race-5/",
+			"email": "mohnesorgen@amerind.org",
+			"phone": "(520) 686-1336",
+			"rank": { "set": "2" },
+			"post_from_at": "2024-03-01T07:00:00.000Z",
+			"purchase_tickets": "https://bit.ly/TCMBR24",
+			"doors_open": "7:30 AM"			
 		}
 	]
 }
