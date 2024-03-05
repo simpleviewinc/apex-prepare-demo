@@ -22,7 +22,21 @@
 			"parking": { "set": ["1","2","3","4","6","8"] },
 			"languages_spoken": { "set": ["4","5","15"] },
 			"contact_id":"11",
-			"amenities": { "set": ["airport_shuttle"] }
+			"amenities": {
+				"set": [
+					"airport_shuttle",
+					"atm_banking_on_site",
+					"business_center",
+					"conference_center",
+					"multilingual_staff",
+					"outdoor_ramps",
+					"service_animals_allowed",
+					"smoke_free_property",
+					"wheelchair_accessible_elevator",
+					"wheelchair_width_doors",
+					"wifi_internet_free"
+				]
+			}
 		},
 		{
 			"account_id":"8",
@@ -55,7 +69,42 @@
 			},
 			"social_facebook":"starrpassgc",
 			"social_instagram":"theclubatstarrpass",
-			"social_youtube":"@troon"
+			"social_youtube":"@troon",
+			"amenities": {
+				"set": [
+					"airport_shuttle",
+					"atm_banking_on_site",
+					"desert_view",
+					"multilingual_staff",
+					"outdoor_ramps",
+					"outdoor_entertainment_area",
+					"pool_outdoor",
+					"service_animals_allowed",
+					"smoke_free_property",
+					"spa",
+					"terrace"
+				]
+			},
+			"phones": {
+				"docs": [
+					{
+						"phone_number": "15209008210",
+						"is_primary": true,
+						"phone_type_id": "direct"
+					}
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "3645 W. Starr Pass Blvd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Tucson",
+					"state_id": "US_AZ",
+					"postal_code": "85713",
+					"country_id": "US"
+				}
+			}
 		}
 	]
 }

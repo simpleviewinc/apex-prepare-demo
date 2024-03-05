@@ -105,6 +105,15 @@
 						"start_date_at": "2024-03-08T07:00:00.000Z",
 						"start_time": "04:00 PM",
 						"end_time": "06:00 PM"
+					},
+					{
+						"interval": 1,
+						"end_option_id": null,
+						"frequency_id": "daily",
+						"start_date_at": "2024-03-09T07:00:00.000Z",
+						"start_time": "10:00 AM",
+						"end_date_at": "2024-06-09T07:00:00.000Z",
+						"end_time": "04:00 PM"
 					}
 				]
 			},
@@ -142,6 +151,8 @@
 			},
 			"is_featured": true,
 			"title": "5th Annual Texas Canyon Mountain Bike Race",
+			"host_name": "Amerind Museum",
+			"host_type": { "set": "custom" },
 			"venue_listing": { "set": "7" },
 			"venue_type": { "set": "listing" },
 			"weburl": "https://www.amerind.org/events/texas-canyon-mountain-bike-race-5/",

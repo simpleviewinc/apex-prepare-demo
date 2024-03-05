@@ -14,8 +14,12 @@
 			"title": "Starr Pass Resort - Accommodations - Resorts",
 			"description": "Welcome to JW Marriott Tucson Starr Pass Resort & Spa. A desert oasis near downtown Tucson, AZ. Stay where style and comfort intersect at JW Marriott Tucson Starr Pass Resort & Spa. Located near downtown Tucson, AZ, our hotel offers uncomplicated relaxation amid the city's top attractions. Featuring luxury amenities and excellent service, our downtown resort is a sanctuary where your comfort is always a certainty. Test your swing on the Arnold Palmer-designed desert golf courses, pamper yourself at our spa or take a dip in our multi-level pool and lazy river. Hike and bike on Tucson’s spectacular trails or explore Mountain Park, Kino Sports complex and Old Tucson Studios. In the evening, indulge in delicious cuisine in one of our resort's buzz-worthy restaurants before retreating to well-appointed rooms and suites with stylish decor, plush bedding and separate sitting areas. If visiting downtown Tucson for business or social events, succeed like never before in our sophisticated venues with room for up to 3,300 guests. Let JW Marriott Tucson Starr Pass Resort & Spa ensure a memorable stay.",
 			"keywords": "resort, spa, golf",
+			"is_featured": true,
+			"rank": { "set": "1" },
 			"property": { "set": "3" },
-			"subcategories": { "set": ["3"] }
+			"subcategories": { "set": ["3"] },
+			"channels": { "set": ["1","3"] },
+			"post_from_at": "2024-02-15T07:00:00.000Z"
 		},
 		{
 			"account": { "set": "8" },
