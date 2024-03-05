@@ -74,12 +74,15 @@
 				"set": [
 					"airport_shuttle",
 					"atm_banking_on_site",
+					"desert_view",
 					"multilingual_staff",
+					"outdoor_entertainment_area",
 					"outdoor_ramps",
 					"pool_outdoor",
 					"service_animals_allowed",
 					"smoke_free_property",
-					"spa"
+					"spa",
+					"terrace"
 				]
 			},
 			"phones": {
