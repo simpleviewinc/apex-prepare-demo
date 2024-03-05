@@ -20,6 +20,11 @@
 			"listing_id": "1",
 			"image_id": "6",
 			"sort_order": 4
+		},
+		{
+			"leisure_event_id": "5",
+			"image_id": "8",
+			"sort_order": 1
 		}
 	]
 }
