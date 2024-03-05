@@ -4,7 +4,7 @@
 		{
 			"name": "Arizona Ballroom",
 			"width": 174,
-			"meeting_facilities": { "set": ["2"] }
+			"meeting_facility_id": "2"
 		}
 	]
 }
