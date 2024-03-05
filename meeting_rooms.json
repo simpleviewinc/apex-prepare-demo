@@ -2,9 +2,14 @@
 	"model": "meeting_rooms",
 	"data": [
 		{
+            "meeting_facility_id": "2",
 			"name": "Arizona Ballroom",
 			"width": 174,
-			"meeting_facility_id": "2"
+			"length": 114,
+            "height":19,
+            "area": 19836.00,
+            "partitions": 12,
+            "description": "Partitionable into 2 large rooms and 10 smaller"
 		}
 	]
 }
