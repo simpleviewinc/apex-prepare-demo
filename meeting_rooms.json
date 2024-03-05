@@ -4,7 +4,7 @@
 		{
             "meeting_facility_id": "2",
 			"name": "Arizona Ballroom",
-            "type": { "set": ["2"] },
+            "type": { "set": ["Ballroom"] },
 			"width": 53.03,
 			"length": 34.74,
             "height": 5.79,
