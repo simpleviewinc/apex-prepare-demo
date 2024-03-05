@@ -3,7 +3,7 @@
 	"data": [
 		{
             "meeting_room_id": "1",
-			"type": { "set": ["8"] },
+			"type_id": { "set": ["8"] },
             "capacity": 2000 
 		}
 	]
