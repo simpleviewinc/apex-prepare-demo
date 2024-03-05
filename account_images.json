@@ -60,6 +60,16 @@
 			"credits":"Staff Photo",
 			"is_publication_consent": true,
 			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"Bike Image",
+			"type_id":"image",
+			"file_id": "8",
+			"alt_text":"Bike Image",
+			"credits":"Staff Photo",
+			"is_publication_consent": true,
+			"is_deleted": false
 		}
 	]
 }
