@@ -13,7 +13,10 @@
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
 				"docs": [
-					{ "type_id": "1","capacity": 100 }
+					{ "type_id": "8", "column": "none", "capacity": 2000 },
+                    { "type_id": "4", "column": "none", "capacity": 1332 },
+                    { "type_id": "7", "column": "none", "capacity": 1900 },
+                    { "type_id": "2", "column": "none", "capacity": 980 }
 				]
 			}
 		},
@@ -26,7 +29,15 @@
             "height": 6.40,
             "area": 1362.88,
             "partitions": 12,
-            "description": "Partitionable into 2 large rooms and 10 smaller"
+            "description": "Partitionable into 2 large rooms and 10 smaller",
+            "configurations": {
+				"docs": [
+					{ "type_id": "8", "column": "none", "capacity": 1350 },
+                    { "type_id": "4", "column": "none", "capacity": 952 },
+                    { "type_id": "7", "column": "none", "capacity": 1300 },
+                    { "type_id": "2", "column": "none", "capacity": 780 }
+				]
+			}
 		},
         {
             "meeting_facility_id": "2",
@@ -35,7 +46,13 @@
 			"width": 52.42,
 			"length": 17.07,
             "area": 1393.54,
-            "description": "Select our Ania Terrace for a beautiful outdoor cocktail reception or other special event. Our creative design staff can set the stage for any type of gathering, making memories that will last."
+            "description": "Select our Ania Terrace for a beautiful outdoor cocktail reception or other special event. Our creative design staff can set the stage for any type of gathering, making memories that will last.",
+            "configurations": {
+				"docs": [
+                    { "type_id": "7", "column": "none", "capacity": 800 },
+                    { "type_id": "2", "column": "none", "capacity": 600 }
+				]
+			}
 		}
 	]
 }
