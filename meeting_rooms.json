@@ -13,7 +13,7 @@
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
 				"docs": [
-					{ "type_id": "1", "column": "none", "capacity": 100 }
+					{ "type_id": "1","capacity": 100 }
 				]
 			}
 		},
