@@ -1,0 +1,10 @@
+{
+	"model": "meeting_rooms",
+	"data": [
+		{
+			"name": "Arizona Ballroom",
+			"width": 174,
+			"meeting_facility": { "set": ["2"] }
+		}
+	]
+}

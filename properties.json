@@ -102,7 +102,8 @@
 					"city": "Tucson",
 					"state_id": "US_AZ",
 					"postal_code": "85713",
-					"country_id": "US"
+					"country_id": "US",
+					"is_physical": true
 				}
 			}
 		}
