@@ -10,11 +10,17 @@
             "height": 5.79,
             "area": 1842.82,
             "partitions": 12,
-            "description": "Partitionable into 2 large rooms and 10 smaller"
+            "description": "Partitionable into 2 large rooms and 10 smaller",
+            "configurations": {
+				"docs": [
+					{ "type_id": "1", "column": "none", "capacity": 100 }
+				]
+			}
 		},
         {
             "meeting_facility_id": "2",
 			"name": "Tucson Ballroom",
+            "type_id": "2",
 			"width": 49.68,
 			"length": 27.43,
             "height": 6.40,
@@ -25,6 +31,7 @@
         {
             "meeting_facility_id": "2",
 			"name": "Ania Terrace",
+            "type_id": "3",
 			"width": 52.42,
 			"length": 17.07,
             "area": 1393.54,
