@@ -79,6 +79,87 @@
 			"alt_text":"Night shot with stars night",
 			"is_publication_consent": true,
 			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"Hashani Spa Starr Pass",
+			"type_id":"image",
+			"file_id": "10",
+			"alt_text":"Hashani Spa Starr Pass",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"JW Marriott Starr Pass Logo",
+			"type_id":"logo",
+			"file_id": "11",
+			"alt_text":"JW Marriott Starr Pass Logo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"Pool and Moon",
+			"type_id":"image",
+			"file_id": "12",
+			"alt_text":"Pool and Moon",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"reflections pool view",
+			"type_id":"image",
+			"file_id": "13",
+			"alt_text":"reflections pool view",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"SPG9",
+			"type_id":"image",
+			"file_id": "14",
+			"alt_text":"Golf course",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"club logo",
+			"type_id":"logo",
+			"file_id": "15",
+			"alt_text":"club logo",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"TUSSP Signature Shot",
+			"type_id":"image",
+			"file_id": "16",
+			"alt_text":"Signature Shot",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"SP golfer teeing off",
+			"type_id":"image",
+			"file_id": "17",
+			"alt_text":"SP golfer teeing off",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"wildlife wonders",
+			"type_id":"image",
+			"file_id": "18",
+			"alt_text":"wildlife wonders",
+			"is_publication_consent": true,
+			"is_deleted": false
 		}
 	]
 }
