@@ -1,0 +1,24 @@
+{
+	"model": "sports_facilities",
+	"data": [
+		{
+			"amenities": {
+				"set": [
+					"coaching",
+					"golf_cart",
+					"golf_clubhouse",
+					"golf_driving_range",
+					"golf_equipment",
+                    "golfing_lessons",
+                    "golf_pro_shop",
+                    "green_fees"
+				]
+			},
+            "designer_architect": "Bob Cupp, Craig Stadler and Arnold Palmer",
+			"property_id": "7",
+            "sports_facility_types": { "set": "4" },
+			"sports": { "set": ["31"] },
+			"year_established_at": "1986-01-01T07:00:00.000Z"			
+		}
+	]
+}

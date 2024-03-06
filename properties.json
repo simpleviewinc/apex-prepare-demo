@@ -13,8 +13,34 @@
 		},
 		{
 			"account_id":"2",
-			"name":"Star Pass Property",
-			"property_type_id":"1"
+			"name":"JW Marriott Tucson Starr Pass Resort & Spa",
+			"property_type_id":"1",	
+			"brand":"JW Marriott",
+			"built_at":"2005-01-01T07:00:00.000Z",
+			"renovated_at":"2013-01-01T07:00:00.000Z",
+			"number_of_floors": 8,
+			"parking": { "set": ["1","2","3","4","6","8"] },
+			"languages_spoken": { "set": ["4","5","15"] },
+			"contact_id":"11",
+			"threshold360_id": "7684201-200189",
+			"yelp_id": "jw-marriotttucson-starr-pass-resort-and-spa-tucson",
+			"tripadvisor_id": "503078",
+			"tripadvisor_category_id": "hotel",
+			"amenities": {
+				"set": [
+					"airport_shuttle",
+					"atm_banking_on_site",
+					"business_center",
+					"conference_center",
+					"multilingual_staff",
+					"outdoor_ramps",
+					"service_animals_allowed",
+					"smoke_free_property",
+					"wheelchair_accessible_elevator",
+					"wheelchair_width_doors",
+					"wifi_internet_free"
+				]
+			}
 		},
 		{
 			"account_id":"8",
@@ -30,6 +56,60 @@
 			"account_id":"13",
 			"name":"4th Street Event Center",
 			"property_type_id":"6"
+		},
+		{
+			"account_id":"2",
+			"name":"The Club at Starr Pass",
+			"property_type_id":"6",
+			"built_at":"1986-01-01T07:00:00.000Z",
+			"renovated_at":"1993-01-01T07:00:00.000Z",
+			"parking": { "set": ["1","2","3","4","6","8"] },
+			"contact_id":"25",
+			"weburl":"https://www.theclubatstarrpass.com/",
+			"email": "info@theclubatstarrpass.com",
+			"geo_coordinates": {
+				"lat": 32.2088722,
+				"long": -111.0431067
+			},
+			"social_facebook":"starrpassgc",
+			"social_instagram":"theclubatstarrpass",
+			"social_youtube":"@troon",
+			"amenities": {
+				"set": [
+					"airport_shuttle",
+					"atm_banking_on_site",
+					"desert_view",
+					"multilingual_staff",
+					"outdoor_entertainment_area",
+					"outdoor_ramps",
+					"pool_outdoor",
+					"service_animals_allowed",
+					"smoke_free_property",
+					"spa",
+					"terrace"
+				]
+			},
+			"phones": {
+				"docs": [
+					{
+						"phone_number": "15209008210",
+						"is_primary": true,
+						"phone_type_id": "direct"
+					}
+				]
+			},
+			"addresses": {
+				"docs": {
+					"address_line_1": "3645 W. Starr Pass Blvd",
+					"address_line_2": null,
+					"address_line_3": null,
+					"city": "Tucson",
+					"state_id": "US_AZ",
+					"postal_code": "85713",
+					"country_id": "US",
+					"is_physical": true
+				}
+			}
 		}
 	]
 }

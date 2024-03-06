@@ -35,16 +35,27 @@
 			}
 		},
 		{
-			"account_name": "Starr Pass Resort",
-			"former_account_name": "JW Marriott",
-			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+			"account_name": "JW Marriott Tucson Starr Pass Resort & Spa",
+			"former_account_name": "Starr Pass Marriott Resort and Spa",
+			"weburl": "https://www.marriott.com/en-us/hotels/tussp-jw-marriott-tucson-starr-pass-resort-and-spa/overview/",
 			"account_description": "a luxury hotel with world-class golf, excellent dining and resort amenities near downtown Tucson.",
 			"keywords": "Hotel, Resort, Spa, Golf",
+			"email": "info@jwmarriottstarrpass.com",
 			"is_deleted": false,
 			"is_active": true,
+			"is_send_email": true,
 			"region_id": "7",
 			"engagement_level_id": "2",
 			"market_segment_id": "72",
+			"source_id": "3",
+			"social_facebook": "jwstarrpass",
+			"social_instagram": "jwstarrpass",
+			"social_x": "@JWStarrPass",
+			"tags": { "set": ["3"] },
+			"geo_coordinates": {
+				"lat": 32.2158531,
+				"long": -111.0500871
+			},
 			"groups": {
 				"set": [
 					"1",
@@ -65,6 +76,25 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"phones": {
+				"docs": [
+					{
+						"phone_number": "15207923500",
+						"is_primary": true,
+						"phone_type_id": "direct"
+					},
+					{
+						"phone_number": "18885278989",
+						"is_primary": false,
+						"phone_type_id": "toll_free"
+					},
+					{
+						"phone_number": "15207923351",
+						"is_primary": false,
+						"phone_type_id": "fax"
+					}
+				]
 			}
 		},
 		{

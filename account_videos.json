@@ -39,6 +39,15 @@
 			"credits":"KLIX - So Cal's Online Hotspot",
 			"is_publication_consent": true,
 			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"JW Marriott Starr Pass Virtual Property Tour",
+			"type_id":"youtube",
+			"external_id":"um2ctDKy28A",
+			"credits":"JW Marriott Starr Pass",
+			"is_publication_consent": true,
+			"is_deleted": false
 		}
 	]
 }
