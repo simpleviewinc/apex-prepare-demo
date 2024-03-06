@@ -25,6 +25,11 @@
 			"leisure_event_id": "5",
 			"image_id": "7",
 			"sort_order": 1
+		},
+		{
+			"offer_id": "3",
+			"image_id": "8",
+			"sort_order": 2
 		}
 	]
 }

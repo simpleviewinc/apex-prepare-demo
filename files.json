@@ -45,9 +45,15 @@
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/440abfa3-e310-4cb6-9f1a-08cac912fa16-a-Bike-Race.jpg",
-			"name": "Bike-Race",
+			"name": "Bike-Race.jpg",
 			"guid": "cec570d8-4da7-4809-9c70-23fae11249e9",
 			"file_size": 135749
+		},
+		{
+			"filestorage_id": "cloudinary://apex/account_images/file/e21ed186-1c4c-4044-b7dd-e85e3699d5fe-a-Night-Shot-with-Stars_night.jpg",
+			"name": "Night-Shot-with-Stars_night.jpg",
+			"guid": "e32cc49e-b8ee-4eb0-b1f3-d95cbf5f70b1",
+			"file_size": 78540
 		}
 	]
 }
