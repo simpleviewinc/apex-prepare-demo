@@ -18,7 +18,12 @@
 			"property_id": "7",
             "sports_facility_types": { "set": "4" },
 			"sports": { "set": ["31"] },
-			"year_established_at": "1986-01-01T07:00:00.000Z"
+			"year_established_at": "1986-01-01T07:00:00.000Z",
+			"sports_facility_spaces": {
+				"docs": [
+                    { "name": "Roadrunner", "type_id": "8", "location_id": "2" }
+				]
+			}
 		}
 	]
 }
