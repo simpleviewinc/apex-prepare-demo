@@ -21,7 +21,7 @@
 			"year_established_at": "1986-01-01T07:00:00.000Z",
 			"sports_facility_spaces": {
 				"docs": [
-                    { "sports_facility_id": "1", "name": "Roadrunner", "type_id": "8", "location_id": "2" }
+                    { "sports_facility_id": "1", "name": "Roadrunner", "type_id": "8" }
 				]
 			}
 		}
