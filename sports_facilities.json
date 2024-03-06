@@ -21,9 +21,9 @@
 			"year_established_at": "1986-01-01T07:00:00.000Z",
 			"sports_facility_spaces": {
 				"docs": [
-                    { "sports_facility_id": "1", "name": "Rattler", "type_id": "8", "surface_types": {"set": [ "2","3" ] }},
-					{ "sports_facility_id": "1", "name": "Roadrunner", "type_id": "8", "location_id": "outdoor" },
-					{ "sports_facility_id": "1", "name": "Coyote", "type_id": "8", "location_id": "outdoor" }
+                    { "sports_facility_id": "1", "name": "Rattler", "type_id": "8", "surface_types": {"set": [ "1" ] }},
+					{ "sports_facility_id": "1", "name": "Roadrunner", "type_id": "8", "location_id": "outdoor", "surface_types": {"set": [ "1" ] } },
+					{ "sports_facility_id": "1", "name": "Coyote", "type_id": "8", "location_id": "outdoor", "surface_types": {"set": [ "1" ] } }
 				]
 			}
 		}

@@ -22,6 +22,10 @@
 			"parking": { "set": ["1","2","3","4","6","8"] },
 			"languages_spoken": { "set": ["4","5","15"] },
 			"contact_id":"11",
+			"threshold360_id": "7684201-200189",
+			"yelp_id": "jw-marriotttucson-starr-pass-resort-and-spa-tucson",
+			"tripadvisor_id": "503078",
+			"tripadvisor_category_id": "hotel",
 			"amenities": {
 				"set": [
 					"airport_shuttle",
