@@ -108,6 +108,12 @@
 			"name": "wildlife_wonders.png",
 			"guid": "03f9351a-5bb6-4210-9e36-88aa1dec0594",
 			"file_size": 731733 
+		},
+		{
+			"filestorage_id": "gcp://apex/meeting_facilities/floor_plans/a45c2cc1-a2ae-48da-8fae-346a59552098-a-Meeting-Space-Capacities.pdf",
+			"name": "Meeting-Space-Capacities.pdf",
+			"guid": "9d659683-e1fd-41ab-86bd-452202420911",
+			"file_size": 113911 
 		}
 	]
 }
