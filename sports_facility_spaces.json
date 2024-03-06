@@ -1,0 +1,12 @@
+{
+	"model": "sports_facility_spaces",
+	"data": [
+		{
+            "sports_facility_id": "1",
+			"name": "Rattler",
+            "type_id": "8",
+			"location_id": "outdoor",
+			"surface_types": {"set": [ "1" ] }
+		}
+	]
+}
