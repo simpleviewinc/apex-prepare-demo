@@ -14,8 +14,12 @@
 			"title": "Starr Pass Resort - Accommodations - Resorts",
 			"description": "Welcome to JW Marriott Tucson Starr Pass Resort & Spa. A desert oasis near downtown Tucson, AZ. Stay where style and comfort intersect at JW Marriott Tucson Starr Pass Resort & Spa. Located near downtown Tucson, AZ, our hotel offers uncomplicated relaxation amid the city's top attractions. Featuring luxury amenities and excellent service, our downtown resort is a sanctuary where your comfort is always a certainty. Test your swing on the Arnold Palmer-designed desert golf courses, pamper yourself at our spa or take a dip in our multi-level pool and lazy river. Hike and bike on Tucson’s spectacular trails or explore Mountain Park, Kino Sports complex and Old Tucson Studios. In the evening, indulge in delicious cuisine in one of our resort's buzz-worthy restaurants before retreating to well-appointed rooms and suites with stylish decor, plush bedding and separate sitting areas. If visiting downtown Tucson for business or social events, succeed like never before in our sophisticated venues with room for up to 3,300 guests. Let JW Marriott Tucson Starr Pass Resort & Spa ensure a memorable stay.",
 			"keywords": "resort, spa, golf",
+			"is_featured": true,
+			"rank": { "set": "1" },
 			"property": { "set": "3" },
-			"subcategories": { "set": ["3"] }
+			"subcategories": { "set": ["3"] },
+			"channels": { "set": ["1","3"] },
+			"post_from_at": "2024-02-15T07:00:00.000Z"
 		},
 		{
 			"account": { "set": "8" },
@@ -46,6 +50,17 @@
 			"title": "4th Street Event Center Listing",
 			"property": { "set": "6" },
 			"property_id": "6"
+		},
+		{
+			"account": { "set": "2" },
+			"title": "Club at Starr Pass",
+			"property_id": "7",
+			"description": "27-holes of championship desert golf at your fingertips. Golf legends such as Arnold Palmer, Phil Mickelson, Payne Stewart and Nancy Lopez, to name a few, have all carved their way through this historic golf course. Today the legend continues as Arnold Palmer completed a redesign of the original 18-hole Cupp/Stadler layout and added a new nine holes making Starr Pass a 27-hole Championship Golf Course. The course is a true desert experience as all of the hazards are completely natural elements of the environment. The three nines, which wind their way through the mountains and arroyos, are aptly named after the ever-present desert wildlife: Rattler, Road Runner and Coyote. Starr Pass Golf Club was the host facility for the PGA Tour’s Tucson Open from 1988 to 1995.",
+			"keywords": "golf, coyote, rattler, palmer, road runner",
+			"subcategories": { "set": ["7", "18", "19"] },
+			"is_featured": true,
+			"rank": { "set": "1" },
+			"channels": { "set": ["1","3","7"] }
 		}
 	]
 }

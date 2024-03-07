@@ -1,0 +1,31 @@
+{
+	"model": "sports_facility_spaces",
+	"data": [
+		{
+            "sports_facility_id": "1",
+			"name": "Rattler",
+            "type_id": "8",
+			"location_id": "outdoor",
+			"surface_types": {"set": [ "1" ] },
+            "configurations": {
+				"docs": [
+					{ "type_id": "5", "column": "none", "count": 1 }
+				]
+			}
+		},
+        {
+            "sports_facility_id": "1",
+			"name": "Roadrunner",
+            "type_id": "8",
+			"location_id": "outdoor",
+			"surface_types": {"set": [ "1" ] }
+		},
+        {
+            "sports_facility_id": "1",
+			"name": "Coyote",
+            "type_id": "8",
+			"location_id": "outdoor",
+			"surface_types": {"set": [ "1" ] }
+		}
+	]
+}
