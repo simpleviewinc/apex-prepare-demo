@@ -13,10 +13,10 @@
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
 				"docs": [
-					{ "type_id": "8", "column": "none", "capacity": 2000 },
-                    { "type_id": "4", "column": "none", "capacity": 1332 },
-                    { "type_id": "7", "column": "none", "capacity": 1900 },
-                    { "type_id": "2", "column": "none", "capacity": 980 }
+					{ "type_id": "8", "column": "count", "capacity": 2000 },
+                    { "type_id": "4", "column": "count", "capacity": 1332 },
+                    { "type_id": "7", "column": "count", "capacity": 1900 },
+                    { "type_id": "2", "column": "count", "capacity": 980 }
 				]
 			}
 		},
@@ -32,10 +32,10 @@
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
 				"docs": [
-					{ "type_id": "8", "column": "none", "capacity": 1350 },
-                    { "type_id": "4", "column": "none", "capacity": 952 },
-                    { "type_id": "7", "column": "none", "capacity": 1300 },
-                    { "type_id": "2", "column": "none", "capacity": 780 }
+					{ "type_id": "8", "column": "count", "capacity": 1350 },
+                    { "type_id": "4", "column": "count", "capacity": 952 },
+                    { "type_id": "7", "column": "count", "capacity": 1300 },
+                    { "type_id": "2", "column": "count", "capacity": 780 }
 				]
 			}
 		},
@@ -49,8 +49,8 @@
             "description": "Select our Ania Terrace for a beautiful outdoor cocktail reception or other special event. Our creative design staff can set the stage for any type of gathering, making memories that will last.",
             "configurations": {
 				"docs": [
-                    { "type_id": "7", "column": "none", "capacity": 800 },
-                    { "type_id": "2", "column": "none", "capacity": 600 }
+                    { "type_id": "7", "column": "count", "capacity": 800 },
+                    { "type_id": "2", "column": "count", "capacity": 600 }
 				]
 			}
 		}
