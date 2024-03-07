@@ -13,7 +13,7 @@
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
 				"docs": [
-					{ "type_id": "8", "columncapacity", "capacity": 2000 },
+					{ "type_id": "8", "column": "capacity", "capacity": 2000 },
                     { "type_id": "4", "column": "capacity", "capacity": 1332 },
                     { "type_id": "7", "column": "capacity", "capacity": 1900 },
                     { "type_id": "2", "column": "capacity", "capacity": 980 }
