@@ -9,7 +9,7 @@
 			"surface_types": {"set": [ "1" ] },
             "configurations": {
 				"docs": [
-					{ "type_id": "5", "column": "none", "count": 1 }
+					{ "type_id": "5", "column": "count", "count": 1 }
 				]
 			}
 		},
