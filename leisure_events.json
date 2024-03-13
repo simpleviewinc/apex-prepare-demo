@@ -106,17 +106,17 @@
 						"end_option_id": null,
 						"frequency_id": "single_date",
 						"start_date_at": "2024-03-08T07:00:00.000Z",
-						"start_time": "04:00 PM",
-						"end_time": "06:00 PM"
+						"start_time": "04:00",
+						"end_time": "18:00"
 					},
 					{
 						"interval": 1,
 						"end_option_id": null,
 						"frequency_id": "daily",
 						"start_date_at": "2024-03-09T07:00:00.000Z",
-						"start_time": "10:00 AM",
+						"start_time": "10:00",
 						"end_date_at": "2024-06-09T07:00:00.000Z",
-						"end_time": "04:00 PM"
+						"end_time": "16:00"
 					}
 				]
 			},
@@ -147,8 +147,8 @@
 						"end_option_id": null,
 						"frequency_id": "single_date",
 						"start_date_at": "2024-05-18T07:00:00.000Z",
-						"start_time": "07:30 AM",
-						"end_time": "11:00 AM"
+						"start_time": "07:30",
+						"end_time": "11:00"
 					}
 				]
 			},
@@ -164,7 +164,7 @@
 			"rank": { "set": "2" },
 			"post_from_at": "2024-03-01T07:00:00.000Z",
 			"purchase_tickets": "https://bit.ly/TCMBR24",
-			"doors_open": "7:30 AM"			
+			"doors_open": "7:30"			
 		}
 	]
 }
