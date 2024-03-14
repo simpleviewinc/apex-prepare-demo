@@ -160,6 +160,33 @@
 			"alt_text":"wildlife wonders",
 			"is_publication_consent": true,
 			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"primo patio starr pass",
+			"type_id":"image",
+			"file_id": "20",
+			"alt_text":"primo patio starr pass",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"Clubhouse Pool",
+			"type_id":"image",
+			"file_id": "21",
+			"alt_text":"Clubhouse Pool",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"SP main building horiz",
+			"type_id":"image",
+			"file_id": "22",
+			"alt_text":"SP main building horizon",
+			"is_publication_consent": true,
+			"is_deleted": false
 		}
 	]
 }

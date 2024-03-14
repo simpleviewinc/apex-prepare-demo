@@ -98,7 +98,7 @@
 			"account": { "set": "2" },
 			"categories": { "set": ["1", "2", "5"] },
 			"channels": { "set": ["1"] },
-			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM",
+			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -130,7 +130,7 @@
 			"social_instagram": "societyofanimalartists",
 			"weburl": "https://www.desertmuseumarts.com/wildlife-wonders",
 			"email": "arts@desertmuseum.org",
-			"phone": "(520) 883-3024",
+			"phone": "15208833024",
 			"rank": { "set": "1" },
 			"post_from_at": "2024-03-01T07:00:00.000Z"			
 		},
@@ -160,7 +160,7 @@
 			"venue_type": { "set": "listing" },
 			"weburl": "https://www.amerind.org/events/texas-canyon-mountain-bike-race-5/",
 			"email": "mohnesorgen@amerind.org",
-			"phone": "(520) 686-1336",
+			"phone": "15206861336",
 			"rank": { "set": "2" },
 			"post_from_at": "2024-03-01T07:00:00.000Z",
 			"purchase_tickets": "https://bit.ly/TCMBR24",

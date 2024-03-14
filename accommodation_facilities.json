@@ -20,7 +20,7 @@
 		{
 			"accommodation_types": { "set": "21" },
 			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
-			"cancellation_policy": "You may cancel your reservation for no charge before 11:59 PM local hotel time on February 14, 2024 (7 day[s] before arrival). Please note that we will assess a fee of 540.72 USD if you must cancel after this deadline. If you have made a prepayment, we will retain all or part of your prepayment. If not, we will charge your credit card.",
+			"cancellation_policy": "You may cancel your reservation for no charge before 11:59 PM local hotel time (7 day[s] before arrival). Please note that we will assess a fee if you must cancel after this deadline. If you have made a prepayment, we will retain all or part of your prepayment. If not, we will charge your credit card",
 			"check_in_time": "4:00 PM",
 			"check_out_time": "11:00 AM",
 			"property_id": "3",

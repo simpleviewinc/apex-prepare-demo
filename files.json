@@ -114,6 +114,24 @@
 			"name": "Meeting-Space-Capacities.pdf",
 			"guid": "9d659683-e1fd-41ab-86bd-452202420911",
 			"file_size": 113911 
+		},
+		{
+			"filestorage_id": "cloudinary://apex/account_images/file/faf659da-8ecb-4c23-bcf4-e7a6cecea0dc-a-primo-patio-starr-pass.jpg",
+			"name": "primo-patio-starr-pass.jpg",
+			"guid": "c9aef2d9-399a-4684-a85c-afd7165c95ce",
+			"file_size": 11161146 
+		},
+		{
+			"filestorage_id": "cloudinary://apex/account_images/file/f3d95d9b-c4e2-445b-b105-d74ca09d9980-a-Clubhouse_Pool.JPG",
+			"name": "Clubhouse_Pool.JPG",
+			"guid": "3da9b183-efb1-4b29-9d65-163eaa5f296a",
+			"file_size": 158814 
+		},
+		{
+			"filestorage_id": "cloudinary://apex/account_images/file/e0f08416-e4ab-4df3-8b72-2579a73dda2a-a-SP_main_building_horiz_4441.jpg",
+			"name": "SP_main_building_horiz_4441.jpg",
+			"guid": "c23419ab-a310-450b-8cb4-431a3e047051",
+			"file_size": 549447 
 		}
 	]
 }
