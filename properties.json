@@ -110,6 +110,1094 @@
 					"is_physical": true
 				}
 			}
+		},
+		{
+			"account_id": "1",
+			"name": "The 1895 House",
+			"property_type_id": "1",
+			"weburl": "http://www.newenglandhistoricalsociety.com/",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "45" },
+			"built_at": "1895-04-06T07:00:00.000Z",
+			"renovated_at": "2003-01-01T07:00:00.000Z",
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "3",
+			"name": "Hacienda Del Sol Guest Ranch Resort",
+			"property_type_id": "1",
+			"weburl": "https://www.haciendadelsol.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "40" },
+			"built_at": "1929-01-01T07:00:00.000Z",
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "4",
+			"name": "Prep & Pastry",
+			"property_type_id": "5",
+			"brand": "Ares Collective",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "45" }
+		},
+		{
+			"account_id": "5",
+			"name": "Avenue Pizza & More",
+			"property_type_id": "5",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "11" }
+		},
+		{
+			"account_id": "7",
+			"name": "The Westin La Paloma Resort & Spa",
+			"property_type_id": "1",
+			"brand": "Westin",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "43" },
+			"built_at": "1986-01-01T07:00:00.000Z",
+			"renovated_at": "2013-01-01T07:00:00.000Z",
+			"number_of_floors": 5,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "9",
+			"name": "The Tartan Club",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "21" }
+		},
+		{
+			"account_id": "11",
+			"name": "Windflower Tours",
+			"property_type_id": "2",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "3" }
+		},
+		{
+			"account_id": "14",
+			"name": "Adalberto's Mexican Food",
+			"property_type_id": "5",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "41" }
+		},
+		{
+			"account_id": "15",
+			"name": "Global Travel Alliance",
+			"property_type_id": "2",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "14" }
+		},
+		{
+			"account_id": "17",
+			"name": "International Association of Amusement Parks and Attractions",
+			"property_type_id": "2",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "48" }
+		},
+		{
+			"account_id": "18",
+			"name": "Euro-American Tours",
+			"property_type_id": "2",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "47" }
+		},
+		{
+			"account_id": "19",
+			"name": "Tumerico",
+			"property_type_id": "5",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "20" }
+		},
+		{
+			"account_id": "20",
+			"name": "Potomac River Boat Company",
+			"property_type_id": "2",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "22" }
+		},
+		{
+			"account_id": "21",
+			"name": "Affinia Hotel South",
+			"property_type_id": "1",
+			"brand": "Affinia",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "50" },
+			"built_at": "1986-01-01T07:00:00.000Z",
+			"number_of_floors": 16,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "22",
+			"name": "Elite Coach",
+			"property_type_id": "2",
+			"brand": "Elite Coach",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "25" }
+		},
+		{
+			"account_id": "23",
+			"name": "Affinia Manhattan",
+			"property_type_id": "1",
+			"brand": "Affinia",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "46" },
+			"built_at": "1992-01-01T07:00:00.000Z",
+			"number_of_floors": 25,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "25",
+			"name": "Four Points by Sheraton Manhattan Chelsea",
+			"property_type_id": "1",
+			"brand": "Sheraton",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "49" },
+			"built_at": "2003-01-01T07:00:00.000Z",
+			"renovated_at": "2010-01-01T07:00:00.000Z",
+			"number_of_floors": 38,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "26",
+			"name": "Flatotel New York City",
+			"property_type_id": "1",
+			"brand": "Flatotel",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "23" },
+			"number_of_floors": 34,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "28",
+			"name": "A1 Amusement",
+			"property_type_id": "8",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "42" },
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15", "5", "6", "3"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "29",
+			"name": "Hiland Terrace Motel",
+			"property_type_id": "1",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "13" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "30",
+			"name": "Huntington Inn Motel",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "8" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "32",
+			"name": "Napoli Italian Eatery",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "48" }
+		},
+		{
+			"account_id": "33",
+			"name": "Pine Slopes Lodge",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "36" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "34",
+			"name": "Foggy Mountain Lodge",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "35" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "35",
+			"name": "Ninza Sushi East",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "47" }
+		},
+		{
+			"account_id": "36",
+			"name": "Amusement World",
+			"property_type_id": "8",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "43" },
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15", "5", "6", "3"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "37",
+			"name": "Camelback Lodge",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "40" },
+			"number_of_floors": 5,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "38",
+			"name": "Harbor Inn Restaurant & Lounge",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "24" }
+		},
+		{
+			"account_id": "39",
+			"name": "Comfort Inn",
+			"property_type_id": "1",
+			"brand": "Comfort Inn",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "12" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "40",
+			"name": "Melody Motor Lodge",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "17" },
+			"number_of_floors": 2,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "41",
+			"name": "Ramada By Wyndham Ligonier",
+			"property_type_id": "1",
+			"brand": "Wyndham",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "33" },
+			"number_of_floors": 18,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "42",
+			"name": "Sunset Cottages",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "43" },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "43",
+			"name": "Budget Inn",
+			"property_type_id": "1",
+			"brand": "Budget Inn",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "1" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "44",
+			"name": "Clarion",
+			"property_type_id": "1",
+			"brand": "Clarion",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "44" },
+			"number_of_floors": 18,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "45",
+			"name": "Laurel Manor Motel",
+			"property_type_id": "1",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "22" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "46",
+			"name": "Olde Stagecoach",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "41" },
+			"number_of_floors": 2,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "47",
+			"name": "Springhill Suites",
+			"property_type_id": "1",
+			"brand": "Sheraton",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "10" },
+			"number_of_floors": 20,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "48",
+			"name": "Tropical Sunsations",
+			"property_type_id": "7",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "42" }
+		},
+		{
+			"account_id": "49",
+			"name": "D's Six Pack & Dogs",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "21" }
+		},
+		{
+			"account_id": "50",
+			"name": "Idlewild & Soakzone",
+			"property_type_id": "8",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "25" },
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15", "5"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "51",
+			"name": "Grand Central Hotel Inc",
+			"property_type_id": "1",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "46" },
+			"number_of_floors": 40,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "52",
+			"name": "Saguaro Dude Ranch",
+			"property_type_id": "1",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "43" }
+		},
+		{
+			"account_id": "53",
+			"name": "Ann's Red Roost Inn",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "5" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "54",
+			"name": "Inn At Ligoneir",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "4" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "55",
+			"name": "Comfort Suites",
+			"property_type_id": "1",
+			"brand": "Comfort Suites",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "5" },
+			"number_of_floors": 5,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "56",
+			"name": "Central Hotel",
+			"property_type_id": "1",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "11" },
+			"number_of_floors": 16,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "57",
+			"name": "River's Edge Cafe",
+			"property_type_id": "5",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "20" }
+		},
+		{
+			"account_id": "58",
+			"name": "Highland House Hotel",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "28" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "59",
+			"name": "Brass Rail",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "49" }
+		},
+		{
+			"account_id": "60",
+			"name": "Hickory Hollow Camp Ground",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "15" },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "61",
+			"name": "Budget Inn-New Stanton",
+			"property_type_id": "1",
+			"brand": "Budget Inn",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "2" },
+			"number_of_floors": 15,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "62",
+			"name": "Days Inn By Wyndham New",
+			"property_type_id": "1",
+			"brand": "Wyndham",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "24" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "63",
+			"name": "Motel 6",
+			"property_type_id": "1",
+			"brand": "Motel 6",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "33" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "64",
+			"name": "Hampton Inn-North",
+			"property_type_id": "1",
+			"brand": "Hampton",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "18" },
+			"number_of_floors": 20,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "65",
+			"name": "Big Black Grill",
+			"property_type_id": "5",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "16" }
+		},
+		{
+			"account_id": "66",
+			"name": "Big Barn Country Store",
+			"property_type_id": "7",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "42" }
+		},
+		{
+			"account_id": "67",
+			"name": "Cracker Barrel Old Country Str",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "23" }
+		},
+		{
+			"account_id": "68",
+			"name": "Tech Air",
+			"property_type_id": "7",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "14" }
+		},
+		{
+			"account_id": "69",
+			"name": "Fairmount Hospitality LLC",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "34" }
+		},
+		{
+			"account_id": "70",
+			"name": "Super 8 By Wyndham Delmont",
+			"property_type_id": "1",
+			"brand": "Wyndham",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "32" },
+			"number_of_floors": 10,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "71",
+			"name": "Log Cabin Lodge & Suites",
+			"property_type_id": "1",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "44" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "72",
+			"name": "Antiochian Village Camp",
+			"property_type_id": "1",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "42" },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "73",
+			"name": "Country Manor Motel",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "37" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "74",
+			"name": "New National Hotel",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "6" },
+			"number_of_floors": 16,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "75",
+			"name": "Lodge At Chalk Hill",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "40" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "76",
+			"name": "Helen's Hideaway Inn",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "39" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "77",
+			"name": "Creekside Diner",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "21" }
+		},
+		{
+			"account_id": "78",
+			"name": "Sleep Inn-Suites Park City",
+			"property_type_id": "1",
+			"brand": "Sleep-Inn",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "19" },
+			"number_of_floors": 18,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "79",
+			"name": "Candlewood Suites Belle Vernon",
+			"property_type_id": "1",
+			"brand": "Candlewood Suites",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "45" },
+			"number_of_floors": 25,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "80",
+			"name": "Scooter's Coffeehouse",
+			"property_type_id": "5",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "43" }
+		},
+		{
+			"account_id": "81",
+			"name": "Bann Thai",
+			"property_type_id": "5",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "41" }
+		},
+		{
+			"account_id": "82",
+			"name": "Bella Capri'z Club Cafe",
+			"property_type_id": "5",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "9" }
+		},
+		{
+			"account_id": "83",
+			"name": "Tortilleria Los Los III",
+			"property_type_id": "5",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "50" }
+		},
+		{
+			"account_id": "84",
+			"name": "Rodeway Inn Greensburg",
+			"property_type_id": "1",
+			"brand": "Rodeway Inn ",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "48" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "85",
+			"name": "Crumbl Cookies",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "25" }
+		},
+		{
+			"account_id": "86",
+			"name": "Keeper Of The Crepes",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "47" }
+		},
+		{
+			"account_id": "87",
+			"name": "Holiday Inn Express",
+			"property_type_id": "1",
+			"brand": "Holiday Inn",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "3" },
+			"number_of_floors": 12,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "88",
+			"name": "Old Route 66 Grille",
+			"property_type_id": "5",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "43" }
+		},
+		{
+			"account_id": "89",
+			"name": "Bijou Spa & Boutique",
+			"property_type_id": "7",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "26" }
+		},
+		{
+			"account_id": "90",
+			"name": "Knights Inn Greensburg",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "27" },
+			"number_of_floors": 7,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "91",
+			"name": "A-1 economy Inn",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "7" },
+			"number_of_floors": 5,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "92",
+			"name": "Budget Host",
+			"property_type_id": "1",
+			"brand": "Budget Inn",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "8" },
+			"number_of_floors": 10,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "93",
+			"name": "Budget Inn Somerset",
+			"property_type_id": "1",
+			"brand": "Budget Inn",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "24" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "94",
+			"name": "Dollar Inn",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "20" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "95",
+			"name": "Fairfield Inn",
+			"property_type_id": "1",
+			"brand": "Fairfield",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "42" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "96",
+			"name": "Knights Inn Somerset",
+			"property_type_id": "1",
+			"brand": "Knights Inn",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "44" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "97",
+			"name": "Edward Jones",
+			"property_type_id": "2",
+			"brand": "Edward Jones",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "22" }
+		},
+		{
+			"account_id": "98",
+			"name": "Quality Inn-Conference Ctr",
+			"property_type_id": "1",
+			"brand": "Quality Inn",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "33" },
+			"number_of_floors": 20,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "99",
+			"name": "Stone Wood Lodge",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "1" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "100",
+			"name": "Sure Stay Plus Hotel By Best",
+			"property_type_id": "1",
+			"brand": "Best",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "42" },
+			"number_of_floors": 25,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "101",
+			"name": "Golf Club Of Somerset",
+			"property_type_id": "6",
+			"brand": "Top Golf",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "46" },
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15", "5"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "103",
+			"name": "Stone House Country Inn",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "30" },
+			"number_of_floors": 10,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "104",
+			"name": "Silver Birches Resort",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "5" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "105",
+			"name": "French Manor Inn and Spa",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "10" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "106",
+			"name": "Blue Mountain Motel",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "38" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "107",
+			"name": "Hilton Garden Inn Uniontown",
+			"property_type_id": "1",
+			"brand": "Hilton",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "4" },
+			"number_of_floors": 32,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "108",
+			"name": "Quality Inn & Suites",
+			"property_type_id": "1",
+			"brand": "Quality Inn",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "28" },
+			"number_of_floors": 18,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "109",
+			"name": "Levi Deal Mansion",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "36" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "110",
+			"name": "Yoder's Guest House",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "2" },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "111",
+			"name": "Castle In The Sand",
+			"property_type_id": "1",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "21" },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "112",
+			"name": "Mountain Villas by Exploria Resorts",
+			"property_type_id": "1",
+			"brand": "Exploria Resorts",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "35" },
+			"number_of_floors": 8,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "113",
+			"name": "Twin Rocks Cafe",
+			"property_type_id": "5",
+			"region": { "set": "6" },
+			"neighborhood": { "set": "49" }
+		},
+		{
+			"account_id": "114",
+			"name": "611 Pub, Inc.",
+			"property_type_id": "5",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "33" }
+		},
+		{
+			"account_id": "115",
+			"name": "A Cottage At Campbell Farm",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "26" }
+		},
+		{
+			"account_id": "116",
+			"name": "Anthony's Longfellow Hotel",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "27" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "117",
+			"name": "Big Shot Bob's",
+			"property_type_id": "3",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "25" },
+			"number_of_floors": 18,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15", "5", "6", "3"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "118",
+			"name": "Freddy's Frozen Custard",
+			"property_type_id": "5",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "7" }
+		},
+		{
+			"account_id": "119",
+			"name": "Hopwood Motel",
+			"property_type_id": "1",
+			"region": {	"set": "1" },
+			"neighborhood": { "set": "30" },
+			"number_of_floors": 5,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "120",
+			"name": "M G Motel",
+			"property_type_id": "1",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "13" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "121",
+			"name": "National Trail Motel",
+			"property_type_id": "1",
+			"region": {	"set": "4" },
+			"neighborhood": { "set": "17" },
+			"number_of_floors": 3,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "122",
+			"name": "Astorris Tavern",
+			"property_type_id": "5",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "34" }
+		},
+		{
+			"account_id": "123",
+			"name": "Curt's Family Restaurant",
+			"property_type_id": "5",
+			"region": { "set": "3" },
+			"neighborhood": { "set": "12" }
+		},
+		{
+			"account_id": "124",
+			"name": "Crossroads Inn",
+			"property_type_id": "1",
+			"region": { "set": "5" },
+			"neighborhood": { "set": "41" },
+			"number_of_floors": 4,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] },
+			"amenities": { "set": ["airport_shuttle", "atm_banking_on_site", "business_center", "conference_center", "multilingual_staff", "outdoor_ramps", "service_animals_allowed", "smoke_free_property", "wheelchair_accessible_elevator", "wheelchair_width_doors", "wifi_internet_free"] }
+		},
+		{
+			"account_id": "125",
+			"name": "Perry-O Inn & Suites",
+			"property_type_id": "1",
+			"region": {	"set": "2" },
+			"neighborhood": { "set": "32" },
+			"number_of_floors": 10,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
+		},
+		{
+			"account_id": "126",
+			"name": "Pleasant Corner Inn",
+			"property_type_id": "1",
+			"region": { "set": "7" },
+			"neighborhood": { "set": "43" },
+			"number_of_floors": 6,
+			"parking": { "set": ["1", "3", "4"] },
+			"languages_spoken": { "set": ["4", "15"] }
 		}
 	]
 }

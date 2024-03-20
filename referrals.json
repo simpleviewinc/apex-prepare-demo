@@ -1,0 +1,1385 @@
+{
+	"model": "referrals",
+	"data": [
+		{
+			"contact_id": "2",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "1" },
+					{ "listing_id": "114" }
+				]
+			}
+		},
+		{
+			"contact_id": "6",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "10" },
+					{ "listing_id": "115" }
+				]
+			}
+		},
+		{
+			"contact_id": "2",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "100" },
+					{ "listing_id": "116" }
+				]
+			}
+		},
+		{
+			"contact_id": "2",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "101" },
+					{ "listing_id": "117" }
+				]
+			}
+		},
+		{
+			"contact_id": "6",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "102" },
+					{ "listing_id": "118" }
+				]
+			}
+		},
+		{
+			"contact_id": "10",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "103" },
+					{ "listing_id": "119" }
+				]
+			}
+		},
+		{
+			"contact_id": "120",
+			"date_at": "2023-07-18T22:31:10.497Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "104" },
+					{ "listing_id": "12" }
+				]
+			}
+		},
+		{
+			"contact_id": "10",
+			"date_at": "2023-02-01T00:31:00.007Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "105" },
+					{ "listing_id": "120" }
+				]
+			}
+		},
+		{
+			"contact_id": "134",
+			"date_at": "2023-02-01T22:31:10.497Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "106" },
+					{ "listing_id": "121" }
+				]
+			}
+		},
+		{
+			"contact_id": "27",
+			"date_at": "2023-02-01T22:31:10.497Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "107" },
+					{ "listing_id": "122" }
+				]
+			}
+		},
+		{
+			"contact_id": "89",
+			"date_at": "2023-02-01T22:31:10.497Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "108" },
+					{ "listing_id": "13" }
+				]
+			}
+		},
+		{
+			"contact_id": "112",
+			"date_at": "2023-02-01T22:31:10.497Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "109" },
+					{ "listing_id": "14" }
+				]
+			}
+		},
+		{
+			"contact_id": "34",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "11" },
+					{ "listing_id": "15" }
+				]
+			}
+		},
+		{
+			"contact_id": "98",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "110" },
+					{ "listing_id": "16" }
+				]
+			}
+		},
+		{
+			"contact_id": "6",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "111" },
+					{ "listing_id": "17" }
+				]
+			}
+		},
+		{
+			"contact_id": "45",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "112" },
+					{ "listing_id": "18" }
+				]
+			}
+		},
+		{
+			"contact_id": "45",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "113" },
+					{ "listing_id": "19" }
+				]
+			}
+		},
+		{
+			"contact_id": "7",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "114" },
+					{ "listing_id": "2" }
+				]
+			}
+		},
+		{
+			"contact_id": "9",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "115" },
+					{ "listing_id": "20" }
+				]
+			}
+		},
+		{
+			"contact_id": "36",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "116" },
+					{ "listing_id": "21" }
+				]
+			}
+		},
+		{
+			"contact_id": "99",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "117" },
+					{ "listing_id": "22" }
+				]
+			}
+		},
+		{
+			"contact_id": "75",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "118" },
+					{ "listing_id": "23" }
+				]
+			}
+		},
+		{
+			"contact_id": "143",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "119" },
+					{ "listing_id": "24" }
+				]
+			}
+		},
+		{
+			"contact_id": "116",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "12" },
+					{ "listing_id": "25" }
+				]
+			}
+		},
+		{
+			"contact_id": "128",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "3",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "120" },
+					{ "listing_id": "26" }
+				]
+			}
+		},
+		{
+			"contact_id": "92",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "121" },
+					{ "listing_id": "27" }
+				]
+			}
+		},
+		{
+			"contact_id": "12",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "122" },
+					{ "listing_id": "28" }
+				]
+			}
+		},
+		{
+			"contact_id": "64",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "13" },
+					{ "listing_id": "29" }
+				]
+			}
+		},
+		{
+			"contact_id": "78",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "14" },
+					{ "listing_id": "3" }
+				]
+			}
+		},
+		{
+			"contact_id": "65",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "15" },
+					{ "listing_id": "30" }
+				]
+			}
+		},
+		{
+			"contact_id": "73",
+			"date_at": "2024-03-14T22:30:42.395Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "16" },
+					{ "listing_id": "31" }
+				]
+			}
+		},
+		{
+			"contact_id": "38",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "17" },
+					{ "listing_id": "32" }
+				]
+			}
+		},
+		{
+			"contact_id": "91",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "18" },
+					{ "listing_id": "33" }
+				]
+			}
+		},
+		{
+			"contact_id": "75",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "19" },
+					{ "listing_id": "34" }
+				]
+			}
+		},
+		{
+			"contact_id": "143",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "3",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "2" },
+					{ "listing_id": "35" }
+				]
+			}
+		},
+		{
+			"contact_id": "116",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "20" },
+					{ "listing_id": "36" }
+				]
+			}
+		},
+		{
+			"contact_id": "128",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "21" },
+					{ "listing_id": "37" }
+				]
+			}
+		},
+		{
+			"contact_id": "92",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "22" },
+					{ "listing_id": "38" }
+				]
+			}
+		},
+		{
+			"contact_id": "12",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "23" },
+					{ "listing_id": "39" }
+				]
+			}
+		},
+		{
+			"contact_id": "64",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "24" },
+					{ "listing_id": "4" }
+				]
+			}
+		},
+		{
+			"contact_id": "78",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "25" },
+					{ "listing_id": "40" }
+				]
+			}
+		},
+		{
+			"contact_id": "2",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "26" },
+					{ "listing_id": "41" }
+				]
+			}
+		},
+		{
+			"contact_id": "6",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "27" },
+					{ "listing_id": "42" }
+				]
+			}
+		},
+		{
+			"contact_id": "2",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "28" },
+					{ "listing_id": "43" }
+				]
+			}
+		},
+		{
+			"contact_id": "2",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "29" },
+					{ "listing_id": "44" }
+				]
+			}
+		},
+		{
+			"contact_id": "6",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "3" },
+					{ "listing_id": "45" }
+				]
+			}
+		},
+		{
+			"contact_id": "10",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "30" },
+					{ "listing_id": "46" }
+				]
+			}
+		},
+		{
+			"contact_id": "120",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "31" },
+					{ "listing_id": "47" }
+				]
+			}
+		},
+		{
+			"contact_id": "10",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "32" },
+					{ "listing_id": "48" }
+				]
+			}
+		},
+		{
+			"contact_id": "134",
+			"date_at": "2024-03-30T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "33" },
+					{ "listing_id": "49" }
+				]
+			}
+		},
+		{
+			"contact_id": "27",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "34" },
+					{ "listing_id": "5" }
+				]
+			}
+		},
+		{
+			"contact_id": "34",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "35" },
+					{ "listing_id": "50" }
+				]
+			}
+		},
+		{
+			"contact_id": "96",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "36" },
+					{ "listing_id": "51" }
+				]
+			}
+		},
+		{
+			"contact_id": "78",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "37" },
+					{ "listing_id": "52" }
+				]
+			}
+		},
+		{
+			"contact_id": "17",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "38" },
+					{ "listing_id": "53" }
+				]
+			}
+		},
+		{
+			"contact_id": "142",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "39" },
+					{ "listing_id": "54" }
+				]
+			}
+		},
+		{
+			"contact_id": "34",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "4" },
+					{ "listing_id": "55" }
+				]
+			}
+		},
+		{
+			"contact_id": "62",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "40" },
+					{ "listing_id": "56" }
+				]
+			}
+		},
+		{
+			"contact_id": "54",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "41" },
+					{ "listing_id": "57" }
+				]
+			}
+		},
+		{
+			"contact_id": "3",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "42" },
+					{ "listing_id": "1" }
+				]
+			}
+		},
+		{
+			"contact_id": "62",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "43" },
+					{ "listing_id": "10" }
+				]
+			}
+		},
+		{
+			"contact_id": "134",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "44" },
+					{ "listing_id": "100" }
+				]
+			}
+		},
+		{
+			"contact_id": "98",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "45" },
+					{ "listing_id": "101" }
+				]
+			}
+		},
+		{
+			"contact_id": "34",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "46" },
+					{ "listing_id": "102" }
+				]
+			}
+		},
+		{
+			"contact_id": "67",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "47" },
+					{ "listing_id": "103" }
+				]
+			}
+		},
+		{
+			"contact_id": "23",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "48" },
+					{ "listing_id": "104" }
+				]
+			}
+		},
+		{
+			"contact_id": "90",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "49" },
+					{ "listing_id": "105" }
+				]
+			}
+		},
+		{
+			"contact_id": "69",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "5" },
+					{ "listing_id": "106" }
+				]
+			}
+		},
+		{
+			"contact_id": "70",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "50" },
+					{ "listing_id": "107" }
+				]
+			}
+		},
+		{
+			"contact_id": "71",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "51" },
+					{ "listing_id": "108" }
+				]
+			}
+		},
+		{
+			"contact_id": "72",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "52" },
+					{ "listing_id": "109" }
+				]
+			}
+		},
+		{
+			"contact_id": "73",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "53" },
+					{ "listing_id": "15" }
+				]
+			}
+		},
+		{
+			"contact_id": "95",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "54" },
+					{ "listing_id": "16" }
+				]
+			}
+		},
+		{
+			"contact_id": "96",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "55" },
+					{ "listing_id": "17" }
+				]
+			}
+		},
+		{
+			"contact_id": "13",
+			"date_at": "2024-01-13T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "56" },
+					{ "listing_id": "18" }
+				]
+			}
+		},
+		{
+			"contact_id": "77",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "57" },
+					{ "listing_id": "19" }
+				]
+			}
+		},
+		{
+			"contact_id": "78",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "58" },
+					{ "listing_id": "2" }
+				]
+			}
+		},
+		{
+			"contact_id": "79",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "59" },
+					{ "listing_id": "20" }
+				]
+			}
+		},
+		{
+			"contact_id": "80",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "6" },
+					{ "listing_id": "21" }
+				]
+			}
+		},
+		{
+			"contact_id": "81",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "60" },
+					{ "listing_id": "22" }
+				]
+			}
+		},
+		{
+			"contact_id": "82",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "61" },
+					{ "listing_id": "23" }
+				]
+			}
+		},
+		{
+			"contact_id": "83",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "62" },
+					{ "listing_id": "24" }
+				]
+			}
+		},
+		{
+			"contact_id": "84",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "63" },
+					{ "listing_id": "25" }
+				]
+			}
+		},
+		{
+			"contact_id": "85",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "64" },
+					{ "listing_id": "15" }
+				]
+			}
+		},
+		{
+			"contact_id": "86",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "65" },
+					{ "listing_id": "16" }
+				]
+			}
+		},
+		{
+			"contact_id": "87",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "66" },
+					{ "listing_id": "17" }
+				]
+			}
+		},
+		{
+			"contact_id": "88",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "67" },
+					{ "listing_id": "18" }
+				]
+			}
+		},
+		{
+			"contact_id": "89",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "68" },
+					{ "listing_id": "19" }
+				]
+			}
+		},
+		{
+			"contact_id": "90",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "69" },
+					{ "listing_id": "2" }
+				]
+			}
+		},
+		{
+			"contact_id": "9",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "7" },
+					{ "listing_id": "20" }
+				]
+			}
+		},
+		{
+			"contact_id": "92",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "70" },
+					{ "listing_id": "21" }
+				]
+			}
+		},
+		{
+			"contact_id": "93",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "71" },
+					{ "listing_id": "22" }
+				]
+			}
+		},
+		{
+			"contact_id": "95",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "72" },
+					{ "listing_id": "23" }
+				]
+			}
+		},
+		{
+			"contact_id": "94",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "73" },
+					{ "listing_id": "24" }
+				]
+			}
+		},
+		{
+			"contact_id": "96",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "74" },
+					{ "listing_id": "25" }
+				]
+			}
+		},
+		{
+			"contact_id": "97",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "75" },
+					{ "listing_id": "100" }
+				]
+			}
+		},
+		{
+			"contact_id": "98",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "76" },
+					{ "listing_id": "101" }
+				]
+			}
+		},
+		{
+			"contact_id": "99",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "77" },
+					{ "listing_id": "102" }
+				]
+			}
+		},
+		{
+			"contact_id": "100",
+			"date_at": "2023-07-03T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "78" },
+					{ "listing_id": "103" }
+				]
+			}
+		},
+		{
+			"contact_id": "101",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "79" },
+					{ "listing_id": "104" }
+				]
+			}
+		},
+		{
+			"contact_id": "102",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "8" },
+					{ "listing_id": "105" }
+				]
+			}
+		},
+		{
+			"contact_id": "103",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "80" },
+					{ "listing_id": "85" }
+				]
+			}
+		},
+		{
+			"contact_id": "104",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "81" },
+					{ "listing_id": "86" }
+				]
+			}
+		},
+		{
+			"contact_id": "105",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "82" },
+					{ "listing_id": "87" }
+				]
+			}
+		},
+		{
+			"contact_id": "106",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "83" },
+					{ "listing_id": "1" }
+				]
+			}
+		},
+		{
+			"contact_id": "107",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "84" },
+					{ "listing_id": "10" }
+				]
+			}
+		},
+		{
+			"contact_id": "108",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "2",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "85" },
+					{ "listing_id": "100" }
+				]
+			}
+		},
+		{
+			"contact_id": "109",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "86" },
+					{ "listing_id": "101" }
+				]
+			}
+		},
+		{
+			"contact_id": "110",
+			"date_at": "2023-05-23T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "87" },
+					{ "listing_id": "102" }
+				]
+			}
+		},
+		{
+			"contact_id": "102",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "88" },
+					{ "listing_id": "103" }
+				]
+			}
+		},
+		{
+			"contact_id": "103",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "89" },
+					{ "listing_id": "104" }
+				]
+			}
+		},
+		{
+			"contact_id": "104",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "9" },
+					{ "listing_id": "105" }
+				]
+			}
+		},
+		{
+			"contact_id": "105",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "1",
+			"listings": {
+				"docs": [
+					{ "listing_id": "90" },
+					{ "listing_id": "106" }
+				]
+			}
+		},
+		{
+			"contact_id": "106",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "91" },
+					{ "listing_id": "107" }
+				]
+			}
+		},
+		{
+			"contact_id": "107",
+			"date_at": "2023-05-14T07:00:00.000Z",
+			"method_id": "1",
+			"location_id": "2",
+			"listings": {
+				"docs": [
+					{ "listing_id": "89" },
+					{ "listing_id": "108" }
+				]
+			}
+		}
+	]
+}
