@@ -2,26 +2,26 @@
 	"model": "properties",
 	"data": [
 		{
-			"account_id":"13",
-			"name":"4th Street Property",
-			"property_type_id":"5"
+			"account_id": "13",
+			"name": "4th Street Property",
+			"property_type_id": "5"
 		},
 		{
-			"account_id":"114",
-			"name":"611 Pub Property",
-			"property_type_id":"5"
+			"account_id": "114",
+			"name": "611 Pub Property",
+			"property_type_id": "5"
 		},
 		{
-			"account_id":"2",
-			"name":"JW Marriott Tucson Starr Pass Resort & Spa",
-			"property_type_id":"1",	
-			"brand":"JW Marriott",
-			"built_at":"2005-01-01T07:00:00.000Z",
-			"renovated_at":"2013-01-01T07:00:00.000Z",
+			"account_id": "2",
+			"name": "JW Marriott Tucson Starr Pass Resort & Spa",
+			"property_type_id": "1",	
+			"brand": "JW Marriott",
+			"built_at": "2005-01-01T07:00:00.000Z",
+			"renovated_at": "2013-01-01T07:00:00.000Z",
 			"number_of_floors": 8,
 			"parking": { "set": ["1","2","3","4","6","8"] },
 			"languages_spoken": { "set": ["4","5","15"] },
-			"contact_id":"11",
+			"contact_id": "11",
 			"threshold360_id": "7684201-200189",
 			"yelp_id": "jw-marriotttucson-starr-pass-resort-and-spa-tucson",
 			"tripadvisor_id": "503078",
@@ -43,37 +43,37 @@
 			}
 		},
 		{
-			"account_id":"8",
-			"name":"Arizona-Sonora Property",
-			"property_type_id":"1"
+			"account_id": "8",
+			"name": "Arizona-Sonora Property",
+			"property_type_id": "1"
 		},
 		{
-			"account_id":"115",
-			"name":"A Cottage Property",
-			"property_type_id":"1"
+			"account_id": "115",
+			"name": "A Cottage Property",
+			"property_type_id": "1"
 		},
 		{
-			"account_id":"13",
-			"name":"4th Street Event Center",
-			"property_type_id":"6"
+			"account_id": "13",
+			"name": "4th Street Event Center",
+			"property_type_id": "6"
 		},
 		{
-			"account_id":"2",
-			"name":"The Club at Starr Pass",
-			"property_type_id":"6",
-			"built_at":"1986-01-01T07:00:00.000Z",
-			"renovated_at":"1993-01-01T07:00:00.000Z",
+			"account_id": "2",
+			"name": "The Club at Starr Pass",
+			"property_type_id": "6",
+			"built_at": "1986-01-01T07:00:00.000Z",
+			"renovated_at": "1993-01-01T07:00:00.000Z",
 			"parking": { "set": ["1","2","3","4","6","8"] },
-			"contact_id":"25",
-			"weburl":"https://www.theclubatstarrpass.com/",
+			"contact_id": "25",
+			"weburl": "https://www.theclubatstarrpass.com/",
 			"email": "info@theclubatstarrpass.com",
 			"geo_coordinates": {
 				"lat": 32.2088722,
 				"long": -111.0431067
 			},
-			"social_facebook":"starrpassgc",
-			"social_instagram":"theclubatstarrpass",
-			"social_youtube":"@troon",
+			"social_facebook": "starrpassgc",
+			"social_instagram": "theclubatstarrpass",
+			"social_youtube": "@troon",
 			"amenities": {
 				"set": [
 					"airport_shuttle",
