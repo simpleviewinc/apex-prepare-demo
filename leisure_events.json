@@ -164,7 +164,7 @@
 			"rank": { "set": "2" },
 			"post_from_at": "2024-03-01T07:00:00.000Z",
 			"purchase_tickets": "https://bit.ly/TCMBR24",
-			"doors_open": "7:30"			
+			"doors_open": "07:30"			
 		},
 		{
 			"account": { "set": "26"},
@@ -259,7 +259,7 @@
 			"weburl": "https://www.scottsdaleshow.com",
 			"phone":"14805151500",
 			"admission":"GA: $15, Seniors: $10, 12 and under: Free.",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -316,7 +316,7 @@
 			"weburl": "https://heard.org/event/hoop/",
 			"phone":"16022528840",
 			"admission":"$25: Adults$22: Seniors (65+), Active Military$20: Members$10: American Indians (w/ID)$10 :Students$10: Children (6-17)Free: Children 5 & underAll children 12-and-under FREE on Sunday.",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -891,7 +891,7 @@
 			"description":"The Arizona Indian Festival offers guests the unique opportunity to explore examples of traditional Indian villages and dwellings, experience traditional arts and crafts demonstrations, and enjoy native food vendors and native mainstage entertainment, such as dancing and singing, representative of many tribes. The Tribal Travel and Tourism offices will also be showcasing their native destinations.",
 			"weburl": "http://go.evvnt.com/2133480-0?pid=5535",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1031,7 +1031,7 @@
 			"email":"information@barrett-jackson.com",
 			"phone":"14804216694",
 			"admission":"General Admission: $25-$85, Discounted tickets available online in advance. Other discounts offered for Senior, Military, Student and First Responder tickets.",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1087,7 +1087,7 @@
 			"email":"rochelle@melrosevintagemarket.com",
 			"phone":"14803700166",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1206,7 +1206,7 @@
 			"weburl": "https://www.phoenixfilmfestival.com/",
 			"phone":"14805133195",
 			"admission":"Single Ticket: $15, Flex Pass: $45 (cannot be used for the opening or closing night films), Super Flex Pass: $120, Festival Pass: $200, VIP Pass: $300, Platinum Pass: $450 (will be the only pass/ticket for access to the opening night film)",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1534,7 +1534,7 @@
 			"email":"tickets@arizonascots.com",
 			"phone":"16026175694",
 			"admission":"Check site for pricing",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1937,7 +1937,7 @@
 			"email":"greatpaperairplane@pimaair.org",
 			"phone":"15205740462",
 			"admission":"Free registration and admission for contestant and up to four guests",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2177,7 +2177,7 @@
 			"weburl": "https://artofthecowgirl.com/",
 			"email":"doreen@artofthecowgirl.com",
 			"admission":"Single day pass is $55, five-day pass is $195.",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2237,7 +2237,7 @@
 			"weburl": "http://www.artistsofthesuperstitions.com/events/",
 			"email":"artists.superstitions@gmail.com",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2785,7 +2785,7 @@
 			"title": "66th Annual Heard Museum Guild Indian Fair & Market",
 			"description":"The Heard Museum Guild Indian Fair & Market (IF&M) is one of the largest American Indian art markets in the world and draws nearly 15,000 visitors and more than 600 of the Nation’s most preeminent American Indian artists.IF&M provides the opportunity to meet and purchase art directly from multiple generations of artists working in all forms of the visual arts. All proceeds from ticket sales support the Heard Museum’s mission of advancing American Indian art.",
 			"weburl": "https://heard.org/event/fair/",
-			"doors_open":"9:30:00",
+			"doors_open":"09:30:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2847,7 +2847,7 @@
 			"email":"Info@RaceWildHorse.net",
 			"phone":"15207965601",
 			"admission":"$20-250",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2877,7 +2877,7 @@
 			"weburl": "https://www.dacarnival.com",
 			"email":"carnivaldestination@gmail.com",
 			"phone":"14807819955",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2998,7 +2998,7 @@
 			"weburl": "https://www.scottsdaleprincess.com/events-scottsdale/easter",
 			"phone":"14805852694",
 			"admission":"Adults: $169+ | Children: $74+ | Children: Complimentary with Adult Buffet",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3029,7 +3029,7 @@
 			"email":"sydney.rich@mim.org",
 			"phone":"14804786000",
 			"admission":"Free with Museum Admission",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3173,7 +3173,7 @@
 			"description":"The Gilbert Global Village Festival is a FREE multicultural celebration for all ages. The festival celebrates the cultural diversity of our community. This event will include cultural performances all day on 2 stages, A Parade of Nations, interactive learning experiences, Food, Retail and much more. Gilbert is focused on creating a safe and respectful environment where authentic connections thrive, opinions are equally valued, ally ship is encouraged, and differences are shared and celebrated.",
 			"weburl": "https://www.gilbertaz.gov/departments/parks-and-recreation/special-events-and-permits/gilbert-global-village-festival",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3934,7 +3934,7 @@
 			"weburl": "https://www.tasteofjpn.com/supportsake",
 			"email":"tasteofjpn@gmail.com",
 			"admission":"Varies per restaurant",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3963,7 +3963,7 @@
 			"description":"Tai Chi creates a sense of harmony between humans and their environment. In Tai Chi, this is achieved through the flowing movements of the form, which are based on the principles of yin and yang. These principles represent the two opposing forces in nature, such as darkness and light, or movement and stillness. The goal of Tai Chi is to find balance between these forces, both within the individual and in the world around them.Join Rasoul Amin Sobhani in practicing the art of Tai Chi, which uses the mind, body, and spirit equally to engage in collective meditation. Let the beautiful gardens and serene pathways of Taliesin West inspire awe and appreciation for the world around you. We invite you to experience the impact of Frank Lloyd Wright’s organic architecture and design through guided activities such as Tai Chi. At Taliesin West, there are a variety of ways to find harmony and balance in your life in our beautiful spaces.",
 			"weburl": "https://franklloydwright.org/event/tai-chi-with-rasoul-amin-sobhani/",
 			"admission":"Adults $25Students (13-25 with student ID) $17",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
