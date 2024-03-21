@@ -31,6 +31,738 @@
 					{ "room_type_id": "3", "count": 35, "capacity": 6 }
 				]
 			}
+		},
+		{
+			"property_id": "8",
+			"accommodation_types": { "set": ["3"] },
+			"amenities": { "set": ["fitness_facilities", "coffee_tea_maker", "concierge", "cable", "hair_dryer", "pool_outdoor", "multilingual_staff", "laundry_facilities", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 5, "capacity": 2 },
+					{ "room_type_id": "2", "count": 15, "capacity": 4 },
+					{ "room_type_id": "3", "count": 1, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "9",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 100, "capacity": 2 },
+					{ "room_type_id": "2", "count": 150, "capacity": 4 },
+					{ "room_type_id": "3", "count": 20, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "12",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 125, "capacity": 2 },
+					{ "room_type_id": "2", "count": 150, "capacity": 4 },
+					{ "room_type_id": "3", "count": 15, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "21",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "cable", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "23",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "24",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "25",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "27",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "28",
+			"accommodation_types": { "set": [ "17", "19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "30",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 70, "capacity": 2 },
+					{ "room_type_id": "2", "count": 90, "capacity": 4 },
+					{ "room_type_id": "3", "count": 10, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "31",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 50, "capacity": 2 },
+					{ "room_type_id": "2", "count": 75, "capacity": 4 },
+					{ "room_type_id": "3", "count": 10, "capacity": 10 }
+				]
+			}
+		},
+		{
+			"property_id": "34",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 150, "capacity": 2 },
+					{ "room_type_id": "2", "count": 250, "capacity": 4 },
+					{ "room_type_id": "3", "count": 20, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "36",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "37",
+			"accommodation_types": { "set": ["19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "38",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 85, "capacity": 2 },
+					{ "room_type_id": "2", "count": 100, "capacity": 4 },
+					{ "room_type_id": "3", "count": 15, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "39",
+			"accommodation_types": { "set": ["9"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 3, "capacity": 2 },
+					{ "room_type_id": "2", "count": 12, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "40",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "41",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "42",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "43",
+			"accommodation_types": { "set": ["11"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 10, "capacity": 2 },
+					{ "room_type_id": "2", "count": 20, "capacity": 4 }
+				]
+			}
+		},
+		{
+			"property_id": "44",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "48",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "49",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 15, "capacity": 2 },
+					{ "room_type_id": "2", "count": 25, "capacity": 4 },
+					{ "room_type_id": "3", "count": 2, "capacity": 10 }
+				]
+			}
+		},
+		{
+			"property_id": "50",
+			"accommodation_types": { "set": ["17"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "51",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 35, "capacity": 2 },
+					{ "room_type_id": "2", "count": 50, "capacity": 4 },
+					{ "room_type_id": "3", "count": 3, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "52",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "53",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "55",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "57",
+			"accommodation_types": { "set": ["6"] },
+			"amenities": { "set": ["early_check_in_available"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM"
+		},
+		{
+			"property_id": "58",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "59",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "60",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "61",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "66",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "67",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "68",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 85, "capacity": 2 },
+					{ "room_type_id": "2", "count": 125, "capacity": 4 },
+					{ "room_type_id": "3", "count": 8, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "69",
+			"accommodation_types": { "set": ["6"] },
+			"amenities": { "set": [ "early_check_in_available" ] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM"
+		},
+		{
+			"property_id": "70",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "71",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "72",
+			"accommodation_types": { "set": ["4"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 12, "capacity": 2 },
+					{ "room_type_id": "2", "count": 24, "capacity": 4 }
+				]
+			}
+		},
+		{
+			"property_id": "73",
+			"accommodation_types": { "set": ["17"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "75",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "76",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 80, "capacity": 2 },
+					{ "room_type_id": "2", "count": 90, "capacity": 4 },
+					{ "room_type_id": "3", "count": 5, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "81",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "84",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "87",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "88",
+			"accommodation_types": { "set": [ "17", "19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "89",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "90",
+			"accommodation_types": { "set": [ "17", "19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "91",
+			"accommodation_types": { "set": [ "17", "19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "92",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "93",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "95",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "96",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 180, "capacity": 2 },
+					{ "room_type_id": "2", "count": 275, "capacity": 4 },
+					{ "room_type_id": "3", "count": 25, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "97",
+			"accommodation_types": { "set": ["16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "99",
+			"accommodation_types": { "set": ["17"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "100",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 180, "capacity": 2 },
+					{ "room_type_id": "2", "count": 250, "capacity": 4 },
+					{ "room_type_id": "3", "count": 20, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "101",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "102",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "103",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "104",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "105",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 15, "capacity": 2 },
+					{ "room_type_id": "2", "count": 20, "capacity": 4 },
+					{ "room_type_id": "3", "count": 4, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "106",
+			"accommodation_types": { "set": ["3"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 5, "capacity": 2 },
+					{ "room_type_id": "2", "count": 10, "capacity": 4 }
+				]
+			}
+		},
+		{
+			"property_id": "107",
+			"accommodation_types": { "set": ["3"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 5, "capacity": 2 },
+					{ "room_type_id": "2", "count": 10, "capacity": 4 }
+				]
+			}
+		},
+		{
+			"property_id": "108",
+			"accommodation_types": { "set": ["21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 100, "capacity": 2 },
+					{ "room_type_id": "2", "count": 250, "capacity": 4 },
+					{ "room_type_id": "3", "count": 25, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "111",
+			"accommodation_types": { "set": ["9"] },
+			"amenities": { "set": ["coffee_tea_maker", "cable", "hair_dryer", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "2:00 PM",
+			"check_out_time": "10:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 3, "capacity": 2 },
+					{ "room_type_id": "2", "count": 12, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "112",
+			"accommodation_types": { "set": ["16", "21"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM",
+			"sleeping_rooms": {
+				"docs": [
+					{ "room_type_id": "1", "count": 75, "capacity": 2 },
+					{ "room_type_id": "2", "count": 100, "capacity": 4 },
+					{ "room_type_id": "3", "count": 10, "capacity": 6 }
+				]
+			}
+		},
+		{
+			"property_id": "115",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "116",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "117",
+			"accommodation_types": { "set": ["16", "19" ] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "fitness_facilities", "coffee_tea_maker", "concierge", "cable", "business_center", "hair_dryer", "pool_outdoor", "room_service", "multilingual_staff", "laundry_facilities", "iron", "spa", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "120",
+			"accommodation_types": { "set": [ "17", "19"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "121",
+			"accommodation_types": { "set": ["17", "19", "16"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
+		},
+		{
+			"property_id": "122",
+			"accommodation_types": { "set": ["17"] },
+			"amenities": { "set": ["24_hour_front_desk", "express_check_in", "express_check_out", "coffee_tea_maker", "cable", "hair_dryer", "multilingual_staff", "iron", "early_check_in_available", "grab_bars_in_bathtub", "grab_bars_in_shower", "minifridge"] },
+			"cancellation_policy": "Must cancel a week in advance.",
+			"check_in_time": "4:00 PM",
+			"check_out_time": "11:00 AM"
 		}
 	]
 }
