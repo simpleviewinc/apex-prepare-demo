@@ -80,17 +80,17 @@
 			"phones": {
 				"docs": [
 					{
-						"phone_number": "15207923500",
+						"phone_number": "+15207923500",
 						"is_primary": true,
 						"phone_type_id": "direct"
 					},
 					{
-						"phone_number": "18885278989",
+						"phone_number": "+18885278989",
 						"is_primary": false,
 						"phone_type_id": "toll_free"
 					},
 					{
-						"phone_number": "15207923351",
+						"phone_number": "+15207923351",
 						"is_primary": false,
 						"phone_type_id": "fax"
 					}
