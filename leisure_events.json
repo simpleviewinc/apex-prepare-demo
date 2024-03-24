@@ -77,7 +77,7 @@
 			},
 			"media": { "docs": [{ "image_id": "4", "sort_order": 1 }] },
 			"offers": { "set": "2" },
-			"phone": "15554385427",
+			"phone": "+15205751151",
 			"rank": { "set": "1" },
 			"post_from_at": "2024-01-18T07:00:00.000Z",
 			"post_to_at": "2024-01-21T07:00:00.000Z",
@@ -130,7 +130,7 @@
 			"social_instagram": "societyofanimalartists",
 			"weburl": "https://www.desertmuseumarts.com/wildlife-wonders",
 			"email": "arts@desertmuseum.org",
-			"phone": "15208833024",
+			"phone": "+15205751151",
 			"rank": { "set": "1" },
 			"post_from_at": "2024-03-01T07:00:00.000Z"			
 		},
@@ -160,11 +160,11 @@
 			"venue_type": { "set": "listing" },
 			"weburl": "https://www.amerind.org/events/texas-canyon-mountain-bike-race-5/",
 			"email": "mohnesorgen@amerind.org",
-			"phone": "15206861336",
+			"phone": "+15206861336",
 			"rank": { "set": "2" },
 			"post_from_at": "2024-03-01T07:00:00.000Z",
 			"purchase_tickets": "https://bit.ly/TCMBR24",
-			"doors_open": "7:30"			
+			"doors_open": "07:30"			
 		},
 		{
 			"account": { "set": "26"},
@@ -173,7 +173,7 @@
 			"description":"Don't miss Raucous Revelry at the 36th Annual Arizona Renaissance Festival Opening February 4!</p><p>The Festival is a medieval amusement park, a 16-stage theater, a 50-acre circus, an arts and crafts fair, a jousting tournament and a feast -- all rolled into one non-stop, day-long adventure. You never know what you will find on or off the stage! This unique outdoor event combines entertainment and wares reminiscent of what may have been found in a 16th Century European village market celebrating the arrival of the King and Queen to their shire. Walk through our gates to be transported back in time. Mingle with over 2,000 costumed characters, eat a giant roasted turkey leg; take part in games of chance and skill; cheer on your favorite knight; Shop in over 200 artisan shops and select an inimitable gift for that special someone; there is so much to see and do. Eat Drink and be Merry is the order of the day at the Village of Fairhaven.The Arizona Renaissance Festival is open Saturdays and Sundays Feb. 3– Mar. 31and Presidents' Day Monday, Feb. 19. Just East of Apache Junction, on U.S. Highway 60! Arizona.RenFestInfo.com HUZZAH!",
 			"weburl": "http://arizona.renfestinfo.com/",
 			"email":"arizonarenfest@renfestinfo.com",
-			"phone":"15204632600",
+			"phone":"+15204632600",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -203,7 +203,7 @@
 			"title": "WM Phoenix Open",
 			"description":"Annually sporting the largest crowds on the PGA Tour, the Waste Management Phoenix Open has gained legendary status for being unlike any other golf tournament.If you are visiting for the first time, hole 16 is a must-see. With stadium seating and llively crowds, the fan experience at this hole more comparable to a Phoenix Suns game than a traditional PGA Tournament. Visit the website for more information including a list of events and concerts throughout the week.",
 			"weburl": "https://wmphoenixopen.com/tickets/",
-			"phone":"16028700163",
+			"phone":"+15205751151",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -257,9 +257,9 @@
 			"title": "69th Annual Scottsdale Arabian Horse Show",
 			"description":"The Arabian Horse Association of Arizona (AHAA) is excited to announce the return of the 69th annual Scottsdale Arabian Horse Show at WestWorld of Scottsdale. The world’s largest Arabian horse show will run from Thursday, Feb. 15 through Sunday, Feb. 25, 2023, featuring the world’s best Arabians, exciting competitions, a shopping expo and more.",
 			"weburl": "https://www.scottsdaleshow.com",
-			"phone":"14805151500",
+			"phone":"+14805151500",
 			"admission":"GA: $15, Seniors: $10, 12 and under: Free.",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -268,7 +268,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-02-15T07:00:00.000Z",
 						"end_date_at":"2024-02-25T07:00:00.000Z",
-						"start_time": "8:00",
+						"start_time": "08:00",
 						"end_time":"17:00"
 					}
 				]
@@ -314,9 +314,9 @@
 			"title": "34th Annual World Championship Hoop Dance Contest",
 			"description":"The art of hoop dance honors cultural traditions shared by multiple Indigenous communities. With roots in healing ceremonies, traditions and practices, today hoop dance is shared as an artistic expression to celebrate and honor Indigenous traditions throughout the U.S. and Canada.Over the years, as the hoop dance community has grown, dancers have incorporated new and creative designs and intricate footwork while still respecting the fundamentals of the form. Each dancer presents his or her own choreography, weaving in aspects of tradition and culture. Men and women compete on an equal field, and individual routines may feature as few as four to as many as 50 hoops, which are manipulated to create a variety of designs such as animals, insects and globes.Traditional hoops were made from the wood of a willow tree. Modern-day hoops are often made from reed and plastic hose because of the durability of the material when traveling. The hoops are decorated with tape and paint to symbolize the changing colors of each season. The traditional wooden hoops are still used on rare occasions.Dancers are judged on a slate of five skills: precision, timing/rhythm, showmanship, creativity and speed. Contestants compete in one of five divisions: Tiny Tots (age 5 and younger), Youth (6-12), Teen (13-17), Adult (18-39) and Senior (40 and older). Cash prizes totaling $25,000 are awarded to winners in each division, and victors in each division can claim the honor of being the World Champion.Through stunning performances of those women and men competing to be named the next World Champion Hoop Dancer, the event combines artistry, athleticism, tradition and suspense for an unforgettable weekend of fellowship and competition.",
 			"weburl": "https://heard.org/event/hoop/",
-			"phone":"16022528840",
+			"phone":"+16022528840",
 			"admission":"$25: Adults$22: Seniors (65+), Active Military$20: Members$10: American Indians (w/ID)$10 :Students$10: Children (6-17)Free: Children 5 & underAll children 12-and-under FREE on Sunday.",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -325,7 +325,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-02-17T07:00:00.000Z",
 						"end_date_at":"2024-02-18T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"17:00"
 					}
 				]
@@ -345,7 +345,7 @@
 			"description":"Kick off the Lunar New Year at the 34th annual Phoenix Chinese Week Culture and Cuisine Festival, February 3-4, 2024. This FREE two-day festival offers something for everyone.Enjoy continuous live entertainment including Dragon and Lion Dances, Folk Dances, Musical and Cultural Performances, Tai Chi and Martial Arts Demonstrations. Sample a variety of delicious Asian food from our food trucks and food vendors, chill out at our Beer Garden, shop interesting items from our merchandise vendors, check out our Koi and other exhibits, and participate in our many hands-on activities. Kids will have fun at the arts and crafts and the Children’s play area. Test your skill using chopsticks, take a selfie in full traditional Chinese costume, play a game of Mahjong, learn how to use the abacus, try a Chinese Yo-yo, have your English name translated into Chinese characters and much more!We look forward to connecting with old friends and meeting new ones!",
 			"weburl": "http://www.phoenixchineseweek.org/",
 			"email":"phoenixchineseweek@gmail.com",
-			"phone":"14804067470",
+			"phone":"+14804067470",
 			"admission":"Free ",
 			"date_rule_sets": {
 				"docs": [
@@ -402,7 +402,7 @@
 			"title": "Spring Arizona Restaurant Week",
 			"description":"Get ready to spice up your dining life during Arizona Restaurant Week. We’re serving up a state-sized plate of choices, from sizzling Southwestern flavors and your favorite comfort food to luxe dining experiences and flavors from around the globe. We hope you’re hungry!The list of restaurants and their menus will be unveiled by May 1, 2024.Remember, our local restaurants need our love more than ever. Dine in, grab take out, or order delivery – every bit helps our favorite restaurants keep the lights on and their amazing teams working.",
 			"weburl": "http://arizonarestaurantweek.com/",
-			"phone":"16023079134",
+			"phone":"+16023079134",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -457,7 +457,7 @@
 			"description":"Connect and collect at our annual event in Scottsdale, Arizona where 100 artists gather, create and showcase their work as part of one of the most unique fine art experiences in the country.40,000 square feet of working studios for 100 renowned and emerging artists from across the countryExpand your knowledge with Art Discovery Series eventsOn site café and sculpture court",
 			"weburl": "http://www.celebrateart.com",
 			"email":"info@celebrateart.com",
-			"phone":"14804437695",
+			"phone":"+14804437695",
 			"admission":"10",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -486,7 +486,7 @@
 			"description":" Thunderbird Artists, the leading producer of fine art events in the southwest, is thrilled to present the Thunderbird Artists Spring Carefree Fine Art & Wine Festival, our twenty-ninth spring festival in downtown Carefree. The carefully curated selection of fine art ensures that guests are exposed to a diverse range of artistic styles and mediums, allowing them to discover new favorites and expand their artistic horizons. As visitors stroll through the festival grounds, they can engage in conversations with the artists themselves, gaining insight into their creative processes and inspirations. This direct interaction fosters a deeper appreciation for the artwork on display and creates a sense of connection between the artists and attendees. The ambiance is further enhanced by the melodic tunes of live music floating through the air, as well as wine tasting, spirit sampling, ice cold microbrews, savory food, sweet treats and more! This year’s featured artist duo Myra Burg and Liz Cummings.The festival is also home to 160 other world-class artists displaying pieces in a variety of avenues and subject matters, from paintings in all mediums, to blown glass, hand thrown pottery, wood works, gourd carvings, metalsmithing, small, medium to life-sized sculptures in metal, stone, bronze and mixed-media, to photography, one-of-a-kind jewelry and more! ",
 			"weburl": "https://thunderbirdartists.com/carefree-arizona-fine-art-wine-festival-march",
 			"email":"info@thunderbirdartists.com",
-			"phone":"14808375637",
+			"phone":"+14808375637",
 			"admission":"$5 (Cash Only)",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -543,8 +543,8 @@
 			"title": "Wigwam Fine Art Festival",
 			"description":"Located in the heart of Litchfield Park's historic district, the iconic Wigwam Resort will host the 13th Annual Wigwam Fine Art Festival, an extraordinary three day celebration of the arts. More than 100 world class artists will be exhibiting on the majestic front lawn of the Resort, creating a stunning outdoor gallery. Widely recognized by collectors and art enthusiasts, this event draws award-winning artists from across the country portraying Western, Traditional, Native American and Contemporary art in a variety of media and subject matter. Patrons will discover spectacular paintings on canvas, mixed media, sparkling hand-blown glass, colorful ceramics, sculptures in bronze, metal, clay and wood, from the minute to life size. Visitors will have a uniqueopportunity to meet and visit with nationally acclaimed artists, while enjoying an outstanding selection of fine wine and refreshing cocktails, andlistening to a line up of topmusical performances. Valetparking and shuttle services are available.Be sure to save time to stroll through the historic Wigwam Resort. Nestled in the West Valley and surrounded by the stunning Sonoran Desert landscape, our iconic retreat is an oasis of casual elegance blended with southwestern charm. After a century of service, The Wigwam has become a part of Arizona's rich history, and synonymous with Litchfield Park and the local communities.Boasting luxury casitas and suites, the 440-acre Phoenix getaway provides a complete array of recreational amenities, pools, three unique restaurants, a luxury spa and 54-holes of championship golf, including theGold, Blue and Red Courses. The Wigwam is not just a resort, it's the beatingheart of Arizona's arid landscapes. You may want to consider a stay!",
 			"weburl": "https://www.vermillionpromotions.com/event/wigwam-festival-of-fine-art/",
-			"email":"cvermillion12@cox..net",
-			"phone":"16237346526",
+			"email":"cvermillion12@cox.net",
+			"phone":"+16237346526",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -629,7 +629,7 @@
 			"description":"Join us at this not-to-be missed FREE fun family friendly celebration of our furry best friends. Check out fantastic pet products and services, yummy eats, vet tips, music, auction prizes and much more! Bring your friendly dog. Be a Sponsor, Vendor, Volunteer. Together we can do good and celebrate our furry family members!",
 			"weburl": "http://go.evvnt.com/1999196-0?pid=5535",
 			"email":"doggiestreet@gmail.com",
-			"phone":"13234455087",
+			"phone":"+13234455087",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -689,7 +689,7 @@
 			"description":"Thunderbird Artists, producer of award-winning fine art and wine festivals, lines the banks of the Scottsdale Waterfront with the greatest selection of juried fine arts, fine wines, delectable chocolates and musicians in the Southwest for the Waterfront Fine Art & Wine Festival. Patrons love strolling throughout spectacular paintings, bronzes, glass, stone, copper, clay sculptures, photography and jewelry, while listening to live musical entertainment and sipping fine wines. The Scottsdale Waterfront is a superb backdrop, which adds romance to the event with reflections across the waters.",
 			"weburl": "http://www.thunderbirdartists.com/scottsdale-arizona-waterfront-fine-art-wine-festival-february/",
 			"email":"info@thunderbirdartists.com",
-			"phone":"14808375637",
+			"phone":"+14808375637",
 			"admission":"5",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -720,7 +720,7 @@
 			"description":"What sets the Thunderbird Artists’ Cave Creek Sculpture & Wine Festival apart is its unique focus on the captivating world of sculpture. This festival will showcase an array of stunning sculptures, created by talented, juried artists from across the globe.Attendees will have the opportunity to explore a diverse range of sculptural styles and mediums, from traditional bronze, wood, stone sculptures and one-of-a-kind jewelry to contemporary glass, intricate ceramics and mixed-media creations. The carefully curated selection of fine art, chosen through a rigorous jury process, ensures that only the highest quality artwork is on display.Nestled within the charming Stagecoach Village, this festival will provide a picturesque backdrop for visitors to immerse themselves in the beauty of these three-dimensional artworks. Patrons can expect to be fascinated by a diverse range of sculptures, spanning various styles, materials, techniques and sizes. From towering metal masterpieces to delicate stone carvings, there will be something to inspire and delight every art lover's taste. The festival aims to create an interactive environment where attendees can engage with the artists themselves, gaining insight into their creative process and inspiration behind each unique piece.As guests stroll through the event, they will have the opportunity to sample exquisite wines and spirits, carefully selected to complement the artistic atmosphere. Whether it's a bold red wine or a smooth whiskey, these libations enhance the sensory experience and add an extra layer of sophistication to the event. For those who prefer a different kind of beverage, microbrews are also available for tasting. Crafted by local breweries, these beers offer a refreshing alternative and showcase the creativity and skill of talented brewers. Each sip becomes an exploration of flavors, just like admiring a piece of artwork. To satisfy hunger pangs that may arise during this artistic journey, festival food vendors offer an array of delectable treats, as well as cafes and restaurants located in the iconic Stagecoach Village.",
 			"weburl": "https://thunderbirdartists.com/cavecreeksculpturefestival",
 			"email":"info@thunderbirdartists.com",
-			"phone":"14808375637",
+			"phone":"+14808375637",
 			"admission":"$5 Admission (Cash Only)",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -779,7 +779,7 @@
 			"title": "16th Annual Barbeque and Beer Festival",
 			"description":"Celebrating over a decade of delicious family fun in Chandler, the Original Barbeque & Beer Festival returns on Saturday, March 30, 2024, from noon –10 p.m.With over 30 BBQ pit masters, beer, spirits and novelty food items, the annual event will offer a full day of great music, family entertainment and finger licking good food with amazing crafted drinks to wash it all down.In addition to the endless meal offerings and entertainment, this event will feature Lumberjack shows, Kid’s Zone, a massive 6,500sq ft. March Madness Sports Bar with giant screens to view all of March Madness action and much more…An expanded VIP area includes catered BBQ, private bars, shaded areas, standing pit access in front of the stage, restroom suites, VIP exclusive entertainment, soft seating, fire pits and a commemorative lanyard.",
 			"weburl": "https://forty8live.com/chandlerbbq/",
-			"phone":"16022762499",
+			"phone":"+16022762499",
 			"doors_open":"12:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -808,7 +808,7 @@
 			"title": "41st Annual St. Patrick's Day Parade and Faire",
 			"description":"The 41st Annual St. Patrick’s Day Parade in Phoenix, AZ will take place on March 16th, 2024 at 10 a.m.! The Parade takes place in Downtown Phoenix, going down 3rd street from Oak St. to Margaret T Hance Park.At the Faire you will find local and traditional St. Patrick’s Day meals. The Faire hosts delicious corned beef and cabbage available for those looking for the traditional meal. For those saving the traditional cuisine for family dinner, we have diverse food options from Arizona local vendors. There are pubs throughout the faire with Irish Beer and Buskers Irish Whiskey. The Faire provides Irish entertainment throughout the day with Irish dancing, Irish music, and more!Explore & celebrate Irish traditions, the Irish Cultural Center, and the Irish community in Arizona!",
 			"weburl": "https://stpatricksdayphoenix.org/",
-			"phone":"16022580109",
+			"phone":"+16022580109",
 			"admission":"GA: $15 | Seniors & Military: $12 | Kids 12 & Under: Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -891,7 +891,7 @@
 			"description":"The Arizona Indian Festival offers guests the unique opportunity to explore examples of traditional Indian villages and dwellings, experience traditional arts and crafts demonstrations, and enjoy native food vendors and native mainstage entertainment, such as dancing and singing, representative of many tribes. The Tribal Travel and Tourism offices will also be showcasing their native destinations.",
 			"weburl": "http://go.evvnt.com/2133480-0?pid=5535",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -900,7 +900,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-02-03T07:00:00.000Z",
 						"end_date_at":"2024-02-03T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"18:00"
 					}
 				]
@@ -945,7 +945,7 @@
 			"description":"The Worldwide Women's Film Festival is supporting women in film by educating, and empowering women in the collaborative endeavor of filmmaking while we shine a light on women's stories and other diverse experiences across all genders. Festival runs March 8 - 10, 2024",
 			"weburl": "https://wwfilmfestival.org/",
 			"email":"worldwidewomensfilmfestival@gmail.com",
-			"phone":"16025253012",
+			"phone":"+16025253012",
 			"admission":"$15: Single Ticket, Friday Night: $55, Saturday: $115, Sunday: $55.",
 			"doors_open":"18:00:00",
 			"date_rule_sets": {
@@ -1029,9 +1029,9 @@
 			"description":"For more than five decades, enthusiasts from all over the world have flocked to Barrett-Jackson, The World’s Greatest Collector Car Auctions, named America’s No.1 Attraction for Car Lovers in an USA Today Readers’ Choice Contest. Widely regarded as a barometer of the collector car industry, the auctions have evolved over the years into world-class automotive lifestyle events where thousands of the world’s most sought-after, unique and valuable automobiles cross the block in front of a global audience ‒ in-person, on live television and streaming. Barrett-Jackson produces events in Scottsdale, Arizona; Palm Beach, Florida; Las Vegas, Nevada and New Orleans, Louisiana. In addition to the millions watching the events via live television coverage on FYI and HISTORY, over 500,000 people are in attendance at all four auctions, looking to witness auction action at its best, capture the car of their dreams, mingle with celebrities, experience adrenaline-pumping thrill rides in the latest vehicles from America’s top automakers and shop in the vast Exhibitor Marketplace.",
 			"weburl": "https://www.barrett-jackson.com/Events/Event/Home/ScottsdaleFall-2024/4405093e-b600-4518-b578-aab00aef133d",
 			"email":"information@barrett-jackson.com",
-			"phone":"14804216694",
+			"phone":"+14804216694",
 			"admission":"General Admission: $25-$85, Discounted tickets available online in advance. Other discounts offered for Senior, Military, Student and First Responder tickets.",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1040,7 +1040,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-10-10T07:00:00.000Z",
 						"end_date_at":"2024-10-13T07:00:00.000Z",
-						"start_time": "8:00"
+						"start_time": "08:00"
 					}
 				]
 			},
@@ -1058,7 +1058,7 @@
 			"title": "12th Annual Arizona Cocktail Weekend",
 			"description":"The longest-running cocktail event in the Southwest, Arizona Cocktail Weekend, is returning to the greater Phoenix area for its 12th year on February 16 and running through February 19, 2024. The four-day schedule will boast a variety of events, including exclusive tastings, expert-led seminars and can’t-miss cocktail events, in addition to three signature events, The Cocktail Carnival, Top Bars, and Last Slinger Standing. The events are spread out over various venues, including hotels and bars around the Valley, though most take place in downtown Phoenix.Kicking off the exciting weekend is The Cocktail Carnival, taking place on Saturday, February 17, at the Walter Where? House in Downtown Phoenix. This whimsical, circus-like event will showcase innovative and immersive light and sound displays, while guests enjoy unique cocktails, art shows and circus performances from Walter Productions, with DJ Nu-Mark as the event’s headliner. Each cocktail is curated to pair with select performances crafted from some of the best spirits brands from around the globe. Following the Carnival is Top Bars on Sunday, February 17, at Warehouse 215. The annual cocktail tasting event is a fan-favorite showstopper, with over 40 of the world’s best cocktail bars traveling to Downtown Phoenix as pop-ups, sharing some of their most popular signature cocktails. Some establishments are trekking all the way from London, Japan, and Hong Kong. Top Bars has been headlined by the best bars from around the world—previous years’ guests include Double Chicken Please from New York; Penicillin from Hong Kong; Analogue from Singapore; and Coupette from London, to name a few.Watch as Arizona’s top mixologists battle it out on Monday, February 18, at The Last Slinger Standing competition, at the event space at Republic National Distilling Company (RNDC). This bartending competition pits 16 of Arizona’s best mixologists against each other in head-to-head battles. Each round features secret ingredients, judged by a panel of renowned cocktail experts from around the world, until the the last slinger is remaining, and takes the trophy for 2024.Tickets for Arizona Cocktail Weekend start at $50, depending on the event and date of purchase.The 12th annual Arizona Cocktail Weekend is returning in 2024, running from February 16 through February 19, 2024, in Downtown Phoenix and beyond. The weekend is the longest-running cocktail event in the Southwest, with five days of exciting events, including tastings from pop-ups of global bars, a cocktail carnival, educational seminars, cocktail competitions, and much more to help you celebrate some of your favorite spirits and cocktails. To learn more about Arizona Cocktail Weekend or to purchase tickets, visit arizonacocktailweekend.com.",
 			"weburl": "https://arizonacocktailweekend.com/",
-			"phone":"16026335357",
+			"phone":"+16026335357",
 			"admission":"$50+. Ages 21+ only.",
 			"date_rule_sets": {
 				"docs": [
@@ -1085,9 +1085,9 @@
 			"description":"Join us for a nostalgic journey through time at the Melrose Vintage Market, happening on Sunday, January 21, 2024, from 9 am to 3 pm. Immerse yourself in the charm of yesteryears as you explore a curated collection of vintage treasures, unique finds, and timeless pieces.This event promises a delightful experience for vintage enthusiasts, collectors, and anyone with an appreciation for the beauty of bygone eras. Discover a diverse array of clothing, accessories, home decor, and more from different decades.Don't miss this opportunity to step back in time and uncover hidden gems that tell stories of days gone by. Whether you're a seasoned collector or just curious about the past, the Melrose Vintage Market invites you to indulge in a day of nostalgia and exploration.For more details and a sneak peek into what awaits you, visit www.melrosevintagemarket.com.Save the date, mark your calendars, and get ready for a unique vintage experience in the heart of Phoenix!",
 			"weburl": "https://www.melrosevintagemarket.com/",
 			"email":"rochelle@melrosevintagemarket.com",
-			"phone":"14803700166",
+			"phone":"+14803700166",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1096,7 +1096,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-01-21T07:00:00.000Z",
 						"end_date_at":"2024-01-21T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"15:00"
 					}
 				]
@@ -1116,7 +1116,7 @@
 			"description":"Explore the Charm of The Historic Coronado Neighborhood by attending their Annual Home Tour on Sunday, February 25, 2024, from 10am – 4pm.The Coronado Neighborhood Association, a registered 501(c)(3), is thrilled to announce the date for our upcoming exclusive home tour in The Coronado Neighborhood located in Midtown, between 7th St and 16th St, and McDowell and Thomas Roads. This event offers an unparalleled opportunity to explore the unique charm and character of this historic community. In addition, local artists, vendors, and food trucks will be showcasing their wares at our street fair located at Coronado Park (Palm Lane between 12th and 13th Streets).The Coronado Home Tour is set to showcase a curated selection of distinctive homes and artistic spaces, each with its own story and architectural style. From historic bungalows to modern interpretations, participants will have the chance to experience the rich diversity that defines The Coronado Neighborhood.Street parking within the neighborhood is free. Please adhere to signs and curb markings. Walking and biking are highly encouraged.Don't miss this exceptional opportunity to delve into the heart of The Coronado Neighborhood. Whether you're a long-time resident or a first-time visitor, The Coronado Home Tour promises an enriching experience for all.For media inquiries, please contact:Coronado Neighborhood Associationinfo@thcoronadoneighborhood.com",
 			"weburl": "https://thecoronadoneighborhood.com/HOME-TOUR",
 			"email":"treasurer@thecoronadoneighborhood.com",
-			"phone":"13148087950",
+			"phone":"+13148087950",
 			"admission":"Admission: Free. Home Tours: $20.",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -1146,7 +1146,7 @@
 			"title": "Easter Brunch at The Ballroom",
 			"description":"Indulge in your Easter Brunch FavoritesDive into the magic of Easter with The Wigwam's Easter Brunch Buffet in the elegant Wigwam Ballroom. Elevate your holiday dining experience with chef-driven favorites, including carving stations, seafood tables, crisp salads, and decadent desserts. Immerse yourself in the joyous atmosphere, and don't miss the chance for complimentary photos with the Easter Bunny in Sachem Foyer.",
 			"weburl": "https://www.wigwamarizona.com/happenings/spring-happenings",
-			"phone":"18774229587",
+			"phone":"+18774229587",
 			"admission":"$119+ per adult | $30+ per child (Ages 4-12).",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -1204,9 +1204,9 @@
 			"title": "Phoenix Film Festival",
 			"description":"The Phoenix Film Festival started in 2000 by local filmmakers as a way to get their films some exposure in their hometown. Twenty-four years and thousands of movies later, the Phoenix Film Foundation has grown from a 3-day exhibition to an 11-day celebration of film with over 250 films, filmmaking seminars, parties and student workshops for over 20,000 attendees all at the Harkins Scottsdale 101.The Phoenix Film Festival has been named one of The 25 Coolest Film Festivals and a Top 50 Worth the Entry Fee by MovieMaker Magazine and has been called the most filmmaker-friendly festival out there. Most recently, we've also earned a spot-on MovieMaker's 20 Great Film Festivals for First-Time Moviemakers.So, what are you waiting for? Find Your New Favorite Movie!",
 			"weburl": "https://www.phoenixfilmfestival.com/",
-			"phone":"14805133195",
+			"phone":"+14805133195",
 			"admission":"Single Ticket: $15, Flex Pass: $45 (cannot be used for the opening or closing night films), Super Flex Pass: $120, Festival Pass: $200, VIP Pass: $300, Platinum Pass: $450 (will be the only pass/ticket for access to the opening night film)",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1215,7 +1215,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-04-04T07:00:00.000Z",
 						"end_date_at":"2024-04-14T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"23:00"
 					}
 				]
@@ -1234,7 +1234,7 @@
 			"title": "Valentine's Day at Litchfield's",
 			"description":"Four-course prix fixe menu starting at $119 per personThe Wigwam's signature restaurant, Litchfield's, invites you to celebrate your love with our chef's exclusive Valentine's Day offering. Set by candlelight, and complimented with live music, your romantic evening stars a very special 4-course Valentine's Day menu, with culinary add-ons and a featured wine list available for the night. It's a perfect highlight to this most romantic evening together.Reservations required.RESERVE YOUR SEATVALENTINE'S DAY IN LITCHFIELD'S",
 			"weburl": "https://www.litchfieldsrestaurant.com/happenings",
-			"phone":"16239353811",
+			"phone":"+16239353811",
 			"admission":"Starting at $119 per person",
 			"doors_open":"17:00:00",
 			"date_rule_sets": {
@@ -1265,7 +1265,7 @@
 			"description":"Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Phoenix. Get your tickets now to discover Vivaldi and more at Warehouse215 under the gentle glow of candlelight.60 minutes duration; (doors open 30 mins prior to the start time and late entry is not permitted). 8 years old or older. Anyone under the age of 16 must be accompanied by an adult. This venue is ADA compliant. Seating is assigned on a first come first served basis in each zone.Tentative ProgramThe Four Seasons, Violin Concerto in G Minor, Op. 8 No. 1 RV 269: Spring – VivaldiThe Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2 RV 315: Summer – VivaldiThaïs: Méditation – Jules MassenetThe Cuatro Estaciones Porteñas: Verano Porteño – Astor PiazzollaThe Four Seasons, Violin Concerto in G Minor, Op. 8 No. 3 RV 293: Autumn – VivaldiThe Four Seasons, Violin Concerto in G Minor, Op. 8 No. 4 RV 297: Winter – VivaldiPerformersListeso String Quartet",
 			"weburl": "https://eventvesta.com/events/60547/t/tickets",
 			"email":"fever@eventvesta.com",
-			"phone":"14022492445",
+			"phone":"+14022492445",
 			"admission":"32.58",
 			"doors_open":"14:00:00",
 			"date_rule_sets": {
@@ -1324,7 +1324,7 @@
 			"description":"Cave Creek, known for its picturesque desert landscape with rugged terrain, rocky outcroppings, and beautiful desert flora will be an inviting atmosphere for this one of a kind fine art and wine festival. Relax in the small town feel surrounded by stunning desert vistas and offers a tranquil and natural environment.This is a rain or shine event!Sat. Jan. 13 - Wine Festival - $35 per person pre-sale / $45 at the gate. Each ticket includes a commemorative wine glass and 10 tasting tickets.OR $25 per person pre-sale / $35 at the gate. Each ticket includes a commemorative wine glass and 5 tasting tickets.Sun. Jan. 14 - Wine Festival - $30 per person pre-sale / $40 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.OR $20 per person pre-sale / $30 at the gate. Each ticket includes a commemorative wine glass and 5 tasting tickets.Featuring some of Arizona’s best wineries along with over 50 fine arts, artisan foods, and non-stop entertainment.Live Entertainment and Food Trucks round out the festival.",
 			"weburl": "https://www.eventbrite.com/e/cave-creek-sonoran-fine-art-wine-festival-tickets-778388690527?aff=oddtdtcreator",
 			"email":"kokopellimike@aol.com",
-			"phone":"14805168848",
+			"phone":"+14805168848",
 			"admission":"Free",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -1384,7 +1384,7 @@
 			"title": "19th Annual Polish Festival",
 			"description":"Please join us for the 19th Polish Festival, which will be hosted by Our Lady of Czestochowa Parish. Delicious Polish cuisine and refreshing imported Polish beer will complement traditional folk dances, Polish music, and fun activities for the whole family. There will be a souvenir boutique filled with a variety of traditional Polish jewelry, crafts, national ornaments, T-shirts, hats, and more. Free Admission & Parking, Saturday April 13, 2024, from 10 a.m. - 8 p.m., Sunday April 14, 2024 from 10 a.m. - 4 p.m.",
 			"weburl": "https://www.Polishfestivalaz.com/",
-			"phone":"16022121172",
+			"phone":"+16022121172",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -1412,7 +1412,7 @@
 			"title": "Tee Time Waste Management Golf Open",
 			"description":"Join us in the Living Room & Cottontail Lounge for an evening filled with live music, golf themed decor and activities and cool cocktailsVIP Reservations: 602 405 0099 or vip@spellboundeg.com",
 			"weburl": "https://www.marriott.com/en-us/hotels/phxwh-w-scottsdale/overview/",
-			"phone":"16024050099",
+			"phone":"+16024050099",
 			"admission":"Please text 602 405 0099 for table reservations.",
 			"doors_open":"21:00:00",
 			"date_rule_sets": {
@@ -1424,7 +1424,7 @@
 						"start_date_at":"2024-02-08T07:00:00.000Z",
 						"end_date_at":"2024-02-08T07:00:00.000Z",
 						"start_time": "21:00",
-						"end_time":"2:00"
+						"end_time":"02:00"
 					}
 				]
 			},
@@ -1442,7 +1442,7 @@
 			"title": "19th Hole Waste Management Golf Open Party at W Scottsdale",
 			"description":"Join us at the 19th hole, the premier-after event destination of the Waste Management Phoenix Open. Take a swing at our golf simulator and enjoy other fun surprises at our outdoor rooftop.VIP Reservations: 602 405 0099 or vip@spellboundeg.comHotel rooms available.",
 			"weburl": "https://www.marriott.com/en-us/hotels/phxwh-w-scottsdale/overview/",
-			"phone":"16024050099",
+			"phone":"+16024050099",
 			"admission":"For tables and cabanas please text 6024050099.",
 			"doors_open":"21:00:00",
 			"date_rule_sets": {
@@ -1454,7 +1454,7 @@
 						"start_date_at":"2024-02-10T07:00:00.000Z",
 						"end_date_at":"2024-02-10T07:00:00.000Z",
 						"start_time": "21:00",
-						"end_time":"2:00"
+						"end_time":"02:00"
 					}
 				]
 			},
@@ -1472,7 +1472,7 @@
 			"title": "14th Annual Golf Ball",
 			"description":"Join us as we transform the WET Deck into an elevated golf experience. Enjoy live music, cocktails, golf simulator and more!VIP Reservations: 602 405 0099 or vip@spellboundeg.com.",
 			"weburl": "https://www.marriott.com/en-us/hotels/phxwh-w-scottsdale/overview/",
-			"phone":"16024050099",
+			"phone":"+16024050099",
 			"admission":"VIP Tables and cabanas, text (602) 405-0099.",
 			"doors_open":"21:00:00",
 			"date_rule_sets": {
@@ -1484,7 +1484,7 @@
 						"start_date_at":"2024-02-09T07:00:00.000Z",
 						"end_date_at":"2024-02-09T07:00:00.000Z",
 						"start_time": "21:00",
-						"end_time":"2:00"
+						"end_time":"02:00"
 					}
 				]
 			},
@@ -1502,7 +1502,7 @@
 			"title": "Skybox Sunday Viewing Experience",
 			"description":"Join us on the WET Deck at W Scottsdale for Skybox Sunday Viewing Event, featuring a poolside big screen LED video wall, VIP cabana televisions and dedicated Cottontail Lounge viewing suite televisions.VIP Reservations: (602) 405-0099RSVP: www.cottontaillounge.comHotel rooms are available.",
 			"weburl": "https://www.marriott.com/en-us/hotels/phxwh-w-scottsdale/overview/",
-			"phone":"16024050099",
+			"phone":"+16024050099",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -1532,9 +1532,9 @@
 			"description":"A Highland Games is a day(s) long celebration of Scottish heritage, combining aspects of sport and culture. Think of a county fair and a track meet all rolled into one.The games part consists of men and women competing in the traditional Scottish heavy athletics events: throwing various weights, stones, and the caber (a pole) for distance, height or accuracy. Multiple events occur all throughout the day.Celtic music performers are featured on stage. Pipe and Drum bands perform as entertainment, in competition, and as accompaniment to Highland dancing – both performances and dance competition. All the participating pipe bands combine in parade to open and close the event, and to Call the Clans.Scottish Culture is celebrated with Clan displays, genealogy & educational exhibits and Celtic food and merchandise sales. And not to forget the drink – whisky, beer and more.Celebrate at Phoenix Scottish Games and partake in an International Twilight Tattoo, Evening Ceilidh, heavy athletics competitions, arm wrestling, dancing, food and merchandise vendors, piping competition and musical entertainment. Check the website for a full schedule.",
 			"weburl": "https://phoenixscottishgames.com",
 			"email":"tickets@arizonascots.com",
-			"phone":"16026175694",
+			"phone":"+16026175694",
 			"admission":"Check site for pricing",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1543,7 +1543,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-03-01T07:00:00.000Z",
 						"end_date_at":"2024-03-03T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"18:00"
 					}
 				]
@@ -1563,7 +1563,7 @@
 			"description":"Enjoy an afternoon of the Valley's most talented youth performers at the 12th Annual El Puente Festival, a free event presented by Cultural Coalition at Tempe Center for the Arts (TCA) on Sunday, April 21, 2024 from 2 to 6 p.m.Known for its signature community parade across the bridge, or el puente in spanish, this festival brings together artists of all ages to highlight the importance of connecting traditional arts and culture practices from one generation to the next. High school mariachi music, elementary school ballet folklórico dances, and free arts activities are just a few of the things attendees will enjoy during this event.The festival will have a variety of educational and arts activities for youth of all ages, including free books, hands-on crafts, and activities that get excited feet moving to the beat of the live music. Cultural Coalition will activate multiple areas of TCA including theater stages for professional performances, lobby areas for storytelling with puppets, and outdoor areas for food trucks and more!Performances inside the Theater and Studio are ticketed.To purchase tickets by telephone or online, contact: 480-350-2822",
 			"weburl": "https://culturalcoalition.com/elpuente/",
 			"email":"culturalcoalition@gmail.com",
-			"phone":"14808345731",
+			"phone":"+14808345731",
 			"admission":"Free",
 			"doors_open":"14:00:00",
 			"date_rule_sets": {
@@ -1623,7 +1623,7 @@
 			"description":"The hotel invites the community to continue your family tradition and hop-on over for the Easter Brunch celebration worthy of a King. Guests will enjoy a beautifully decorated rooftop terrace and welcoming tables to dine at with their friends and family beneath the blue, sunny sky of Downtown Phoenix. Not only will you enjoy delicious food, but we will also have live entertainment as well!Reservations and preferred seating times for the 3rd Annual Easter Brunch can be reserved by visiting RooftopEasterBrunch.com.The Rooftop Easter Brunch at the Renaissance Phoenix Downtown will be complete with:Bottomless Mimosas (21+)Seafood including Shrimp, Crab, Ahi Poke, Smoked Fish, Oysters and moreGlazed Easter Ham, Prime Rib and Chicken BreastA Variety of SaladsDelectable Desserts… the menu goes on!Reservations are available from 11:00 am-4:00 pm. Adults are $95, children aged 5-12 are $55 and children under five (5) are complimentary. Pricing is per person and does not include taxes or gratuity. Seating is limited, and reservations are required.Reservations and preferred seating times for the 3rd Annual Easter Brunch can be reserved by visiting RooftopEasterBrunch.com.",
 			"weburl": "http://www.RooftopEasterBrunch.com/",
 			"email":"Jennifer.Cooper@Marriott.com",
-			"phone":"16023330000",
+			"phone":"+16023330000",
 			"admission":"$95 adults, $55 children (ages 5-12)",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -1653,7 +1653,7 @@
 			"title": "Easter Brunch at The Scottsdale Plaza Resort & Villas",
 			"description":"Join us for a Chef Crafted Buffet Featuring Local Ingredients!Including:La Marca Prosecco Mimosa BarLive Entertainment Featuring Brian Kabala Acoustic ArtistChildren's Buffet & Activity Area1st Seating: 10am to 12pm2nd Seating: 1pm to 3pm",
 			"weburl": "https://www.eventbrite.com/e/easter-brunch-registration-840784548217?aff=VisitPHX",
-			"phone":"14809485000",
+			"phone":"+14809485000",
 			"admission":"Adults $120.Young Adults 12-17 Years Old $60.Children 11 and Younger $20.",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -1684,7 +1684,7 @@
 			"description":" STEP RIGHT UP as Carnival of Illusion shares a Magical Night Out of devious deceptions and lovely lies with  SKULLDUGGERY! This top-rated show is Revitalizing Magic by blending old-world prestidigitation with all the charm of a Vaudeville-inspired roadshow. Travel up-close with the national recipients for Excellence in Magic and catch a lively slice of magical history!Much more than a (yawn) magic show. It's a FUN mind-boggling intimate Illusion Show that’s GREAT for date nights, anniversaries, birthdays, and special evenings.Don't be a party-pooper...experience the  Magic, Mystery, and OOOH La La!  CHECK OUT SHOW DATES AND AVAILABILITY AT CARNIVAL OF ILLUSION.",
 			"weburl": "https://www.carnivalofillusion.com/",
 			"email":"thrills@carnivalofillusion.com",
-			"phone":"14803597469",
+			"phone":"+14803597469",
 			"admission":"$55+",
 			"date_rule_sets": {
 				"docs": [
@@ -1766,7 +1766,7 @@
 			"title": "Phoenix Pride Festival",
 			"description":"For 43 years, Phoenix Pride has been organizing marches, rallies, parades, entertainment and education and outreach events to celebrate the Phoenix LGBTQ+ community. In 2023, over 300 corporations, local business, and organizations supported the 42nd Annual Phoenix Pride Festival in Phoenix.This year’s Phoenix Pride Festival will continue to be a two day celebration designed to bring our diverse LGBTQ+ and allied communities together for a weekend of camaraderie and celebration of our past, present and future, while raising funds for the Phoenix Pride Community Programs and educating the public about the existence and continuing civil rights battle facing our community. The Phoenix Pride Festival attracts over 55,000 attendees during the two-day celebration offering unique opportunities for marketing and exposure for businesses and organizations interested in creating relationships within the LGBTQ+ community.The Phoenix Pride festival features over 150 entertainment performances on 7 stages and over 300 Exhibitors showcasing a huge variety of food options, shopping opportunities, and community resources. The festival brings a variety of food vendors, as well as an Arts Expo, Main, and Community Stages, KidSpace, VIP Experience, Erotic World, Dance Pavilion, and the Fiesta Caliente Latin Stage produced by Club Papi. Combined with participation from government officials, services, private corporations, and celebrities, the Phoenix Pride Festival continues to raise positive awareness of the Phoenix metropolitan LGBTQ+ community Read more about Phoenix Pride in our feature story here.",
 			"weburl": "https://phoenixpride.org/events/pride-festival/",
-			"phone":"16022777433",
+			"phone":"+16022777433",
 			"doors_open":"12:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -1795,7 +1795,7 @@
 			"title": "Arizona Concours d’Elegance",
 			"description":"A curated and judged exhibition of the world’s finest collector cars, the Arizona Concours d’Elegance is a celebration of automotive excellence that highlights January in Arizona. The Concours, held at the newly renovated Scottsdale Civic Center, is a non-profit event that benefits the arts and local artists.The Concours invites more than 100 select rare and exotic automobiles to be considered for judging and exhibition, with the best among them earning class awards and the coveted Best-of-Show.Nearly 150 volunteers support this event as well as judges from the United States, Canada, and Europe. Additionally, the event has welcomed spectacular cars from some of the finest collections across the United States as well as Europe, South America and Canada.The Arizona Concours would like to thank the dedicated efforts of our operating committee, the talented people at Scottsdale Arts, and all sponsors and attendees for their continued support.",
 			"weburl": "https://arizonaconcours.com/",
-			"phone":"14804998587",
+			"phone":"+14804998587",
 			"admission":"$85+",
 			"date_rule_sets": {
 				"docs": [
@@ -1877,7 +1877,7 @@
 			"title": "38th Annual Arizona Gay Rodeo",
 			"description":"The 38th Annual Arizona Gay Rodeo will be February 16-18, 2024 at the Corona Ranch and Rodeo Grounds – 7811 S 29 th Ave – Laveen (Phoenix), Arizona. The venue is located on the southeast corner of South 29 th Avenue and West Baseline Road. The rodeo is an IGRA-sanctioned rodeo, and all 2024 IGRA Rules apply. Pets are not allowed on the rodeo grounds or in the pavilion; only service animals are allowed.Start time for the rodeo is 11:00 am Saturday-February 17 and Sunday-February 18. The ticket office and gate to the venue will open at 9:00 am each day. The awards ceremony will be at 7:00 pm Sunday-February 18.Rodeo events include: Bull Riding, Steer Riding, Chute Dogging, Calf Roping on Foot, Mounted Breakaway Roping, Barrel Racing, Pole Bending, Flag Race, Team Roping, Steer Decorating, Wild Drag Race, and Goat Dressing.A full-service bar will be open in the pavilion at 4:00 pm Friday and 10:00 am Saturday and Sunday.Games on the Green (a variety of games for kids and adults) will take place on the grass outside the pavilion from noon until 5:00 pm Saturday and from noon until 4:00 pm Sunday.Grand Entry will take place Saturday and Sunday approximately at 1:00 pm each day.There is a $5.00 parking fee per vehicle each day beginning at 4:00 pm Friday and 8:00 am Saturday and Sunday. This fee is charged by the venue and is totally out of AGRA’s control.",
 			"weburl": "https://agra-phx.com/",
-			"phone":"16025109671",
+			"phone":"+16025109671",
 			"admission":"$20 per day",
 			"date_rule_sets": {
 				"docs": [
@@ -1904,7 +1904,7 @@
 			"description":"Educational talks about our unique Spineless Giants- learn more from one of our bug specialists about some of the largest insects from around the world. Be amazed at tarantulas, mantises, and more! FREE with admission.",
 			"weburl": "https://butterflywonderland.com/",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Adult: $29.95.Child (ages2-12): $19.95.",
 			"doors_open":"15:00:00",
 			"date_rule_sets": {
@@ -1935,9 +1935,9 @@
 			"description":"One of the community’s best free events for kids. Compete to throw the farthest paper airplane and win amazing prizes. Each contestant will build and throw their paper airplane in three age groups. The top three from each age group will compete for 1st 2nd and 3rd place.Age brackets:6-8 years9-11 years12-14 yearsRegistration required sign up at www.pimaair.org/great-paper-airplane-fly-off/",
 			"weburl": "https://pimaair.org/great-paper-airplane-fly-off/",
 			"email":"greatpaperairplane@pimaair.org",
-			"phone":"15205740462",
+			"phone":"+15205740462",
 			"admission":"Free registration and admission for contestant and up to four guests",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -1946,7 +1946,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-04-13T07:00:00.000Z",
 						"end_date_at":"2024-04-13T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"13:30"
 					}
 				]
@@ -1966,7 +1966,7 @@
 			"description":"The vibrant and culturally diverse Kierland Commons is set to host its 2nd annual Kierland Fine Art and Wine Festival. This celebration of art, culture, and exquisite flavors promises to enchant visitors with an unparalleled sensory experience. On February 3rd and 4th, Kierland Commons will be transformed into a bustling hub of creativity, showcasing the talents of renowned artists and the finest wines from Arizona.This festival is rain or shine. It is free to attend. Only cost is for wine or beer tastings.Saturday & Sunday l Feb. 3 & 4, 2024. Art Festival 10a-5p | Wine Garden 11a-5pSat. Feb. 3 - Wine Festival - $35 per person pre-sale / $45 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Sun. Feb. 4 - Wine Festival - $30 per person pre-sale / $40 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Featuring 16 of Arizona’s best wineries along with over 100 fine arts, artisan foods, and non-stop entertainment.",
 			"weburl": "https://www.eventbrite.com/e/kierland-fine-art-wine-festival-feb-2024-tickets-778474035797",
 			"email":"festivals@willcoxwinecountry.org",
-			"phone":"14805168848",
+			"phone":"+14805168848",
 			"admission":"Free Entry",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -1997,7 +1997,7 @@
 			"description":"Step into a realm of wonder as Butterfly Wonderland's Education Specialists release exquisite tropical butterflies into the Conservatory. Capture the enchanting moment on camera as these graceful insects take their inaugural flight. Feel free to engage with the specialists, asking questions that may pique your curiosity. This captivating event is included FREE WITH ADMISSION.",
 			"weburl": "http://Www.butterflywonderland.com",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Adult: $29.95.Child (ages 2-12): $19.95.",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -2028,7 +2028,7 @@
 			"description":"Direct from Hawaii… The  Carnival of Illusion Theater features SPECIAL GUEST PERFORMERS and veterans of magic, John and Mari Lynn Shryock. John is a headliner at Caesars Palace in Las Vegas, performed at a Presidential Inaugural Ball, a magic inventor, and is a sleight of hand expert at the #1 Show in Maui, Hawaii: Warren & Annabelle's Magic Nightclub. Mari Lynn, is a classically trained dancer, magic entertainer, and performed in Ringling Bros. & Barnum and Bailey Circus.Together, this magical duo has toured the world with performances on cruise ships, nightclubs, conventions, resorts, as well as the television series Masters of Illusion, and at the World-Famous Magic Castle in Hollywood.Just 15 miles east of downtown Phoenix is the newest, largest, and most expensive arts complex in Arizona!!! This beautiful, state-of-the-art $100 million Mesa Arts Center is home to five art galleries, fourteen art studios, four theaters, and the  Carnival of Illusion Mesa home since 2015.The show is held in a 99-seat boutique setting with the performers not on a raised stage. For maximum visibility, there is floor and tiered seating with never more than two rows of chairs ahead at the same height. Check Ticket Availability at  ",
 			"weburl": "https://www.carnivalofillusion.com/",
 			"email":"thrills@carnivalofillusion.com",
-			"phone":"14803597469",
+			"phone":"+14803597469",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2056,7 +2056,7 @@
 			"description":"Embark on a serene stroll through the mesmerizing Butterfly Conservatory as vibrant tropical butterflies flutter about to the soothing sounds of classical violin by musician Jonathan Levingston. Enjoy the harmonious fusion of nature and music in this unforgettable experience. This magical encounter is included FREE WITH ADMISSION.",
 			"weburl": "https://butterflywonderland.com/",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Adult: $29.95Child (ages 2-12): $19.95",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -2087,7 +2087,7 @@
 			"description":"Whether you’re an avid motorcycle enthusiast or non-rider, Arizona Bike Week promises to deliver an event like you’ve never seen before. ABW is a growing event, and each year brings more parties, activities and attractions. There’s so much to see and do, you’ll want to visit more than once over the five days of the event. WestWorld is home to the Southwest’s largest motorcycle event, and the pristine 380-acre special event site makes for the perfect setting for non-stop fun and excitement. In the ABW PowerYard, you’ll find hundreds of vendors, builders, dealers and manufacturers offering all the best elements of the powersports industry. Plus, daily stunt shows, contests, live entertainment and bike shows. The RockYard features nightly blockbuster concerts at the most affordable ticket pricing you’ll find. This year’s lineup includes Godsmack, Brantley Gilbert, George Thorogood and The Destroyers w/Everclear, and Yelawolf. All of this (even the concerts!) is included with your five-day Rally Pass. Early bird pricing gets you this all-inclusive pass for just $99. Single day passes are also available. For more details, go to azbikeweek.com.",
 			"weburl": "https://azbikeweek.com/",
 			"email":"info@azbikeweek.com",
-			"phone":"14806448191",
+			"phone":"+14806448191",
 			"admission":"$49-$381",
 			"date_rule_sets": {
 				"docs": [
@@ -2145,7 +2145,7 @@
 			"description":"The Holland Community Center is proud to host the Adopt-a-Native-Elder Program’s 2nd Annual Scottsdale Navajo Rug & Jewelry Show from February 16-18, 2024. Featuring over 200 traditional handwoven Navajo rugs, jewelry and crafts for sale, as well as weaving demonstrations, stories, cultural teachings and raffles, the Show will offer attendees an opportunity to purchase one-of-a-kind items while gaining deeper insight into Native culture. The weekend will begin with a VIP preview and sale on Friday, Feb. 16 from 5-8 p.m., allowing attendees an early chance to view and purchase rugs and other handcrafted items before the Show opens to the public. On Saturday and Sunday, Feb. 17-18, the Show will run from 10 a.m. to 5 p.m. each day; admission is free, and all proceeds from rug sales will directly support the weavers. The Featured Weaver of this year’s Navajo Rug & Jewelry Show is Nellie Curley, who is known for incorporating cultural teachings into each of her rugs. Through her weavings, Nellie tells the Creation Story of her homelands and showcases various Navajo ceremonies in rich detail. Several of her rugs will be available for purchase at the Show. Attendees will also have a special opportunity to watch weaving demonstrations and meet several of the weavers and artisans who created the rugs and other items available for purchase. To learn more about Adopt-A-Native-Elder and the various ways to support this incredible organization, visit https://anelder.org. For more information about the 2nd Annual Scottsdale Navajo Rug & Jewelry Show, visit https://hollandcenter.org.",
 			"weburl": "https://hollandcenter.org/event/navajo-rug-jewelry-festival-feb-17-18/",
 			"email":"info@azfcf.org",
-			"phone":"14804881090",
+			"phone":"+14804881090",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -2177,7 +2177,7 @@
 			"weburl": "https://artofthecowgirl.com/",
 			"email":"doreen@artofthecowgirl.com",
 			"admission":"Single day pass is $55, five-day pass is $195.",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2186,7 +2186,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-01-17T07:00:00.000Z",
 						"end_date_at":"2024-01-21T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"18:00"
 					}
 				]
@@ -2206,7 +2206,7 @@
 			"description":"Indulge in a night of romance and culinary delights with our exclusive Valentine's Dinner Special. Elevate your celebration of love with an exquisite five-course couple’s menu crafted to tantalize your taste buds. Experience an unforgettable evening in the perfect setting beneath the stars and above the desert, creating a magical backdrop for your special moments. View Menu |  Reserve a table on OpenTable.",
 			"weburl": "https://www.aderoscottsdale.com/cielo",
 			"email":"info@aderoscottsdale.com",
-			"phone":"14803331880",
+			"phone":"+14803331880",
 			"doors_open":"16:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -2237,7 +2237,7 @@
 			"weburl": "http://www.artistsofthesuperstitions.com/events/",
 			"email":"artists.superstitions@gmail.com",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2246,7 +2246,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-01-14T07:00:00.000Z",
 						"end_date_at":"2024-01-14T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"15:00"
 					}
 				]
@@ -2265,7 +2265,7 @@
 			"title": "Valentine's Day at Roaring Fork",
 			"description":"Celebrate your love in a delicious way at Roaring Fork. Enjoy a memorable meal for you and your partner on Wednesday, February 14th beginning at 4:00pm. The talented Executive Chef will be offering specialty menu items such as the 8 oz. Filet Mignon, 22 oz. Prime Bone-In Ribeye, and the 16 oz. New York Strip served with Caramelized Shallot Butter, Chimichurri & Chipotle Demi-Glace as well as Broiled Lobster Tail with clarified butter, and grilled lemon. Other signature menu items will include the Bacon Wrapped Pork Tenderloin with Poblano grits, charred corn, and a chipotle balsamic reduction; Shrimp & Grits served with cheddar grits, sweet corn butter, chorizo oil, and fried egg; Rainbow Trout with asparagus, brown butter, fried capers, toasted almonds, and grilled lemon; Cedar Plank Salmon served with asparagus, apricot teriyaki glaze, and lemon soy beurre blanc and the Niman Ranch Bone-In Pork Chop with mashed potato, maple mustard glaze, and apple chutney.",
 			"weburl": "http://www.roaringfork.com",
-			"phone":"14809470795",
+			"phone":"+14809470795",
 			"admission":"Menu items are offered a la carte",
 			"doors_open":"16:00:00",
 			"date_rule_sets": {
@@ -2295,7 +2295,7 @@
 			"title": "Valentine’s Celebration at Thirsty Lion Gastropub",
 			"description":"Bring your special someone to a romantic dining experience at Thirsty Lion Gastropub with four convenient locations, February 9th-14th. Enjoy exceptional cocktails including the Espresso Martini, Aperol Spritz, and Tito’s Winter White Cosmopolitan. Indulge in savory, specialty menu items including:Seared Ahi Tuna Appetizer served with dressed jicama & red peppers, Sriracha aioli, wasabi aioli and ginger soy glazeArugula & Beet Salad with Herb Grilled ChickenWagyu Beef Burger served with choice of fresh hand cut fries, Napa slaw or small house saladSeared Shrimp & Butternut Squash Linguine with prosciutto, spinach, red peppers, garlic, shallots, red chili flakes, Reggiano cheese and basilBlack Cherry BBQ Pork Tenderloin served with white cheddar mashed potatoes and seasonal vegetablesParmesan Panko Crusted Halibut lightly grilled with lemon beurre blanc, cilantro jasmine rice and seasonal vegetablesSeared Atlantic Sea Scallops flash seared with cilantro jasmine rice, sauteed red and yellow peppers, snap peas, butternut squash, baby carrots, spinach and Meyer lemon beurre blancGrilled Filet Mignon with white cheddar mashed potatoes and seasonal vegetablesGrilled Ribeye Steak with white cheddar mashed potatoes and seasonal vegetablesDecadent Chocolate Cake",
 			"weburl": "https://www.thirstyliongastropub.com/",
-			"phone":"14804195070",
+			"phone":"+14804195070",
 			"admission":"Menu Prices Vary",
 			"doors_open":"16:00:00",
 			"date_rule_sets": {
@@ -2325,7 +2325,7 @@
 			"description":"Add some flair to your Valentine's Day at Pedal Haus Brewery! Grab a bottle of our Haus wine or two steins, plus a sweet dessert for just $20. This deal is good all day on Wednesday, February 14th. Bring a friend – it takes two to tango and to snag this offer! Cheers to a brew-tiful Valentine's celebration!",
 			"weburl": "http://www.pedalhausbrewery.com",
 			"email":"marketing@pedalhausbrewery.com",
-			"phone":"16232138229",
+			"phone":"+16232138229",
 			"doors_open":"15:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -2354,7 +2354,7 @@
 			"title": "Can't Help Falling in Love at Ember on Valentine's Day",
 			"description":"Enjoy a delicious, delectable and decadent dinner at Ember or WKP Sports & Entertainment.      AmuseAged Pecorino Budini1st CourseAsian Pork Belly or Beet And Endive Salad or Snow Crab CakesIntermezzoRose Petal Sorbet2nd CourseIberico Pork Chop or Filet Mignon And Cortez Shrimp or Menage A Trois Of Duck orNorwegian Salmon              DessertCheesecake Heaven or Red Velvet DelightWine pairing ($25)1st Course: Flowers, Chardonnay Sonoma Coast California, 20212nd Course: Robert Foley, The Griffin Red Blend Napa Valley California, 2019Dessert: Fonseca 10 Year Old Tawny PortStartersBlistered and Charred Heart SaladMainsDeconstructed Beef WellingtonDessertsCrushed Red Velvet Heart3 courses: $42",
 			"weburl": "https://www.wekopacasinoresort.com/dining",
-			"phone":"14807894957",
+			"phone":"+14807894957",
 			"admission":"$115 per person. Tax and gratuity not included.",
 			"date_rule_sets": {
 				"docs": [
@@ -2383,7 +2383,7 @@
 			"description":"Celebrate Valentine's Day at Carcara with live music andspecial menu features from 5PM to 10PM along with ournormal menu offerings.Surf & Turf $60Grassfed Filet & Chocolate Chile Sea Scallops, Grilled Asparagus, Blood Orange Demi, Brown Butter Sweet Potato Puree, Vanilla Beurre BlancDessert Special $16Trio of Ombre Hearts, Dark chocolate mousse, Raspberry, New York Cheesecake, Strawberry, Red Velvet Cake, Cream Cheese",
 			"weburl": "https://www.carcararestaurant.com/",
 			"email":"arthur.pottenger@marriott.com",
-			"phone":"16028175400",
+			"phone":"+16028175400",
 			"doors_open":"17:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -2412,7 +2412,7 @@
 			"title": "Valentines Day at Weft & Warp Art Bar + Kitchen",
 			"description":"This Valentine’s Day, join us for animmersive four-course culinary experience to be shared with a loved one. Inspired by our surroundings, our expert chefs will utilize ingredients grown on our 23 acres to create worldly cuisine with a distinctly local feel. For more information about Valentine’s Day or to make a reservation please visit weftandwarpaz.com",
 			"weburl": "http://weftandwarpaz.com/",
-			"phone":"14802144622",
+			"phone":"+14802144622",
 			"admission":"$125 per person",
 			"doors_open":"17:00:00",
 			"date_rule_sets": {
@@ -2498,7 +2498,7 @@
 			"title": "Bourbon Steak Valentine's Dinner",
 			"description":"Join us for an enhanced three-course dinner featuring classic Michael Mina offerings alongside seasonally influenced dishes including Osetra Caviar Doughnuts, Maine Scallop Crudo, and decadent Vanilla Bean Cheesecake. A la carte menu not available. Kids menu will be available for guests 12 and under.$150 per person not inclusive of tax and gratuity. To place a reservation, please call 480.585.2694.",
 			"weburl": "https://www.fairmont.com/scottsdale/",
-			"phone":"14805852694",
+			"phone":"+14805852694",
 			"admission":"$150 per person not inclusive of tax and gratuity. To place a reservation, please call 480.585.2694.",
 			"doors_open":"17:30:00",
 			"date_rule_sets": {
@@ -2528,7 +2528,7 @@
 			"title": "La Hacienda Valentine's Dinner",
 			"description":"Join us for an intimate holiday dinner in the warmth of La Hacienda's dining room featuring a three-course menu with seasonal offerings. A la carte menu not available. $95 per person not inclusive of tax and gratuity. Includes a champagne greet upon arrival. Kids menu will be available for guests 12 and under. To place a reservation, please call 480.585.2694.",
 			"weburl": "https://www.scottsdaleprincess.com/dining/la-hacienda",
-			"phone":"14805852694",
+			"phone":"+14805852694",
 			"doors_open":"17:30:00",
 			"date_rule_sets": {
 				"docs": [
@@ -2557,7 +2557,7 @@
 			"title": "Toro Valentine's Dinner",
 			"description":"Join us for a special holiday dinner in Toro's dining room. A la carte menu available, as well as a three-course seasonal menu. Three-course menu is $65 per personnot inclusive of tax and gratuity. To place a reservation, please call 480.585.2694.",
 			"weburl": "https://www.scottsdaleprincess.com/scottsdale-restaurants/toro",
-			"phone":"14805852694",
+			"phone":"+14805852694",
 			"doors_open":"17:30:00",
 			"date_rule_sets": {
 				"docs": [
@@ -2587,7 +2587,7 @@
 			"description":"Love is on the menu this Valentine's Day! Join us for a romantic journey through our exquisite 5-course menu that includes a variety of fish hand-picked by Chef Joe priced at $75/person. We will also be offering a very limited a la carte menu for those who would like some selection from our normal menu. We will be offering two special Valentine's Day cocktails and an exclusive bottle of sake curated just for the occasion.Reservations are only for tables, while walk-ins are warmly welcomed at the main bar top or sushi bar (limited seating). Reserve your spot by calling us at (602) 218-6734.",
 			"weburl": "http://www.sakehaus.net",
 			"email":"kim@sakehaus.net",
-			"phone":"16022186734",
+			"phone":"+16022186734",
 			"admission":"Starting at $75 per person, not including tax and gratuity",
 			"doors_open":"16:00:00",
 			"date_rule_sets": {
@@ -2672,7 +2672,7 @@
 			"description":"Celebrate Mardi Gras at the FREE Mardi Gras Bash on Saturday, February 17 from 2-10 p.m. on the rooftop of the Pedal Haus Brewery Downtown Phoenix location. Enjoy authentic New Orleans style food and drink specials like the Spicy Jambalaya and Crispy Shrimp Po’Boy paired with Hurricane cocktails and so much more. Live music performances from Brass Cactus Band will take place from 4-5 p.m., while the Rio Grande local band takes the stage from 6-8 p.m. RSVP on Eventbrite for $2 Hurricane cocktails! Please note the Mardi Gras Bash is a 21+ event.",
 			"weburl": "https://www.eventbrite.com/e/free-mardi-gras-bash-downtown-phoenix-2-nola-hurricane-cocktail-tickets-788688437347?aff=oddtdtcreator",
 			"email":"phoenix@pedalhausbrewery.com",
-			"phone":"16232138229",
+			"phone":"+16232138229",
 			"admission":"Free. Ages 21+ only.",
 			"doors_open":"14:00:00",
 			"date_rule_sets": {
@@ -2785,7 +2785,7 @@
 			"title": "66th Annual Heard Museum Guild Indian Fair & Market",
 			"description":"The Heard Museum Guild Indian Fair & Market (IF&M) is one of the largest American Indian art markets in the world and draws nearly 15,000 visitors and more than 600 of the Nation’s most preeminent American Indian artists.IF&M provides the opportunity to meet and purchase art directly from multiple generations of artists working in all forms of the visual arts. All proceeds from ticket sales support the Heard Museum’s mission of advancing American Indian art.",
 			"weburl": "https://heard.org/event/fair/",
-			"doors_open":"9:30:00",
+			"doors_open":"09:30:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2794,7 +2794,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-03-02T07:00:00.000Z",
 						"end_date_at":"2024-03-03T07:00:00.000Z",
-						"start_time": "9:30",
+						"start_time": "09:30",
 						"end_time":"17:00"
 					}
 				]
@@ -2814,7 +2814,7 @@
 			"description":"Cultural Coalition's Annual Mask Alive! Festival of Masks brings a crowd pleasing line-up of performances to Pioneer Park in Mesa every March. Families of all ages enjoy an afternoon in the park at this free festival that celebrates the global artistic tradition of storytelling through masks.Featuring live performances of dance and music representing cultures from around the world including Mexico, Japan, West Africa, Egypt, and more! One of the most culturally diverse events open to the public for free, Mask Alive! is always a great time that is fun for the whole family - Serving an average audience of 3000 people annually!Attendees also have the chance to enjoy tasty treats from food trucks, purchase art directly from local artisans, and participate in free kids craft activities.",
 			"weburl": "https://go.evvnt.com/2225897-0?pid=5535",
 			"email":"festivals@culturalcoalition.com",
-			"phone":"14808345731",
+			"phone":"+14808345731",
 			"admission":"Free",
 			"doors_open":"14:00:00",
 			"date_rule_sets": {
@@ -2845,9 +2845,9 @@
 			"description":"NHRA will return to Phoenix for the 2024 NHRA Mission Foods Drag Racing Series Season, heading to the newly renamed Firebird Motorsports Park for the 39th Annual NHRA Arizona Nationals from April 5-7, 2024!",
 			"weburl": "https://racefirebird.com/event/nhra-arizona-nationals/",
 			"email":"Info@RaceWildHorse.net",
-			"phone":"15207965601",
+			"phone":"+15207965601",
 			"admission":"$20-250",
-			"doors_open":"8:00:00",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2856,7 +2856,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-04-05T07:00:00.000Z",
 						"end_date_at":"2024-04-07T07:00:00.000Z",
-						"start_time": "8:00",
+						"start_time": "08:00",
 						"end_time":"18:00"
 					}
 				]
@@ -2876,8 +2876,8 @@
 			"description":"Our March Month Caribbean Carnival in Arizona also known as March Carnival Bacchanal, is the pulse of Caribbean music, folklore, culture, and history. Destination Arizona Carnival and Destination Arizona CaribFest is the most authentic Caribbean experience in Arizona.Our 2nd Annual Destination Arizona Carnival and Destination Arizona CaribFest is held at Steele Indian School Park and Heritage Square.Destination Arizona Carnival will be held on Saturday, March 18, 2023, at Steele Indian School Park. Destination Arizona CaribFest will be held on Sunday, March 19, 2023, at Heritage Square.Sunday, March 18th, starting at 8:00 AM, Caribbean Carnival starts off our J'ouvert in Arizona at Steele Indian School Park and transforming later on into Pretty Mas, from colorful costumes adorned by masqueraders, and exuberant celebrations dancing to pulsating Caribbean rhythms.In our second year, the event has created an enthusiastic discovery of Caribbean Culture past and present through Art, Poetry, Music, Dance, Costume, Traditional Folklore, Food, Drinks, and much more! To have our Caribbean Heritage, one voice, one people, celebrating Destination Arizona Carnival and Destination Arizona CaribFest is to promote Caribbean Culture as both entertainment and education whilst sharing our traditional customs.The Annual Destination Arizona Carnival and Destination Arizona CaribFest feature a variety of performances with educational pieces that are enjoyable for your family.With a variety of cultural groups, including our steel pan group, performers, Indian Dancers, the Fushicho Daiko Dojo group, and DJs. As our guest of the events, you have the opportunity to not only watch and listen to live music, but also to be engaged in and participate in various Caribbean dance performances, play steel pan, and learn about the history of the Caribbean.Our events welcome everyone from kids to parents wanting to have an enjoyable day with family and friends coming from all walks of life, coming together, and celebrating Caribbean Culture in Arizona!",
 			"weburl": "https://www.dacarnival.com",
 			"email":"carnivaldestination@gmail.com",
-			"phone":"14807819955",
-			"doors_open":"8:00:00",
+			"phone":"+14807819955",
+			"doors_open":"08:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -2886,7 +2886,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-03-18T07:00:00.000Z",
 						"end_date_at":"2024-03-19T07:00:00.000Z",
-						"start_time": "8:00"
+						"start_time": "08:00"
 					}
 				]
 			},
@@ -2905,7 +2905,7 @@
 			"description":"RepetoireMichael Daugherty,Dead ElvisKristilyn Woods, bassoonPeggy Glanville-Hicks,Three GymnopédiesFranz Krommer, Concerto no. 2 for Two Clarinets and Orchestra, op. 91Kristin Fray and Anthony Masiello, clarinetFranz Joseph Haydn, Symphony no. 98 in B-flat MajorMichael Daugherty’sDead Elvisis a tour de force in which the MusicaNova Orchestra’s principal bassoon, Kristilyn Woods, dons the sequined jumpsuit and plays the Dies Irae, the medieval Latin chant for the day of judgment, while a small ensemble riffs on rock and roll motifs. The piece contemplates the price of fame, the myth of Elvis, and how the dead rock star exemplifies American culture, history, and mythology.The concert also features the orchestra’s Kristin Fray and Anthony Masiello in a rare double concerto for clarinets, theThree Gymnopediesthat helped establish Glanville-Hicks as a leading 20thcentury composer; and the sixth of Haydn’s 12 London symphonies, which ends with a pleasant surprise.",
 			"weburl": "https://mim.org/events/musicanova-orchestra-mar-24-2024/",
 			"email":"sydney.rich@mim.org",
-			"phone":"14804786000",
+			"phone":"+14804786000",
 			"admission":"$33.50-38.50",
 			"doors_open":"18:00:00",
 			"date_rule_sets": {
@@ -2936,7 +2936,7 @@
 			"description":"Celebrate the 50th anniversary of the Fountain Hills Fountain Festival of Fine Arts and Crafts, a vibrant and cherished event. This annual festival showcases the remarkable talents of over 400 artists and artisans from across the country, offering a diverse range of artwork including paintings, sculptures, ceramics, and jewelry. Against the picturesque backdrop of Fountain Park, visitors can immerse themselves in the artistic atmosphere while enjoying live music and exploring enticing food vendors. Additionally, this special anniversary edition promises exciting surprises and commemorations to mark the festival's half-century milestone. Whether you're an art aficionado or simply seeking a fun-filled weekend, the Fountain Hills Fountain Festival of Fine Arts and Crafts offers an unforgettable experience at its historic 50th anniversary celebration.",
 			"weburl": "https://fhchamber.com/artfairs-spring-fountain-festival/",
 			"email":"tammy@fhchamber.com",
-			"phone":"14808371654",
+			"phone":"+14808371654",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -2966,7 +2966,7 @@
 			"title": "St. Patrick’s Day at Thirsty Lion Gastropub",
 			"description":"Extend your St. Patrick’s Day celebration all weekend long at Thirsty Lion Gastropub! Head over to Thirsty Lion Gastropub’s four valley restaurant locations in Chandler, Desert Ridge, Gilbert, and Tempe on Saturday, March 16th AND Sunday, March 17th for authentic Irish fun! Guests will enjoy Irish dancers, bagpipers in full regalia, giveaways, sampling opportunities with The Guiness Girls, specialty themed menu items, craft cocktails including the Irish Mule & Irish Old Fashioned; beer and more!On Saturday and Sunday mornings, from open to 1pm, Thirsty Lion Gastropub also will be offering a limited Brunch menu featuring classics with an Irish twist. The full St. Patrick’s Day specialty menu, which starts Thursday, February 29th, will be available for lunch and dinner in addition to the standard menu through Sunday, March 17th. Signature dishes from the St. Patrick’s Day specialty menu include:Traditional Scotch Eggs: soft-boiled egg wrapped in pork sausage, lightly breaded and crispy-fried with grain mustard sauce.Reuben Sandwich: beer braised corned beef brisket, peppered sauerkraut, melted Swiss cheese and 1000 island, on grilled rustic rye. Served with choice of fresh hand-cut fries, Napa slaw or small house salad. Irish Shepherd’s Pie: seasoned ground beef, onions, carrots & peas simmered in pan gravy, layered with white cheddar mashed potatoes and melted cheddar cheese. Served with fresh baked Irish soda bread. And, of course, Beer Braised Corned Beef & Cabbage: with stone ground mustard vinaigrette, horseradish cream, white cheddar mashed potatoes and braised cabbage.A portion of proceeds from the sale of each Irish Mule will benefit the St. Baldrick’s Foundation, conquering childhood cancers. https://www.stbaldricks.org/ The event is free to attend; food and drinks will be available for purchase. Happy Hour specials will not be available on these two dates. For more information, please visit the website at https://www.thirstyliongastropub.com/ or call Chandler Viridian: 480.786.5799; Desert Ridge: 480.419.5070; SanTan Village: 480.899.0119; Tempe: 480.968.2920",
 			"weburl": "https://www.thirstyliongastropub.com/",
-			"phone":"14804195070",
+			"phone":"+14804195070",
 			"admission":"Free to attend",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -2996,9 +2996,9 @@
 			"title": "Easter Brunch at the Princess",
 			"description":"If you want to view paradise, simply look around and view it this Easter at the Fairmont Scottsdale Princess. Step into a world of pure imagination at our signature Easter Brunch, where our team of culinary artisans, akin to Wonka's magical crew, truly are music makers, and the dreamers of the dreams. Enjoy a full presentation of the finest chocolate creations, tantalizing confectionary delights and a delectable spread of dishes from Bourbon Steak, Toro Latin Restaurant, La Hacienda and Ironwood American Kitchen. Join in on all of the candy-colored fun with Easter egg hunts, custom-made Easter baskets available for order and fun for the entire family. Secure your golden ticket to your family’s most unforgettable Easter yet, only at the Princess.Adults - $169+Children - (Ages 6 – 12) $74+Children - (Ages 5 and under) Complimentary with an Adult BuffetReservations are required by calling 480.585.2694.All pricing is plus tax and service charge. 72-hour advanced notice is required for cancellations to avoid 50% reservation charge.",
 			"weburl": "https://www.scottsdaleprincess.com/events-scottsdale/easter",
-			"phone":"14805852694",
+			"phone":"+14805852694",
 			"admission":"Adults: $169+ | Children: $74+ | Children: Complimentary with Adult Buffet",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3007,7 +3007,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-03-31T07:00:00.000Z",
 						"end_date_at":"2024-03-31T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"14:00"
 					}
 				]
@@ -3027,9 +3027,9 @@
 			"description":"Experience the Emerald Isle at MIM! Learn about the beautiful culture of Ireland through its rich and captivating musical traditions.All activities happen on Saturday and Sunday unless noted otherwise.Craft: Spoons9:00 a.m.–4:00 p.m.Make your own music with spoons, a popular instrument within Irish music. Instrument Spotlight: Concertina9:00 a.m.–4:00 p.m.Create a fun atmosphere by trying out a concertina while you visit the museum.Photo Booth9:00 a.m.–4:00 p.m.Have your picture taken in our hands-free photo booth! Digitally share your pictures and tag us with #MIMphx for a chance to be featured on our social media.Curator Talk: The Influence of Irish Music10:30–11:00 a.m.Explore with Matthew Zeller, MIM’s curator for Europe, the enormous influence of Irish music and musical instruments on music around the world—including classical composers such as Frédéric Chopin and popular artists such as the Snake Charmer and Dropkick Murphys.Performance: Scott Jeffers11:15 a.m.–noonEnjoy a captivating Celtic performance by soloist Scott Jeffers!Pop-Up Performance: Heart Strings12:15–12:30 p.m.Listen to Irish folk tales as told by Celtic storyteller Chrissy Dart and harpist Jocelyn Obermeyer.Performance: Stilicho1:00–1:45 p.m.Join us for a performance by Irish folk band Stilicho and be transported to the rolling hills of Ireland.Performance: Bracken School of Irish Dance2:30–3:00 p.m.Step and clap along to a lively performance from the Bracken School of Irish Dance!Workshop: Irish Step Dancing3:30–4:00 p.m.Don’t miss your chance to learn Irish step dance moves in this workshop.Weekend Extras Available for PurchaseLunch at Café AllegroOffered daily 11:00 a.m.–3:00 p.m.Enjoy a menuof delicious global cuisine with fresh entrées, salads, soups, and grill items showcasing local produce and flavors from around the world.Shop the Museum StoreThe Museum Store will feature Irish instruments (such asbodhránsand tin whistles) and a lively assortment of books and CDs. Memberssave 10% on most items in the Museum Store and online. Every purchase benefits MIM and its programs.",
 			"weburl": "https://mim.org/events/experience-ireland-mar-16-2024/2024-03-16/",
 			"email":"sydney.rich@mim.org",
-			"phone":"14804786000",
+			"phone":"+14804786000",
 			"admission":"Free with Museum Admission",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3038,7 +3038,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-03-16T07:00:00.000Z",
 						"end_date_at":"2024-03-17T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"17:00"
 					}
 				]
@@ -3057,7 +3057,7 @@
 			"title": "Royal Palms Easter",
 			"description":"Join us for a grand Easter celebration at Royal Palms Resort & Spa. Delight your senses with a three-course brunch menu at T. Cook's or a robust Banquet Buffet spread in our grand ballroom, each selection including seasonal and brunch favorites for all to enjoy!T. Cook's Prix-Fixe Easter BrunchSunday, March 31 | 10:00am - 2:00pm$175++ per person, $75++ Children 6 - 12, Complimentary Children 5 and underFor T. Cook's Plated Easter Brunch, please visit herefor reservations.Banquet Buffet Easter BrunchSunday, March 31 | 10:00am - 2:00pm $175++ per person, $75++ Children 6 - 12, Complimentary Children 5 and underFor Banquet Buffet Easter Brunch, please visit herefor reservations.Reservations are highly recommended. For additional questions or information, please call: 602.808.0766.*T. Cook's will be serving a 3-course plated brunch menu. The Banquet Buffet will be buffet style in our ballrooms. They each have separate reservations.",
 			"weburl": "https://royalpalmshotel.com/happenings/happy-easter/",
-			"phone":"16028080766",
+			"phone":"+16028080766",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -3085,7 +3085,7 @@
 			"description":"A Châm Pang Lanes Drag Brunch is all about decadence, babe! Indulgent bites, hand-crafted bevvys, and an unmatched ambiance is how we’re celebrating. Grab your besties - you know we’re creating core memories and pulling out all the stops this weekend with performances from Phoenix’s most talented drag artists. Prepare to be treated like true royalty with our Bloody Mary & Michelada, Matcha Stuffed French Toast, Champagne Bottle Service, and any other brunch combination your heart desires. Get ready to call off work on Monday, because when Fiona’s hosting the show you know it’s bound to be a party you’re still feeling the next day!With performances By: Mya McKenzie, Geo Johnson, Fernanda Vargas West",
 			"weburl": "https://www.eventbrite.com/e/fiona-friends-drag-brunch-drag-queen-show-at-cham-pang-lanes-tickets-772549224527?aff=ebdssbdestsearch",
 			"email":"hello@champanglanes.com",
-			"phone":"16029222235",
+			"phone":"+16029222235",
 			"admission":"$20-$160. Ages 21+ only.",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -3115,7 +3115,7 @@
 			"title": "St. Patrick’s Day at Phoenix City Grille",
 			"description":"In celebration of St. Patrick’s Day, Phoenix City Grille invites diners to get lucky with a delicious St. Patrick’s Day feast. Available all day long on Sunday, March 17, guests can enjoy a St. Patrick’s Day brunch and dinner. Dinner specials are available after 3:00 pmFor more information, visit phoenixcitygrille.com.",
 			"weburl": "https://phoenixcitygrille.com/pcg-events/",
-			"phone":"16022663001",
+			"phone":"+16022663001",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -3144,7 +3144,7 @@
 			"title": "Rusconi’s Three-Course Easter Brunch",
 			"description":"Rusconi’s American Kitchen is celebrating Easter Sunday with an exclusive three-course brunch menu available on Sunday, March 31. Menu is as follows:Starters, choice of one:Spring Pea Soup with Dill Crema, Scottish salmon and Noble Bread crostiniGrilled Spring Peaches and Arugula Salad with Balsamic, house made candied bacon, Sonoma goat cheese and Marcona almondsWild Blue Crab and Spring Tomato Salad with marinated cucumbers, shallots, pear tomatoes, cilantro pesto and tiny greensBoneless Beef Short Rib with Balsamic Molasses Shellack, creamy potatoes, sauce verde and crispy potatoHouse-Smoked Scottish Salmon with Citrus Herb Blini, crème fraiche, tomatoes, cucumbers, red onions and friséeMain Courses, choice of one:Blue Crab and Gulf Shrimp Benedict with poached eggs, crisp bacon, sweet potato hash and citrus emulsionBalsamic and Lavender Glazed Pork Tenderloin with sweet potato, brussels sprouts and apple jus Braised Spring Lamb Shank with Sunnyside Up Egg, creamy roasted pepper polenta, baby green beans and tarragon jusWood Grilled Beef Tenderloin and Poached Eggs with Noble bread, sweet potato hash and herb emulsionPan-Roasted Florida Grouper with Forbidden Rice, baby carrots, green beans and carrot ginger emulsionGrilled Beef Tenderloin With Amish Blue, Yukon Gold potato puree, red wine gastrique and grilled broccoliniDesserts, choice of one:Dark Chocolate Budino with caramel sauce, berries and Chantilly creamLemon Biscotti Cheesecake with strawberry and mango sauces and Chantilly creamPistachio and Caramelized Peach Crème BrûléeRusconi’s Easter Sunday Brunch menu is available from 10 a.m. to 2 p.m. Cost is $82 per person, plus tax and gratuity.For more about Rusconi’s American Kitchen or to make a reservation, visit rusconiskitchen.com.",
 			"weburl": "https://rusconiskitchen.com/",
-			"phone":"14804830009",
+			"phone":"+14804830009",
 			"admission":"82",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -3173,7 +3173,7 @@
 			"description":"The Gilbert Global Village Festival is a FREE multicultural celebration for all ages. The festival celebrates the cultural diversity of our community. This event will include cultural performances all day on 2 stages, A Parade of Nations, interactive learning experiences, Food, Retail and much more. Gilbert is focused on creating a safe and respectful environment where authentic connections thrive, opinions are equally valued, ally ship is encouraged, and differences are shared and celebrated.",
 			"weburl": "https://www.gilbertaz.gov/departments/parks-and-recreation/special-events-and-permits/gilbert-global-village-festival",
 			"admission":"Free",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3182,7 +3182,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-04-06T07:00:00.000Z",
 						"end_date_at":"2024-04-06T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"14:00"
 					}
 				]
@@ -3202,7 +3202,7 @@
 			"description":"Roaring Fork in Scottsdale will be celebrating the Easter holiday on Sunday, March 31st beginning at 11:00am. The Scottsdale restaurant will be serving specialty brunch items in addition to wood-fired favorites including:Skillet Cornbread with whipped agave butterSmoked Chicken Wings with celery and ranch dressingSteak Salad with mixed greens, tomatoes, blue cheese, candied walnuts, mushrooms, balsamic, and creamy horseradish dressingShrimp & Grits with cheddar grits, sweet corn butter, chorizo oil, and fried eggGreen Chili Pork with warm flour tortillasNiman Ranch Bone-In Pork Chop with mashed potato, maple mustard glaze, and apple chutneyRotisserie Chicken with cornbread stuffing, brussels sprouts, and lemon garlic jusFish Tacos Tempura fried, kale slaw, balsamic dressing, chipotle remoulade, and black beansRoaring Fork is where bold American Western Cooking featuring wood-fire techniques meets unmatched service, genuine hospitality and a contemporary ambiance. The menu embraces the flavors created by the wood-fired rotisserie, open flame grill, and stone hearth oven to create gourmet cuisine.",
 			"weburl": "http://www.roaringfork.com",
 			"email":"lindsey@bridgesmediagroup.com",
-			"phone":"14809470795",
+			"phone":"+14809470795",
 			"admission":"Menu items are offered a la carte",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -3260,7 +3260,7 @@
 			"description":"Free for Members | Included in general admission for the general publicAdvance registration recommended.Designed for our youngest PhxArt visitors (ages 0-5) and their parents or caregivers, Storytime in the Garden is a wonderful opportunity to share the joy of early literacy, art-inspired play, and hands-on learning with family and friends. The Storytime in the Garden series is offered on the first Thursday of each month inside the Museum.Storytime in the Garden is made possible by the Angela and Leonard Singer Endowment for Performing Arts, The Discount Tire Endowment for Children’s Art Programs, the William Randolph Hearst Endowed Fund for Education Programs. and Legacy Traditional Schools.",
 			"weburl": "https://11000a.blackbaudhosting.com/11000a/tickets?tab=2&txobjid=f2e5e3ce-0dbe-423c-a9af-075b4abf80cd",
 			"email":"info@phxart.org",
-			"phone":"16022571880",
+			"phone":"+16022571880",
 			"admission":"Free for Members | Included in general admission for the general public",
 			"doors_open":"10:30:00",
 			"date_rule_sets": {
@@ -3291,7 +3291,7 @@
 			"description":"Turn Phoenix into a giant game board with this fun scavenger hunt adventure. Combine the excitement of the Amazing Race with a three-hourcity tour. Guided from any smart phone, teams make their way among well known and overlooked gems of the city, solving clues and completing challenges while learning local history. Available 365 days a year, sunrise to sunset. Start when you want and play at your pace. Save 25%- Only $36.75 for a team of 2-5 people after Promotion Code: PHXEVENT. Sign up online at  www.UrbanAdventureQuest.com.",
 			"weburl": "https://www.urbanadventurequest.com",
 			"email":"eric@urbanadventurequest.com",
-			"phone":"18056035620",
+			"phone":"+18056035620",
 			"admission":"Only $36.75 for a team of 2-5 people after 25% off Promo Code PHXEVENT",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -3321,7 +3321,7 @@
 			"title": "Mother's Day at The Ballroom",
 			"description":"Indulge in a memorable Mother's Day celebration at The Wigwam's exquisite Brunch Buffet in the enchanting Wigwam Ballroom. Elevate your family's dining experience with chef-driven favorites, featuring delectable carving stations, abundant seafood tables, refreshing crisp salads, and decadent desserts that will tantalize your taste buds.In addition to this culinary feast, capture precious moments with complimentary photos in the charming Sachem Foyer.Celebrate Mom with a fresh spring bouquet from Wondry- available for preorder when booking through OpenTable.",
 			"weburl": "https://www.wigwamarizona.com/happenings/spring-happenings",
-			"phone":"18669766894",
+			"phone":"+18669766894",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
 				"docs": [
@@ -3351,7 +3351,7 @@
 			"description":"Celebrate Pedal Haus Brewery's 8 Year Anniversary! Enjoy $8 Steins, $4 Day Drinkers, $8 Happy Burger & Brats, plus live music! The celebration takes place from 12 p.m. to 7 p.m. at all Pedal Haus locations (Chandler, Tempe, Downtown Phoenix). Plus, $1 of every Irish Stout pint sold directly benefits the Pat Tillman Foundation.",
 			"weburl": "https://www.pedalhausbrewery.com/",
 			"email":"chandler@pedalhausbrewery.com",
-			"phone":"14806561639",
+			"phone":"+14806561639",
 			"admission":"Free",
 			"doors_open":"12:00:00",
 			"date_rule_sets": {
@@ -3382,7 +3382,7 @@
 			"description":"Enjoy free Museum admission all day from 10 am – 5 pm, including access to special-engagement exhibition Barbie®: A Cultural Icon and its complement exhibition, The Power of Pink. Beginning at noon, the Museum will host live performances in the galleries, art making, demonstrations, and hands-on experiences for visitors of all ages and abilities inspired by the blushing color.PhxArt Family Fundays are made possible through the generosity of Presenting Sponsor Men’s Arts Council.",
 			"weburl": "https://11000a.blackbaudhosting.com/11000a/tickets?tab=2&txobjid=8a6ec871-3344-4cc7-8ed5-81db361af4d6",
 			"email":"info@phxart.org",
-			"phone":"16022571880",
+			"phone":"+16022571880",
 			"admission":"Free",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -3413,7 +3413,7 @@
 			"description":"Tito Muñoz, conductorBella Hristova, violinRichard Wagner composed his Siegfried Idyll as a birthday present for his wife, Cosima, following the birth of their son Siegfried. The dazzling violinist Bella Hristova joins The Phoenix Symphony to play a violin concerto that her husband, composer David Ludwig, wrote especially for her as a wedding present. Music Director Tito Muñoz ends the program with Tchaikovsky’s passionate Symphony No. 6, Pathétique, an epic tale about the power of fate in life and death which premiered just nine days before the 53-year-old composer’s untimely death.Concert RepertoireWagner: Siegfried IdyllDavid Ludwig: Violin ConcertoTchaikovsky: Symphony No. 6, Pathétique",
 			"weburl": "https://www.phoenixsymphony.org/show/tchaikovskys-pathetique/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3444,7 +3444,7 @@
 			"description":"Bob Bernhardt, conductorCurtain up! Take an exhilarating musical journey through Broadway’s greatest hits. Show-stopping pieces from Broadway’s biggest and best-loved shows such as Les Misérables, The Phantom of the Opera, Chicago, Wicked, Lion King, Cats and many more. Guest conductor Bob Bernhardt joins the Symphony for a Tony Award-winning fabulous show.",
 			"weburl": "https://www.phoenixsymphony.org/show/broadway-tonight/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3475,7 +3475,7 @@
 			"description":"Stuart Chafetz, conductorRajatonRenowned Finnish vocal sensation Rajaton takes the music of ABBA to a whole new level with The Ultimate ABBA Tribute. Take a chance and enjoy your favorite ABBA hits including Mamma Mia, Dancing Queen, SOS and Gimme, Gimme, Gimme with guest conductor Stuart Chafetz leading the six-voice acapella ensemble backed by the power of The Phoenix Symphony. You’ll have the time of your life with this exciting extravaganza of lights, sounds and choreography that will leave you saying Thank You for the Music.",
 			"weburl": "https://www.phoenixsymphony.org/show/the-ultimate-abba-tribute/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3506,7 +3506,7 @@
 			"description":"Byron Stripling, conductor and trumpetCelebrate the spirit of Mardi Gras with a night of hot, steamy New Orleans jazz. Trumpeter, singer and conductor Byron Stripling, a Phoenix Symphony favorite, stands in for Satchmo to play St. Louis Blues and sing What A Wonderful World while leading The Phoenix Symphony in music including Alexander’s Ragtime Band. Let the good times roll with music from New Orleans natives including Fats Domino and Mahalia Jackson. From street parades in the French Quarter to late night jams in the city’s famed jazz clubs, this party transforms into an unforgettable Mardi Gras in New Orleans celebration with Byron Stripling leading the parade.",
 			"weburl": "https://www.phoenixsymphony.org/show/mardi-gras-in-new-orleans/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3537,7 +3537,7 @@
 			"description":"Lidiya Yankovskaya, conductorJoyce Yang, pianoSergei Rachmaninoff’s towering Piano Concerto No. 2 opens with pulse-pounding passion, soothes you in the sentimental middle movement and sets you on the edge of your seat with its fiendishly difficult finale featuring the return of the sensational pianist Joyce Yang, a laureate of the Van Cliburn International Piano Competition. Guest conductor Lidiya Yankovskaya leads The Phoenix Symphony in Jesse Montgomery’s Hymn for Everyone, a meditation for orchestra full of washes of colors and timbre, and in Antonín Dvořák’s cheery and lyrical Symphony No. 8, inspired by the Bohemian folk music of his native land.Concert RepertoireJessie Montgomery: Hymn for EveryoneRachmaninoff: Piano Concerto No. 2Dvořák: Symphony No. 5",
 			"weburl": "https://www.phoenixsymphony.org/show/rachmaninoff-and-dvorak/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3568,7 +3568,7 @@
 			"description":"Tito Muñoz, conductorConrad Tao, pianoMaria Valdes, sopranoTito Muñoz leads The Phoenix Symphony in two works by Richard Strauss, his witty tone poem Till Eulenspiegel’s Merry Pranks, and his aptly-named Four Last Songs, a noble statement about a life well lived, featuring radiant soprano Maria Valdes as soloist. The dynamic pianist Conrad Tao joins the orchestra for Beethoven’s Piano Concerto No. 4, a pinnacle of the repertoire as well as the final work for piano and orchestra that Beethoven performed personally. Opening the program is Christopher Cerrone’s The Age of Wire and String, a six-part orchestral suite that Cerrone composed especially for his good friend Tito Muñoz to premiere.Concert RepertoireChristopher Cerrone: The Age of Wire and StringBeethoven: Piano Concerto No. 4R. Strauss: Four Last Songs (in German)R. Strauss: Till Eulenspiegel’s Merry PranksEnglish and Spanish translation projected above the stage.",
 			"weburl": "https://www.phoenixsymphony.org/show/strauss-and-beethoven/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3599,7 +3599,7 @@
 			"description":"Lucas Waldin, conductorCapathia Jenkins, vocalistFresh from her successful run of Aretha: A Tribute, vocalist Capathia Jenkins returns to The Phoenix Symphony stage with her dynamic voice and stunning stage presence in a brand-new show, She’s Got Soul. Featuring some of the greatest hits of R&B and soul including I Will Always Love You, Midnight Train to Georgia, Celebration and Rolling in the Deep, you’ll savor music by leading ladies of song such as Whitney Houston, Gladys Knight, Chaka Khan, Adele and many others. Guest conductor Lucas Waldin leads background singers and The Phoenix Symphony in a show-stopping evening of soul.",
 			"weburl": "https://www.phoenixsymphony.org/show/shes-got-soul/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3630,7 +3630,7 @@
 			"description":"Jeff Tyzik, conductorAída Cuevas, vocalistThe legendary Aída Cuevas, one of the greatest Mexican singers of all time and the first female singer to win a Grammy Award in the mariachi genre, has entertained Presidents Gerald Ford, Bill Clinton and George W. Bush, the King and Queen of Spain, the Shah of Iran, and every Mexican president since 1975. Affectionately known as The Queen of Mariachi, the Latin Grammy Award-winner and the renowned Mariachi Aztlán join guest conductor Jeff Tyzik and The Phoenix Symphony in such beloved songs as El Pastor and Mexico en la piel, as well as her greatest hits Te Doy Las Gracias and Quizás Mañana.",
 			"weburl": "https://www.phoenixsymphony.org/show/aida-cuevas-the-queen-of-mariachi/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3661,7 +3661,7 @@
 			"description":"Tito Muñoz, conductorMichael Stephen Brown, pianoAdam Golka, pianoMichael Adams, baritoneDmitri Shostakovich struggled his entire life to maintain his integrity as an artist while also serving the Soviet state as required. His 10th Symphony, completed after the death of dictator Joseph Stalin, was a balancing act as well as a mid-life crisis set to music. The Phoenix Symphony welcomes pianists Michael Stephen Brown and Adam Golka to play Mozart’s Concerto for Two Pianos (No. 10), which Mozart composed for himself and his sister, Maria Anna, to perform. Tito Muñoz conducts the world premiere of a new piece by multidisciplinary artist Annie Nikunen exploring the connections between movement and sound.Concert RepertoireAnnie Nikunen: the sound of space beyond usMozart: Concerto for Two PianosShostakovich: Symphony No. 10",
 			"weburl": "https://www.phoenixsymphony.org/show/mozart-and-shostakovich-power-of-10/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3692,7 +3692,7 @@
 			"description":"Tito Muñoz, conductorKatherine Whyte, sopranoMegan Esther Grey, contraltoThe Phoenix Symphony Chorus, Thomas Bookhout, DirectorEnglish and Spanish translation projected above the stage.When Gustav Mahler debuted his Second Symphony, it was immediately clear that the popularity of the symphony nicknamed Resurrection would last well beyond his lifetime. In fact, Classical Music Magazine dubbed Mahler’s Symphony No. 2 one of the greatest symphonies of all time. The Phoenix Symphony concludes its season with the musical journey that begins at the funeral bier of a beloved friend and ends with redemption and resurrection in a mighty choral finale. Katherine Whyte, a compellingly dramatic soprano, and Megan Esther Grey, a potently precise contralto, join The Phoenix Symphony Chorus in a work that is both profound and extraordinary.Concert RepertoireMahler: Symphony No. 2, Resurrection",
 			"weburl": "https://www.phoenixsymphony.org/show/mahlers-symphony-no-2-resurrection/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3723,7 +3723,7 @@
 			"description":"Steve Hackman, conductor and creatorIn conjunction with The Phoenix Symphony’s performance of Gustav Mahler’s monumental Symphony No. 2, Resurrection one week earlier, conductor and music visionary Steve Hackman fuses highlights from Mahler’s Second Symphony with the rap music of Notorious B.I.G. and Tupac Shakur into Resurrection Mixtape, a transformative exploration of life and death, legacy, struggle and triumph. Recordings such as Biggie’s Juicy, Hypnotize and Who Shot Ya and Tupac’s Changes, Ghetto Gospel and California Love are interpolated in thematically-linked mashups that speak of hard roads, ravaged communities, gangster life and letting loose. As Mahler’s music whirls and rises to its triumphant climax, you’ll be reminded of the powerful and profound legacy of these two rappers, who, twenty-five years after their deaths, are as relevant and essential as ever.",
 			"weburl": "https://www.phoenixsymphony.org/show/the-resurrection-mixtape/",
 			"email":"info@phoenixsymphony.org",
-			"phone":"16024951999",
+			"phone":"+16024951999",
 			"admission":"$37-$112",
 			"doors_open":"19:30:00",
 			"date_rule_sets": {
@@ -3754,7 +3754,7 @@
 			"description":"Indulge the senses in the captivating melodies of Aaron White, honored with the esteemed Best Flute Album accolade by the American Music for Native American Artists for his enchanting work, Moonlight Love Songs. Immerse yourself in the tranquil ambiance of thousands of butterflies inside the Butterfly Conservatory as his beautiful flute music takes flight, enhancing the experience in a truly magical way. This extraordinary musical journey is for all visitors to enjoy, and it's included FREE WITH ADMISSION.",
 			"weburl": "https://butterflywonderland.com/",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Adults: $29.95Child (ages 2-12): $19.95",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -3785,7 +3785,7 @@
 			"description":"Yoga is back! Practice yoga in the peaceful and magical surroundings of the Butterfly Conservatory featuring thousands of beautiful fluttering butterflies. This hour-long class will guide guests through a series of yoga poses that help build strength and gain flexibility. Ages 18 & up; $30/person. Pre-registration required; visit EventBrite.com to register or call (480) 800-3000, ext. 206",
 			"weburl": "https://butterflywonderland.com/",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Ages 18 & up: $30.00 per person",
 			"doors_open":"17:00:00",
 			"date_rule_sets": {
@@ -3814,7 +3814,7 @@
 			"description":"Meet Leslie, the enchanting Butterfly Fairy hailing from the Flutter Forest. Visit Butterfly Wonderland for a whimsical opportunity to capture beautiful photos with Leslie as she flutters from late morning to early afternoon! Included FREE with admission.",
 			"weburl": "http://Www.butterflywonderland.com",
 			"email":"info@butterflywonderland.com",
-			"phone":"14808003000",
+			"phone":"+14808003000",
 			"admission":"Adult: $29.95.Child (ages 2-12): $19.95.",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -3902,7 +3902,7 @@
 			"description":"The much-anticipated Junk in the Trunk Vintage Market is set to make its return to WestWorld in Scottsdale from April 26 to 28, 2024. This semi-annual shopping experience is a highlight for shoppers, showcasing an array of local small businesses, creative handmade artisans and a vast selection of one-of-a-kind vintage items and antiques. Spread across over 120,000 square feet, the market features over 160 small business vendors from across the country. Offering everything from trendy apparel and exquisite jewelry to one-of-a-kind antiques, furniture, vintage treasures and home decor, Junk in the Trunk Vintage Market continues to attract thousands of shopping enthusiasts from the Southwest and beyond.Junk in the Trunk Vintage Market offers an extensive variety of items catering to diverse tastes and needs. Attendees can explore a wide range of products including art, rugs, jewelry, candles and unique items in modern, industrial, shabby-chic and vintage styles. The market provides an ideal shopping destination for those looking to find special pieces for their homes, graduation gifts, Mother’s Day gifts, and maybe a little something to treat yourself. Beyond the shopping experience, the event is a hub of entertainment with live music and a selection of food trucks, creating a vibrant and enjoyable atmosphere for everyone throughout the weekend.Junk in the Trunk Vintage Market will be held April 26-28, 2024 at WestWorld, 16601 North Pima Road in Scottsdale. Ticket prices range from $8.00 (GA) to $60.00 (VIP). All tickets are available for purchase online ahead of the Market.TICKET INFORMATION:VIP, Early Entry and General Admission tickets go on sale February 15th at junkinthetrunkvintagemarket.com; tickets will also be available for purchase at the gate.The Friday night shopping VIP event will be on Friday, April 26 from 4-9 p.m.: $50.00 in advance and $60 at the gate on the day of the event.Early Entry tickets (8-10 a.m. Saturday, April 27) are $25.00 in advance and $30 at the gate on the day of the event.General Admission tickets (10 a.m.-3 p.m. Saturday & Sunday, April 27 & 28) are $8.00 in advance and $10 at the gate on the day of the event.Veterans and active Military receive $1.00 off their ticket purchased at the gate.Wear official Junk in the Trunk Vintage Market apparel for $1.00 discount, at the gate only.Kids 12 and under are free.Venue charges for parking – $10.00 per vehicle. Please plan to carpool. Tickets are available to purchase online at the discounted rate from February 15th-April 24th.",
 			"weburl": "https://junkinthetrunkvintagemarket.com/markets/scottsdale-market/",
 			"email":"info@junkinthetrunkvintagemarket.com",
-			"phone":"14806964018",
+			"phone":"+14806964018",
 			"admission":"$60 VIP, $30 Early Access, $10 GA",
 			"doors_open":"10:00:00",
 			"date_rule_sets": {
@@ -3934,7 +3934,7 @@
 			"weburl": "https://www.tasteofjpn.com/supportsake",
 			"email":"tasteofjpn@gmail.com",
 			"admission":"Varies per restaurant",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3943,7 +3943,7 @@
 						"frequency_id": "daily",
 						"start_date_at":"2024-02-16T07:00:00.000Z",
 						"end_date_at":"2024-03-09T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"22:00"
 					}
 				]
@@ -3963,7 +3963,7 @@
 			"description":"Tai Chi creates a sense of harmony between humans and their environment. In Tai Chi, this is achieved through the flowing movements of the form, which are based on the principles of yin and yang. These principles represent the two opposing forces in nature, such as darkness and light, or movement and stillness. The goal of Tai Chi is to find balance between these forces, both within the individual and in the world around them.Join Rasoul Amin Sobhani in practicing the art of Tai Chi, which uses the mind, body, and spirit equally to engage in collective meditation. Let the beautiful gardens and serene pathways of Taliesin West inspire awe and appreciation for the world around you. We invite you to experience the impact of Frank Lloyd Wright’s organic architecture and design through guided activities such as Tai Chi. At Taliesin West, there are a variety of ways to find harmony and balance in your life in our beautiful spaces.",
 			"weburl": "https://franklloydwright.org/event/tai-chi-with-rasoul-amin-sobhani/",
 			"admission":"Adults $25Students (13-25 with student ID) $17",
-			"doors_open":"9:00:00",
+			"doors_open":"09:00:00",
 			"date_rule_sets": {
 				"docs": [
 					{
@@ -3972,7 +3972,7 @@
 						"frequency_id": "single_date",
 						"start_date_at":"2024-03-02T07:00:00.000Z",
 						"end_date_at":"2024-03-02T07:00:00.000Z",
-						"start_time": "9:00",
+						"start_time": "09:00",
 						"end_time":"10:00"
 					}
 				]
@@ -4022,7 +4022,7 @@
 			"description":"Guests 21 and older can sip and stroll select Zoo trails while enjoying craft brews, wine and food. Plus, animal encounters, yard games, live music, entertainment and more!The Habit Burger Grill food truck will also be on site serving up delicious bites in a food truck take over of Roars & Pours!",
 			"weburl": "https://www.phoenixzoo.org/events/roars-pours-march-7-2024/",
 			"email":"communications@phoenixzoo.org",
-			"phone":"16022863800",
+			"phone":"+16022863800",
 			"admission":"$10 per person (must be 21+ with a valid ID)",
 			"doors_open":"17:30:00",
 			"date_rule_sets": {
