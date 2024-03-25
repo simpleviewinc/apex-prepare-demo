@@ -11,7 +11,7 @@
 			"hotels": {
 				"docs": [
 					{
-						"account_id": "1",
+						"property_id": "8",
 						"contact_id": "1",
 						"is_awarded": true,
 						"is_headquarters": true,
@@ -214,7 +214,7 @@
 						}
 					},
 					{
-						"account_id": "2",
+						"property_id": "3",
 						"contact_id": "6",
 						"is_awarded": false,
 						"is_headquarters": false,
@@ -316,7 +316,7 @@
 			"hotels": {
 				"docs": [
 					{
-						"account_id": "2",
+						"property_id": "3",
 						"contact_id": "6",
 						"is_awarded": true,
 						"is_headquarters": false,
@@ -445,7 +445,7 @@
 			"hotels": {
 				"docs": [
 					{
-						"account_id": "55",
+						"property_id": "52",
 						"contact_id": "132",
 						"is_awarded": true,
 						"is_headquarters": true,
@@ -597,7 +597,7 @@
 			"hotels": {
 				"docs": [
 					{
-						"account_id": "47",
+						"property_id": "44",
 						"contact_id": null,
 						"is_awarded": false,
 						"is_headquarters": false,
@@ -652,7 +652,7 @@
 						}
 					},
 					{
-						"account_id": "58",
+						"property_id": "55",
 						"contact_id": "38",
 						"is_awarded": true,
 						"is_headquarters": true,
@@ -819,7 +819,7 @@
 			"hotels": {
 				"docs": [
 					{
-						"account_id": "25",
+						"property_id": "24",
 						"contact_id": "6",
 						"is_awarded": true,
 						"is_headquarters": true,
