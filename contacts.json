@@ -79,7 +79,7 @@
 						"is_primary": true
 					},
 					{
-						"email_address": "aswilkinsIII@noemail.com",
+						"email_address": "aswilkinsiii@noemail.com",
 						"email_type_id": "personal",
 						"is_primary": false
 					}
@@ -167,7 +167,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "email+Cheryl@email.email",
+					"email_address": "email+cheryl@email.email",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -204,7 +204,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "email+MarciCat@email.email",
+					"email_address": "email+marcicat@email.email",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -300,7 +300,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "GRR@Gbeck.com",
+					"email_address": "grr@gbeck.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -348,7 +348,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "Jpiers@notanemail.email",
+					"email_address": "jpiers@notanemail.email",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -397,7 +397,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "DA@DAemail.com",
+					"email_address": "da@daemail.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -419,7 +419,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "Bethany@notanemail.emal",
+					"email_address": "bethany@notanemail.emal",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -456,7 +456,7 @@
 			"addresses": null,
 			"emails": {
 				"docs": {
-					"email_address": "Fabiiacosta1@mail.fake",
+					"email_address": "fabiiacosta1@mail.fake",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -493,7 +493,7 @@
 			"addresses": null,
 			"emails": {
 				"docs": {
-					"email_address": "Jarlenex3@gil.co",
+					"email_address": "jarlenex3@gil.co",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -530,7 +530,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "Abba@noemail.com",
+					"email_address": "abba@noemail.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -633,7 +633,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "AA@replyemail.com",
+					"email_address": "aa@replyemail.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -749,7 +749,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "SheetalCEO@CEO.com",
+					"email_address": "sheetalceo@ceo.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -793,7 +793,7 @@
 			"addresses": null,
 			"emails": {
 				"docs": {
-					"email_address": "KB@karenss.com",
+					"email_address": "kb@karenss.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -830,7 +830,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "CB@email.com",
+					"email_address": "cb@email.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -879,7 +879,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "OB@OBOB.com",
+					"email_address": "ob@obob.com",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
@@ -965,7 +965,7 @@
 			},
 			"emails": {
 				"docs": {
-					"email_address": "msFBarnes.fakeemail@noemaild.cm",
+					"email_address": "msfbarnes.fakeemail@noemaild.cm",
 					"email_type_id": "personal",
 					"is_primary": true
 				}
