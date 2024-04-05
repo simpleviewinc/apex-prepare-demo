@@ -1,0 +1,12 @@
+{
+	"model": "account_users",
+	"data": [
+		{
+			"account_id": "2",
+			"user_id": "6601c85cb402af3b897f6b30",
+			"first_name": "Joss",
+			"last_name": "Frazier",
+			"title": "Event Planner"
+		}
+	]
+}
