@@ -98,6 +98,7 @@
 						"name": "state_id",
 						"label": "State",
 						"type": "dropdown",
+						"required": true,
 						"args": {
 							"getOptions": {
 								"model": "states",
