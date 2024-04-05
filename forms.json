@@ -102,7 +102,12 @@
 							"getOptions": {
 								"model": "states",
 								"primaryKey": "state_id",
-								"labelColumn": "name"
+								"labelColumn": "name",
+								"filter": {
+									"country_id": {
+										"eq": "US"
+									}
+								}
 							}
 						}
 					},
