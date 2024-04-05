@@ -6,7 +6,8 @@
 			"first_name": "Joss",
 			"last_name": "Frazier",
 			"email_address": "jfrazierqa@gmail.com",
-			"type_id": "portal"
+			"type_id": "portal",
+			"is_auth_active": true
 		}
 	]
 }
