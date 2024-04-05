@@ -6,7 +6,10 @@
 			"user_id": "6601c85cb402af3b897f6b30",
 			"first_name": "Joss",
 			"last_name": "Frazier",
-			"title": "Event Planner"
+			"title": "Event Planner",
+			"roles": {
+				"set": ["5"]
+			}
 		}
 	]
 }
