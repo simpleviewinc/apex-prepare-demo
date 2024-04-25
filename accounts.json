@@ -318,7 +318,7 @@
 			"is_active": true,
 			"region_id": "2",
 			"engagement_level_id": "1",
-			"market_segment_id": "48-49",
+			"market_segment_id": "48_49",
 			"groups": {
 				"set": [
 					"3"
@@ -331,7 +331,7 @@
 			"is_active": true,
 			"region_id": "5",
 			"engagement_level_id": "2",
-			"market_segment_id": "48-49",
+			"market_segment_id": "48_49",
 			"groups": {
 				"set": [
 					"3"
@@ -594,7 +594,7 @@
 			"is_active": true,
 			"region_id": "6",
 			"engagement_level_id": "1",
-			"market_segment_id": "48-49",
+			"market_segment_id": "48_49",
 			"groups": {
 				"set": [
 					"1",
@@ -622,7 +622,7 @@
 			"is_active": true,
 			"region_id": "3",
 			"engagement_level_id": "2",
-			"market_segment_id": "48-49",
+			"market_segment_id": "48_49",
 			"groups": {
 				"set": [
 					"1"
