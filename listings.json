@@ -16,7 +16,7 @@
 			"rank": { "set": "1" },
 			"property": { "set": "3" },
 			"subcategories": { "set": ["3"] },
-			"channels": { "set": ["1","3"] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2024-02-15T07:00:00.000Z"
 		},
 		{
@@ -53,10 +53,10 @@
 			"subcategories": { "set": ["7", "18", "19"] },
 			"is_featured": true,
 			"rank": { "set": "1" },
-			"channels": { "set": ["1","3","7"] }
+			"channels": { "set": ["1", "3", "7"] }
 		},
 		{
-						"property": { "set": "8" },
+			"property": { "set": "8" },
 			"title": "The 1895 House",
 			"description": "This Beautiful Queen Ann Style bed and breakfast inn offers the unique and inviting lodging experience of a beautifully crafted 1895 sea captain's home located on the southern coast.",
 			"subcategories": { "set": ["2", "1"] },
@@ -66,17 +66,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "9" },
+			"property": { "set": "9" },
 			"title": "Hacienda Del Sol Guest Ranch Resort",
 			"description": "Discover luxury steeped in historic charm as you stay in one of our elegantly styled rooms and suites at our Tucson resort. Designed to reflect the awe-inspiring natural beauty of the Sonoran Desert, our rooms create the perfect setting for an unforgettable getaway.",
 			"subcategories": { "set": ["1", "3"] },
 			"is_featured": true,
 			"rank": { "set": "1" },
-			"channels": { "set": ["1", "3" ] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "10" },
+			"property": { "set": "10" },
 			"title": "Prep & Pastry",
 			"description": "We believe food should be beautiful. Our new American brunch features modern cocktails, flavorful dishes and warm flaky pastries that make your heart feel home again. ",
 			"subcategories": { "set": ["4"] },
@@ -86,7 +86,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "11" },
+			"property": { "set": "11" },
 			"title": "Avenue Pizza & More",
 			"description": "Avenue Pizzeria home of the true New York pizza experience: Avenue Pizzeria. Our commitment is to take you on a unique culinary journey, blending the authenticity of tradition with a contemporary twist. From crispy pizzas to fresh salads, each dish is a masterpiece designed to delight your palate.",
 			"subcategories": { "set": ["4"] },
@@ -96,7 +96,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "12" },
+			"property": { "set": "12" },
 			"title": "The Westin La Paloma Resort & Spa",
 			"description": "This oasis is no mirage. The Westin La Paloma Resort & Spa is a AAA Four-Diamond hotel in the middle of the Sonoran Desert that was voted a Top Resort by Condé Nast Traveler readers. With staggering views of the Santa Catalina Mountains, feel the sense of adventure with a stroll through Sabino Canyon or learn about local wildlife at one the areas many museums. This resort balances activity with leisure, offering dynamic work spaces and five outdoor pools with cabanas, chaise lounge chairs and shimmering waterfalls.",
 			"subcategories": { "set": ["3"] },
@@ -106,7 +106,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "13" },
+			"property": { "set": "13" },
 			"title": "The Tartan Club",
 			"description": "The Club at Tartan Fields restaurant serves as an exciting focal points for member dining, entertainment and socializing, each offering a delicious menu prepared fresh daily on-site by the club's executive chef and a year-round schedule of unique culinary and seasonal events for members of all ages - including wine dinners, theme nights, holiday parties, club mixers and family events.",
 			"subcategories": { "set": ["5"] },
@@ -117,7 +117,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "14" },
+			"property": { "set": "14" },
 			"title": "Windflower Tours",
 			"description": "We’re the leader in small group adventure travel for more than 30 years. How’d we get here? By redefining the way travellers see the world. Check out how we’re creating the future of travel.",
 			"subcategories": { "set": ["17"] },
@@ -128,7 +128,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "15" },
+			"property": { "set": "15" },
 			"title": "Adalberto's Mexican Food",
 			"description": "Fast Food Mexican Restaurant - Adalberto's is family owned. Our story starts back in 1986 in San Diego. On the corner of Market and 25th Street, the first Adalberto's was born.Today, thanks to your preference, and to the hard work of our family, Adalberto’s is the ultimate Mexican restaurant. Enjoy delicious, freshly-made Mexican food with your friends and family. We will treat you with the traditional Mexican hospitality and an enjoyable dining experience.Adalberto's is open 7 days a week and we have a 24-hour drive thru service for your convenience.",
 			"subcategories": { "set": ["4"] },
@@ -139,7 +139,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "16" },
+			"property": { "set": "16" },
 			"title": "Global Travel Alliance",
 			"description": "Building Bridges and Changing Lives through Educational Travel. We operate student and group tours to more than 40 countries around the world. Let us help you customize a trip itinerary or educational travel program that meets your goals. Wherever you want to go, our team of dedicated travel experts are with you every step of the way. ",
 			"subcategories": { "set": ["17"] },
@@ -150,7 +150,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "17" },
+			"property": { "set": "17" },
 			"title": "International Association of Amusement Parks and Attractions",
 			"description": "IAAPA is the premier trade association representing the diverse and ever-changing attractions industry. For over a century, we have connected companies of all sizes, and people of all levels, to provide meaningful experiences for their guests around the world. IAAPA hosts global events and conferences that spread successful ideas and practices. We also provide valuable tools and resources that make all of our businesses smarter, safer, and more profitable while delivering guest experiences that surprise and delight.",
 			"subcategories": { "set": ["17"] },
@@ -161,7 +161,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "18" },
+			"property": { "set": "18" },
 			"title": "Euro-American Tours",
 			"description": "100% tailor-made trips offered by a world-class tour operator to fit your budget & tastes. A travel agency with exclusive access to tour experiences you won't find elsewhere. Custom trip itineraries. Personal service & advice. Established for 25 years. Your journey starts here.",
 			"subcategories": { "set": ["17"] },
@@ -172,17 +172,17 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "19" },
+			"property": { "set": "19" },
 			"title": "Tumerico",
 			"description": "Tumerico is Tucson's favorite Latin inspired vegan & vegetarian resturant.",
 			"subcategories": { "set": ["4"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3" ] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "20" },
+			"property": { "set": "20" },
 			"title": "Potomac River Boat Company",
 			"description": "For more than 30 years Potomac Riverboat Company has been offering sightseeing tours up and down the Potomac River.Both open and chartered tours are available at the Potomac Riverboat Company on a variety of different vessels, such as the Cherry Blossom, a re-creation of a 19th century Victorian riverboat and several double-deckers.",
 			"subcategories": { "set": ["7", "17"] },
@@ -192,27 +192,27 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "21" },
+			"property": { "set": "21" },
 			"title": "Affinia Hotel South",
 			"description": "Experience New York City the way you want with Sonesta Hotels of New York (previously Affinia Hotels & Suites). Maybe you’d like to lull yourself to sleep with the vibrant lights of the Empire State Building. Perhaps you want a little peace and quiet of the tranquil Upper East Side, or maybe you’re looking for the vibrancy of Midtown East. Whatever you need, you’ll find a Sonesta that is just right for you.",
 			"subcategories": { "set": ["1"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3" ] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "22" },
+			"property": { "set": "22" },
 			"title": "Elite Coach",
 			"description": "Elite Coach offers pre-planned luxury charter bus tours for individuals and groups. Grab a friend or the whole crew and join us on one of our fun, worry-free trips to popular destinations.",
 			"subcategories": { "set": ["17", "10"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3" ] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "23" },
+			"property": { "set": "23" },
 			"title": "Affinia Manhattan",
 			"description": "Experience New York City the way you want with Sonesta Hotels of New York (previously Affinia Hotels & Suites). Maybe you’d like to lull yourself to sleep with the vibrant lights of the Empire State Building. Perhaps you want a little peace and quiet of the tranquil Upper East Side, or maybe you’re looking for the vibrancy of Midtown East. Whatever you need, you’ll find a Sonesta that is just right for you.",
 			"subcategories": { "set": ["1", "3"] },
@@ -222,7 +222,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "24" },
+			"property": { "set": "24" },
 			"title": "Four Points by Sheraton Manhattan Chelsea",
 			"description": "Stay, play and relax in one of New York's hippest neighborhoods at Four Points by Sheraton Manhattan Chelsea. Our hotel in Chelsea features an ideal location near Chelsea Market, the Meatpacking District, the High Line, Madison Square Garden and Herald Square. After a busy day, retreat to your room or suite featuring complimentary Wi-Fi, bottled water and in-room safes.",
 			"subcategories": { "set": ["1", "3"] },
@@ -232,7 +232,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "25" },
+			"property": { "set": "25" },
 			"title": "Flatotel New York City",
 			"description": "Flatotel Hotel is a contemporary, intimate and cosmopolitan, hotel in midtown Manhattan. Featuring 288 deluxe rooms and suites with custom designed furniture and state of the art amenities. Flatotel offers boutique hotel intimacy with apartment size rooms. The new design is based on the American architect Frank Lloyd Wright's concept of the hearth being the heart and soul of a house.",
 			"subcategories": { "set": ["1"] },
@@ -242,17 +242,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "26" },
+			"property": { "set": "26" },
 			"title": "A1 Amusement",
 			"description": "Party equipment rental service",
 			"subcategories": { "set": ["13"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "27" },
+			"property": { "set": "27" },
 			"title": "Hiland Terrace Motel",
 			"description": "In Irwin (North Huntingdon) With a stay at Hiland Terrace Hotel in Irwin (North Huntingdon), you'll be within 14.4 mi (23.1 km) of Carnegie Mellon University and 14.8 mi (23.8 km) from University of Pittsburgh. Make yourself at home in one of the 12 air-conditioned guestrooms. Complimentary wireless internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have shower/tub combinations and complimentary toiletries. ",
 			"subcategories": { "set": ["1"] },
@@ -262,7 +262,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "28" },
+			"property": { "set": "28" },
 			"title": "Huntington Inn Motel",
 			"description": "Motel with free parking, walk to Historic Forks of the Wabash.",
 			"subcategories": { "set": ["1"] },
@@ -272,7 +272,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "29" },
+			"property": { "set": "29" },
 			"title": "Napoli Italian Eatery",
 			"description": "Locally Owned, Chef-Driven Italian Restaurant Dedicated To Making Food With Love And High-Quality Ingredients!",
 			"subcategories": { "set": ["4"] },
@@ -282,7 +282,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "30" },
+			"property": { "set": "30" },
 			"title": "Pine Slopes Lodge",
 			"description": "A rustic lodge for group reservations.",
 			"subcategories": { "set": ["1"] },
@@ -292,7 +292,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "31" },
+			"property": { "set": "31" },
 			"title": "Foggy Mountain Lodge",
 			"description": "Foggy Mountain Lodge offers three different areas of lodging with a complimentary breakfast to go. ",
 			"subcategories": { "set": ["1"] },
@@ -302,7 +302,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "32" },
+			"property": { "set": "32" },
 			"title": "Ninza Sushi East",
 			"description": "Ninza takes pride in offering only the best fresh, delicious and unique sushi and Japanese food.",
 			"subcategories": { "set": ["4"] },
@@ -312,17 +312,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "33" },
+			"property": { "set": "33" },
 			"title": "Amusement World",
 			"description": "Fun Fair, exciting rides, amusements and refreshments for all the family, view our list events to see when we are coming to a town near you.",
 			"subcategories": { "set": ["7", "9"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "34" },
+			"property": { "set": "34" },
 			"title": "Camelback Lodge",
 			"description": "Life needs adventure. And at Camelback Resort, we have mountains of it. With the best slopes in the Poconos and more fun like waterparks, arcades and rock climbing — you’ll come back again and again for even more adventure. We’ll see you soon.",
 			"subcategories": { "set": ["1", "3"] },
@@ -332,7 +332,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "35" },
+			"property": { "set": "35" },
 			"title": "Harbor Inn Restaurant & Lounge",
 			"description": "The new Harbor with outdoor dining on expansive patio, large, separate dining room, plus lounge with full bar and pub tables. Varied menu with fresh ingredients and house-made dishes.",
 			"subcategories": { "set": ["4"] },
@@ -342,7 +342,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "36" },
+			"property": { "set": "36" },
 			"title": "Comfort Inn",
 			"description": "The Hotel is minutes away from local corporations, award winning golf courses, and the Soaring Eagle Casino giving many options for both work and play. ",
 			"subcategories": { "set": ["1"] },
@@ -352,7 +352,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "37" },
+			"property": { "set": "37" },
 			"title": "Melody Motor Lodge",
 			"description": "Melody Motor Lodge features clean and comfortable accommodation with a set of amenities. Rooms offer air-conditioning, cable TV, clothes rack, and private bathroom. Guests can enjoy picnic area outdoors. This is smoke-free property, providing complimentary Wi-Fi in all areas. Vending machine both for drinks and snacks, laundry service and parking free of charge are available.",
 			"subcategories": { "set": ["1"] },
@@ -362,7 +362,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "38" },
+			"property": { "set": "38" },
 			"title": "Ramada By Wyndham Ligonier",
 			"description": "Enjoy a relaxing and restorative visit to our Ramada Ligonier hotel. We are conveniently located in the heart of historic Ligonier near Fort Ligonier and Fallingwater. Whether you are our guest for just one night or an extended stay, we offer comfortable accommodations at a great price. ",
 			"subcategories": { "set": ["1", "3"] },
@@ -372,7 +372,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "39" },
+			"property": { "set": "39" },
 			"title": "Sunset Cottages",
 			"description": "Sunset Cottages of Sylvan Beach has a special mission...it's called old-time hospitality and the Stewart family and staff have been dispensing it since 1934. Whether a first time guest or a friend of long standing, the comfortable accommodations and friendly atmosphere on beautiful Oneida lake offer a refreshing change from the every day pace.",
 			"subcategories": { "set": ["1"] },
@@ -382,7 +382,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "40" },
+			"property": { "set": "40" },
 			"title": "Budget Inn",
 			"description": "Stay at the Newly Renovated Budget Inn Hotel when visiting Northern University, Snow Bowl and other surrounding areas.",
 			"subcategories": { "set": ["1"] },
@@ -392,7 +392,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "41" },
+			"property": { "set": "41" },
 			"title": "Clarion",
 			"description": "Our event hotels offer meeting space and other amenities for all types of travel. Book now!",
 			"subcategories": { "set": ["1", "3"] },
@@ -402,7 +402,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "42" },
+			"property": { "set": "42" },
 			"title": "Laurel Manor Motel",
 			"description": "At Laurel Manor Motel, we offer clean, spacious rooms at reasonable rates.",
 			"subcategories": { "set": ["1"] },
@@ -412,7 +412,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "43" },
+			"property": { "set": "43" },
 			"title": "Olde Stagecoach",
 			"description": "Thee Olde Stagecoach B and B is a cozy, old fashioned farmhouse, built in 1752, that was an original stagecoach stop in the 1700s through the late 1800s for weary travelers.",
 			"subcategories": { "set": ["2"] },
@@ -422,7 +422,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "44" },
+			"property": { "set": "44" },
 			"title": "Springhill Suites",
 			"description": "Make yourself at home at SpringHill Suites, featuring separate areas for relaxing and working. Enjoy the refreshing, bright spaces of our all-suite hotels.",
 			"subcategories": { "set": ["1"] },
@@ -432,7 +432,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "45" },
+			"property": { "set": "45" },
 			"title": "Tropical Sunsations",
 			"description": "At Tropical Sunsations, it's all about you and your tan. Using only the highest-quality tanning equipment, we can give you a deep, dark, and gorgeous tan fast.",
 			"subcategories": { "set": ["13"] },
@@ -442,7 +442,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "46" },
+			"property": { "set": "46" },
 			"title": "D's Six Pack & Dogs",
 			"description": "Check out the special and the dog of the month! Lunch is a great time to stop by for a bite, and a great place for an after-work drink and dinner.",
 			"subcategories": { "set": ["6"] },
@@ -452,17 +452,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "47" },
+			"property": { "set": "47" },
 			"title": "Idlewild & Soakzone",
 			"description": "For over 145 years, Idlewild & SoakZone has created magical moments for parents and kids to experience together.",
 			"subcategories": { "set": ["7", "9"] },
 			"is_featured": true,
 			"rank": { "set": "1" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "48" },
+			"property": { "set": "48" },
 			"title": "Grand Central Hotel Inc",
 			"description": "Save on Your Relaxing Stay Near Grand Central Station. Book a Room at a Hilton® Hotel! A Magnetic Hub That Inspires And Connects Guests When They Travel.",
 			"subcategories": { "set": ["1"] },
@@ -472,17 +472,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "49" },
+			"property": { "set": "49" },
 			"title": "Saguaro Dude Ranch",
 			"description": "The personal touch and hospitality of a traditional dude ranch is carefully blended with the service and amenities of a fine resort. The True family welcomes you to the ranch that has been their home for over 55 years. Reconnect with nature, family, friends, and serenity. Ride through the unspoiled desert, rugged mountains and cactus that have brought Hollywood filmmakers to the ranch for over 70 years. Recognized nationally for excellence in service and value.",
 			"subcategories": { "set": ["1", "3"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "50" },
+			"property": { "set": "50" },
 			"title": "Ann's Red Roost Inn",
 			"description": "Comfortable and affordable. Enjoy Fishing on the Red or Pembina River, Golfing, or local State Museum.",
 			"subcategories": { "set": ["1"] },
@@ -492,7 +492,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "51" },
+			"property": { "set": "51" },
 			"title": "Inn At Ligoneir",
 			"description": "Your gateway to the many attractions of the Mountains. Within minutes of the inn are family amusement parks, and numerous recreational parks for hiking, biking, fishing, and boating, additional nearby attractions include: golf clubs, wineries, white water rafting, and a variety of shopping venues for antique lovers, furniture seekers and mall-style shoppers. ",
 			"subcategories": { "set": ["1"] },
@@ -503,7 +503,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "52" },
+			"property": { "set": "52" },
 			"title": "Comfort Suites",
 			"description": "Our event hotels offer meeting space and other amenities for all types of travel. Book now!",
 			"subcategories": { "set": ["1"] },
@@ -514,7 +514,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "53" },
+			"property": { "set": "53" },
 			"title": "Central Hotel",
 			"description": "Our event hotels offer meeting space and other amenities for all types of travel. Book now!",
 			"subcategories": { "set": ["1"] },
@@ -525,7 +525,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "54" },
+			"property": { "set": "54" },
 			"title": "River's Edge Cafe",
 			"description": "Enjoy the casual elegance of the River's Edge Cafe on the banks of the Youghiogheny River, in the quaint mountain village of Confluence, Pennsylvania.",
 			"subcategories": { "set": ["4"] },
@@ -536,7 +536,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "55" },
+			"property": { "set": "55" },
 			"title": "Highland House Hotel",
 			"description": "Our family style lodging offers the perfect combination of modern comforts, deluxe amenities and great value. Stay with us for a weekend getaway or a fun family vacation and come home to a relaxing retreat that's all about you.",
 			"subcategories": { "set": ["1"] },
@@ -547,7 +547,7 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "56" },
+			"property": { "set": "56" },
 			"title": "Brass Rail",
 			"description": "This unpretentious spot to watch sports & NASCAR serves burgers, wings & American entrees.",
 			"subcategories": { "set": ["6"] },
@@ -557,17 +557,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "57" },
+			"property": { "set": "57" },
 			"title": "Hickory Hollow Camp Ground",
 			"description": "Hickory Hollow Campground is located in southwestern Pennsylvania in the heart of the beautiful Laurel Highlands of Somerset County. Our new facility offers full hookup, back-in, and pull-through sites. For the more traditional camper, tent sites are also available. We provide wide roads for today’s larger motorhomes and a safe environment for walking and biking.Our campground is located on over 75 acres of rolling countryside with a lake and many wooded areas. Along with the beautiful surroundings, we offer the serenity of the country and many activities for your enjoyment.",
 			"subcategories": { "set": ["1"] },
 			"is_featured": false,
 			"rank": { "set": "3" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "58" },
+			"property": { "set": "58" },
 			"title": "Budget Inn-New Stanton",
 			"description": "Make yourself at home, featuring separate areas for relaxing and working. Enjoy the refreshing, bright spaces of our all-suite hotels.",
 			"subcategories": { "set": ["1"] },
@@ -577,7 +577,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "59" },
+			"property": { "set": "59" },
 			"title": "Days Inn By Wyndham New",
 			"description": "If you’re looking for a budget friendly hotel in Blairsville, look no further than Days Inn by Wyndham .As your “home away from home,” the hotel rooms offer a flat screen TV and air conditioning, and getting online is easy, with free wifi available.",
 			"subcategories": { "set": ["1"] },
@@ -587,7 +587,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "60" },
+			"property": { "set": "60" },
 			"title": "Motel 6",
 			"description": "Motel 6 offers a great getaway for all seasons! The top skiing in the country! The Mountain is 1 mile and June Lake Ski Area is 15 minutes. Modern rooms. Free Wi-Fi.",
 			"subcategories": { "set": ["1"] },
@@ -597,7 +597,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "61" },
+			"property": { "set": "61" },
 			"title": "Hampton Inn-North",
 			"description": "Relax and enjoy the hotel's indoor heated pool and 24-hour exercise room. Our convenient location is near Motor Speedway and O'Reilly Raceway Park. Our spacious suites offer complimentary WiFi and pillow-top mattresses. Get a healthy start on your way with our complimentary hot breakfast buffet.",
 			"subcategories": { "set": ["1"] },
@@ -607,7 +607,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "62" },
+			"property": { "set": "62" },
 			"title": "Big Black Grill",
 			"description": "Relaxed counter-serve featuring barbecued ribs, pulled pork & brisket with sides of corn bread.",
 			"subcategories": { "set": ["4"] },
@@ -617,7 +617,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "63" },
+			"property": { "set": "63" },
 			"title": "Big Barn Country Store",
 			"description": "Big Barn Country Store takes you back to your childhood memories of the old general store. ",
 			"subcategories": { "set": ["13"] },
@@ -627,7 +627,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "64" },
+			"property": { "set": "64" },
 			"title": "Cracker Barrel Old Country Str",
 			"description": "Homey chain restaurant serving American comfort food, with an on-site general store.",
 			"subcategories": { "set": ["4"] },
@@ -637,7 +637,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "65" },
+			"property": { "set": "65" },
 			"title": "Tech Air",
 			"description": " the leader in innovation and employment growth within the HVAC industry.",
 			"is_featured": false,
@@ -646,17 +646,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "66" },
+			"property": { "set": "66" },
 			"title": "Fairmount Hospitality LLC",
 			"description": "Meeting and event space is available for groups up to 250. On site banquet room and dance floor.",
 			"subcategories": { "set": ["16"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3" ] },
+			"channels": { "set": ["1", "3"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "67" },
+			"property": { "set": "67" },
 			"title": "Super 8 By Wyndham Delmont",
 			"description": "Looking for a place to stay in Delmont? Then look no further than Super 8 by Wyndham Delmont, a family-friendly motel that brings the best of Delmont to your doorstep. Guest rooms offer amenities such as a flat screen TV, a refrigerator, and air conditioning, and guests can go online with free wifi offered by the motel.",
 			"subcategories": { "set": ["1"] },
@@ -666,7 +666,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "68" },
+			"property": { "set": "68" },
 			"title": "Log Cabin Lodge & Suites",
 			"description": "Log Cabin Lodge & Suites is located near 7 Springs and Hidden Valley Resorts in the heart of the Laurel Mountains. We are more than a typical franchise chain or family inn; the Lodge is constructed of white pine logs by local craftsmen and provides a special flavor of the Laurel Highlands.",
 			"subcategories": { "set": ["1"] },
@@ -676,17 +676,17 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "69" },
+			"property": { "set": "69" },
 			"title": "Antiochian Village Camp",
 			"description": "Nestled on over 300 acres in the scenic Laurel Highlands, our spacious facility, peaceful setting, and friendly staff deliver unique, memorable, and affordable group retreats that bring guests back year after year. On-site amenities include comfortable overnight accommodations, 20,000 square feet of meeting and event space, and outstanding group dining. ",
 			"subcategories": { "set": ["1", "3"] },
 			"is_featured": false,
 			"rank": { "set": "2" },
-			"channels": { "set": ["1", "3", "7"]},
+			"channels": { "set": ["1", "3", "7"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "70" },
+			"property": { "set": "70" },
 			"title": "Country Manor Motel",
 			"description": "The staff at Country Manor Motel looks forward to serving you during your upcoming visit.",
 			"subcategories": { "set": ["1"] },
@@ -696,7 +696,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "71" },
+			"property": { "set": "71" },
 			"title": "New National Hotel",
 			"description": "Nestled in South Beach's celebrated Art Deco neighborhood, our oceanfront resort evokes cinematic elegance, boasting 101 newly designed city and direct ocean view Guestrooms and Suites in our Historic Tower, and 36 luxurious Cabanas and Suites, skirted alongside native tropical palm trees and the city's longest infinity-edge pool. Fully restored in 2014, the hotel was recognized by Historic Hotels of America for maintaining its architectural authenticity while bringing subtle and sophisticated elements of contemporary design for the discerning traveler. The National Hotel's Mareva 1939 restaurant, among other unique onsite venues, offers a dynamic Spanish cuisine featuring a sharing menu selection based on traditional Spanish dishes with a unique twist. We invite you to visit Miami Beach's 30s and 40s classic era of grace, elegance and style at the National Hotel, an Adult Only Oceanfront Resort.",
 			"subcategories": { "set": ["1", "3"] },
@@ -706,7 +706,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "72" },
+			"property": { "set": "72" },
 			"title": "Lodge At Chalk Hill",
 			"description": "a night at the Lodge is a very sound choice, at a very competitive rate, and an excellent choice for a safe and relaxing evening in this beautiful section of Pennsylvania.",
 			"subcategories": { "set": ["1"] },
@@ -716,7 +716,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "73" },
+			"property": { "set": "73" },
 			"title": "Helen's Hideaway Inn",
 			"description": "The Hideaway Inn is a small quiet motel located 1 blk behind cibc bank just off the hwy.We offer pillow top mattresses,flat screen tvs , free wifi, bbq and covered area for outdoor lounging.We have ample parking for large crews and big rigs.We offer same day laundry service.Call today to get the best rate in town for your stay ",
 			"subcategories": { "set": ["1"] },
@@ -726,7 +726,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "74" },
+			"property": { "set": "74" },
 			"title": "Creekside Diner",
 			"description": "Open for Lunch and Dinner. We offer pizza, sub sandwiches, hot sandwiches, burgers, fries, & salads!",
 			"subcategories": { "set": ["4"] },
@@ -736,7 +736,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "75" },
+			"property": { "set": "75" },
 			"title": "Sleep Inn-Suites Park City",
 			"description": "Enjoy the central location of our Sleep Inn & Suites® Park City-Wichita North hotel near Interstate 135, offering easy access to destinations in Park City and the neighboring cities of Newton and Wichita. We're just 3 miles from the Hartman Arena, 9 miles from Downtown Wichita and 10 miles from the Sedgwick County Zoo. You'll also find a variety of restaurants within walking distance of our hotel.",
 			"subcategories": { "set": ["1"] },
@@ -746,7 +746,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "76" },
+			"property": { "set": "76" },
 			"title": "Candlewood Suites Belle Vernon",
 			"description": "Our brand-new 100% non smoking hotel is conveniently located just off of I-70, and a short drive from Route 51, PA Turnpike and I-79. Our hotel is perfect for anyone, from a weary traveler to someone traveling on business who needs a home away from home for awhile. Candlewood Suites Belle Vernon features a private Gazebo Grill area, extensive 24 hour gym and laundry facilities, and all of the conveniences of home.",
 			"subcategories": { "set": ["1"] },
@@ -756,7 +756,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "77" },
+			"property": { "set": "77" },
 			"title": "Scooter's Coffeehouse",
 			"description": "We’ll always remain true to our original Brand Promise: Amazing People, Amazing Drinks… Amazingly Fast! It’s the cornerstone of our business and the commitment we make to every customer",
 			"subcategories": { "set": ["4"] },
@@ -766,7 +766,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "78" },
+			"property": { "set": "78" },
 			"title": "Bann Thai",
 			"description": "Incredible Thai Asian cuisine in the heart of Town. Under new ownership!",
 			"subcategories": { "set": ["4"] },
@@ -776,7 +776,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "79" },
+			"property": { "set": "79" },
 			"title": "Bella Capri'z Club Cafe",
 			"description": "a casual dining facility that serves individuals of all ages. The restaurant offers a selection of appetizers, salads and sandwiches. It serves chicken gumbo, cream of mushroom and lentil soups. ",
 			"subcategories": { "set": ["4"] },
@@ -786,7 +786,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "80" },
+			"property": { "set": "80" },
 			"title": "Tortilleria Los Los III",
 			"description": "Tortilleria Los III Potrillos is where you can find a tortilla factory. With our years of experience, you can depend on us",
 			"subcategories": { "set": ["4"] },
@@ -796,7 +796,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "81" },
+			"property": { "set": "81" },
 			"title": "Rodeway Inn Greensburg",
 			"description": "conveniently located on the west side of Route 30, off of the Greensburg/Mt. Pleasant Exit south-east of Pittsburg. ",
 			"subcategories": { "set": ["1"] },
@@ -806,7 +806,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "82" },
+			"property": { "set": "82" },
 			"title": "Crumbl Cookies",
 			"description": "Whether you need dessert delivery*, curbside pickup, or something else, we make it easy to order cookies online and through the app. Each week, our menu rotates to give you 6 deliciously gourmet flavors to experience.",
 			"subcategories": { "set": ["4"] },
@@ -816,7 +816,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "83" },
+			"property": { "set": "83" },
 			"title": "Keeper Of The Crepes",
 			"description": " Creperie making fresh, ready-to-order homemade crepes and salads",
 			"subcategories": { "set": ["4"] },
@@ -826,7 +826,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "84" },
+			"property": { "set": "84" },
 			"title": "Holiday Inn Express",
 			"description": "Our luxurious facility is located just minutes from businesses, shopping, and dining making it perfect for both corporate and leisure travelers. It is designed for guests who require the latest in comfort, with each room containing a refrigerator, microwave, coffee maker, and 42 LED Flat Screen HDTV. All of our rooms also include complimentary wired and wireless Internet and a spacious work area.",
 			"subcategories": { "set": ["1"] },
@@ -836,7 +836,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "85" },
+			"property": { "set": "85" },
 			"title": "Old Route 66 Grille",
 			"description": "Casual American bar & grill serving steaks & seafood in an unassuming, family-friendly setting.",
 			"subcategories": { "set": ["4"] },
@@ -846,7 +846,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "86" },
+			"property": { "set": "86" },
 			"title": "Bijou Spa & Boutique",
 			"description": "Specializing in holistic practices in the fields of esthetics and bodywork ",
 			"subcategories": { "set": ["12"] },
@@ -856,7 +856,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "87" },
+			"property": { "set": "87" },
 			"title": "Knights Inn Greensburg",
 			"description": "Fantastic hotel with good price and best free hot breakfast. It's convenient to downtown which is only 20 minutes walk. ",
 			"subcategories": { "set": ["1"] },
@@ -866,7 +866,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "88" },
+			"property": { "set": "88" },
 			"title": "A-1 economy Inn",
 			"description": "AAA approved. Two diamond rating. Rooms are squeaky clean. Most rooms are non-smoking. Jacuzzi rooms are available. Family rooms are available with two king size beds and they are non-smoking. All rooms have refrigerators and microwaves. Expanded continental breakfast. Guest washer and dryer.",
 			"subcategories": { "set": ["1"] },
@@ -876,7 +876,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "89" },
+			"property": { "set": "89" },
 			"title": "Budget Host",
 			"description": "Finding an ideal budget-friendly motel does not have to be difficult. Welcome to Budget Host Inn , a nice option for travelers like you. Nearby landmarks make Budget Host Inn Bedford a great place to stay when visiting.You’ll enjoy relaxing rooms that offer a flat screen TV, air conditioning, and a refrigerator, and you can stay connected during your stay as Budget Host Inn offers guests free wifi.",
 			"subcategories": { "set": ["1"] },
@@ -886,7 +886,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "90" },
+			"property": { "set": "90" },
 			"title": "Budget Inn Somerset",
 			"description": "Budget Host Inn located in Somerset, Pennsylvania offers great quality rooms at a price that will meet your budget.",
 			"subcategories": { "set": ["1"] },
@@ -896,7 +896,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "91" },
+			"property": { "set": "91" },
 			"title": "Dollar Inn",
 			"description": "See why so many travelers make Dollar Inn Hot Springs their hotel of choice when visiting Hot Springs. Providing an ideal mix of value, comfort and convenience, it offers a budget friendly setting with an array of amenities designed for travelers like you.",
 			"subcategories": { "set": ["1"] },
@@ -906,7 +906,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "92" },
+			"property": { "set": "92" },
 			"title": "Fairfield Inn",
 			"description": "Ideally located in the heart of the city, our hotel offers easy access to iconic attractions you're at the center of all the action. Enjoy modern comfort in our well-appointed rooms and start your day with our complimentary breakfast. Our friendly staff is dedicated to ensuring a delightful stay.",
 			"subcategories": { "set": ["1"] },
@@ -916,7 +916,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "93" },
+			"property": { "set": "93" },
 			"title": "Knights Inn Somerset",
 			"description": "Fantastic hotel with good price and best free hot breakfast. It's convenient to downtown which is only 20 minutes walk. ",
 			"subcategories": { "set": ["1"] },
@@ -926,7 +926,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "94" },
+			"property": { "set": "94" },
 			"title": "Edward Jones",
 			"description": "With over 18000 financial advisors ready to help, Edward Jones can help you manage your wealth and retirement needs. Find a financial advisor today.",
 			"is_featured": false,
@@ -935,7 +935,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "95" },
+			"property": { "set": "95" },
 			"title": "Quality Inn-Conference Ctr",
 			"description": "The newly renovated Quality Inn Conference Center provides clean, comfortable rooms with flat screen TVs, free breakfast, free wireless, heated pool, all at low budget pricing. Our hotel also provides a large banquet facility with a ballroom for weddings, reunions, receptions and holiday parties. Onsite catering is available as is bar service. We are a pet friendly facility that is 100% non-smoking. We completely renovated all guest rooms in January of 2013 and are proud to present our beautiful new look ",
 			"subcategories": { "set": ["1", "3"] },
@@ -945,7 +945,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "96" },
+			"property": { "set": "96" },
 			"title": "Stone Wood Lodge",
 			"description": "Well appointed, well run lodge with a fabulous breakfast each morning. Good location right off the main road,  tucked into a little haven of tall pine trees and manicured lawns with lovely flower beds.",
 			"subcategories": { "set": ["1"] },
@@ -955,7 +955,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "97" },
+			"property": { "set": "97" },
 			"title": "Sure Stay Plus Hotel By Best",
 			"description": "At the SureStay Plus By Best Western you're sure to find great value and modern convenience. SureStay® Plus Hotels by Best Western are redefining affordable value through upgraded standards, consistent quality, and great service.",
 			"subcategories": { "set": ["1"] },
@@ -965,7 +965,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "98" },
+			"property": { "set": "98" },
 			"title": "Golf Club Of Somerset",
 			"description": "Somerset west is a lush golf course, although there is a draught in the area. The green fees are affordable and staff very welcoming. It is a walkable course",
 			"subcategories": { "set": ["16", "18"] },
@@ -975,7 +975,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "99" },
+			"property": { "set": "99" },
 			"title": "Stone House Country Inn",
 			"description": "We welcome kids and adults with an indoor pool, free Internet and a free, hot breakfast. Our location off Highway 78 is 10 minutes from Stone Mountain Park. You can even get wild outdoors among the free-roaming deer and buffalo at the Yellow River Game Ranch.",
 			"subcategories": { "set": ["1"] },
@@ -985,7 +985,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "100" },
+			"property": { "set": "100" },
 			"title": "Silver Birches Resort",
 			"description": "Everything old is new again. After extensive renovations, Silver Birches is ready to welcome you back to Lake Wallenpaupack and back in time to when folks gathered at the lake - to celebrate the joys of a cannonball splash off the dock or a champagne toast to drink in the sunset. To hook the big one at the end of our dock or paddle across the lake in one of our canoes or kayaks. There is something special about an old-fashioned resort with cozy cottages and romantic inns with rambling porches, and everywhere you look an impressive view of Wallenpaupack from expansive lawns with Adirondack chairs and camp fires. Our Waterfront resort is set among the scenic lake region where you can expect beautiful views on your vacation. ",
 			"subcategories": { "set": ["1", "3"] },
@@ -995,7 +995,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "101" },
+			"property": { "set": "101" },
 			"title": "French Manor Inn and Spa",
 			"description": "This Pocono Mountains PA bed and breakfast is a beautiful stone chateau, offering 19 elegant guest rooms and suites complete with fireplace, Jacuzzi, private balconies, and views of the Pocono Mountains. Our secluded and romantic accommodations along with our fine dining on-site 4-diamond restaurant are ideal for any traveler. Look online to learn more about our relaxing onsite Spa, spa treatments, special packages, area activities and events, and to book your next luxury Pennsylvania weekend getaway with us!",
 			"subcategories": { "set": ["1", "3"] },
@@ -1005,7 +1005,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "102" },
+			"property": { "set": "102" },
 			"title": "Blue Mountain Motel",
 			"description": "Year round Family Friendly Outdoor Adventure. Nestled in the Pocono Mountains, Blue Mountain Resort is just a short day trip from several major cities including New York City and Philadelphia. Come check out all the fun!",
 			"subcategories": { "set": ["1"] },
@@ -1015,7 +1015,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "103" },
+			"property": { "set": "103" },
 			"title": "Hilton Garden Inn Uniontown",
 			"description": "The new Hilton Garden Inn Uniontown hotel is nestled in the Laurel Highlands, just 10 minutes from historic downtown Uniontown, PA. Enjoy a lush, rural setting with quick access to shops, restaurants, major offices and conveniences. Feeling outdoorsy? Laurel Caverns has 3 miles of natural passageways to explore, and Ohiopyle State Park is minutes away for hiking, fishing, whitewater rafting or a family picnic. Step into history at Fort Necessity National Battlefield, built by George Washington during the French and Indian War. Start each day with a freshly made breakfast of American favorites at The Garden Grille, or order a meal from the comfort of your guest room. Sip an evening cocktail in the Pavilion Lounge, or relax outside by our firepit. ",
 			"subcategories": { "set": ["1"] },
@@ -1025,7 +1025,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "104" },
+			"property": { "set": "104" },
 			"title": "Quality Inn & Suites",
 			"description": "Quality Inn & Suites River Suites is an excellent choice for travelers, offering a budget friendly environment alongside many helpful amenities designed to enhance your stay.",
 			"subcategories": { "set": ["1"] },
@@ -1035,7 +1035,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "105" },
+			"property": { "set": "105" },
 			"title": "Levi Deal Mansion",
 			"description": "Surround yourself in Gilded-Age splendor as you explore Pennsylvania's beautiful Laurel Highlands. The Levi Deal Mansion is located in the friendly, small town of Meyersdale, the Maple Syrup Capital of Pennsylvania, only a few blocks from the Great Allegheny Passage hiking and biking trail.",
 			"subcategories": { "set": ["1", "3"] },
@@ -1045,7 +1045,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "106" },
+			"property": { "set": "106" },
 			"title": "Yoder's Guest House",
 			"description": " a boutique hotel which offers well-appointed, upscale accommodations. The early 20th-century red-sandstone mansion offers 8 spacious guest rooms plus our carriage house family suite, all with private baths. A stay isn't just a stay; it's an experience. Breakfast is not included in your stay but Sweet Pea Bakery is moving in and will offer a variety of breakfast items and sweets for purchase. ",
 			"subcategories": { "set": ["1"] },
@@ -1055,7 +1055,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "107" },
+			"property": { "set": "107" },
 			"title": "Castle In The Sand",
 			"description": "Premiere direct oceanfront family resort with desirable location on two blocks sun-kissed beach. Guest amenities include free wireless internet, Olympic pool with diving board, sand volleyball court, beach equipment rentals on-site, free kid’s activities, and live entertainment daily in season. Beach House dining offers a la carte breakfast and buffet breakfast daily. Coconuts Beach Bar offers open-air beachfront patio dining. Waitress service on our beach and pool deck. Take A Dip Ice Cream Shop open Memorial Day thru Labor Day.",
 			"subcategories": { "set": ["1", "3"] },
@@ -1065,7 +1065,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "108" },
+			"property": { "set": "108" },
 			"title": "Mountain Villas by Exploria Resorts",
 			"description": "400-Acre Pocono Mountain Resort located adjacent to the Delwaware Water Gap National Recreation Area offering one and two bedroom fully appointed villa rentals. Four seasons of activities include Blue and White Lightning all season tubing, Pocono TreeVentures aerial ropes course, Pocono Zip Racer dual 1,000 ft racing zip lines, Golf Course 18 hole par 71 golf, Edge of the Woods Outfitters with canoeing on the scenic Delaware River, year-round horseback riding, The Warehouse Tavern & Grill, mini golf, video game area, skiing at nearby Shawnee and Camelback Mountains, water park packages with Camelbeach, shopping at The Crossings Premium Outlets and hiking at Bushkill Falls - the Niagara of Pennsylvania.",
 			"subcategories": { "set": ["1", "3"] },
@@ -1075,7 +1075,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "109" },
+			"property": { "set": "109" },
 			"title": "Twin Rocks Cafe",
 			"description": "Made From Scratch! Breakfast, Lunch, Dinner, Local Navajo Specialties, Vegan And Vegetarian Friendly Cafe, Espresso And Hard Ice Cream. Catering Available. Beer And Wine Available After 11 A.M. 8 Am To 8 Pm, Eight Days A Week!",
 			"subcategories": { "set": ["4"] },
@@ -1085,7 +1085,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "110" },
+			"property": { "set": "110" },
 			"title": "611 Pub, Inc.",
 			"description": "Fantastic venue! The outdoor seating is such a vibe come summer. Nice bright open space for dining with a variety of tabletops - high, low, comfy big couches/chairs. Downstairs contains the bowling alley",
 			"subcategories": { "set": ["6"] },
@@ -1095,7 +1095,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "111" },
+			"property": { "set": "111" },
 			"title": "A Cottage At Campbell Farm",
 			"description": "4 romantic, secluded cottages in the Mountains; full equipped kitchens, gas fireplaces, 2 person Jacuzzi tubs - BBQ grill on deck. Very quiet and peaceful; no TV or telephone. Have recently opened the Log House; it is for couples that like to travel together; 2 master suites upstairs, but sharing the kitchen, living room, and dining areas. Only have to bring your food; everything else is provided.",
 			"subcategories": { "set": ["1", "3"] },
@@ -1105,7 +1105,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "112" },
+			"property": { "set": "112" },
 			"title": "Anthony's Longfellow Hotel",
 			"description": "We welcome kids and adults with an indoor pool, free Internet and a free, hot breakfast.",
 			"subcategories": { "set": ["1"] },
@@ -1115,7 +1115,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "113" },
+			"property": { "set": "113" },
 			"title": "Big Shot Bob's",
 			"description": "We serve a variety of food here at Big Shot Bobs House Of Wings. Our menu offers Cheeseburgers, Bacon Ranch Cheese Fries, Rodeo, Chicken Fingers, The Jimmy DeTillo and more! We are located North Wickham Road. We're not far from ALDI. Order online for carryout or delivery!",
 			"subcategories": { "set": ["6"] },
@@ -1125,7 +1125,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "114" },
+			"property": { "set": "114" },
 			"title": "Freddy's Frozen Custard",
 			"description": "Freddy's Frozen Custard & Steakburgers is more than your traditional American hamburger restaurant. We are known for our tasty steakburgers and custards.",
 			"subcategories": { "set": ["4"] },
@@ -1135,7 +1135,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "115" },
+			"property": { "set": "115" },
 			"title": "Hopwood Motel",
 			"description": "Family owned and operated, Uniontown's closest lodging to Falling Water, Ohiopyle, Laurel Caverns, Ft Necessity. Clean comfortable rooms, reasonably priced.",
 			"subcategories": { "set": ["1"] },
@@ -1145,7 +1145,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "116" },
+			"property": { "set": "116" },
 			"title": "M G Motel",
 			"description": "Lovely modern hotel with nice pool and amazing beach access. Good location with a few bars and restaurants near by and a short walk to the free trolly bus",
 			"subcategories": { "set": ["1"] },
@@ -1155,7 +1155,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "117" },
+			"property": { "set": "117" },
 			"title": "National Trail Motel",
 			"description": "This property is an ambient hotel of 35 units in a 2-story classic art-deco building. Included is a sparkling clear heated pool with waterfall, BBQ facilities, serene lounging area and a sun deck. We offer free Cable TV on a flat-screen TV, featuring HBO, free WiFi internet, and hot coffee at the Front Desk. A tropical oasis-style scenery is featured throughout our beautiful properties. We have an attentive staff available 24 hours. ",
 			"subcategories": { "set": ["1"] },
@@ -1165,7 +1165,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "118" },
+			"property": { "set": "118" },
 			"title": "Astorris Tavern",
 			"description": "Astorris Tavern is a local bar filled with fun, friendly people just havin' a cold one.",
 			"subcategories": { "set": ["6"] },
@@ -1175,7 +1175,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "119" },
+			"property": { "set": "119" },
 			"title": "Curt's Family Restaurant",
 			"description": "Curt's Family Restaurant serves home cooked meals for breakfast, lunch and dinner. Pies and bakery are popular. ",
 			"subcategories": { "set": ["4"] },
@@ -1185,7 +1185,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "120" },
+			"property": { "set": "120" },
 			"title": "Crossroads Inn",
 			"description": "Gorgeously designed rooms and suites help define the Crossroads experience. But more, this is where historic and modern meet. Where people from all over and around the corner come together. The energy, creativity and passion that define the city and neighborhood can call this place home.",
 			"subcategories": { "set": ["1"] },
@@ -1195,7 +1195,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "121" },
+			"property": { "set": "121" },
 			"title": "Perry-O Inn & Suites",
 			"description": "See why so many travelers make Perry-O Inn & Suites their motel of choice when visiting Perryopolis. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.",
 			"subcategories": { "set": ["1"] },
@@ -1205,7 +1205,7 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-						"property": { "set": "122" },
+			"property": { "set": "122" },
 			"title": "Pleasant Corner Inn",
 			"description": "We welcome kids and adults with an indoor pool, free Internet and a free, hot breakfast.",
 			"subcategories": { "set": ["1"] },
