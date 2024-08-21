@@ -1215,37 +1215,31 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-			"property": { "set": "122" },
-			"title": "[Draft] Pleasant Corner Inn",
-			"description": "[DRAFT] We welcome kids and adults with an indoor pool, free Internet and a free, hot breakfast.",
-			"subcategories": { "set": ["1"] },
-			"is_featured": false,
-			"rank": { "set": "2" },
-			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"title": "4th Street Event Center Listing",
+			"property": { "set": "6" },
+			"property_id": "6",
+			"description": "Join us for a unique and memorable event at the 4th Street Event Center. Our versatile space can accommodate everything from intimate gatherings to grand celebrations.",
+			"subcategories": { "set": ["1", "2"] },
 			"approval_status": { "set": "draft" }
 		},
 		{
-			"property": { "set": "121" },
-			"title": "[Awaiting Approval] Perry-O Inn & Suites",
-			"description": "[Awaiting Approval] See why so many travelers make Perry-O Inn & Suites their motel of choice when visiting Perryopolis. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.",
-			"subcategories": { "set": ["1"] },
-			"is_featured": false,
-			"rank": { "set": "2" },
-			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"approval_status": { "set": "awaiting_approval" }
+			"title": "Arizona-Sonora Desert Museum - Things To Do - Outdoors",
+			"description": "The 98 acre Desert Museum is a fusion experience: zoo, botanical garden, art gallery, natural history museum, and aquarium. The Desert Museum is ranked on TripAdvisor.com as one of the Top 10 Museums in the country and the #1 Tucson attraction. Unlike most museums, about 85% of the experience is outdoors!",
+			"keywords": "Outdoor, museum, Zoo, desert, sonora",
+			"property": { "set": "4" },
+			"subcategories": { "set": ["8", "2"] },
+			"approval_status": { "set": "draft" }
 		},
 		{
-			"property": { "set": "120" },
-			"title": "[Rework] Crossroads Inn",
-			"description": "[Rework] Gorgeously designed rooms and suites help define the Crossroads experience. But more, this is where historic and modern meet. Where people from all over and around the corner come together. The energy, creativity and passion that define the city and neighborhood can call this place home.",
-			"subcategories": { "set": ["1"] },
-			"is_featured": false,
-			"rank": { "set": "2" },
-			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"approval_status": { "set": "rework" }
+			"title": "Club at Starr Pass",
+			"property_id": "7",
+			"description": "27-holes of championship desert golf at your fingertips. Golf legends such as Arnold Palmer, Phil Mickelson, Payne Stewart and Nancy Lopez, to name a few, have all carved their way through this historic golf course. The course is a true desert experience as all of the hazards are completely natural elements of the environment. The three nines, which wind their way through the mountains and arroyos, are aptly named after the ever-present desert wildlife: Rattler, Road Runner and Coyote. Starr Pass Golf Club was the host facility for the PGA Tour’s Tucson Open from 1988 to 1995.",
+			"keywords": "golf, coyote, rattler, palmer, road runner, starr",
+			"subcategories": { "set": ["7", "18" ] },
+			"is_featured": true,
+			"rank": { "set": "1" },
+			"channels": { "set": ["1", "3"] },
+			"approval_status": { "set": "draft" }
 		}
 	]
 }
