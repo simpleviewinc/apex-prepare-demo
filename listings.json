@@ -1213,6 +1213,39 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2023-01-01T07:00:00.000Z"
+		},
+		{
+			"property": { "set": "122" },
+			"title": "[Draft] Pleasant Corner Inn",
+			"description": "[DRAFT] We welcome kids and adults with an indoor pool, free Internet and a free, hot breakfast.",
+			"subcategories": { "set": ["1"] },
+			"is_featured": false,
+			"rank": { "set": "2" },
+			"channels": { "set": ["1"] },
+			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"approval_status": { "set": "draft" }
+		},
+		{
+			"property": { "set": "121" },
+			"title": "[Awaiting Approval] Perry-O Inn & Suites",
+			"description": "[Awaiting Approval] See why so many travelers make Perry-O Inn & Suites their motel of choice when visiting Perryopolis. Providing an ideal mix of value, comfort and convenience, it offers an array of amenities designed for travelers like you.",
+			"subcategories": { "set": ["1"] },
+			"is_featured": false,
+			"rank": { "set": "2" },
+			"channels": { "set": ["1"] },
+			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"approval_status": { "set": "awaiting_approval" }
+		},
+		{
+			"property": { "set": "120" },
+			"title": "[Rework] Crossroads Inn",
+			"description": "[Rework] Gorgeously designed rooms and suites help define the Crossroads experience. But more, this is where historic and modern meet. Where people from all over and around the corner come together. The energy, creativity and passion that define the city and neighborhood can call this place home.",
+			"subcategories": { "set": ["1"] },
+			"is_featured": false,
+			"rank": { "set": "2" },
+			"channels": { "set": ["1"] },
+			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"approval_status": { "set": "rework" }
 		}
 	]
 }
