@@ -1083,7 +1083,7 @@
 			"redeem_to_at": "2024-05-30T07:00:00.000Z",
 			"title": "100% Off Meal Purchases for Military and First Responders",
 			"approval_status": { "set": "awaiting_approval" },
-			"approval_parent": { "set": "6" }
+			"approval_parent": { "set": "5" }
 		},
 		{
 			"account": { "set": "4" },
