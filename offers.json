@@ -1044,7 +1044,7 @@
 			"post_to_at": "2024-01-20T07:00:00.000Z",
 			"redeem_from_at": "2024-01-18T07:00:00.000Z",
 			"redeem_to_at": "2024-01-19T07:00:00.000Z",
-			"tags": { "set": ["2", "3", "1", "4", "5"] },
+			"tags": { "set": ["2"] },
 			"title": "My 4th Street Half Offer Ipsum",
 			"weburl": "http://www.4thstreetmarket.com"
 		},
