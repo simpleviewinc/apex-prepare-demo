@@ -1215,34 +1215,35 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z"
 		},
 		{
-			"title": "4th Street Event Center Listing",
-			"property": { "set": "6" },
-			"property_id": "6",
-			"description": "Join us for a unique and memorable event at the 4th Street Event Center. Our versatile space can accommodate everything from intimate gatherings to grand celebrations.",
-			"subcategories": { "set": ["1", "2"] },
-			"approval_status": { "set": "draft" },
-			"approval_parent": { "set" : "4" }
+			"title": "4th Street Market - Dining - American",
+			"description": "Our Vendors are Still Cookin! Visit us at 4th Street Market for great food from our local merchants. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"keywords": "shopping, dining, american, 4th, street, market",
+			"property": { "set": "1" },
+			"subcategories": { "set": ["4", "5", "15", "2", "3", "5"] },
+			"approval_status": { "set" : "draft" },
+			"approval_parent": { "set" : "1" }
 		},
 		{
-			"title": "Arizona-Sonora Desert Museum - Things To Do - Outdoors",
-			"description": "The 98 acre Desert Museum is a fusion experience: zoo, botanical garden, art gallery, natural history museum, and aquarium. The Desert Museum is ranked on TripAdvisor.com as one of the Top 10 Museums in the country and the #1 Tucson attraction. Unlike most museums, about 85% of the experience is outdoors!",
-			"keywords": "Outdoor, museum, Zoo, desert, sonora",
-			"property": { "set": "4" },
-			"subcategories": { "set": ["8", "2"] },
-			"approval_status": { "set": "draft" },
-			"approval_parent": { "set" : "3" }
-		},
-		{
-			"title": "Club at Starr Pass",
-			"property_id": "7",
-			"description": "27-holes of championship desert golf at your fingertips. Golf legends such as Arnold Palmer, Phil Mickelson, Payne Stewart and Nancy Lopez, to name a few, have all carved their way through this historic golf course. The course is a true desert experience as all of the hazards are completely natural elements of the environment. The three nines, which wind their way through the mountains and arroyos, are aptly named after the ever-present desert wildlife: Rattler, Road Runner and Coyote. Starr Pass Golf Club was the host facility for the PGA Tour’s Tucson Open from 1988 to 1995.",
-			"keywords": "golf, coyote, rattler, palmer, road runner, starr",
-			"subcategories": { "set": ["7", "18" ] },
+			"title": "JW Marriott Starr Pass Resort - Accommodations - Resorts",
+			"description": "Welcome to JW Marriott Tucson Starr Pass Resort & Spa. A desert oasis near downtown Tucson, AZ. Stay where style and comfort intersect at JW Marriott Tucson Starr Pass Resort & Spa. Located near downtown Tucson, AZ, our hotel offers uncomplicated relaxation amid the city's top attractions. Featuring luxury amenities and excellent service, our downtown resort is a sanctuary where your comfort is always a certainty. Test your swing on the Arnold Palmer-designed desert golf courses, pamper yourself at our spa or take a dip in our multi-level pool and lazy river. Hike and bike on Tucson’s spectacular trails or explore Mountain Park, Kino Sports complex and Old Tucson Studios. In the evening, indulge in delicious cuisine in one of our resort's buzz-worthy restaurants before retreating to well-appointed rooms and suites with stylish decor, plush bedding and separate sitting areas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Let JW Marriott Tucson Starr Pass Resort & Spa ensure a memorable stay.",
+			"keywords": "resort, spa, golf, green, grass, pool, river, Starr",
 			"is_featured": true,
 			"rank": { "set": "1" },
-			"channels": { "set": ["1", "3"] },
-			"approval_status": { "set": "draft" },
-			"approval_parent": { "set" : "7" }
+			"property": { "set": "3" },
+			"subcategories": { "set": ["3", "1", "2", "4"] },
+			"channels": { "set": ["1", "3", "2"] },
+			"post_from_at": "2024-02-15T07:00:00.000Z",
+			"approval_status": { "set" : "draft" },
+			"approval_parent": { "set" : "2" }
+		},
+		{
+			"title": "Arizona-Sonora Desert Museum - Things To Do",
+			"description": "The 98 acre Desert Museum is a fusion experience: zoo, botanical garden, art gallery, natural history museum, and aquarium.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. The Desert Museum is ranked on TripAdvisor.com as one of the Top 10 Museums in the country and the #1 Tucson attraction. Unlike most museums, about 85% of the experience is outdoors!",
+			"keywords": "Outdoor, museum, Zoo, desert, Animals, outside, hot",
+			"property": { "set": "4" },
+			"subcategories": { "set": ["8", "1", "2", "3"] },
+			"approval_status": { "set" : "draft" },
+			"approval_parent": { "set" : "3" }
 		}
 	]
 }
