@@ -159,6 +159,12 @@
 			"name": "DI_2024-summer-travel.pdf",
 			"guid": "34f370c5-13b4-4faa-b7e8-d7a25328a52b",
 			"file_size": 2873434
+		},
+		{
+			"filestorage_id": "gcp://apex/bulletins/files/f012dadd-944f-4153-89fe-9269873cc1f7-a-bulletin-image-guide.pdf",
+			"name": "bulletin image guide.pdf",
+			"guid": "3b7ade5d-a814-4c85-9562-881fb88a5eab",
+			"file_size": 452871
 		}
 	]
 }
