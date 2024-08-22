@@ -4077,7 +4077,7 @@
 			"account": { "set": "13" },
 			"admission": "$5 adult, children under 15 half off",
 			"categories": { "set": ["2", "3", "1", "4"] },
-			"tags": { "set": ["1", "2", "3", "4"] },
+			"tags": { "set": ["3"] },
 			"channels": { "set": ["1"] },
 			"contact": { "set": "28" },
 			"description": "My 4th Street Event!\nCome and have fun every Friday!\nLorem ipsum.",
