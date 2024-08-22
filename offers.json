@@ -1026,7 +1026,9 @@
 			"account": { "set": "13" },
 			"media": null,
 			"title": "My 4th Street Basic Offer Lorem Ipsum Dolor Sit Amet",
-			"categories": { "set": ["1", "2", "4"] }
+			"categories": { "set": ["1", "2", "4"] },
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "1" }
 		},
 		{
 			"account": { "set": "13" },
@@ -1045,8 +1047,10 @@
 			"redeem_from_at": "2024-01-18T07:00:00.000Z",
 			"redeem_to_at": "2024-01-19T07:00:00.000Z",
 			"tags": { "set": ["2"] },
-			"title": "My 4th Street Half Offer Ipsum",
-			"weburl": "http://www.4thstreetmarket.com"
+			"title": "My 4th Street Half Ipsum",
+			"weburl": "http://www.4thstreetmarket.com",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "2" }
 		},
 		{
 			"account": { "set": "2" },
@@ -1060,8 +1064,10 @@
 			"redeem_from_at": "2023-12-11T07:00:00.000Z",
 			"redeem_to_at": "2024-05-30T07:00:00.000Z",
 			"description": "Lorem ipsum dolor sit amet, Settle in and save on 5+ consecutive nights. Book by Monday,May 27, 2024. Minimum stay 5+ nights at hotels, 7+ nights at resorts.\nAvailable at participating properties in the U.S., Canada, Caribbean and Latin America only.\n\nUnlock amazing benefits. Join Marriott Bonvoy™.\nHow to Book\nBe sure that the Promotional Code appears in the Corporate/Promotional code box when making your online reservation, or call 1-800-228-9290 and ask for the promotional code. For toll-free numbers outside the US please visit Global Reservation Numbers\n",
-			"title": "Save on 1+ Nights",
-			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp"
+			"title": "Save on 10+ Ipsum",
+			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "3" }
 		}
 	]
 }
