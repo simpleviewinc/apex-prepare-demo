@@ -1220,7 +1220,8 @@
 			"property_id": "6",
 			"description": "Join us for a unique and memorable event at the 4th Street Event Center. Our versatile space can accommodate everything from intimate gatherings to grand celebrations.",
 			"subcategories": { "set": ["1", "2"] },
-			"approval_status": { "set": "draft" }
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set" : "4" }
 		},
 		{
 			"title": "Arizona-Sonora Desert Museum - Things To Do - Outdoors",
@@ -1228,7 +1229,8 @@
 			"keywords": "Outdoor, museum, Zoo, desert, sonora",
 			"property": { "set": "4" },
 			"subcategories": { "set": ["8", "2"] },
-			"approval_status": { "set": "draft" }
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set" : "3" }
 		},
 		{
 			"title": "Club at Starr Pass",
@@ -1239,7 +1241,8 @@
 			"is_featured": true,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1", "3"] },
-			"approval_status": { "set": "draft" }
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set" : "7" }
 		}
 	]
 }
