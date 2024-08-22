@@ -4190,6 +4190,67 @@
 			"is_featured": false,
 			"approval_status": { "set": "draft" },
 			"approval_parent": { "set": "7" }
+		},
+		{
+			"account": { "set": "6"},
+			"categories": { "set": ["3","4"] },
+			"title": "Glendale Chocolates Affaire",
+			"description":" The Chocolates Affaire is the premiere event for chocolate lovers everywhere on February 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun!",
+			"weburl": "https://thechocolateaffaire.com/",
+			"admission":"Free",
+			"doors_open":"09:00:00",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": 1,
+						"end_option_id": "date",
+						"frequency_id": "daily",
+						"start_date_at":"2024-02-15T07:00:00.000Z",
+						"end_date_at":"2024-02-20T07:00:00.000Z",
+						"start_time": "08:00",
+						"end_time":"16:00"
+					}
+				]
+			},
+			"venue_type": { "set": "listing" },
+			"venue_listing": { "set": "6"},
+			"channels": { "set": ["1", "2"] },
+			"rank": { "set": "2" },
+			"is_featured": false,
+			"approval_status": { "set": "awaiting_approval" },
+			"approval_parent": { "set": "8" }
+		},
+		{
+			"account": { "set": "49"},
+			"categories": { "set": ["3"] },
+			"title": "69th Annual Scottsdale Arabian Horse ipsum",
+			"description":"The Arabian Horse Association of Arizona (AHAA) is excited to announce the return of the 69th annual Scottsdale Arabian Horse Show at WestWorld of Scottsdale. The world’s largest Arabian horse show will run from Thurs lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"weburl": "https://www.scottsdaleshow.com",
+			"phone":"+14805151500",
+			"admission":"GA: $2, Seniors: $5, 12 and under: $52.",
+			"doors_open":"07:00:00",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": 1,
+						"end_option_id": "date",
+						"frequency_id": "daily",
+						"start_date_at":"2024-02-12T07:00:00.000Z",
+						"end_date_at":"2024-02-26T07:00:00.000Z",
+						"start_time": "09:00",
+						"end_time":"18:00"
+					}
+				]
+			},
+			"venue_type": { "set": "listing" },
+			"venue_listing": { "set": "49"},
+			"host_type": { "set": "custom" },
+			"host_name":"Arabian Horse Association of",
+			"channels": { "set": ["3"] },
+			"rank": { "set": "2" },
+			"is_featured": false,
+			"approval_status": { "set": "rework" },
+			"approval_parent": { "set": "9" }
 		}
 	]
 }

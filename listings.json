@@ -1244,6 +1244,30 @@
 			"subcategories": { "set": ["8", "1", "2", "3"] },
 			"approval_status": { "set" : "draft" },
 			"approval_parent": { "set" : "3" }
+		},
+		{
+			"property": { "set": "9" },
+			"title": "Hacienda Del Sol Guest Ranch Resort",
+			"description": "Discover luxury steeped in historic charm as you stay in one of our elegantly styled rooms and suites at our Tucson resort. Designed to reflect the awe-inspiring natural beauty of the Sonoran Desert, our rooms create the perfect setting for an unforgettable getaway.",
+			"subcategories": { "set": ["1", "3"] },
+			"is_featured": true,
+			"rank": { "set": "1" },
+			"channels": { "set": ["1", "3"] },
+			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"approval_status": { "set" : "awaiting_approval" },
+			"approval_parent": { "set" : "9" }
+		},
+		{
+			"property": { "set": "10" },
+			"title": "Prep & Pastry & Lorem Ipsum",
+			"description": "We believe food should be beautiful. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"subcategories": { "set": ["3", "4"] },
+			"is_featured": false,
+			"rank": { "set": "2" },
+			"channels": { "set": ["1", "2", "3"] },
+			"post_from_at": "2026-01-01T07:00:00.000Z",
+			"approval_status": { "set" : "rework" },
+			"approval_parent": { "set" : "10" }
 		}
 	]
 }

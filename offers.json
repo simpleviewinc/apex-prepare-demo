@@ -1068,6 +1068,38 @@
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
 			"approval_status": { "set": "draft" },
 			"approval_parent": { "set": "3" }
+		},
+		{
+			"account": { "set": "13" },
+			"categories": { "set": ["2", "3"] },
+			"channels": { "set": ["1", "3"] },
+			"description": "Thank you to First Responders and Veterans for their service. Stop by and enjoy 100% off food purchases. Mondays, Tuesdays, and Thursdays from 1-11 p.m. and Fridays and Saturdays from 1-11 p.m. Proof of service is required. Can be combined with other offers!",
+			"is_featured": true,
+			"listings": { "set": ["1"]},
+			"post_from_at": "2024-02-02T07:00:00.000Z",
+			"post_to_at": "2024-05-30T07:00:00.000Z",
+			"rank": { "set": "2" },
+			"redeem_from_at": "2023-12-02T07:00:00.000Z",
+			"redeem_to_at": "2024-05-30T07:00:00.000Z",
+			"title": "100% Off Meal Purchases for Military and First Responders",
+			"approval_status": { "set": "awaiting_approval" },
+			"approval_parent": { "set": "6" }
+		},
+		{
+			"account": { "set": "4" },
+			"categories": { "set": ["4"] },
+			"channels": { "set": ["1"] },
+			"description": "Give the gift of experience to",
+			"is_featured": true,
+			"listings": { "set": ["10"]	},
+			"post_from_at": "2024-02-01T07:00:00.000Z",
+			"post_to_at": "2024-05-31T07:00:00.000Z",
+			"rank": { "set": "2" },
+			"redeem_from_at": "2023-12-02T07:00:00.000Z",
+			"redeem_to_at": "2024-05-30T07:00:00.000Z",
+			"title": "Give the g",
+			"approval_status": { "set": "rework" },
+			"approval_parent": { "set": "6" }
 		}
 	]
 }
