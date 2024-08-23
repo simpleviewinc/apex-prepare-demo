@@ -145,6 +145,26 @@
 			"name": "SP_main_building_horiz_4441.jpg",
 			"guid": "e1415da3-41b1-4252-8bbf-efe09b7c2a86",
 			"file_size": 549447,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476521/apex/account_images/file/1393f7f8-9489-4636-a595-9491968afe42-a-SP_main_building_horiz_4441.jpg.jpg"		}
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476521/apex/account_images/file/1393f7f8-9489-4636-a595-9491968afe42-a-SP_main_building_horiz_4441.jpg.jpg"
+		},
+		{
+			"filestorage_id": "cloudinary://apex/bulletins/hero_image/fc01cee4-f04a-47c7-886e-60beae0bb16b-a-Mural_Quails.jpg",
+			"name": "Mural_Quails.jpg",
+			"guid": "bd0f25f6-6254-4b64-a01b-a1b5c1a8e1a6",
+			"file_size": 759011,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1724344476/apex/bulletins/hero_image/fc01cee4-f04a-47c7-886e-60beae0bb16b-a-Mural_Quails.jpg.jpg"
+		},
+		{
+			"filestorage_id": "gcp://apex/bulletins/files/e0ef7dc9-6918-4f0b-bc93-b40a8f7f2ff2-a-DI_2024-summer-travel.pdf",
+			"name": "DI_2024-summer-travel.pdf",
+			"guid": "34f370c5-13b4-4faa-b7e8-d7a25328a52b",
+			"file_size": 2873434
+		},
+		{
+			"filestorage_id": "gcp://apex/bulletins/files/f012dadd-944f-4153-89fe-9269873cc1f7-a-bulletin-image-guide.pdf",
+			"name": "bulletin image guide.pdf",
+			"guid": "3b7ade5d-a814-4c85-9562-881fb88a5eab",
+			"file_size": 452871
+		}
 	]
 }
