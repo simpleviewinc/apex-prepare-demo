@@ -38,8 +38,59 @@
 			"dining_types": { "set": ["1", "5"] },
 			"menu_link": "https://www.theclubatstarrpass.com/Files/Library/CBCOMENU1_12JSH2.PDF",
 			"price": { "set": "2" },
+			"private_dining_capacity": 30,
 			"property_id": "7",
 			"reservation_link": "https://www.opentable.com/r/catalina-sports-bar-tucson"
+		},
+		{
+			"amenities": {
+				"set": [
+					"cafe",
+					"outdoor_dining",
+					"familyfriendly"
+				]
+			},
+			"cuisines": { "set": ["3"] },
+			"meals_served": { "set": ["1", "2", "3"] },
+			"dining_types": { "set": ["1", "3", "4"] },
+			"menu_link": "https://www.prepandpastry.com/menus",
+			"price": { "set": "2" },
+			"private_dining_capacity": 10,
+			"property_id": "10",
+			"reservation_link": "https://www.prepandpastry.com/skip-the-wait"
+		},
+		{
+			"amenities": {
+				"set": [
+					"bar",
+					"smoke_free_property",
+					"sports_bar"
+				]
+			},
+			"cuisines": { "set": ["6"] },
+			"meals_served": { "set": ["3", "4"] },
+			"dining_types": { "set": ["1", "2", "5"] },
+			"menu_link": "https://thepit611.com/menu/",
+			"price": { "set": "2" },
+			"private_dining_capacity": 112,
+			"property_id": "2",
+			"reservation_link": "https://thepit611.com/event-space-rental/"
+		},
+		{
+			"amenities": {
+				"set": [
+					"bar",
+					"family_dining",
+					"smoke_free_property"
+				]
+			},
+			"cuisines": { "set": ["56"] },
+			"meals_served": { "set": ["3", "4"] },
+			"dining_types": { "set": ["1", "2"] },
+			"menu_link": "https://www.theavenuepizza.com/#menu",
+			"price": { "set": "2" },
+			"private_dining_capacity": 15,
+			"property_id": "11"
 		}
 	]
 }
