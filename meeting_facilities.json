@@ -12,7 +12,7 @@
 			"property_id": "1",
 			"rooms": 20,
 			"meeting_facility_types": { "set": ["4"] },
-			"total_exhibit_space": 1858.06
+			"total_exhibit_space": 1858.0608
 		},
 		{
 			"amenities": {
@@ -27,9 +27,9 @@
 			"rooms": 30,
 			"meeting_facility_types": { "set": ["4","8"] },
 			"description": "We have 88,000 sq. ft. of fantastic indoor and outdoor event space! Our two ballrooms (14,670 sq. ft. and 19,836 sq. ft.) have 22' ft. high ceilings and separate foyer spaces with windows overlooking the Tucson Mountain Park. The foyers lead out onto the outdoor Ania Terrace overlooking the Golf Course and Mountain Park. Our additional meeting rooms (840 sq. ft. to 1,690 sq. ft.) have windows and terraces and our Boardrooms have executive chairs and windows as well. The Resort has one hallway that leads from the lobby to the meeting space ensuring guests find their way while enjoying the beautiful views of our golf course and mountains!",
-			"area": 8175.46,
+			"area": 8175.4675,
 			"floor_plans": { "set": ["19"]},
-			"total_exhibit_space": 2787.09
+			"total_exhibit_space": 2787.0912
 		},
 		{
 			"amenities": {
@@ -42,7 +42,7 @@
 			"property_id": "9",
 			"rooms": 59,
 			"meeting_facility_types": { "set": ["2", "4", "7"] },
-			"total_exhibit_space": 929.03
+			"total_exhibit_space": 929.0304
 		},
 		{
 			"amenities": {
@@ -55,7 +55,7 @@
 			"property_id": "12",
 			"rooms": 487,
 			"meeting_facility_types": { "set": ["2", "3", "7"] },
-			"total_exhibit_space": 5574.18
+			"total_exhibit_space": 5574.1824
 		},
 		{
 			"amenities": {
@@ -68,7 +68,7 @@
 			"property_id": "76",
 			"rooms": 72,
 			"meeting_facility_types": { "set": ["2"] },
-			"total_exhibit_space": 92.90
+			"total_exhibit_space": 92.903
 		}
 	]
 }
