@@ -1021,6 +1021,85 @@
 			"redeem_from_at": "2023-12-01T07:00:00.000Z",
 			"redeem_to_at": "2024-05-31T07:00:00.000Z",
 			"title": "Friends Getaway"
+		},
+		{
+			"account": { "set": "13" },
+			"media": null,
+			"title": "My 4th Street Basic Offer Lorem Ipsum Dolor Sit Amet",
+			"categories": { "set": ["1", "2", "4"] },
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "1" }
+		},
+		{
+			"account": { "set": "13" },
+			"categories": { "set": ["1", "4", "3"] },
+			"channels": { "set": ["1"] },
+			"description": "This is my 4th Street Offer!\nCome and get it!\nLorem Ipsum.",
+			"listings": { "set": ["1"] },
+			"media": {
+				"docs": [
+					{ "image_id": "5", "sort_order": 1 },
+					{ "image_id": "4", "sort_order": 2 }
+				]
+			},
+			"post_from_at": "2024-01-17T07:00:00.000Z",
+			"post_to_at": "2024-01-20T07:00:00.000Z",
+			"redeem_from_at": "2024-01-18T07:00:00.000Z",
+			"redeem_to_at": "2024-01-19T07:00:00.000Z",
+			"tags": { "set": ["2"] },
+			"title": "My 4th Street Half Ipsum",
+			"weburl": "http://www.4thstreetmarket.com",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "2" }
+		},
+		{
+			"account": { "set": "2" },
+			"categories": { "set": ["2", "1"] },
+			"channels": { "set": ["2"] },
+			"listings": { "set": ["2"] },
+			"rank": { "set": "2" },
+			"is_featured": true,
+			"post_from_at": "2023-12-02T07:00:00.000Z",
+			"post_to_at": "2024-05-30T07:00:00.000Z",
+			"redeem_from_at": "2023-12-11T07:00:00.000Z",
+			"redeem_to_at": "2024-05-30T07:00:00.000Z",
+			"description": "Lorem ipsum dolor sit amet, Settle in and save on 5+ consecutive nights. Book by Monday,May 27, 2024. Minimum stay 5+ nights at hotels, 7+ nights at resorts.\nAvailable at participating properties in the U.S., Canada, Caribbean and Latin America only.\n\nUnlock amazing benefits. Join Marriott Bonvoy™.\nHow to Book\nBe sure that the Promotional Code appears in the Corporate/Promotional code box when making your online reservation, or call 1-800-228-9290 and ask for the promotional code. For toll-free numbers outside the US please visit Global Reservation Numbers\n",
+			"title": "Save on 10+ Ipsum",
+			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "3" }
+		},
+		{
+			"account": { "set": "13" },
+			"categories": { "set": ["2", "3"] },
+			"channels": { "set": ["1", "3"] },
+			"description": "Thank you to First Responders and Veterans for their service. Stop by and enjoy 100% off food purchases. Mondays, Tuesdays, and Thursdays from 1-11 p.m. and Fridays and Saturdays from 1-11 p.m. Proof of service is required. Can be combined with other offers!",
+			"is_featured": true,
+			"listings": { "set": ["1"]},
+			"post_from_at": "2024-02-02T07:00:00.000Z",
+			"post_to_at": "2024-05-30T07:00:00.000Z",
+			"rank": { "set": "2" },
+			"redeem_from_at": "2023-12-02T07:00:00.000Z",
+			"redeem_to_at": "2024-05-30T07:00:00.000Z",
+			"title": "100% Off Meal Purchases for Military and First Responders",
+			"approval_status": { "set": "awaiting_approval" },
+			"approval_parent": { "set": "5" }
+		},
+		{
+			"account": { "set": "4" },
+			"categories": { "set": ["4"] },
+			"channels": { "set": ["1"] },
+			"description": "Give the gift of experience to",
+			"is_featured": true,
+			"listings": { "set": ["10"]	},
+			"post_from_at": "2024-02-01T07:00:00.000Z",
+			"post_to_at": "2024-05-31T07:00:00.000Z",
+			"rank": { "set": "2" },
+			"redeem_from_at": "2023-12-02T07:00:00.000Z",
+			"redeem_to_at": "2024-05-30T07:00:00.000Z",
+			"title": "Give the g",
+			"approval_status": { "set": "rework" },
+			"approval_parent": { "set": "6" }
 		}
 	]
 }

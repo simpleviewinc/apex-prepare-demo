@@ -4072,6 +4072,185 @@
 			"channels": { "set": ["1"] },
 			"rank": { "set": "2" },
 			"is_featured": true
+		},
+		{
+			"account": { "set": "13" },
+			"admission": "$5 adult, children under 15 half off",
+			"categories": { "set": ["2", "3", "1", "4"] },
+			"channels": { "set": ["1"] },
+			"contact": { "set": "28" },
+			"description": "My 4th Street Event!\nCome and have fun every Friday!\nLorem ipsum.",
+			"email": "rebecca.brook@4thstreetmarket.com",
+			"host_listing": { "set": "1" },
+			"host_type": { "set": "listing" },
+			"is_featured": true,
+			"date_rule_sets": {
+				"docs": [
+					{
+						"count": 52,
+						"days": { "set": ["friday"] },
+						"end_date_at": null,
+						"interval": 1,
+						"end_option_id": "occurrences",
+						"frequency_id": "weekly",
+						"start_date_at": "2024-01-05T07:00:00.000Z",
+						"start_time": "13:00",
+						"end_time": "16:00"
+					}
+				]
+			},
+			"media": { "docs": [{ "image_id": "4", "sort_order": 1 }] },
+			"offers": { "set": "2" },
+			"phone": "+15205555555",
+			"rank": { "set": "1" },
+			"post_from_at": "2024-01-18T07:00:00.000Z",
+			"post_to_at": "2024-01-30T07:00:00.000Z",
+			"social_facebook": "4thstreetmarkets",
+			"social_instagram": "4thstreetmarkets",
+			"social_tiktok": "@4thstreetmarkets",
+			"social_x": "@4thstreetmarkets",
+			"social_youtube": "@4thstreetmkts",
+			"title": "4th Street Market Half Event",
+			"venue_listing": { "set": "1" },
+			"venue_type": { "set": "listing" },
+			"weburl": "http://www.4thstreetmarket.com/",
+			"doors_open": "07:00",
+			"purchase_tickets": "https://www.4thstreetmarket.com/gift-cards",
+			"premium_upgrade": "https://www.4thstreetmarket.com/private-event-space#event-contact-form",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "3" }
+		},
+		{
+			"account": { "set": "2" },
+			"categories": { "set": ["1", "2", "5", "3", "4"] },
+			"channels": { "set": ["1"] },
+			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM\n\nLorem ipsum.",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": null,
+						"end_option_id": null,
+						"frequency_id": "single_date",
+						"start_date_at": "2024-03-08T07:00:00.000Z",
+						"start_time": "04:00",
+						"end_time": "18:00"
+					},
+					{
+						"interval": 1,
+						"end_option_id": null,
+						"frequency_id": "daily",
+						"start_date_at": "2024-03-09T07:00:00.000Z",
+						"start_time": "10:00",
+						"end_date_at": "2024-06-09T07:00:00.000Z",
+						"end_time": "16:00"
+					}
+				]
+			},
+			"is_featured": true,
+			"title": "Wildlife Wonders",
+			"venue_listing": { "set": "2" },
+			"venue_type": { "set": "listing" },
+			"host_listing": { "set": "3" },
+			"host_type": { "set": "listing" },
+			"social_facebook": "SocietyOfAnimal",
+			"social_instagram": "societyofanimal",
+			"weburl": "https://www.desertmuseumarts.com/wildlife-wonders",
+			"email": "arts@desertmuseum.org",
+			"phone": "+15205555555",
+			"rank": { "set": "1" },
+			"post_from_at": "2024-03-02T07:00:00.000Z",
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "4" }
+		},
+		{
+			"account": { "set": "7"},
+			"categories": { "set": ["7"] },
+			"title": "WM Phoenix Open",
+			"description":"Annually sporting the largest crowds on the PGA Tour, the Waste Management Phoenix Open has gained legendary status for being unlike any other golf tournament. Lorem ipsum dolor sit amet, consectetur adipiscing elit. If you are visiting for the first time, hole 16 is a must-see. With stadium seating and llively crowds, the fan experience at this hole more comparable to a Phoenix Suns game than a traditional PGA Tournament. Visit the website for more information including a list of events and concerts throughout the week.",
+			"weburl": "https://wmphoenixopen.com/tickets/",
+			"phone":"+15205555555",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": 1,
+						"end_option_id": "date",
+						"frequency_id": "daily",
+						"start_date_at":"2024-02-04T07:00:00.000Z",
+						"end_date_at":"2024-02-12T07:00:00.000Z",
+						"start_time": "09:00"
+					}
+				]
+			},
+			"venue_type": { "set": "listing" },
+			"venue_listing": { "set": "7" },
+			"host_type": { "set": "custom" },
+			"host_name":"TPC Scottsdale",
+			"channels": { "set": ["1"] },
+			"rank": { "set": "2" },
+			"is_featured": false,
+			"approval_status": { "set": "draft" },
+			"approval_parent": { "set": "7" }
+		},
+		{
+			"account": { "set": "6"},
+			"categories": { "set": ["3","4"] },
+			"title": "Glendale Chocolates Affaire",
+			"description":" The Chocolates Affaire is the premiere event for chocolate lovers everywhere on February 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun!",
+			"weburl": "https://thechocolateaffaire.com/",
+			"admission":"Free",
+			"doors_open":"09:00:00",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": 1,
+						"end_option_id": "date",
+						"frequency_id": "daily",
+						"start_date_at":"2024-02-15T07:00:00.000Z",
+						"end_date_at":"2024-02-20T07:00:00.000Z",
+						"start_time": "08:00",
+						"end_time":"16:00"
+					}
+				]
+			},
+			"venue_type": { "set": "listing" },
+			"venue_listing": { "set": "6"},
+			"channels": { "set": ["1", "2"] },
+			"rank": { "set": "2" },
+			"is_featured": false,
+			"approval_status": { "set": "awaiting_approval" },
+			"approval_parent": { "set": "8" }
+		},
+		{
+			"account": { "set": "49"},
+			"categories": { "set": ["3"] },
+			"title": "69th Annual Scottsdale Arabian Horse ipsum",
+			"description":"The Arabian Horse Association of Arizona (AHAA) is excited to announce the return of the 69th annual Scottsdale Arabian Horse Show at WestWorld of Scottsdale. The world’s largest Arabian horse show will run from Thurs lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+			"weburl": "https://www.scottsdaleshow.com",
+			"phone":"+14805151500",
+			"admission":"GA: $2, Seniors: $5, 12 and under: $52.",
+			"doors_open":"07:00:00",
+			"date_rule_sets": {
+				"docs": [
+					{
+						"interval": 1,
+						"end_option_id": "date",
+						"frequency_id": "daily",
+						"start_date_at":"2024-02-12T07:00:00.000Z",
+						"end_date_at":"2024-02-26T07:00:00.000Z",
+						"start_time": "09:00",
+						"end_time":"18:00"
+					}
+				]
+			},
+			"venue_type": { "set": "listing" },
+			"venue_listing": { "set": "49"},
+			"host_type": { "set": "custom" },
+			"host_name":"Arabian Horse Association of",
+			"channels": { "set": ["3"] },
+			"rank": { "set": "2" },
+			"is_featured": false,
+			"approval_status": { "set": "rework" },
+			"approval_parent": { "set": "9" }
 		}
 	]
 }
