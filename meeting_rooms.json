@@ -8,7 +8,7 @@
 			"width": 53.0352,
 			"length": 34.7472,
             "height": 5.7912,
-            "area": 1842.8247,
+            "area": 1842.8247014400001,
             "partitions": 12,
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
@@ -25,9 +25,9 @@
 			"name": "Tucson Ballroom",
             "type_id": "2",
 			"width": 49.6824,
-			"length": 27.432,
+			"length": 27.432000000000002,
             "height": 6.4008,
-            "area": 1362.8876,
+            "area": 1362.8875968,
             "partitions": 12,
             "description": "Partitionable into 2 large rooms and 10 smaller",
             "configurations": {
@@ -45,7 +45,7 @@
             "type_id": "3",
 			"width": 52.4256,
 			"length": 17.0688,
-            "area": 1393.5456,
+            "area": 1393.5456000000001,
             "description": "Select our Ania Terrace for a beautiful outdoor cocktail reception or other special event. Our creative design staff can set the stage for any type of gathering, making memories that will last.",
             "configurations": {
 				"docs": [
