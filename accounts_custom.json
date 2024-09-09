@@ -1,0 +1,28 @@
+{
+	"model": "accounts_custom",
+	"data": [
+		{
+			"account_id": "2",
+			"more_text": "some random text",
+			"member_since_at": "2020-05-01T07:00:00.000Z",
+			"is_vip": true,
+			"color_id": "3",
+			"many": {
+				"set": ["1","3"]
+			}
+		},
+		{
+			"account_id": "8",
+			"more_text": "Note: watch this account",
+			"color_id": "5"
+		},
+		{
+			"account_id": "13",
+			"member_since_at": "2024-07-15T07:00:00.000Z",
+			"is_vip": true,
+			"many": {
+				"set": ["2","4"]
+			}
+		}
+	]
+}
