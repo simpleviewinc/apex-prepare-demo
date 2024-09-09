@@ -1,0 +1,29 @@
+{
+	"model": "configurable_dropdown_custom1",
+	"data": [
+		{
+			"label": "Red",
+			"sort_order": 1
+		},
+		{
+			"label": "Green",
+			"sort_order": 2
+		},
+		{
+			"label": "Blue",
+			"sort_order": 3
+		},
+		{
+			"label": "Yellow",
+			"sort_order": 4
+		},
+		{
+			"label": "Purple",
+			"sort_order": 5
+		},
+		{
+			"label": "Orange",
+			"sort_order": 6
+		}
+	]
+}
