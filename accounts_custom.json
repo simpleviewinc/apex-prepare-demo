@@ -2,7 +2,7 @@
 	"model": "accounts_custom",
 	"data": [
 		{
-			"parent_id": "2",
+			"parent_id": "dms://models/accounts/2",
 			"more_text": "some random text",
 			"member_since_at": "2020-05-01T07:00:00.000Z",
 			"is_vip": true,
@@ -12,12 +12,12 @@
 			}
 		},
 		{
-			"parent_id": "8",
+			"parent_id": "dms://models/accounts/8",
 			"more_text": "Note: watch this account",
 			"color_id": "5"
 		},
 		{
-			"parent_id": "13",
+			"parent_id": "dms://models/accounts/13",
 			"member_since_at": "2024-07-15T07:00:00.000Z",
 			"is_vip": true,
 			"many": {
