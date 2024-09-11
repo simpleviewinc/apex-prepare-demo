@@ -1,5 +1,5 @@
 {
-	"model": "accounts_custom",
+	"model": "accounts_ext",
 	"data": [
 		{
 			"parent_id": "dms://models/accounts/2",
