@@ -1,5 +1,5 @@
 {
-	"model": "contacts_custom",
+	"model": "contacts_ext",
 	"data": [
 		{
 			"parent_id": "dms://models/contacts/2",
