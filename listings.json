@@ -9,7 +9,6 @@
 			"subcategories": { "set": ["4", "5", "15"] },
 			"dtn": {
 				"doc": {
-					"listing_id": "1",
 					"is_enabled": true,
 					"categories": { "set": ["2"] },
 					"subcategories": { "set": ["4"] }
@@ -64,7 +63,6 @@
 			"channels": { "set": ["1", "3", "7"] },
 			"dtn": {
 				"doc": {
-					"listing_id": "7",
 					"is_enabled": true,
 					"subcategories": { "set": ["7", "19"] }
 				}
@@ -91,7 +89,6 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
-					"listing_id": "9",
 					"is_enabled": true,
 					"categories": { "set": ["1"] },
 					"publish_from_at": "2024-01-10T14:00:00.000Z",
@@ -206,7 +203,6 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
-					"listing_id": "19",
 					"is_enabled": false,
 					"categories": { "set": ["2"] }
 				}
@@ -273,7 +269,6 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
-					"listing_id": "25",
 					"is_enabled": true,
 					"subcategories": { "set": ["1"] }
 				}
@@ -510,7 +505,6 @@
 			"post_from_at": "2023-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
-					"listing_id": "48",
 					"is_enabled": false,
 					"categories": { "set": ["1"] },
 					"subcategories": { "set": ["1"] }
@@ -560,7 +554,6 @@
 			"post_to_at": "2024-12-15T07:00:00.000Z",
 			"dtn": {
 				"doc": {
-					"listing_id": "52",
 					"is_enabled": true,
 					"categories": { "set": ["1"] },
 					"publish_from_at": "2024-07-31T07:00:00.000Z"
