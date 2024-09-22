@@ -1,0 +1,17 @@
+{
+	"model": "configurable_dropdown_custom1",
+	"data": [
+		{
+			"label": "Item 1"
+		},
+		{
+			"label": "Item 2"
+		},
+		{
+			"label": "Item 3"
+		},
+		{
+			"label": "Item 4"
+		}
+	]
+}

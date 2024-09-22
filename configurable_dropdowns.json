@@ -1,0 +1,15 @@
+{
+	"model": "configurable_dropdowns",
+	"data": [
+		{
+			"name": "custom1",
+			"label": "Dropdown 1",
+			"is_sortable": false
+		},
+		{
+			"name": "custom2",
+			"label": "Dropdown 2",
+			"is_sortable": true
+		}
+	]
+}

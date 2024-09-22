@@ -1,0 +1,84 @@
+{
+	"model": "configurable_fields",
+	"data": [
+		{
+			"label": "Text Field",
+			"type_id": "text",
+			"size_id": "md",
+			"instruction_text": "Enter some text",
+			"is_text_multiline": false
+		},
+		{
+			"label": "Textarea Field",
+			"type_id": "text",
+			"size_id": "lg",
+			"text_max_characters": 1000,
+			"is_text_multiline": true
+		},
+		{
+			"label": "Integer Field",
+			"type_id": "number",
+			"size_id": "sm",
+			"is_number_whole_numbers": true,
+			"number_min": 0,
+			"number_max": 100
+		},
+		{
+			"label": "Decimal Field",
+			"type_id": "number",
+			"size_id": "sm",
+			"is_number_whole_numbers": false,
+			"number_decimal_places": 2
+		},
+		{
+			"label": "Date Field",
+			"type_id": "date",
+			"size_id": "sm"
+		},
+		{
+			"label": "Datetime Field",
+			"type_id": "datetime",
+			"size_id": "md"
+		},
+		{
+			"label": "Time Field",
+			"type_id": "time",
+			"size_id": "sm"
+		},
+		{
+			"label": "Phone Field",
+			"type_id": "phone",
+			"size_id": "md"
+		},
+		{
+			"label": "URL Field",
+			"type_id": "url",
+			"size_id": "md",
+			"helper_text": "Remember to start with HTTP"
+		},
+		{
+			"label": "Toggle Field",
+			"type_id": "toggle"
+		},
+		{
+			"label": "Dropdown Field",
+			"type_id": "dropdown",
+			"options_module_id": "configurable_dropdown_custom2"
+		},
+		{
+			"label": "Radio Field",
+			"type_id": "radio",
+			"options_module_id": "configurable_dropdown_custom1"
+		},
+		{
+			"label": "Multiselect Field",
+			"type_id": "advancedSelection",
+			"options_module_id": "configurable_dropdown_custom1"
+		},
+		{
+			"label": "Checkboxes Field",
+			"type_id": "checkbox",
+			"options_module_id": "configurable_dropdown_custom2"
+		}
+	]
+}
