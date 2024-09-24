@@ -63,22 +63,22 @@
 		{
 			"label": "Dropdown Field",
 			"type_id": "dropdown",
-			"options_module_id": "configurable_dropdown_custom2"
+			"options_module_id": "sf_custom2"
 		},
 		{
 			"label": "Radio Field",
 			"type_id": "radio",
-			"options_module_id": "configurable_dropdown_custom1"
+			"options_module_id": "sf_custom1"
 		},
 		{
 			"label": "Multiselect Field",
 			"type_id": "advancedSelection",
-			"options_module_id": "configurable_dropdown_custom1"
+			"options_module_id": "sf_custom1"
 		},
 		{
 			"label": "Checkboxes Field",
 			"type_id": "checkbox",
-			"options_module_id": "configurable_dropdown_custom2"
+			"options_module_id": "sf_custom2"
 		}
 	]
 }
