@@ -1,0 +1,193 @@
+{
+	"model": "module_configurable_fields",
+	"data": [
+		{
+			"configurable_field_id": "1",
+			"module": "accounts",
+			"name": "more_text",
+			"label": "More Text"
+		},
+		{
+			"configurable_field_id": "6",
+			"module": "accounts",
+			"name": "member_since",
+			"label": "Member Since"
+		},
+		{
+			"configurable_field_id": "10",
+			"module": "accounts",
+			"name": "vip",
+			"label": "VIP"
+		},
+		{
+			"configurable_field_id": "11",
+			"module": "accounts",
+			"name": "color",
+			"label": "Color"
+		},
+		{
+			"configurable_field_id": "14",
+			"module": "accounts",
+			"name": "many",
+			"label": "Choose Many"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "contacts",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "2",
+			"module": "contacts",
+			"name": "textarea",
+			"label": "Textarea Field",
+			"instruction_text": "Large text field"
+		},
+		{
+			"configurable_field_id": "3",
+			"module": "contacts",
+			"name": "integer",
+			"label": "Integer Field"
+		},
+		{
+			"configurable_field_id": "4",
+			"module": "contacts",
+			"name": "decimal",
+			"label": "Decimal Field"
+		},
+		{
+			"configurable_field_id": "5",
+			"module": "contacts",
+			"name": "date",
+			"label": "Date Field"
+		},
+		{
+			"configurable_field_id": "6",
+			"module": "contacts",
+			"name": "datetime",
+			"label": "Datetime Field"
+		},
+		{
+			"configurable_field_id": "7",
+			"module": "contacts",
+			"name": "time",
+			"label": "Time Field"
+		},
+		{
+			"configurable_field_id": "8",
+			"module": "contacts",
+			"name": "phone",
+			"label": "Phone Field",
+			"helper_text": "Enter a Cellphone"
+		},
+		{
+			"configurable_field_id": "9",
+			"module": "contacts",
+			"name": "url",
+			"label": "URL Field"
+		},
+		{
+			"configurable_field_id": "10",
+			"module": "contacts",
+			"name": "toggle",
+			"label": "Toggle Field"
+		},
+		{
+			"configurable_field_id": "11",
+			"module": "contacts",
+			"name": "dropdown",
+			"label": "Dropdown Field"
+		},
+		{
+			"configurable_field_id": "12",
+			"module": "contacts",
+			"name": "radio",
+			"label": "Radio Field"
+		},
+		{
+			"configurable_field_id": "13",
+			"module": "contacts",
+			"name": "multiselect",
+			"label": "Multiselect Field"
+		},
+		{
+			"configurable_field_id": "14",
+			"module": "contacts",
+			"name": "checkbox",
+			"label": "Checkboxes Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "accommodation_facilities",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "dining_facilities",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "account_images",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "inquiries",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "leisure_events",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "listings",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "meeting_facilities",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "meeting_rooms",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "notes",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "offers",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "properties",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "account_videos",
+			"name": "text",
+			"label": "Text Field"
+		}
+	]
+}
