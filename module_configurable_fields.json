@@ -179,7 +179,31 @@
 		},
 		{
 			"configurable_field_id": "1",
+			"module": "opportunities",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
 			"module": "properties",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "sports_facilities",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "sports_facility_spaces",
+			"name": "text",
+			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "tasks",
 			"name": "text",
 			"label": "Text Field"
 		},
