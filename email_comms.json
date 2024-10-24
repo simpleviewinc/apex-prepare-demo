@@ -16,6 +16,37 @@
 			"files": {
 				"set": ["3", "8"]
 			}
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/lucas.p.soler@gmail.com",
+						"custom_email_address": "lucas.p.soler@gmail.com"
+					}
+				]
+			},
+			"subject": "Meeting Follow-Up",
+			"body": "<p>Hi John, just following up on our meeting.</p>",
+			"sent_at": "2024-10-24T00:00:00Z",
+			"files": {
+				"set": ["3", "8"]
+			}
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/lucas.p.soler@gmail.com",
+						"custom_email_address": "lucas.p.soler@gmail.com"
+					}
+				]
+			},
+			"subject": "Meeting Follow-Up",
+			"body": "<p>Hi John, just following up on our meeting.</p>",
+			"files": {
+				"set": ["3", "8"]
+			}
 		}
 	]
 }
