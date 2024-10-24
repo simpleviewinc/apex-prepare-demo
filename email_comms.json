@@ -12,7 +12,8 @@
 			},
 			"subject": "Meeting Follow-Up",
 			"body": "<p>Hi John, just following up on our meeting.</p>",
-			"status": "Sent",
+			"is_sent": true,
+			"sent_at": "2024-10-24T00:00:00Z",
 			"files": {
 				"set": ["3", "8"]
 			}
