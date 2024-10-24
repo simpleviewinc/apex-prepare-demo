@@ -12,7 +12,7 @@
 			},
 			"subject": "Meeting Follow-Up",
 			"body": "<p>Hi John, just following up on our meeting.</p>",
-			"status": "sent",
+			"status": "Sent",
 			"files": {
 				"set": ["3", "8"]
 			}
