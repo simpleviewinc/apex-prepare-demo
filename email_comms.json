@@ -30,8 +30,8 @@
 					}
 				]
 			},
-			"subject": "Invitation: CRM Strategy Session",
-			"body": "",
+			"subject": "You're invited! {{recipient.name}}",
+			"body": "<p>Dear {{recipient.name}}</p><p>You are invited to join us for our annual meeting.&nbsp;</p><p>As part of our 10-year club, you are a valued part of our community and we hope to see you there.&nbsp;</p>",
 			"template_id": "4"
 		},
 		{
