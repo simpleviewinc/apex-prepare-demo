@@ -5,45 +5,72 @@
 			"recipients_to": {
 				"docs": [
 					{
+						"ref_id": "dms://models/accounts/13"
+					}
+				]
+			},
+			"subject": "Account Status Update",
+			"body": "<p>Dear Account Holder,</p><p>We would like to provide you with the latest update on your account with us. Please reach out if you have any questions.</p><p>Best regards,<br>The Support Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
 						"ref_id": "dms://models/emails_custom/john.doe@example.com",
 						"custom_email_address": "john.doe@example.com"
 					}
 				]
 			},
-			"subject": "Meeting Follow-Up",
-			"body": "<p>Hi John, just following up on our meeting.</p>",
-			"sent_at": "2024-10-24T00:00:00Z",
-			"files": {
-				"set": ["3", "8"]
-			}
+			"recipients_cc": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/jane.doe@example.com",
+						"custom_email_address": "jane.doe@example.com"
+					}
+				]
+			},
+			"subject": "Invitation: CRM Strategy Session",
+			"body": "",
+			"template_id": "4",
+			"sent_at": "2024-10-24T00:00:00Z"
 		},
 		{
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/emails_custom/lucas.p.soler@gmail.com",
-						"custom_email_address": "lucas.p.soler@gmail.com"
+						"ref_id": "dms://models/contacts/2"
 					}
 				]
 			},
-			"subject": "Meeting Follow-Up",
-			"body": "<p>Hi John, just following up on our meeting.</p>",
-			"sent_at": "2024-10-24T00:00:00Z",
-			"files": {
-				"set": ["3", "8"]
-			}
+			"subject": "Client Engagement Update",
+			"body": "<p>Hello,</p><p>This is a reminder of your client engagement goals for this quarter. Please review the attached documents for additional details on next steps.</p><p>Thank you,<br>Your Client Success Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z"
 		},
 		{
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/emails_custom/lucas.p.soler@gmail.com",
-						"custom_email_address": "lucas.p.soler@gmail.com"
+						"ref_id": "dms://models/users/6615a056b402af3b89821fe7"
 					}
 				]
 			},
-			"subject": "Meeting Follow-Up",
-			"body": "<p>Hi John, just following up on our meeting.</p>",
+			"subject": "Personalized CRM Dashboard",
+			"body": "<p>Dear User,</p><p>We are pleased to inform you that your personalized CRM dashboard has been updated with the latest metrics and insights. Feel free to explore the new features tailored to your needs.</p><p>Best regards,<br>The Analytics Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"custom_email_address": "john.doe@example.com"
+					}
+				]
+			},
+			"subject": "Invitation to Visit Tucson",
+			"body": "<p>Dear John,</p><p>You are cordially invited to visit Tucson for a special event we are hosting. We look forward to welcoming you and sharing more about our latest innovations. Please find the attached event brochure and travel details.</p><p>Kind regards,<br>The Event Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z",
 			"files": {
 				"set": ["3", "8"]
 			}
