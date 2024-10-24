@@ -32,8 +32,7 @@
 			},
 			"subject": "Invitation: CRM Strategy Session",
 			"body": "",
-			"template_id": "4",
-			"sent_at": "2024-10-24T00:00:00Z"
+			"template_id": "4"
 		},
 		{
 			"recipients_to": {
