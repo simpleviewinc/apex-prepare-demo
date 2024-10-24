@@ -1,0 +1,21 @@
+{
+	"model": "email_comms",
+	"data": [
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"custom_email_address": "john.doe@example.com"
+					}
+				]
+			},
+			"subject": "Meeting Follow-Up",
+			"body": "<p>Hi John, just following up on our meeting.</p>",
+			"status": "sent",
+			"files": {
+				"set": ["3", "8"]
+			}
+		}
+	]
+}
