@@ -1,0 +1,81 @@
+{
+	"model": "email_comms",
+	"data": [
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/accounts/13"
+					}
+				]
+			},
+			"subject": "Account Status Update",
+			"body": "<p>Dear Account Holder,</p><p>We would like to provide you with the latest update on your account with us. Please reach out if you have any questions.</p><p>Best regards,<br>The Support Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"custom_email_address": "john.doe@example.com"
+					}
+				]
+			},
+			"recipients_cc": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/jane.doe@example.com",
+						"custom_email_address": "jane.doe@example.com"
+					}
+				]
+			},
+			"subject": "You're invited! {{recipient.name}}",
+			"body": "<p>Dear {{recipient.name}}</p><p>You are invited to join us for our annual meeting.&nbsp;</p><p>As part of our 10-year club, you are a valued part of our community and we hope to see you there.&nbsp;</p>",
+			"template_id": "4"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/contacts/2"
+					}
+				]
+			},
+			"subject": "Client Engagement Update",
+			"body": "<p>Hello,</p><p>This is a reminder of your client engagement goals for this quarter. Please review the attached documents for additional details on next steps.</p><p>Thank you,<br>Your Client Success Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z",
+			"files": {
+				"set": ["19"]
+			}
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+					}
+				]
+			},
+			"subject": "Personalized CRM Dashboard",
+			"body": "<p>Dear User,</p><p>We are pleased to inform you that your personalized CRM dashboard has been updated with the latest metrics and insights. Feel free to explore the new features tailored to your needs.</p><p>Best regards,<br>The Analytics Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"custom_email_address": "john.doe@example.com"
+					}
+				]
+			},
+			"subject": "Invitation to Visit Tucson",
+			"body": "<p>Dear John,</p><p>You are cordially invited to visit Tucson for a special event we are hosting. We look forward to welcoming you and sharing more about our latest innovations. Please find the attached event brochure and travel details.</p><p>Kind regards,<br>The Event Team</p>",
+			"sent_at": "2024-10-24T00:00:00Z",
+			"files": {
+				"set": ["3", "8"]
+			}
+		}
+	]
+}
