@@ -115,6 +115,19 @@
 			"body": "<p>Hello {{recipient.name}},</p><p>This is to confirm that {{recipient.email}} has been unsubscribed from our monthly newsletter. You will no longer receive updates from us.</p><p>If you have any questions, feel free to reach out.</p><br />\n\t\t\t<div style=\"display: flex; justify-content: flex-start;\">\n\t\t\t\t<div>\n\t\t\t\t\t<ul style=\"list-style-type: none; margin: 0; padding: 0;\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Nelson Grant</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Director of Marketing</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Marketing/PR</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\tMobile - <a href=\"tel:+15204489228\">+15204489228</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"mailto:nelson.grant@domain.com\">nelson.grant@domain.com</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"https://linkedin.com/in/simpleview\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t",
 			"sent_at": "2024-10-29T00:25:09.945Z",
 			"template_id": "5"
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/contacts/56"
+					}
+				]
+			},
+			"subject": "Update to Our Privacy Policy",
+			"body": "<p>Dear {{recipient.name}},</p><p>We’re writing to let you know that we’ve updated our Privacy Policy to reflect new measures designed to protect your personal information and enhance your experience with us.</p><p>You can review the updated Privacy Policy <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.simpleviewinc.com/\">here</a>. We encourage you to take a look to understand how we collect, use, and safeguard your information.</p><p>If you have any questions about these changes, please feel free to reach out.</p><p>Thank you for trusting us with your privacy.</p><br /><div style=\"display: flex; justify-content: flex-start;\">\n\t\t\t\t<div>\n\t\t\t\t\t<ul style=\"list-style-type: none; margin: 0; padding: 0;\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Nelson Grant</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Director of Marketing</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Marketing/PR</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"mailto:nelson.grant@domain.com\">nelson.grant@domain.com</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t\t<i>\"Quality is not an act, it is a habit.\"</i> – Aristotle\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>",
+			"sent_at": "2024-10-29T04:33:14.023Z",
+			"template_id": null
 		}
 	]
 }
