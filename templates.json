@@ -21,7 +21,20 @@
 			"subject": "You're invited! {{recipient.name}}",
 			"description": "Simple welcome email.",
 			"body": "<p>Dear {{recipient.name}}</p><p>You are invited to join us for our annual meeting.&nbsp;</p><p>As part of our 10-year club, you are a valued part of our community and we hope to see you there.&nbsp;</p>"
+		},
+		{
+			"label": "Unsubscription Confirmation Template",
+			"description": "This template is a concise confirmation email for users who unsubscribe from a newsletter, confirming their removal from the mailing list.",
+			"template_type_id": "email",
+			"subject": "Unsubscription Confirmation",
+			"body": "<p>Hello {{recipient.name}},</p><p>This is to confirm that {{recipient.email}} has been unsubscribed from our monthly newsletter. You will no longer receive updates from us.</p><p>If you have any questions, feel free to reach out.</p>"
+		},
+		{
+			"label": "Simple Signature With Quote Template",
+			"description": "A professional signature template with essential contact information and a memorable quote.",
+			"template_type_id": "signature",
+			"subject": null,
+			"body": "<div style=\"display: flex; justify-content: flex-start;\">\n\t\t\t\t<div>\n\t\t\t\t\t<ul style=\"list-style-type: none; margin: 0; padding: 0;\">\n\t\t\t\t\t\t{{:signature_name}}\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">{{signature_name}}</li>\n\t\t\t\t\t\t{{/signature_name}}\n\t\t\t\t\t\t{{:title}}\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">{{title}}</li>\n\t\t\t\t\t\t{{/title}}\n\t\t\t\t\t\t{{:department}}\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">{{department}}</li>\n\t\t\t\t\t\t{{/department}}\n\t\t\t\t\t\t{{:email_address}}\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"mailto:{{email_address}}\">{{email_address}}</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t{{/email_address}}\n\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t\t<i>\"Quality is not an act, it is a habit.\"</i> – Aristotle\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>"
 		}
-
 	]
 }
