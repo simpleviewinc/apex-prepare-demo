@@ -21,7 +21,13 @@
 			"subject": "You're invited! {{recipient.name}}",
 			"description": "Simple welcome email.",
 			"body": "<p>Dear {{recipient.name}}</p><p>You are invited to join us for our annual meeting.&nbsp;</p><p>As part of our 10-year club, you are a valued part of our community and we hope to see you there.&nbsp;</p>"
+		},
+		{
+			"label": "Unsubscription Confirmation Template",
+			"description": "This template is a concise confirmation email for users who unsubscribe from a newsletter, confirming their removal from the mailing list.",
+			"template_type_id": "email",
+			"subject": "Unsubscription Confirmation",
+			"body": "<p>Hello {{recipient.name}},</p><p>This is to confirm that {{recipient.email}} has been unsubscribed from our monthly newsletter. You will no longer receive updates from us.</p><p>If you have any questions, feel free to reach out.</p>"
 		}
-
 	]
 }
