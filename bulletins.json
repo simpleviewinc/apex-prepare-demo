@@ -8,6 +8,12 @@
 			"hero_image_id": "23",
 			"files": { "set": ["24"] },
 			"is_featured": true,
+			"system_products": {
+				"set": [
+					"portal",
+					"apex"
+				]
+			},
 			"post_from_at": "2024-06-04T07:00:00.000Z"
 		},
 		{
@@ -15,18 +21,34 @@
 			"teaser": "Use this information to help ensure that the images you upload via the Partner Portal are optimized to make your partner listings look their best.",
 			"text": "Are you interested in having better-looking images for your listings? Download this document to get best practices and tips on making the images associated with your listings look their best.",
 			"files": { "set": ["25"] },
+			"system_products": {
+				"set": [
+					"portal"
+				]
+			},
 			"post_from_at": "2024-07-01T23:21:00.000Z"
 		},
 		{
 			"title": "Submit Special Offers for Consumers or Travel Advisors",
 			"teaser": "Expand your consumer and travel professional reach by participating in our year-round special offers programs. These programs are provided as a benefit of membership, and there is no cost to participate.",
 			"text": "Special Offers for Visitors<br />Enhance the traveler’s pre-and post-arrival experience by adding a Consumer Special Offer in our Destination app and kiosks at various locations statewide. Offers are also displayed on the website.<br />Offers can be submitted by clicking Offers in the left menu, and then Add new Offer. For more detailed submission instructions, visit our <a target=\"_blank\" href=\"https://www.hvcb.org/extranet/submit-special-offers/\">Extranet information page</a>.",
+			"system_products": {
+				"set": [
+					"apex"
+				]
+			},
 			"post_from_at": "2024-08-21T07:00:00.000Z"
 		},
 		{
 			"title": "Tourism University - Everything AI",
 			"teaser": "Register Today to learn more about the do’s and don’ts of AI",
 			"text": "We are hosting a special Tourism University on June 20 from 8:30 a.m. – 10:00 a.m. Hear from Jim Spellos, President of Meeting U as he shares “Everything AI.” This session will include information on the basics of AI, learning the Dos’ and Don’ts, AI Tools and so much more! Space is limited so register today! <a target=\"_blank\" href=\"https://www.trekksoft.com/en/resources/webinars/\">https://www.trekksoft.com/en/resources/webinars/</a>",
+			"system_products": {
+				"set": [
+					"portal",
+					"apex"
+				]
+			},
 			"post_from_at": "2024-05-02T07:00:00.000Z",
 			"post_to_at": "2024-06-20T15:30:00.000Z"
 		}
