@@ -11,7 +11,8 @@
 			},
 			"subject": "Account Status Update",
 			"body": "<p>Dear Account Holder,</p><p>We would like to provide you with the latest update on your account with us. Please reach out if you have any questions.</p><p>Best regards,<br>The Support Team</p>",
-			"sent_at": "2024-10-24T00:00:00Z"
+			"sent_at": "2024-10-24T00:00:00Z",
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -32,7 +33,8 @@
 			},
 			"subject": "You're invited! {{recipient.name}}",
 			"body": "<p>Dear {{recipient.name}}</p><p>You are invited to join us for our annual meeting.&nbsp;</p><p>As part of our 10-year club, you are a valued part of our community and we hope to see you there.&nbsp;</p>",
-			"template_id": "4"
+			"template_id": "4",
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -47,7 +49,8 @@
 			"sent_at": "2024-10-24T00:00:00Z",
 			"files": {
 				"set": ["19"]
-			}
+			},
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -59,7 +62,8 @@
 			},
 			"subject": "Personalized CRM Dashboard",
 			"body": "<p>Dear User,</p><p>We are pleased to inform you that your personalized CRM dashboard has been updated with the latest metrics and insights. Feel free to explore the new features tailored to your needs.</p><p>Best regards,<br>The Analytics Team</p>",
-			"sent_at": "2024-10-24T00:00:00Z"
+			"sent_at": "2024-10-24T00:00:00Z",
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -75,7 +79,8 @@
 			"sent_at": "2024-10-24T00:00:00Z",
 			"files": {
 				"set": ["3", "8"]
-			}
+			},
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -88,7 +93,8 @@
 			"subject": "Thank You for Reaching Out , {{recipient.name}}! Here’s the Information You Requested,",
 			"body": "<p>Dear {{recipient.name}}</p>\n\n<p>Thank you for contacting us! We're excited to assist you with planning your visit. Below is the information you requested, along with some recommendations for your trip.</p>\n\n\n<div style=\"max-width: 600px; border: 1px solid #666; padding: 10px; display: flex;\">\n    <div style=\"width: 150px; padding-top: 15px; min-width: 150px;\">\n        <p><img style=\"max-width: 150px;\" src=\"\" alt=\"\"></p>\n    </div>\n    <div style=\"padding: 10px; display: flex; flex-direction: column;\">\n        <div>\n            <h2>Napoli Italian Eatery</h2>\n        </div>\n        <table>\n            <tbody>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Address:</p></th>\n                    <td>\n                        <p>7718 E 37th St N, \n                        Toronto,  M5V 1H2, East, Canada</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Region:</p></th>\n                    <td>\n                        <p>East</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Phone:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"#\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Email:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Website:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Featured?:</p></th>\n                    <td>\n                        <p>false</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Summary URL:</p></th>\n                    <td>\n                        <p>/listings/summary/29/</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Description:</p></th>\n                    <td>\n                        <p>Locally Owned, Chef-Driven Italian Restaurant Dedicated To Making Food With Love And High-Quality Ingredients!</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Total Sleeping Rooms:</p></th>\n                    <td>\n                        <p></p>\n                    </td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</div>\n\n<p>\n<div style=\"max-width: 600px; border: 1px solid #666; padding: 10px; display: flex;\">\n    <div style=\"width: 150px; padding-top: 15px; min-width: 150px;\">\n        <p><img style=\"max-width: 150px;\" src=\"\" alt=\"\"></p>\n    </div>\n    <div style=\"padding: 10px; display: flex; flex-direction: column;\">\n        <div>\n            <h2>Springhill Suites</h2>\n        </div>\n        <table>\n            <tbody>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Address:</p></th>\n                    <td>\n                        <p>115 Arnold Palmer Dr, \n                        Mesa, 85211, Downtown, United States</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Region:</p></th>\n                    <td>\n                        <p>Downtown</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Phone:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"#\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Email:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Website:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Featured?:</p></th>\n                    <td>\n                        <p>false</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Summary URL:</p></th>\n                    <td>\n                        <p>/listings/summary/44/</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Description:</p></th>\n                    <td>\n                        <p>Make yourself at home at SpringHill Suites, featuring separate areas for relaxing and working. Enjoy the refreshing, bright spaces of our all-suite hotels.</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Total Sleeping Rooms:</p></th>\n                    <td>\n                        <p>0</p>\n                    </td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</div>\n\n<p></p>",
 			"sent_at": "2024-10-28T22:46:14.216Z",
-			"template_id": "2"
+			"template_id": "2",
+			"type": { "set": "referral" }
 		},
 		{
 			"recipients_to": {
@@ -101,7 +107,8 @@
 			"subject": "Here are your listings, {{recipient.name}}",
 			"body": "<p>Hello {{recipient.name}}</p><p>Here is a list of places you requested.</p><p>Budget Inn Somerset - 736 N Center Ave</p><p>Yoder's Guest House - 106 Meyers Ave</p>",
 			"sent_at": "2024-10-28T23:00:51.544Z",
-			"template_id": "3"
+			"template_id": "3",
+			"type": { "set": "referral" }
 		},
 		{
 			"recipients_to": {
@@ -114,7 +121,8 @@
 			"subject": "Unsubscription Confirmation",
 			"body": "<p>Hello {{recipient.name}},</p><p>This is to confirm that {{recipient.email}} has been unsubscribed from our monthly newsletter. You will no longer receive updates from us.</p><p>If you have any questions, feel free to reach out.</p><br />\n\t\t\t<div style=\"display: flex; justify-content: flex-start;\">\n\t\t\t\t<div>\n\t\t\t\t\t<ul style=\"list-style-type: none; margin: 0; padding: 0;\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Nelson Grant</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Director of Marketing</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Marketing/PR</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\tMobile - <a href=\"tel:+15204489228\">+15204489228</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"mailto:nelson.grant@domain.com\">nelson.grant@domain.com</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"https://linkedin.com/in/simpleview\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t",
 			"sent_at": "2024-10-29T00:25:09.945Z",
-			"template_id": "5"
+			"template_id": "5",
+			"type": { "set": "email" }
 		},
 		{
 			"recipients_to": {
@@ -127,7 +135,34 @@
 			"subject": "Update to Our Privacy Policy",
 			"body": "<p>Dear {{recipient.name}},</p><p>We’re writing to let you know that we’ve updated our Privacy Policy to reflect new measures designed to protect your personal information and enhance your experience with us.</p><p>You can review the updated Privacy Policy <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.simpleviewinc.com/\">here</a>. We encourage you to take a look to understand how we collect, use, and safeguard your information.</p><p>If you have any questions about these changes, please feel free to reach out.</p><p>Thank you for trusting us with your privacy.</p><br /><div style=\"display: flex; justify-content: flex-start;\">\n\t\t\t\t<div>\n\t\t\t\t\t<ul style=\"list-style-type: none; margin: 0; padding: 0;\">\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Nelson Grant</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Director of Marketing</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">Marketing/PR</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t\t<a href=\"mailto:nelson.grant@domain.com\">nelson.grant@domain.com</a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\n\t\t\t\t\t\t<li style=\"margin: 0; padding: 0;\">\n\t\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t\t<i>\"Quality is not an act, it is a habit.\"</i> – Aristotle\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</div>",
 			"sent_at": "2024-10-29T04:33:14.023Z",
-			"template_id": null
+			"type": { "set": "email" }
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+					}
+				]
+			},
+			"subject": "Hi {{recipient.name}}! Thanks for Joining Us!",
+			"body": "<p>Hi {{recipient.name}},</p><p>Thank you for creating an account with us at Arasaka Corporation! We’re excited to have you on board and can’t wait for you to explore everything we have to offer.</p><p>If you have any questions or need assistance, don’t hesitate to reach out. We’re here to make your experience great!</p><p>Welcome to the Arasaka community!</p><br />",
+			"sent_at": "2024-11-07T21:08:39.545Z",
+			"type": { "set": "preview" }
+		},
+		{
+			"recipients_to": {
+				"docs": [
+					{
+						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+					}
+				]
+			},
+			"subject": "Thank You for Reaching Out , {{recipient.name}}! Here’s the Information You Requested,",
+			"body": "<p>Dear {{recipient.name}}</p>\n\n<p>Thank you for contacting us! We're excited to assist you with planning your visit. Below is the information you requested, along with some recommendations for your trip.</p>\n\n\n<div style=\"width: 600px; border: 1px solid #666; padding: 10px; display: flex;\">\n    <div style=\"width: 150px; padding-top: 15px; min-width: 150px;\">\n        <p><img style=\"max-width: 150px;\" src=\"\" alt=\"\"></p>\n    </div>\n    <div style=\"padding: 10px; display: flex; flex-direction: column;\">\n        <div>\n            <h2>Bella Capri'z Club Cafe</h2>\n        </div>\n        <table>\n            <tbody>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Address:</p></th>\n                    <td>\n                        <p>2901 W Central Ave, \n                        Wichita, 67203, Downtown, United States</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Region:</p></th>\n                    <td>\n                        <p>Downtown</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Phone:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"#\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Email:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Website:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Featured?:</p></th>\n                    <td>\n                        <p>false</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Summary URL:</p></th>\n                    <td>\n                        <p>/listings/summary/79/</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Description:</p></th>\n                    <td>\n                        <p>a casual dining facility that serves individuals of all ages. The restaurant offers a selection of appetizers, salads and sandwiches. It serves chicken gumbo, cream of mushroom and lentil soups. </p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Total Sleeping Rooms:</p></th>\n                    <td>\n                        <p></p>\n                    </td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</div>\n\n<p>\n<div style=\"width: 600px; border: 1px solid #666; padding: 10px; display: flex;\">\n    <div style=\"width: 150px; padding-top: 15px; min-width: 150px;\">\n        <p><img style=\"max-width: 150px;\" src=\"\" alt=\"\"></p>\n    </div>\n    <div style=\"padding: 10px; display: flex; flex-direction: column;\">\n        <div>\n            <h2>Quality Inn & Suites</h2>\n        </div>\n        <table>\n            <tbody>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Address:</p></th>\n                    <td>\n                        <p>283 Mcclellandtown Rd, \n                        Uniontown, 15401, Midtown, United States</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Region:</p></th>\n                    <td>\n                        <p>Midtown</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Phone:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"#\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Email:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Website:</p></th>\n                    <td>\n                        <p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\"></a></p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Featured?:</p></th>\n                    <td>\n                        <p>false</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Summary URL:</p></th>\n                    <td>\n                        <p>/listings/summary/104/</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Description:</p></th>\n                    <td>\n                        <p>Quality Inn & Suites River Suites is an excellent choice for travelers, offering a budget friendly environment alongside many helpful amenities designed to enhance your stay.</p>\n                    </td>\n                </tr>\n                <tr>\n                    <th style=\"vertical-align: top; text-align: left;\"><p>Total Sleeping Rooms:</p></th>\n                    <td>\n                        <p>0</p>\n                    </td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</div>\n\n<p></p><br />",
+			"sent_at": "2024-11-07T21:20:40.184Z",
+			"template_id": "2",
+			"type": { "set": "preview" }
 		}
 	]
 }
