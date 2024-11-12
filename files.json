@@ -2,40 +2,46 @@
 	"model": "files",
 	"data": [
 		{
-			"filestorage_id": "gcp://apex/ASDM_map_large.jpg",
+			"filestorage_id": "cloudinary://apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg",
 			"name": "ASDM_map_large.jpg",
-			"guid": "test1",
-			"file_size": 1223509
+			"guid": "2bca3e76-1656-4044-8338-b0ca7121bc7b",
+			"file_size": 1223509,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg"
 		},
 		{
-			"filestorage_id": "gcp://apex/ASM-coyote.jpg",
+			"filestorage_id": "cloudinary://apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg",
 			"name": "ASM-coyote.jpg",
-			"guid": "test2",
-			"file_size": 59312
+			"guid": "1c73c817-6e0b-4017-8d82-1a5b44f768ed",
+			"file_size": 59312,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453174/apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg.webp"
 		},
 		{
-			"filestorage_id": "gcp://apex/Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
+			"filestorage_id": "cloudinary://apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
 			"name": "Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
-			"guid": "test3",
-			"file_size": 1369763
+			"guid": "f1e1ba56-af46-4e83-aec9-4ec2737fe5a1",
+			"file_size": 1369763,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453367/apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg.jpg"
 		},
 		{
-			"filestorage_id": "gcp://apex/4SMLogoBlue.png",
+			"filestorage_id": "cloudinary://apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png",
 			"name": "4SMLogoBlue.png",
-			"guid": "test4",
-			"file_size": 15865
+			"guid": "1e767074-0618-4dc8-81da-ed47d8d2c11b",
+			"file_size": 15865,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png"
 		},
 		{
-			"filestorage_id": "gcp://apex/4sm image8_psd.jpg",
-			"name": "4sm image8_psd.jpg",
-			"guid": "test5",
-			"file_size": 161466
+			"filestorage_id": "cloudinary://apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg",
+			"name": "4sm-image8_psd.jpg",
+			"guid": "40422544-9073-4362-b717-f67f394019bc",
+			"file_size": 161466,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453538/apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg.jpg"
 		},
 		{
-			"filestorage_id": "gcp://apex/4sm Native+Son-502-Edit.jpg",
-			"name": "4sm Native+Son-502-Edit.jpg",
-			"guid": "test6",
-			"file_size": 69140
+			"filestorage_id": "cloudinary://apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg",
+			"name": "4sm-Native-Son-502-Edit.jpg",
+			"guid": "754cde39-ced9-44ca-8571-c7c490b274da",
+			"file_size": 69140,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453710/apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg.jpg"
 		},
 		{
 			"filestorage_id": "gcp://apex/food truck round up.jpg",
