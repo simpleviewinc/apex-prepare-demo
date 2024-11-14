@@ -212,6 +212,18 @@
 			"module": "account_videos",
 			"name": "text",
 			"label": "Text Field"
+		},
+		{
+			"configurable_field_id": "16",
+			"module": "contacts",
+			"name": "account_tags",
+			"label": "Account Tags"
+		},
+		{
+			"configurable_field_id": "15",
+			"module": "contacts",
+			"name": "brochures",
+			"label": "Brochures"
 		}
 	]
 }
