@@ -79,6 +79,20 @@
 			"label": "Checkboxes Field",
 			"type_id": "checkbox",
 			"options_module_id": "sf_custom2"
+		},
+		{
+			"is_number_whole_numbers": false,
+			"is_text_multiline": false,
+			"label": "Brochure Checkboxes",
+			"options_module": {"set": "brochures"},
+			"type": {"set": "checkbox"}
+		},
+		{
+			"is_number_whole_numbers": false,
+			"is_text_multiline": false,
+			"label": "Account Tags Checkboxes",
+			"options_module": {"set": "account_tags"},
+			"type": {"set": "checkbox"}
 		}
 	]
 }
