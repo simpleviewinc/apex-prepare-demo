@@ -32,6 +32,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.5644781,
+				"long": -70.2011632
 			}
 		},
 		{
@@ -127,6 +131,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.3072629,
+				"long": -110.9144939
 			}
 		},
 		{
@@ -188,6 +196,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9100683,
+				"long": -79.720356
 			}
 		},
 		{
@@ -218,6 +230,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": -28.0296368,
+				"long": 153.4326017
 			}
 		},
 		{
@@ -249,6 +265,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.3147649,
+				"long": -110.9161238
 			}
 		},
 		{
@@ -309,6 +329,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 33.338652,
+				"long": -111.9707484
 			}
 		},
 		{
@@ -349,6 +373,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.2209534,
+				"long": -110.846161
 			}
 		},
 		{
@@ -459,6 +487,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.4294754,
+				"long": -111.0398041
 			}
 		},
 		{
@@ -552,6 +584,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 34.2816446,
+				"long": -83.7698661
 			}
 		},
 		{
@@ -696,6 +732,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.3772592,
+				"long": -111.1126672
 			}
 		},
 		{
@@ -723,6 +763,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 32.3672922,
+				"long": -111.0442105
 			}
 		},
 		{
@@ -785,6 +829,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": -29.2775201,
+				"long": 114.923434
 			}
 		},
 		{
@@ -815,6 +863,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": -29.2005176,
+				"long": 114.9438115
 			}
 		},
 		{
@@ -845,6 +897,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": -29.2192458,
+				"long": 115.0807138
 			}
 		},
 		{
@@ -875,6 +931,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.6455778,
+				"long": -79.3906374
 			}
 		},
 		{
@@ -905,6 +965,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.645236,
+				"long": -79.391109
 			}
 		},
 		{
@@ -935,6 +999,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.6455778,
+				"long": -79.3906374
 			}
 		},
 		{
@@ -965,6 +1033,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.653226,
+				"long": -79.3831843
 			}
 		},
 		{
@@ -993,6 +1065,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 43.653226,
+				"long": -79.3830004
 			}
 		},
 		{
@@ -1023,6 +1099,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.1479131,
+				"long": -79.52572789999999
 			}
 		},
 		{
@@ -1055,6 +1135,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 33.502499,
+				"long": -111.9455136
 			}
 		},
 		{
@@ -1085,6 +1169,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2014892,
+				"long": -79.3388535
 			}
 		},
 		{
@@ -1115,6 +1203,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 35.2096212,
+				"long": -111.6171096
 			}
 		},
 		{
@@ -1145,6 +1237,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9989171,
+				"long": -79.60594859999999
 			}
 		},
 		{
@@ -1175,6 +1271,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2435756,
+				"long": -79.2405873
 			}
 		},
 		{
@@ -1205,6 +1305,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2375015,
+				"long": -79.2311407
 			}
 		},
 		{
@@ -1235,6 +1339,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.1532402,
+				"long": -79.77645559999999
 			}
 		},
 		{
@@ -1265,6 +1373,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.1536318,
+				"long": -79.7782818
 			}
 		},
 		{
@@ -1295,6 +1407,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 33.4151843,
+				"long": -111.8314724
 			}
 		},
 		{
@@ -1325,6 +1441,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 33.4180523,
+				"long": -111.8313906
 			}
 		},
 		{
@@ -1355,6 +1475,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.281725,
+				"long": -79.3929289
 			}
 		},
 		{
@@ -1385,6 +1509,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 38.2524899,
+				"long": -85.7611278
 			}
 		},
 		{
@@ -1415,6 +1543,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.4258215,
+				"long": -79.6701858
 			}
 		},
 		{
@@ -1444,6 +1576,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 35.0832326,
+				"long": -111.6630914
 			}
 		},
 		{
@@ -1473,6 +1609,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2376589,
+				"long": -78.8335913
 			}
 		},
 		{
@@ -1502,6 +1642,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 34.193941,
+				"long": -112.1607051
 			}
 		},
 		{
@@ -1530,6 +1674,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8162817,
+				"long": -79.3290641
 			}
 		},
 		{
@@ -1558,6 +1706,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.17623140331517,
+				"long": -79.30505563675491
 			}
 		},
 		{
@@ -1586,6 +1738,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 33.4147542,
+				"long": -111.846185
 			}
 		},
 		{
@@ -1614,6 +1770,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": -33.7554878,
+				"long": 150.6935474
 			}
 		},
 		{
@@ -1643,6 +1803,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8113462,
+				"long": -79.3645186
 			}
 		},
 		{
@@ -1672,6 +1836,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.0572995,
+				"long": -73.8254549
 			}
 		},
 		{
@@ -1702,6 +1870,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.08453931289057,
+				"long": -81.51872648783569
 			}
 		},
 		{
@@ -1733,6 +1905,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.96162169999999,
+				"long": -79.185018
 			}
 		},
 		{
@@ -1763,6 +1939,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7406189,
+				"long": -87.1087795
 			}
 		},
 		{
@@ -1793,6 +1973,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.21760986367031,
+				"long": -79.61351766217956
 			}
 		},
 		{
@@ -1823,6 +2007,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2205003,
+				"long": -79.60625100000001
 			}
 		},
 		{
@@ -1853,6 +2041,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3147201,
+				"long": -79.6815487
 			}
 		},
 		{
@@ -1883,6 +2075,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.2190021,
+				"long": -79.6092043
 			}
 		},
 		{
@@ -1913,6 +2109,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.7627685,
+				"long": -79.9241446
 			}
 		},
 		{
@@ -1941,6 +2141,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 34.0739035,
+				"long": -117.1841222
 			}
 		},
 		{
@@ -1971,6 +2175,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.38952750000001,
+				"long": -73.501791
 			}
 		},
 		{
@@ -2002,6 +2210,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 42.3572219,
+				"long": -71.0525729
 			}
 		},
 		{
@@ -2032,6 +2244,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3953976,
+				"long": -79.5726796
 			}
 		},
 		{
@@ -2062,6 +2278,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.9675956,
+				"long": -75.12212219999999
 			}
 		},
 		{
@@ -2093,6 +2313,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3017978,
+				"long": -79.15193459999999
 			}
 		},
 		{
@@ -2123,6 +2347,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 27.4128683,
+				"long": -81.4769711
 			}
 		},
 		{
@@ -2153,6 +2381,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 38.7541179,
+				"long": -104.7427055
 			}
 		},
 		{
@@ -2183,6 +2415,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 27.7730836,
+				"long": -82.40759349999999
 			}
 		},
 		{
@@ -2213,6 +2449,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0744559,
+				"long": -79.3564942
 			}
 		},
 		{
@@ -2242,6 +2482,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.5746157,
+				"long": -79.5688155
 			}
 		},
 		{
@@ -2270,6 +2514,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7980029,
+				"long": -97.3272291
 			}
 		},
 		{
@@ -2300,6 +2548,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.1346919,
+				"long": -79.84377309999999
 			}
 		},
 		{
@@ -2330,6 +2582,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.666871,
+				"long": -97.46164999999999
 			}
 		},
 		{
@@ -2361,6 +2617,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7082655,
+				"long": -97.3883834
 			}
 		},
 		{
@@ -2391,6 +2651,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.6946465,
+				"long": -97.37612589999999
 			}
 		},
 		{
@@ -2421,6 +2685,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7379102,
+				"long": -97.34068479999999
 			}
 		},
 		{
@@ -2450,6 +2718,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3031659,
+				"long": -79.5165852
 			}
 		},
 		{
@@ -2479,6 +2751,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7288671,
+				"long": -97.20713769999999
 			}
 		},
 		{
@@ -2507,6 +2783,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.6911245,
+				"long": -97.228106
 			}
 		},
 		{
@@ -2535,6 +2815,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3083998,
+				"long": -79.5722998
 			}
 		},
 		{
@@ -2563,6 +2847,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.3833226,
+				"long": -79.5721609
 			}
 		},
 		{
@@ -2592,6 +2880,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.6880449,
+				"long": -97.3352938
 			}
 		},
 		{
@@ -2621,6 +2913,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.284386,
+				"long": -79.54712889999999
 			}
 		},
 		{
@@ -2651,6 +2947,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0196411,
+				"long": -79.0765539
 			}
 		},
 		{
@@ -2681,6 +2981,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.015432,
+				"long": -79.07873839999999
 			}
 		},
 		{
@@ -2711,6 +3015,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0139913,
+				"long": -79.07764619999999
 			}
 		},
 		{
@@ -2741,6 +3049,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0206904,
+				"long": -79.07544460000001
 			}
 		},
 		{
@@ -2769,6 +3081,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0183565,
+				"long": -79.084817
 			}
 		},
 		{
@@ -2798,6 +3114,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.016621,
+				"long": -79.082359
 			}
 		},
 		{
@@ -2828,6 +3148,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 38.6043968,
+				"long": -90.447138
 			}
 		},
 		{
@@ -2858,6 +3182,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0184015,
+				"long": -79.0830386
 			}
 		},
 		{
@@ -2888,6 +3216,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0276422,
+				"long": -79.22811940000001
 			}
 		},
 		{
@@ -2918,6 +3250,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0182647,
+				"long": -79.0796318
 			}
 		},
 		{
@@ -2948,6 +3284,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.497604,
+				"long": -74.48848679999999
 			}
 		},
 		{
@@ -2976,6 +3316,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.0912268,
+				"long": -74.0479146
 			}
 		},
 		{
@@ -3006,6 +3350,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8403625,
+				"long": -79.61056959999999
 			}
 		},
 		{
@@ -3037,6 +3385,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.4319041,
+				"long": -75.1803465
 			}
 		},
 		{
@@ -3067,6 +3419,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.283273,
+				"long": -75.34023859999999
 			}
 		},
 		{
@@ -3097,6 +3453,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8853505,
+				"long": -79.7069453
 			}
 		},
 		{
@@ -3127,6 +3487,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9136841,
+				"long": -79.7515567
 			}
 		},
 		{
@@ -3157,6 +3521,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9017519,
+				"long": -79.74976389999999
 			}
 		},
 		{
@@ -3187,6 +3555,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8148454,
+				"long": -79.02235350000001
 			}
 		},
 		{
@@ -3217,6 +3589,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8133176,
+				"long": -79.0248672
 			}
 		},
 		{
@@ -3247,6 +3623,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.5923368,
+				"long": -79.7373903
 			}
 		},
 		{
@@ -3279,6 +3659,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 41.0768501,
+				"long": -75.026198
 			}
 		},
 		{
@@ -3309,6 +3693,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.881147,
+				"long": -79.837797
 			}
 		},
 		{
@@ -3340,6 +3728,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9231612,
+				"long": -75.1700353
 			}
 		},
 		{
@@ -3370,6 +3762,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8018187,
+				"long": -79.2801547
 			}
 		},
 		{
@@ -3400,6 +3796,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 38.957864,
+				"long": -77.017314
 			}
 		},
 		{
@@ -3430,6 +3830,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9156541,
+				"long": -79.75424620000001
 			}
 		},
 		{
@@ -3460,6 +3864,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 37.7199775,
+				"long": -97.36393699999999
 			}
 		},
 		{
@@ -3490,6 +3898,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.8796272,
+				"long": -79.7030293
 			}
 		},
 		{
@@ -3520,6 +3932,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9193189,
+				"long": -79.7541488
 			}
 		},
 		{
@@ -3550,6 +3966,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.9552875,
+				"long": -79.80511159999999
 			}
 		},
 		{
@@ -3580,6 +4000,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.4393083,
+				"long": -79.58094799999999
 			}
 		},
 		{
@@ -3610,6 +4034,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.7691267,
+				"long": -79.4758178
 			}
 		},
 		{
@@ -3640,6 +4068,10 @@
 					"is_physical": true,
 					"is_shipping": false
 				}
+			},
+			"geo_coordinates": {
+				"lat": 40.6145895,
+				"long": -79.62343039999999
 			}
 		},
 		{
@@ -3670,6 +4102,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.1154523,
+				"long": -77.5645323
 			}
 		},
 		{
@@ -3700,6 +4136,10 @@
 					"is_physical": true,
 					"is_shipping": true
 				}
+			},
+			"geo_coordinates": {
+				"lat": 39.11550640760109,
+				"long": -77.56472005463104
 			}
 		}
 	]
