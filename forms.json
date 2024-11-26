@@ -98,15 +98,13 @@
 						"required": true
 					},
 					{
-						"name": "state_id",
+						"name": "state",
 						"label": "State",
 						"type": "dropdown",
 						"required": true,
 						"args": {
 							"getOptions": {
-								"model": "states",
-								"primaryKey": "state_id",
-								"labelColumn": "name",
+								"moduleDefName": "states",
 								"filter": {
 									"country_id": {
 										"eq": "US"
@@ -116,16 +114,14 @@
 						}
 					},
 					{
-						"name": "country_id",
+						"name": "country",
 						"label": "Country",
 						"type": "dropdown",
 						"required": true,
 						"size": "md",
 						"args": {
 							"getOptions": {
-								"model": "countries",
-								"primaryKey": "country_id",
-								"labelColumn": "name"
+								"moduleDefName": "countries"
 							}
 						}
 					}
@@ -142,8 +138,8 @@
 							[["address_line_1"]],
 							[["address_line_2"]],
 							[["address_line_3"]],
-							[["country_id"]],
-							[["city"], ["state_id"], ["postal_code"]]
+							[["country"]],
+							[["city"], ["state"], ["postal_code"]]
 						]
 					}
 				]
