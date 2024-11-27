@@ -241,19 +241,17 @@
 						"required": true
 					},
 					{
-						"name": "state",
+						"name": "state_id",
 						"label": "State",
 						"type": "dropdown",
 						"required": true,
-						"args":
-						{
-							"getOptions":
-							{
-								"moduleDefName": "states",
-								"filter":
-								{
-									"country_id":
-									{
+						"args": {
+							"getOptions": {
+								"model": "states",
+								"primaryKey": "state_id",
+								"labelColumn": "name",
+								"filter": {
+									"country_id": {
 										"eq": "US"
 									}
 								}
@@ -261,16 +259,16 @@
 						}
 					},
 					{
-						"name": "country",
+						"name": "country_id",
 						"label": "Country",
 						"type": "dropdown",
 						"required": true,
 						"size": "md",
-						"args":
-						{
-							"getOptions":
-							{
-								"moduleDefName": "countries"
+						"args": {
+							"getOptions": {
+								"model": "countries",
+								"primaryKey": "country_id",
+								"labelColumn": "name"
 							}
 						}
 					}
@@ -279,29 +277,16 @@
 					{
 						"fields": [
 							[
-								["first_name"],
-								["last_name"]
+								["first_name"], ["last_name"]
 							],
 							[
 								["email_address", "company", "title"]
 							],
-							[
-								["address_line_1"]
-							],
-							[
-								["address_line_2"]
-							],
-							[
-								["address_line_3"]
-							],
-							[
-								["country"]
-							],
-							[
-								["city"],
-								["state"],
-								["postal_code"]
-							]
+							[["address_line_1"]],
+							[["address_line_2"]],
+							[["address_line_3"]],
+							[["country_id"]],
+							[["city"], ["state_id"], ["postal_code"]]
 						]
 					}
 				]
