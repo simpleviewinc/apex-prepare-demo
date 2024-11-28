@@ -31,7 +31,7 @@
 				"docs": [
 					{
 						"count": null,
-						"days": { "set": ["friday"] },
+						"days_ids": ["friday"],
 						"end_date_at": "2024-06-19T07:00:00.000Z",
 						"interval": 2,
 						"end_option_id": "date",
@@ -64,7 +64,7 @@
 				"docs": [
 					{
 						"count": 52,
-						"days": { "set": ["friday"] },
+						"days_ids": ["friday"],
 						"end_date_at": null,
 						"interval": 1,
 						"end_option_id": "occurrences",
@@ -181,7 +181,7 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "weekly",
-						"days": { "set": ["saturday","sunday"] },
+						"days_ids": ["saturday","sunday"],
 						"start_date_at":"2024-02-03T07:00:00.000Z",
 						"end_date_at":"2024-03-31T07:00:00.000Z",
 						"start_time": "10:00",
@@ -1692,7 +1692,7 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "weekly",
-						"days": { "set": ["saturday"] },
+						"days_ids": ["saturday"],
 						"start_date_at":"2024-02-24T07:00:00.000Z",
 						"end_date_at":"2024-04-06T07:00:00.000Z",
 						"start_time": "10:00"
@@ -1913,7 +1913,7 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "weekly",
-						"days": { "set": ["saturday"] },
+						"days_ids": ["saturday"],
 						"start_date_at":"2024-02-03T07:00:00.000Z",
 						"end_date_at":"2024-02-24T07:00:00.000Z",
 						"start_time": "15:00"
@@ -2006,7 +2006,7 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "weekly",
-						"days": { "set": ["friday"] },
+						"days_ids": ["friday"],
 						"start_date_at":"2024-02-02T07:00:00.000Z",
 						"end_date_at":"2024-02-23T07:00:00.000Z",
 						"start_time": "11:00"
@@ -4088,7 +4088,7 @@
 				"docs": [
 					{
 						"count": 52,
-						"days": { "set": ["friday"] },
+						"days_ids": ["friday"],
 						"end_date_at": null,
 						"interval": 1,
 						"end_option_id": "occurrences",
