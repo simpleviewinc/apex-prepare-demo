@@ -241,7 +241,7 @@
 						"required": true
 					},
 					{
-						"name": "state_id",
+						"name": "state",
 						"label": "State",
 						"type": "dropdown",
 						"required": true,
@@ -259,7 +259,7 @@
 						}
 					},
 					{
-						"name": "country_id",
+						"name": "country",
 						"label": "Country",
 						"type": "dropdown",
 						"required": true,
