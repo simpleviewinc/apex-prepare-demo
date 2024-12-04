@@ -16,18 +16,21 @@
 				"fields": [
 					{
 						"name": "first_name",
+						"outkey": "contacts.first_name",
 						"type": "text",
 						"label": "First Name",
 						"required": true
 					},
 					{
 						"name": "last_name",
+						"outkey": "contacts.last_name",
 						"type": "text",
 						"label": "Last Name",
 						"required": true
 					},
 					{
-						"name": "primary_email_address",
+						"name": "email_address",
+						"outkey": "contacts.primary_email_address",
 						"size": "md",
 						"type": "text",
 						"label": "Email Address",
@@ -38,56 +41,66 @@
 					},
 					{
 						"name": "direct_phone",
+						"outkey": "contacts.direct_phone",
 						"type": "phone",
 						"label": "Phone"
 					},
 					{
 						"name": "mobile_phone",
+						"outkey": "contacts.mobile_phone",
 						"type": "phone",
 						"label": "Mobile"
 					},
 					{
+						"name": "preferred_contact_type",
+						"outkey": "contacts.preferred_contact_type",
+						"type": "dropdown",
+						"label": "Preferred Contact Method",
 						"args": {
 							"getOptions": {
 								"moduleDefName": "dropdowns.preferred_contact_types"
 							}
-						},
-						"name": "preferred_contact_type",
-						"type": "dropdown",
-						"label": "Preferred Contact Method"
+						}
 					},
 					{
+						"name": "type",
+						"outkey": "inquiries.type",
+						"show": false,
+						"type": "dropdown",
+						"label": "Type",
+						"defaultValue": 5,
 						"args": {
 							"getOptions": {
 								"moduleDefName": "dropdowns.inquiry_types"
 							}
-						},
-						"name": "type",
-						"show": false,
-						"type": "dropdown",
-						"label": "Type",
-						"defaultValue": 5
+						}
 					},
 					{
+						"name": "interests",
+						"outkey": "inquiries.interests",
+						"type": "checkbox",
+						"label": "Interests",
 						"args": {
 							"getOptions": {
 								"moduleDefName": "dropdowns.interests"
 							}
-						},
-						"name": "interests",
-						"type": "checkbox",
-						"label": "Interests"
+						}
 					},
 					{
-						"args": {
-							"showTime": false
-						},
 						"name": "arrival_date_at",
+						"outkey": "inquiries.arrival_date_at",
 						"type": "date",
 						"label": "Arrival Date",
-						"helper_text": "If you are coming to town, when do you arrive"
+						"helper_text": "If you are coming to town, when do you arrive",
+						"args": {
+							"showTime": false
+						}
 					},
 					{
+						"name": "custom_dropdown",
+						"outkey": "inquiries.custom_dropdown",
+						"type": "dropdown",
+						"label": "Dropdown Field",
 						"args": {
 							"getOptions": {
 								"model": "sf_custom2",
@@ -97,10 +110,7 @@
 								"labelColumn": "ui_label",
 								"sortColumn": "sort_order"
 							}
-						},
-						"name": "custom_dropdown",
-						"type": "dropdown",
-						"label": "Dropdown Field"
+						}
 					}
 				],
 				"sections": [
@@ -117,7 +127,7 @@
 							],
 							[
 								[
-									"primary_email_address"
+									"email_address"
 								]
 							],
 							[
@@ -180,18 +190,21 @@
 				"fields": [
 					{
 						"name": "first_name",
+						"outkey": "account_users.first_name",
 						"label": "First Name",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "last_name",
+						"outkey": "account_users.last_name",
 						"label": "Last Name",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "email_address",
+						"outkey": "account_users.email_address",
 						"label": "Email Address",
 						"type": "text",
 						"required": true,
@@ -200,12 +213,14 @@
 					},
 					{
 						"name": "title",
+						"outkey": "account_users.title",
 						"label": "Title",
 						"type": "text",
 						"size": "md"
 					},
 					{
 						"name": "company",
+						"outkey": "accounts.company",
 						"label": "Company",
 						"type": "text",
 						"required": true,
@@ -213,6 +228,7 @@
 					},
 					{
 						"name": "address_line_1",
+						"outkey": "accounts.address_line_1",
 						"label": "Address",
 						"type": "text",
 						"required": true,
@@ -220,36 +236,39 @@
 					},
 					{
 						"name": "address_line_2",
+						"outkey": "accounts.address_line_2",
 						"type": "text",
 						"size": "lg"
 					},
 					{
 						"name": "address_line_3",
+						"outkey": "accounts.address_line_3",
 						"type": "text",
 						"size": "lg"
 					},
 					{
 						"name": "city",
+						"outkey": "accounts.city",
 						"label": "City",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "postal_code",
+						"outkey": "accounts.postal_code",
 						"label": "Postal Code",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "state",
+						"outkey": "accounts.state",
 						"label": "State",
 						"type": "dropdown",
 						"required": true,
 						"args": {
 							"getOptions": {
-								"model": "states",
-								"primaryKey": "state_id",
-								"labelColumn": "name",
+								"moduleDefName": "states",
 								"filter": {
 									"country_id": {
 										"eq": "US"
@@ -260,15 +279,14 @@
 					},
 					{
 						"name": "country",
+						"outkey": "accounts.country",
 						"label": "Country",
 						"type": "dropdown",
 						"required": true,
 						"size": "md",
 						"args": {
 							"getOptions": {
-								"model": "countries",
-								"primaryKey": "country_id",
-								"labelColumn": "name"
+								"moduleDefName": "countries"
 							}
 						}
 					}
@@ -285,8 +303,8 @@
 							[["address_line_1"]],
 							[["address_line_2"]],
 							[["address_line_3"]],
-							[["country_id"]],
-							[["city"], ["state_id"], ["postal_code"]]
+							[["country"]],
+							[["city"], ["state"], ["postal_code"]]
 						]
 					}
 				]
