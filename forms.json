@@ -40,10 +40,24 @@
 						]
 					},
 					{
-						"name": "direct_phone",
-						"outkey": "contacts.direct_phone",
+						"name": "primary_phone",
 						"type": "phone",
-						"label": "Phone"
+						"label": "Phone",
+						"outkey": "contacts.primary_phone"
+					},
+					{
+						"name": "primary_phone_extension",
+						"size": "xs",
+						"type": "number",
+						"label": "Extension",
+						"outkey": "contacts.primary_phone_extension",
+						"args": {
+							"validatorSettings": {
+								"max": 99999,
+								"min": 1,
+								"wholeNumbers": true
+							}
+						}
 					},
 					{
 						"name": "mobile_phone",
@@ -98,7 +112,7 @@
 					},
 					{
 						"name": "custom_dropdown",
-						"outkey": "inquiries.custom_dropdown",
+						"outkey": "contacts_ext.dropdown",
 						"type": "dropdown",
 						"label": "Dropdown Field",
 						"args": {
@@ -132,8 +146,14 @@
 							],
 							[
 								[
-									"direct_phone"
+									"primary_phone"
 								],
+								[
+									"primary_phone_extension"
+								],
+								[]
+							],
+							[
 								[
 									"mobile_phone"
 								],
