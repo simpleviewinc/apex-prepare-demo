@@ -41,7 +41,7 @@
 						"required": true
 					},
 					{
-						"name": "email_address",
+						"name": "primary_email",
 						"coreId": "contacts.primary_email",
 						"size": "md",
 						"type": "text",
@@ -50,6 +50,11 @@
 						"validators": [
 							"validateEmail"
 						]
+					},
+					{
+						"name": "is_send_email",
+						"label": "Allow Emails",
+						"type": "toggle"
 					},
 					{
 						"name": "primary_phone",
@@ -93,7 +98,7 @@
 						"coreId": "contacts.physical_address",
 						"type": "addressSingle",
 						"args": {
-							"subFields": ["address1", "city", "state", "postalCode", "country"]
+							"subFields": ["address1", "country", "city", "state", "postalCode"]
 						}
 					},
 					{
@@ -173,6 +178,7 @@
 						"coreId": "inquiries.visitor_number",
 						"label": "Number of Visitors",
 						"type": "number",
+						"size": "xs",
 						"helperText": "Number of visitors in your party",
 						"args": {
 							"validatorSettings": {
@@ -186,6 +192,7 @@
 						"coreId": "inquiries.stay_length",
 						"label": "Length of Stay",
 						"type": "number",
+						"size": "xs",
 						"helperText": "How many days are you staying",
 						"args": {
 							"validatorSettings": {
@@ -201,7 +208,8 @@
 						"type": "text",
 						"size": "lg",
 						"args": {
-							"multiline": true
+							"multiline": true,
+							"minRows": 5
 						}
 					}
 				],
@@ -220,6 +228,9 @@
 							[
 								[
 									"email_address"
+								],
+								[
+									"is_send_email"
 								]
 							],
 							[
