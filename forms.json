@@ -9,28 +9,40 @@
 			"is_active": true,
 			"publication_start_date_at": "2024-06-20T00:00:00.000Z",
 			"publication_end_date_at": "2025-06-20T00:00:00.000Z",
-			"response_url": "https://simpleviewinc.com",
 			"response_text": "Check out the website for more information",
 			"is_deleted": false,
 			"layout": {
 				"fields": [
 					{
+						"name": "groups",
+						"coreId": "contacts.groups",
+						"label": "Groups",
+						"type": "checkbox",
+						"show": false,
+						"defaultValue": [{ "value": "2" }],
+						"args": {
+							"getOptions": {
+								"moduleDefName": "dropdowns.groups"
+							}
+						}
+					},
+					{
 						"name": "first_name",
-						"outkey": "contacts.first_name",
+						"coreId": "contacts.first_name",
 						"type": "text",
 						"label": "First Name",
 						"required": true
 					},
 					{
 						"name": "last_name",
-						"outkey": "contacts.last_name",
+						"coreId": "contacts.last_name",
 						"type": "text",
 						"label": "Last Name",
 						"required": true
 					},
 					{
 						"name": "email_address",
-						"outkey": "contacts.primary_email_address",
+						"coreId": "contacts.primary_email",
 						"size": "md",
 						"type": "text",
 						"label": "Email Address",
@@ -43,14 +55,14 @@
 						"name": "primary_phone",
 						"type": "phone",
 						"label": "Phone",
-						"outkey": "contacts.primary_phone"
+						"coreId": "contacts.primary_phone"
 					},
 					{
 						"name": "primary_phone_extension",
 						"size": "xs",
 						"type": "number",
 						"label": "Extension",
-						"outkey": "contacts.primary_phone_extension",
+						"coreId": "contacts.primary_phone_extension",
 						"args": {
 							"validatorSettings": {
 								"max": 99999,
@@ -61,13 +73,13 @@
 					},
 					{
 						"name": "mobile_phone",
-						"outkey": "contacts.mobile_phone",
+						"coreId": "contacts.mobile_phone",
 						"type": "phone",
 						"label": "Mobile"
 					},
 					{
 						"name": "preferred_contact_type",
-						"outkey": "contacts.preferred_contact_type",
+						"coreId": "contacts.preferred_contact_type",
 						"type": "dropdown",
 						"label": "Preferred Contact Method",
 						"args": {
@@ -77,8 +89,32 @@
 						}
 					},
 					{
+						"name": "physical_address",
+						"coreId": "contacts.physical_address",
+						"type": "addressSingle",
+						"args": {
+							"subFields": ["address1", "city", "state", "postalCode", "country"]
+						}
+					},
+					{
+						"name": "custom_dropdown",
+						"coreId": "contacts_ext.dropdown",
+						"type": "dropdown",
+						"label": "Choose a Color",
+						"args": {
+							"getOptions": {
+								"model": "sf_custom2",
+								"schema": "ext",
+								"primaryKey": "database_id",
+								"primaryKeyType": "identity",
+								"labelColumn": "ui_label",
+								"sortColumn": "sort_order"
+							}
+						}
+					},
+					{
 						"name": "type",
-						"outkey": "inquiries.type",
+						"coreId": "inquiries.type",
 						"show": false,
 						"type": "dropdown",
 						"label": "Type",
@@ -91,7 +127,7 @@
 					},
 					{
 						"name": "interests",
-						"outkey": "inquiries.interests",
+						"coreId": "inquiries.interests",
 						"type": "checkbox",
 						"label": "Interests",
 						"args": {
@@ -101,29 +137,71 @@
 						}
 					},
 					{
+						"name": "brochures",
+						"coreId": "inquiries.brochures",
+						"type": "checkbox",
+						"label": "Brochures",
+						"args": {
+							"getOptions": {
+								"moduleDefName": "dropdowns.brochures"
+							}
+						}
+					},
+					{
 						"name": "arrival_date_at",
-						"outkey": "inquiries.arrival_date_at",
+						"coreId": "inquiries.arrival_date_at",
 						"type": "date",
 						"label": "Arrival Date",
-						"helper_text": "If you are coming to town, when do you arrive",
+						"helperText": "If you are coming to town, when do you arrive",
 						"args": {
 							"showTime": false
 						}
 					},
 					{
-						"name": "custom_dropdown",
-						"outkey": "contacts_ext.dropdown",
-						"type": "dropdown",
-						"label": "Dropdown Field",
+						"name": "reasons_for_visit",
+						"coreId": "inquiries.reasons_for_visit",
+						"type": "checkbox",
+						"label": "Reason for Visit",
 						"args": {
 							"getOptions": {
-								"model": "sf_custom2",
-								"schema": "ext",
-								"primaryKey": "database_id",
-								"primaryKeyType": "identity",
-								"labelColumn": "ui_label",
-								"sortColumn": "sort_order"
+								"moduleDefName": "dropdowns.reasons_for_visit"
 							}
+						}
+					},
+					{
+						"name": "visitor_number",
+						"coreId": "inquiries.visitor_number",
+						"label": "Number of Visitors",
+						"type": "number",
+						"helperText": "Number of visitors in your party",
+						"args": {
+							"validatorSettings": {
+								"min": 1,
+								"wholeNumbers": true
+							}
+						}
+					},
+					{
+						"name": "stay_length",
+						"coreId": "inquiries.stay_length",
+						"label": "Length of Stay",
+						"type": "number",
+						"helperText": "How many days are you staying",
+						"args": {
+							"validatorSettings": {
+								"min": 1,
+								"wholeNumbers": true
+							}
+						}
+					},
+					{
+						"name": "comments",
+						"coreId": "inquiries.comments",
+						"label": "Comments",
+						"type": "text",
+						"size": "lg",
+						"args": {
+							"multiline": true
 						}
 					}
 				],
@@ -160,6 +238,16 @@
 								[
 									"preferred_contact_type"
 								]
+							],
+							[
+								[
+									"physical_address"
+								]
+							],
+							[
+								[
+									"custom_dropdown"
+								]
 							]
 						]
 					},
@@ -169,16 +257,30 @@
 							[
 								[
 									"interests"
+								],
+								[
+									"brochures"
 								]
 							],
 							[
 								[
 									"arrival_date_at"
+								],
+								[
+									"reasons_for_visit"
 								]
 							],
 							[
 								[
-									"custom_dropdown"
+									"visitor_number"
+								],
+								[
+									"stay_length"
+								]
+							],
+							[
+								[
+									"comments"
 								]
 							]
 						]
@@ -210,21 +312,21 @@
 				"fields": [
 					{
 						"name": "first_name",
-						"outkey": "account_users.first_name",
+						"coreId": "account_users.first_name",
 						"label": "First Name",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "last_name",
-						"outkey": "account_users.last_name",
+						"coreId": "account_users.last_name",
 						"label": "Last Name",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "email_address",
-						"outkey": "account_users.email_address",
+						"coreId": "account_users.email_address",
 						"label": "Email Address",
 						"type": "text",
 						"required": true,
@@ -233,14 +335,14 @@
 					},
 					{
 						"name": "title",
-						"outkey": "account_users.title",
+						"coreId": "account_users.title",
 						"label": "Title",
 						"type": "text",
 						"size": "md"
 					},
 					{
 						"name": "company",
-						"outkey": "accounts.company",
+						"coreId": "accounts.company",
 						"label": "Company",
 						"type": "text",
 						"required": true,
@@ -248,7 +350,7 @@
 					},
 					{
 						"name": "address_line_1",
-						"outkey": "accounts.address_line_1",
+						"coreId": "accounts.address_line_1",
 						"label": "Address",
 						"type": "text",
 						"required": true,
@@ -256,33 +358,33 @@
 					},
 					{
 						"name": "address_line_2",
-						"outkey": "accounts.address_line_2",
+						"coreId": "accounts.address_line_2",
 						"type": "text",
 						"size": "lg"
 					},
 					{
 						"name": "address_line_3",
-						"outkey": "accounts.address_line_3",
+						"coreId": "accounts.address_line_3",
 						"type": "text",
 						"size": "lg"
 					},
 					{
 						"name": "city",
-						"outkey": "accounts.city",
+						"coreId": "accounts.city",
 						"label": "City",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "postal_code",
-						"outkey": "accounts.postal_code",
+						"coreId": "accounts.postal_code",
 						"label": "Postal Code",
 						"type": "text",
 						"required": true
 					},
 					{
 						"name": "state",
-						"outkey": "accounts.state",
+						"coreId": "accounts.state",
 						"label": "State",
 						"type": "dropdown",
 						"required": true,
@@ -299,7 +401,7 @@
 					},
 					{
 						"name": "country",
-						"outkey": "accounts.country",
+						"coreId": "accounts.country",
 						"label": "Country",
 						"type": "dropdown",
 						"required": true,
