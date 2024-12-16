@@ -98,8 +98,8 @@
 					}
 				]
 			},
-			"addresses": {
-				"docs": {
+			"address": {
+				"doc": {
 					"address_line_1": "3645 W. Starr Pass Blvd",
 					"address_line_2": null,
 					"address_line_3": null,
