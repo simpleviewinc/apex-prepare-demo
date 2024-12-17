@@ -8,12 +8,12 @@
 			"name": "groups",
 			"is_background": true,
 			"background_data": "[{ \"value\": 2, \"label\": \"Consumer\"}]"
-		},		
+		},
 		{
 			"form_id": "1",
-			"core_field_id": "inquiries.type",
-			"label": "Type",
-			"name": "type",
+			"core_field_id": "inquiries.inquiry_type",
+			"label": "Inquiry Type",
+			"name": "inquiry_type",
 			"is_background": true,
 			"background_data": "{ \"value\": 5, \"label\": \"Website\" }"
 		},
@@ -135,9 +135,9 @@
 		},
 		{
 			"form_id": "2",
-			"core_field_id": "inquiries.type",
-			"label": "Type",
-			"name": "type",
+			"core_field_id": "inquiries.inquiry_type",
+			"label": "Inquiry Type",
+			"name": "inquiry_type",
 			"is_background": true,
 			"background_data": "{ \"value\": 5, \"label\": \"Website\" }"
 		},
