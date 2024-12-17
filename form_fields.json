@@ -246,6 +246,6 @@
 			"label": "",
 			"name": "physical_address",
 			"is_required": true
-		},
+		}
 	]
 }
