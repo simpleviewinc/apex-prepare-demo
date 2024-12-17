@@ -7,7 +7,7 @@
 			"label": "Groups",
 			"name": "groups",
 			"is_background": true,
-			"background_data": "[{ \"value\": \"2\" }]"
+			"background_data": "[{ \"value\": 2, \"label\": \"Consumer\"}]"
 		},		
 		{
 			"form_id": "1",
@@ -15,7 +15,7 @@
 			"label": "Type",
 			"name": "type",
 			"is_background": true,
-			"background_data": "{ \"value\": \"5\" }"
+			"background_data": "{ \"value\": 5, \"label\": \"Website\" }"
 		},
 		{
 			"form_id": "1",
@@ -131,7 +131,7 @@
 			"label": "Groups",
 			"name": "groups",
 			"is_background": true,
-			"background_data": "[{ \"value\": \"2\" }]"
+			"background_data": "[{ \"value\": 2, \"label\": \"Consumer\"}]"
 		},
 		{
 			"form_id": "2",
@@ -139,7 +139,7 @@
 			"label": "Type",
 			"name": "type",
 			"is_background": true,
-			"background_data": "{ \"value\": \"5\" }"
+			"background_data": "{ \"value\": 5, \"label\": \"Website\" }"
 		},
 		{
 			"form_id": "2",
@@ -180,7 +180,7 @@
 			"label": "Roles",
 			"name": "roles",
 			"is_background": true,
-			"background_data": "[{ \"value\": \"5\" }]"
+			"background_data": "[{ \"value\": 5, \"label\": \"Portal User\" }]"
 		},
 		{
 			"form_id": "3",
@@ -196,7 +196,7 @@
 			"label": "Engagement Level",
 			"name": "engagement_level",
 			"is_background": true,
-			"background_data": "{ \"value\": \"1\" }"
+			"background_data": "{ \"value\": 1, \"label\": \"Prospect\" }"
 		},
 		{
 			"form_id": "3",
@@ -204,7 +204,7 @@
 			"label": "Groups",
 			"name": "groups",
 			"is_background": true,
-			"background_data": "[{ \"value\": \"1\" }]"
+			"background_data": "[{ \"value\": 1, \"label\": \"Member\"}]"
 		},
 		{
 			"form_id": "3",
