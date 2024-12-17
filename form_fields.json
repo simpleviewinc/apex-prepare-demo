@@ -1,0 +1,251 @@
+{
+	"model": "form_fields",
+	"data": [
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.groups",
+			"label": "Groups",
+			"name": "groups",
+			"is_background": true,
+			"background_data": "[{ \"value\": \"2\" }]"
+		},		
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.type",
+			"label": "Type",
+			"name": "type",
+			"is_background": true,
+			"background_data": "{ \"value\": \"5\" }"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.first_name",
+			"label": "First Name",
+			"name": "first_name",
+			"is_required": true
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.last_name",
+			"label": "Last Name",
+			"name": "last_name",
+			"is_required": true
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.primary_email",
+			"label": "Email Address",
+			"name": "primary_email",
+			"is_required": true
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.is_send_email",
+			"label": "Do you agree to receive future emails?",
+			"name": "is_send_email"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.primary_phone",
+			"label": "Phone",
+			"name": "primary_phone"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.primary_phone_extension",
+			"label": "Extension",
+			"name": "primary_phone_extension"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.mobile_phone",
+			"label": "Mobile",
+			"name": "mobile_phone"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.physical_address",
+			"label": "",
+			"name": "physical_address"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "contacts.preferred_contact_type",
+			"label": "Preferred Contact Method",
+			"name": "preferred_contact_type"
+		},
+		{
+			"form_id": "1",
+			"module_configurable_field_id": "16",
+			"label": "Choose a Color",
+			"name": "custom_dropdown"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.interests",
+			"label": "Interests",
+			"name": "interests"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.brochures",
+			"label": "Brochures",
+			"name": "brochures"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.arrival_date_at",
+			"label": "Arrival Date",
+			"name": "arrival_date_at",
+			"helper_text": "If you are coming to town, when do you arrive"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.reasons_for_visit",
+			"label": "Reason for Visit",
+			"name": "reasons_for_visit"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.visitor_number",
+			"label": "Number of Visitors",
+			"name": "visitor_number",
+			"helper_text": "Number of visitors in your party"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.stay_length",
+			"label": "Length of Stay",
+			"name": "stay_length",
+			"helper_text": "How many days are you staying"
+		},
+		{
+			"form_id": "1",
+			"core_field_id": "inquiries.comments",
+			"label": "Comments",
+			"name": "comments"
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "contacts.groups",
+			"label": "Groups",
+			"name": "groups",
+			"is_background": true,
+			"background_data": "[{ \"value\": \"2\" }]"
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "inquiries.type",
+			"label": "Type",
+			"name": "type",
+			"is_background": true,
+			"background_data": "{ \"value\": \"5\" }"
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "contacts.first_name",
+			"label": "First Name",
+			"name": "first_name",
+			"is_required": true
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "contacts.last_name",
+			"label": "Last Name",
+			"name": "last_name",
+			"is_required": true
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "contacts.primary_email",
+			"label": "Email Address",
+			"name": "primary_email",
+			"is_required": true
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "contacts.is_send_email",
+			"label": "Do you agree to receive future emails?",
+			"name": "is_send_email"
+		},
+		{
+			"form_id": "2",
+			"core_field_id": "inquiries.interests",
+			"label": "Interests",
+			"name": "interests"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "account_users.roles",
+			"label": "Roles",
+			"name": "roles",
+			"is_background": true,
+			"background_data": "[{ \"value\": \"5\" }]"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "accounts.is_active",
+			"label": "Active",
+			"name": "is_active",
+			"is_background": true,
+			"background_data": "true"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "accounts.engagement_level",
+			"label": "Engagement Level",
+			"name": "engagement_level",
+			"is_background": true,
+			"background_data": "{ \"value\": \"1\" }"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "accounts.groups",
+			"label": "Groups",
+			"name": "groups",
+			"is_background": true,
+			"background_data": "[{ \"value\": \"1\" }]"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "account_users.first_name",
+			"label": "First Name",
+			"name": "first_name",
+			"is_required": true
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "account_users.last_name",
+			"label": "Last Name",
+			"name": "last_name",
+			"is_required": true
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "account_users.email_address",
+			"label": "Email Address",
+			"name": "email_address",
+			"is_required": true
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "account_users.title",
+			"label": "Title",
+			"name": "title"
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "accounts.account_name",
+			"label": "Company",
+			"name": "account_name",
+			"is_required": true
+		},
+		{
+			"form_id": "3",
+			"core_field_id": "accounts.physical_address",
+			"label": "",
+			"name": "physical_address",
+			"is_required": true
+		},
+	]
+}
