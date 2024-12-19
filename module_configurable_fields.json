@@ -219,13 +219,6 @@
 			"name": "text",
 			"label": "Text Field - Portal",
 			"is_shown_in_portal": true
-		},
-		{
-			"configurable_field_id": "1",
-			"module": "opportunities",
-			"name": "text",
-			"label": "Text Field - Portal",
-			"is_shown_in_portal": true
 		}
 	]
 }
