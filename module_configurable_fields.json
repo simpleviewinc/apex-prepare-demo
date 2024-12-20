@@ -215,8 +215,113 @@
 		},
 		{
 			"configurable_field_id": "1",
-			"module": "accounts",
-			"name": "text",
+			"module": "accommodation_facilities",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "dining_facilities",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "account_images",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "inquiries",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "leisure_events",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "listings",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "meeting_facilities",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "meeting_rooms",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "notes",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "offers",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "opportunities",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "properties",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "sports_facilities",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "sports_facility_spaces",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "tasks",
+			"name": "text_portal",
+			"label": "Text Field - Portal",
+			"is_shown_in_portal": true
+		},
+		{
+			"configurable_field_id": "1",
+			"module": "account_videos",
+			"name": "text_portal",
 			"label": "Text Field - Portal",
 			"is_shown_in_portal": true
 		}
