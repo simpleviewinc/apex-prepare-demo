@@ -11,7 +11,7 @@
 		},
 		{
 			"form_id": "1",
-			"core_field_id": "inquiries.inquiry_type",
+			"core_field_id": "inquiries.type",
 			"label": "Inquiry Type",
 			"name": "inquiry_type",
 			"is_background": true,
@@ -135,7 +135,7 @@
 		},
 		{
 			"form_id": "2",
-			"core_field_id": "inquiries.inquiry_type",
+			"core_field_id": "inquiries.type",
 			"label": "Inquiry Type",
 			"name": "inquiry_type",
 			"is_background": true,
