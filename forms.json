@@ -2,7 +2,6 @@
 	"model": "forms",
 	"data": [
 		{
-			"name": "vguide_request",
 			"label": "Visitor Guide Request",
 			"form_type_id": "contact",
 			"is_posted_on_website": true,
@@ -99,7 +98,6 @@
 			}
 		},
 		{
-			"name": "newsletter_sign_up",
 			"label": "Newsletter Sign Up",
 			"form_type_id": "contact",
 			"is_posted_on_website": true,
@@ -141,7 +139,6 @@
 			}
 		},
 		{
-			"name": "partner_sign_up",
 			"label": "Partner Sign Up",
 			"form_type_id": "partner_signup",
 			"is_posted_on_website": true,
