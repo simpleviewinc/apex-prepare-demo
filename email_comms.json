@@ -5,7 +5,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/accounts/13"
+						"ref_id": "apex://models/accounts/13"
 					}
 				]
 			},
@@ -18,7 +18,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"ref_id": "apex://models/emails_custom/john.doe@example.com",
 						"custom_email_address": "john.doe@example.com"
 					}
 				]
@@ -26,7 +26,7 @@
 			"recipients_cc": {
 				"docs": [
 					{
-						"ref_id": "dms://models/emails_custom/jane.doe@example.com",
+						"ref_id": "apex://models/emails_custom/jane.doe@example.com",
 						"custom_email_address": "jane.doe@example.com"
 					}
 				]
@@ -40,7 +40,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/contacts/2"
+						"ref_id": "apex://models/contacts/2"
 					}
 				]
 			},
@@ -56,7 +56,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+						"ref_id": "apex://models/users/6601c85cb402af3b897f6b30"
 					}
 				]
 			},
@@ -69,7 +69,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/emails_custom/john.doe@example.com",
+						"ref_id": "apex://models/emails_custom/john.doe@example.com",
 						"custom_email_address": "john.doe@example.com"
 					}
 				]
@@ -86,7 +86,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/contacts/2"
+						"ref_id": "apex://models/contacts/2"
 					}
 				]
 			},
@@ -100,7 +100,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/contacts/105"
+						"ref_id": "apex://models/contacts/105"
 					}
 				]
 			},
@@ -114,7 +114,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/contacts/2"
+						"ref_id": "apex://models/contacts/2"
 					}
 				]
 			},
@@ -128,7 +128,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/contacts/56"
+						"ref_id": "apex://models/contacts/56"
 					}
 				]
 			},
@@ -141,7 +141,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+						"ref_id": "apex://models/users/6601c85cb402af3b897f6b30"
 					}
 				]
 			},
@@ -154,7 +154,7 @@
 			"recipients_to": {
 				"docs": [
 					{
-						"ref_id": "dms://models/users/6601c85cb402af3b897f6b30"
+						"ref_id": "apex://models/users/6601c85cb402af3b897f6b30"
 					}
 				]
 			},
