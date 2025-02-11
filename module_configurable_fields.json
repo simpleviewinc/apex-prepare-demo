@@ -32,6 +32,12 @@
 			"label": "Choose Many"
 		},
 		{
+			"configurable_field_id": "15",
+			"module": "accounts",
+			"name": "address",
+			"label": "Address"
+		},
+		{
 			"configurable_field_id": "1",
 			"module": "contacts",
 			"name": "text",

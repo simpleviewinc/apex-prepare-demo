@@ -79,6 +79,10 @@
 			"label": "Checkboxes Field",
 			"type_id": "checkbox",
 			"options_module_id": "sf_custom2"
+		},
+		{
+			"label": "Address",
+			"type_id": "addressSingle"
 		}
 	]
 }
