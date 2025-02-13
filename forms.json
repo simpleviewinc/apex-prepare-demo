@@ -6,8 +6,6 @@
 			"form_type_id": "contact",
 			"is_posted_on_website":true,
 			"is_active":true,
-			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
-			"publication_end_date_at":"2024-06-20T00:00:00.000Z",
 			"response_url":"https://simpleviewinc.com",
 			"response_text":"Check out the website for more information",
 			"is_deleted": false
@@ -17,8 +15,6 @@
 			"form_type_id": "contact",
 			"is_posted_on_website":true,
 			"is_active":true,
-			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
-			"publication_end_date_at":"2024-06-20T00:00:00.000Z",
 			"response_url":"https://google.com",
 			"response_text":"all the information in the world",
 			"is_deleted": false
