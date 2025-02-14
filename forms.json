@@ -2,149 +2,86 @@
 	"model": "forms",
 	"data": [
 		{
-			"name": "Visitor Guide Request",
+			"title": "Visitor Guide Request",
 			"form_type_id": "contact",
 			"is_posted_on_website":true,
 			"is_active":true,
-			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
-			"publication_end_date_at":"2024-06-20T00:00:00.000Z",
 			"response_url":"https://simpleviewinc.com",
 			"response_text":"Check out the website for more information",
 			"is_deleted": false
 		},
 		{
-			"name": "Newsletter Sign Up",
+			"title": "Newsletter Sign Up",
 			"form_type_id": "contact",
 			"is_posted_on_website":true,
 			"is_active":true,
-			"publication_start_date_at":"2023-06-20T00:00:00.000Z",
-			"publication_end_date_at":"2024-06-20T00:00:00.000Z",
 			"response_url":"https://google.com",
 			"response_text":"all the information in the world",
 			"is_deleted": false
 		},
 		{
-			"name": "Partner Sign Up",
+			"title": "Partner Sign Up",
 			"form_type_id": "partner_signup",
 			"is_posted_on_website":true,
 			"is_active":true,
 			"response_text":"You will receive an email shortly to login...",
 			"is_deleted": false,
-			"layout": {
-				"fields": [
+			"fields": {
+				"docs": [
 					{
-						"name": "first_name",
+						"configurable_field_id": "1",
 						"label": "First Name",
-						"type": "text",
-						"required": true
+						"name": "first_name",
+						"is_required": true
 					},
 					{
-						"name": "last_name",
+						"configurable_field_id": "1",
 						"label": "Last Name",
-						"type": "text",
-						"required": true
+						"name": "last_name",
+						"is_required": true
 					},
 					{
-						"name": "email_address",
+						"configurable_field_id": "1",
 						"label": "Email Address",
-						"type": "text",
-						"required": true,
-						"size": "md",
-						"validators": ["validateEmail"]
+						"name": "email_address",
+						"is_required": true
 					},
 					{
-						"name": "title",
+						"configurable_field_id": "1",
 						"label": "Title",
-						"type": "text",
-						"size": "md"
+						"name": "title",
+						"is_required": false
 					},
 					{
-						"name": "company",
+						"configurable_field_id": "1",
 						"label": "Company",
-						"type": "text",
-						"required": true,
-						"size": "md"
+						"name": "company",
+						"is_required": true
 					},
 					{
-						"name": "address_line_1",
+						"configurable_field_id": "15",
 						"label": "Address",
-						"type": "text",
-						"required": true,
-						"size": "lg"
-					},
-					{
-						"name": "address_line_2",
-						"type": "text",
-						"size": "lg"
-					},
-					{
-						"name": "address_line_3",
-						"type": "text",
-						"size": "lg"
-					},
-					{
-						"name": "city",
-						"label": "City",
-						"type": "text",
-						"required": true
-					},
-					{
-						"name": "postal_code",
-						"label": "Postal Code",
-						"type": "text",
-						"required": true
-					},
-					{
-						"name": "state_id",
-						"label": "State",
-						"type": "dropdown",
-						"required": true,
-						"args": {
-							"getOptions": {
-								"model": "states",
-								"primaryKey": "state_id",
-								"labelColumn": "name",
-								"filter": {
-									"country_id": {
-										"eq": "US"
-									}
-								}
-							}
-						}
-					},
-					{
-						"name": "country_id",
-						"label": "Country",
-						"type": "dropdown",
-						"required": true,
-						"size": "md",
-						"args": {
-							"getOptions": {
-								"model": "countries",
-								"primaryKey": "country_id",
-								"labelColumn": "name"
-							}
-						}
-					}
-				],
-				"sections": [
-					{
-						"fields": [
-							[
-								["first_name"], ["last_name"]
-							],
-							[
-								["email_address", "company", "title"]
-							],
-							[["address_line_1"]],
-							[["address_line_2"]],
-							[["address_line_3"]],
-							[["country_id"]],
-							[["city"], ["state_id"], ["postal_code"]]
-						]
+						"name": "address",
+						"is_required": true
 					}
 				]
-			}
+			},
+			"sections": [
+				{
+					"fields": [
+						[
+							[
+								"first_name",
+								"last_name",
+								"email_address",
+								"company",
+								"title",
+								"address"
+							]
+						]
+					]
+				}
+			]
 		}
 	]
 }
