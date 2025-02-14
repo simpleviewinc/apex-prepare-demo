@@ -82,6 +82,104 @@
 					]
 				}
 			]
+		},
+		{
+			"title": "Form Field Test",
+			"form_type_id": "contact",
+			"is_posted_on_website":true,
+			"is_active":true,
+			"response_url":"https://simpleviewinc.com",
+			"response_text":"Check out the website for more information",
+			"is_deleted": false,
+			"fields": {
+				"docs": [
+					{
+						"configurable_field_id": "15",
+						"label": "Address",
+						"name": "address",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "14",
+						"label": "Checkboxes",
+						"name": "checkboxes",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "5",
+						"label": "Date",
+						"name": "date",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "11",
+						"label": "Dropdown",
+						"name": "dropdown",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "3",
+						"label": "Integer",
+						"name": "integer",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "8",
+						"label": "Phone",
+						"name": "phone",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "12",
+						"label": "Radio",
+						"name": "radio",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "1",
+						"label": "Text",
+						"name": "text",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "2",
+						"label": "Textarea",
+						"name": "textarea",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "10",
+						"label": "Toggle",
+						"name": "toggle",
+						"is_required": false
+					},
+					{
+						"configurable_field_id": "9",
+						"label": "URL",
+						"name": "url",
+						"is_required": false
+					}
+				]
+			},
+			"sections": [
+				{
+					"fields": [
+						[
+							[
+								"address",
+								"checkboxes",
+								"dropdown",
+								"integer",
+								"phone",
+								"radio",
+								"text",
+								"textarea",
+								"url"
+							]
+						]
+					]
+				}
+			]
 		}
 	]
 }
