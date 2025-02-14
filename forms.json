@@ -160,7 +160,26 @@
 						"is_required": false
 					}
 				]
-			}
+			},
+			"sections": [
+				{
+					"fields": [
+						[
+							[
+								"address",
+								"checkboxes",
+								"dropdown",
+								"integer",
+								"phone",
+								"radio",
+								"text",
+								"textarea",
+								"url"
+							]
+						]
+					]
+				}
+			]
 		}
 	]
 }
