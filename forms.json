@@ -134,6 +134,24 @@
 			"fields": {
 				"docs": [
 					{
+						"core_field_id": "contact.first_name",
+						"label": "First Name",
+						"name": "first_name",
+						"is_required": true
+					},
+					{
+						"core_field_id": "contact.last_name",
+						"label": "Last Name",
+						"name": "last_name",
+						"is_required": true
+					},
+					{
+						"core_field_id": "contact.email_address",
+						"label": "Email Address",
+						"name": "email_address",
+						"is_required": true
+					},
+					{
 						"configurable_field_id": "15",
 						"label": "Address",
 						"name": "address",
@@ -203,6 +221,19 @@
 			},
 			"sections": [
 				{
+					"title": "Contact",
+					"fields": [
+						[
+							[
+								"first_name",
+								"last_name",
+								"email_address"
+							]
+						]
+					]
+				},
+				{
+					"title": "Field Test",
 					"fields": [
 						[
 							[
