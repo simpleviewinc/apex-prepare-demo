@@ -54,6 +54,30 @@
 						"label": "Allow Emails",
 						"name": "is_send_email_yes_no_radio",
 						"is_required": false
+					},
+					{
+						"core_field_id": "contact.brochures",
+						"label": "Brochures",
+						"name": "brochures",
+						"is_required": false
+					},
+					{
+						"core_field_id": "contact.interests",
+						"label": "Interests",
+						"name": "interests",
+						"is_required": false
+					},
+					{
+						"core_field_id": "contact.reasons_for_visit",
+						"label": "Reasons for Visit",
+						"name": "reasons_for_visit",
+						"is_required": false
+					},
+					{
+						"core_field_id": "contact.comments",
+						"label": "Comments",
+						"name": "comments",
+						"is_required": false
 					}
 				]
 			}
