@@ -124,6 +124,18 @@
 			"label": "Checkboxes Field"
 		},
 		{
+			"configurable_field_id": "16",
+			"module": "contacts",
+			"name": "email",
+			"label": "Email Field"
+		},
+		{
+			"configurable_field_id": "17",
+			"module": "contacts",
+			"name": "yes_no_radio",
+			"label": "Yes/No Radio"
+		},
+		{
 			"configurable_field_id": "1",
 			"module": "accommodation_facilities",
 			"name": "text",
