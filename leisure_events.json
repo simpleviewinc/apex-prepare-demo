@@ -11,7 +11,7 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at": "2024-01-05T07:00:00.000Z",
+						"start_date_at": "2025-06-05T07:00:00.000Z",
 						"start_time": "17:00",
 						"end_time": "18:00"
 					}
@@ -32,11 +32,11 @@
 					{
 						"count": null,
 						"days_ids": ["friday"],
-						"end_date_at": "2024-06-19T07:00:00.000Z",
+						"end_date_at": "2025-06-19T07:00:00.000Z",
 						"interval": 2,
 						"end_option_id": "date",
 						"frequency_id": "weekly",
-						"start_date_at": "2024-01-12T07:00:00.000Z",
+						"start_date_at": "2025-01-12T07:00:00.000Z",
 						"start_time": "19:00",
 						"end_time": "20:00"
 					}
@@ -69,7 +69,7 @@
 						"interval": 1,
 						"end_option_id": "occurrences",
 						"frequency_id": "weekly",
-						"start_date_at": "2024-01-05T07:00:00.000Z",
+						"start_date_at": "2025-01-05T07:00:00.000Z",
 						"start_time": "14:00",
 						"end_time": "17:00"
 					}
@@ -79,8 +79,8 @@
 			"offers": { "set": "2" },
 			"phone": "+15205751151",
 			"rank": { "set": "1" },
-			"post_from_at": "2024-01-18T07:00:00.000Z",
-			"post_to_at": "2024-01-21T07:00:00.000Z",
+			"post_from_at": "2025-01-18T07:00:00.000Z",
+			"post_to_at": "2025-01-21T07:00:00.000Z",
 			"social_facebook": "4thstreetmarket",
 			"social_instagram": "4thstreetmarket",
 			"social_tiktok": "@4thstreetmarket",
@@ -98,14 +98,14 @@
 			"account": { "set": "2" },
 			"categories": { "set": ["1", "2", "5"] },
 			"channels": { "set": ["1"] },
-			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM",
+			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nMonday, December 8, 4:00 PM to 6:00 PM",
 			"date_rule_sets": {
 				"docs": [
 					{
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at": "2024-03-08T07:00:00.000Z",
+						"start_date_at": "2025-12-08T07:00:00.000Z",
 						"start_time": "04:00",
 						"end_time": "18:00"
 					},
@@ -113,9 +113,9 @@
 						"interval": 1,
 						"end_option_id": null,
 						"frequency_id": "daily",
-						"start_date_at": "2024-03-09T07:00:00.000Z",
+						"start_date_at": "2025-12-09T07:00:00.000Z",
 						"start_time": "10:00",
-						"end_date_at": "2024-06-09T07:00:00.000Z",
+						"end_date_at": "2026-02-09T07:00:00.000Z",
 						"end_time": "16:00"
 					}
 				]
@@ -132,21 +132,21 @@
 			"email": "arts@desertmuseum.org",
 			"phone": "+15205751151",
 			"rank": { "set": "1" },
-			"post_from_at": "2024-03-01T07:00:00.000Z"			
+			"post_from_at": "2025-03-01T07:00:00.000Z"			
 		},
 		{
 			"account": { "set": "2" },
 			"admission": "$45. Adults, Youth $25",
 			"categories": { "set": ["2", "7"] },
 			"channels": { "set": ["1","7"] },
-			"description": "The Amerind Museum presents the 5th Annual Texas Canyon Mountain Bike Race.  Saturday, May 18, 2024 is your opportunity to enjoy this awe-inspiring region that is normally closed to bikes. Experience mountain biking at its best on a course that takes you on one or two 7.9-mile loops through spectacular Texas Canyon. \n\nOpen to ages 12-99, participants may select from three event options, including a non-competitive e-bike course.  Awards will be given to overall Male and Female winners in both races and 1st through 3rd Place Male and Female in each race division.  Awards will not be given in the non-competitive e-bike division.\n\nRace Divisions: Jr Male/Female 12-19, Male/Female 20-59, Male/Female 60+\n\nAfter the awards ceremony simply show your bike plate number or free guest passes to the admissions desk for free entry into the Amerind Museum, Art Gallery and, Nature Preserve hiking trails included with registration.  Make a day of it!\n\nParticipation in the event enables Amerind to further its mission of fostering and promoting knowledge and understanding of the Native Peoples of the Americas through research, education, conservation, and community engagement.\n\nThe race starts at 7:30 am. for the 2 lap (15.8 mile) division and 7:40 am for the 1 lap (7.9 mile) division. E-bikes will start at 7:45 am - AFTER all competitive riders have cleared the start line.\n",
+			"description": "The Amerind Museum presents the 5th Annual Texas Canyon Mountain Bike Race.  Saturday, May 18, 2025 is your opportunity to enjoy this awe-inspiring region that is normally closed to bikes. Experience mountain biking at its best on a course that takes you on one or two 7.9-mile loops through spectacular Texas Canyon. \n\nOpen to ages 12-99, participants may select from three event options, including a non-competitive e-bike course.  Awards will be given to overall Male and Female winners in both races and 1st through 3rd Place Male and Female in each race division.  Awards will not be given in the non-competitive e-bike division.\n\nRace Divisions: Jr Male/Female 12-19, Male/Female 20-59, Male/Female 60+\n\nAfter the awards ceremony simply show your bike plate number or free guest passes to the admissions desk for free entry into the Amerind Museum, Art Gallery and, Nature Preserve hiking trails included with registration.  Make a day of it!\n\nParticipation in the event enables Amerind to further its mission of fostering and promoting knowledge and understanding of the Native Peoples of the Americas through research, education, conservation, and community engagement.\n\nThe race starts at 7:30 am. for the 2 lap (15.8 mile) division and 7:40 am for the 1 lap (7.9 mile) division. E-bikes will start at 7:45 am - AFTER all competitive riders have cleared the start line.\n",
 			"date_rule_sets": {
 				"docs": [
 					{
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at": "2024-05-18T07:00:00.000Z",
+						"start_date_at": "2025-05-18T07:00:00.000Z",
 						"start_time": "07:30",
 						"end_time": "11:00"
 					}
@@ -162,7 +162,7 @@
 			"email": "mohnesorgen@amerind.org",
 			"phone": "+15206861336",
 			"rank": { "set": "2" },
-			"post_from_at": "2024-03-01T07:00:00.000Z",
+			"post_from_at": "2025-03-01T07:00:00.000Z",
 			"purchase_tickets": "https://bit.ly/TCMBR24",
 			"doors_open": "07:30"			
 		},
@@ -170,7 +170,7 @@
 			"account": { "set": "28"},
 			"categories": { "set": ["3"] },
 			"title": "Arizona Renaissance Festival",
-			"description":"Don't miss Raucous Revelry at the 36th Annual Arizona Renaissance Festival Opening February 4!</p><p>The Festival is a medieval amusement park, a 16-stage theater, a 50-acre circus, an arts and crafts fair, a jousting tournament and a feast -- all rolled into one non-stop, day-long adventure. You never know what you will find on or off the stage! This unique outdoor event combines entertainment and wares reminiscent of what may have been found in a 16th Century European village market celebrating the arrival of the King and Queen to their shire. Walk through our gates to be transported back in time. Mingle with over 2,000 costumed characters, eat a giant roasted turkey leg; take part in games of chance and skill; cheer on your favorite knight; Shop in over 200 artisan shops and select an inimitable gift for that special someone; there is so much to see and do. Eat Drink and be Merry is the order of the day at the Village of Fairhaven.The Arizona Renaissance Festival is open Saturdays and Sundays Feb. 3– Mar. 31and Presidents' Day Monday, Feb. 19. Just East of Apache Junction, on U.S. Highway 60! Arizona.RenFestInfo.com HUZZAH!",
+			"description":"Don't miss Raucous Revelry at the 36th Annual Arizona Renaissance Festival Opening August 2!</p><p>The Festival is a medieval amusement park, a 16-stage theater, a 50-acre circus, an arts and crafts fair, a jousting tournament and a feast -- all rolled into one non-stop, day-long adventure. You never know what you will find on or off the stage! This unique outdoor event combines entertainment and wares reminiscent of what may have been found in a 16th Century European village market celebrating the arrival of the King and Queen to their shire. Walk through our gates to be transported back in time. Mingle with over 2,000 costumed characters, eat a giant roasted turkey leg; take part in games of chance and skill; cheer on your favorite knight; Shop in over 200 artisan shops and select an inimitable gift for that special someone; there is so much to see and do. Eat Drink and be Merry is the order of the day at the Village of Fairhaven.The Arizona Renaissance Festival is open Saturdays and Sundays Aug. 2– Sep. 28 Just East of Apache Junction, on U.S. Highway 60! Arizona.RenFestInfo.com HUZZAH!",
 			"weburl": "http://arizona.renfestinfo.com/",
 			"email":"arizonarenfest@renfestinfo.com",
 			"phone":"+15204632600",
@@ -182,8 +182,8 @@
 						"end_option_id": "date",
 						"frequency_id": "weekly",
 						"days_ids": ["saturday","sunday"],
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-08-02T07:00:00.000Z",
+						"end_date_at":"2025-09-28T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"18:00"
 					}
@@ -210,8 +210,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-05T07:00:00.000Z",
-						"end_date_at":"2024-02-11T07:00:00.000Z",
+						"start_date_at":"2025-08-05T07:00:00.000Z",
+						"end_date_at":"2025-08-11T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -228,7 +228,7 @@
 			"account": { "set": "6"},
 			"categories": { "set": ["3","4","5"] },
 			"title": "Glendale Chocolate Affaire",
-			"description":" The Chocolate Affaire is the premiere event for chocolate lovers everywhere on February 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun.",
+			"description":" The Chocolate Affaire is the premiere event for chocolate lovers everywhere on August 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun.",
 			"weburl": "https://thechocolateaffaire.com/",
 			"admission":"Free",
 			"doors_open":"10:00:00",
@@ -238,8 +238,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-08-17T07:00:00.000Z",
+						"end_date_at":"2025-08-18T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -255,7 +255,7 @@
 			"account": { "set": "49"},
 			"categories": { "set": ["3","7"] },
 			"title": "69th Annual Scottsdale Arabian Horse Show",
-			"description":"The Arabian Horse Association of Arizona (AHAA) is excited to announce the return of the 69th annual Scottsdale Arabian Horse Show at WestWorld of Scottsdale. The world’s largest Arabian horse show will run from Thursday, Feb. 15 through Sunday, Feb. 25, 2023, featuring the world’s best Arabians, exciting competitions, a shopping expo and more.",
+			"description":"The Arabian Horse Association of Arizona (AHAA) is excited to announce the return of the 69th annual Scottsdale Arabian Horse Show at WestWorld of Scottsdale. The world’s largest Arabian horse show will run from Friday, Aug. 15 through Monday, Aug. 25, 2025, featuring the world’s best Arabians, exciting competitions, a shopping expo and more.",
 			"weburl": "https://www.scottsdaleshow.com",
 			"phone":"+14805151500",
 			"admission":"GA: $15, Seniors: $10, 12 and under: Free.",
@@ -266,8 +266,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-15T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-08-15T07:00:00.000Z",
+						"end_date_at":"2025-08-25T07:00:00.000Z",
 						"start_time": "08:00",
 						"end_time":"17:00"
 					}
@@ -295,8 +295,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-08T07:00:00.000Z",
-						"end_date_at":"2024-03-10T07:00:00.000Z",
+						"start_date_at":"2025-12-08T07:00:00.000Z",
+						"end_date_at":"2025-12-10T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:30"
 					}
@@ -323,8 +323,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-09-17T07:00:00.000Z",
+						"end_date_at":"2025-09-18T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"17:00"
 					}
@@ -342,7 +342,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["1","3","5"] },
 			"title": "34th Annual Chinese Culture & Cuisine Festival",
-			"description":"Kick off the Lunar New Year at the 34th annual Phoenix Chinese Week Culture and Cuisine Festival, February 3-4, 2024. This FREE two-day festival offers something for everyone.Enjoy continuous live entertainment including Dragon and Lion Dances, Folk Dances, Musical and Cultural Performances, Tai Chi and Martial Arts Demonstrations. Sample a variety of delicious Asian food from our food trucks and food vendors, chill out at our Beer Garden, shop interesting items from our merchandise vendors, check out our Koi and other exhibits, and participate in our many hands-on activities. Kids will have fun at the arts and crafts and the Children’s play area. Test your skill using chopsticks, take a selfie in full traditional Chinese costume, play a game of Mahjong, learn how to use the abacus, try a Chinese Yo-yo, have your English name translated into Chinese characters and much more!We look forward to connecting with old friends and meeting new ones!",
+			"description":"Kick off the Lunar New Year at the 34th annual Phoenix Chinese Week Culture and Cuisine Festival, September 3-4, 2025. This FREE two-day festival offers something for everyone.Enjoy continuous live entertainment including Dragon and Lion Dances, Folk Dances, Musical and Cultural Performances, Tai Chi and Martial Arts Demonstrations. Sample a variety of delicious Asian food from our food trucks and food vendors, chill out at our Beer Garden, shop interesting items from our merchandise vendors, check out our Koi and other exhibits, and participate in our many hands-on activities. Kids will have fun at the arts and crafts and the Children’s play area. Test your skill using chopsticks, take a selfie in full traditional Chinese costume, play a game of Mahjong, learn how to use the abacus, try a Chinese Yo-yo, have your English name translated into Chinese characters and much more!We look forward to connecting with old friends and meeting new ones!",
 			"weburl": "http://www.phoenixchineseweek.org/",
 			"email":"phoenixchineseweek@gmail.com",
 			"phone":"+14804067470",
@@ -353,8 +353,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-02-04T07:00:00.000Z",
+						"start_date_at":"2025-09-03T07:00:00.000Z",
+						"end_date_at":"2025-09-04T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -371,7 +371,7 @@
 			"account": { "set": "6"},
 			"categories": { "set": ["3","4"] },
 			"title": "Devour Culinary Classic",
-			"description":" Local First Arizona’s 15th annual Devour Culinary Classic, the most anticipated tasting event of the year, will impress even the most skeptical of diners with its luscious eclectic fare Feb. 24-25, 2024.Desert Botanical Garden and Southern Arizona Arts and Culture Alliance are partnering with Local First Arizona to assemble a panoply of the most creative and indulgent chefs, sommeliers, cicerones and other food and drink purveyors Arizona has to offer.More than 70 food and beverage businesses will participate, including as many as 25 sought-after restaurateurs each day.Members of Local First Arizona, the Garden and SAACA will receive the first opportunity to purchase tickets Oct. 27-Nov. 2 at devourphoenix.com. Tickets go on sale to the public Nov. 3. (Must be 21+ to purchase.) Last year, tickets sold out in three weeks, so don’t wait!",
+			"description":" Local First Arizona’s 15th annual Devour Culinary Classic, the most anticipated tasting event of the year, will impress even the most skeptical of diners with its luscious eclectic fare Sep. 24-25, 2025.Desert Botanical Garden and Southern Arizona Arts and Culture Alliance are partnering with Local First Arizona to assemble a panoply of the most creative and indulgent chefs, sommeliers, cicerones and other food and drink purveyors Arizona has to offer.More than 70 food and beverage businesses will participate, including as many as 25 sought-after restaurateurs each day.Members of Local First Arizona, the Garden and SAACA will receive the first opportunity to purchase tickets Oct. 27-Nov. 2 at devourphoenix.com. Tickets go on sale to the public Nov. 3. (Must be 21+ to purchase.) Last year, tickets sold out in three weeks, so don’t wait!",
 			"weburl": "https://www.devourphoenix.com/",
 			"admission":"$150-$225",
 			"doors_open":"11:30:00",
@@ -381,8 +381,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-24T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-09-24T07:00:00.000Z",
+						"end_date_at":"2025-09-25T07:00:00.000Z",
 						"start_time": "11:30",
 						"end_time":"15:30"
 					}
@@ -400,7 +400,7 @@
 			"account": { "set": "6"},
 			"categories": { "set": ["3","4"] },
 			"title": "Spring Arizona Restaurant Week",
-			"description":"Get ready to spice up your dining life during Arizona Restaurant Week. We’re serving up a state-sized plate of choices, from sizzling Southwestern flavors and your favorite comfort food to luxe dining experiences and flavors from around the globe. We hope you’re hungry!The list of restaurants and their menus will be unveiled by May 1, 2024.Remember, our local restaurants need our love more than ever. Dine in, grab take out, or order delivery – every bit helps our favorite restaurants keep the lights on and their amazing teams working.",
+			"description":"Get ready to spice up your dining life during Arizona Restaurant Week. We’re serving up a state-sized plate of choices, from sizzling Southwestern flavors and your favorite comfort food to luxe dining experiences and flavors from around the globe. We hope you’re hungry!The list of restaurants and their menus will be unveiled by May 1, 2025.Remember, our local restaurants need our love more than ever. Dine in, grab take out, or order delivery – every bit helps our favorite restaurants keep the lights on and their amazing teams working.",
 			"weburl": "http://arizonarestaurantweek.com/",
 			"phone":"+16023079134",
 			"date_rule_sets": {
@@ -409,8 +409,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-05-17T07:00:00.000Z",
-						"end_date_at":"2024-05-26T07:00:00.000Z",
+						"start_date_at":"2025-05-17T07:00:00.000Z",
+						"end_date_at":"2025-05-26T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -437,8 +437,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-16T07:00:00.000Z",
-						"end_date_at":"2024-03-17T07:00:00.000Z",
+						"start_date_at":"2025-12-16T07:00:00.000Z",
+						"end_date_at":"2025-12-17T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -466,8 +466,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-13T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-01-13T07:00:00.000Z",
+						"end_date_at":"2025-03-24T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"18:00"
 					}
@@ -495,8 +495,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-22T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-12-22T07:00:00.000Z",
+						"end_date_at":"2025-12-24T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -524,8 +524,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-19T07:00:00.000Z",
-						"end_date_at":"2024-01-21T07:00:00.000Z",
+						"start_date_at":"2025-01-19T07:00:00.000Z",
+						"end_date_at":"2025-01-21T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -553,8 +553,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-16T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-09-16T07:00:00.000Z",
+						"end_date_at":"2025-09-18T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -582,8 +582,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-24T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-09-24T07:00:00.000Z",
+						"end_date_at":"2025-09-25T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -599,7 +599,7 @@
 			"account": { "set": "28"},
 			"categories": { "set": ["1","3","5"] },
 			"title": "70th Annual Parada del Sol Parade",
-			"description":"The Scottsdale Charros have just announced exciting information about the 70th Annual Scottsdale Parada Del Sol Historic Parade and Trail’s End Festival — including dates, theme and Grand Marshal. The parade and festival are scheduled to take place throughout Old Town Scottsdale on Saturday, Feb. 3, 2024, beginning with the parade at 10 a.m., with the festival following from noon to 4 p.m.Scottsdale’s own, Oliver Smith Jewelers is this year’s presenting sponsor. This year’s theme 70 Years and Still Groovin’, the Western Cool Vibe, will honor the event as it enters its seventh decade and Barry Goldwater Jr. will serve as Grand Marshal of the festivities. The Scottsdale Parada Del Sol Historic Parade follows a route from Drinkwater Blvd. along Scottsdale Rd. and culminates at Brown Ave. and Indian School Rd. Following the traditional parade, the Trail’s End Festival takes over Scottsdale’s Old Town Historic District for a huge 70s-style block party.We are thrilled that the community continues to embrace the parade and festival as one of the area’s most cherished events, says Chris Chrissy Lyman, president of the Parade Committee for over 40 years of volunteerism with the committee. With the help of the Scottsdale Charros, we look forward to continuing this beloved time-honored tradition for many more years in the future.The Scottsdale Parada Del Sol Historic Parade is one of the longest-running community events in the city with the help of a core group of community volunteers with lifelong experiences of watching and participating in the event. The Scottsdale Charros have been riding in the parade for nearly as long as it has been in existence.When taking on management of the parade in 2021, the Scottsdale Charros committed to making the parade even bigger and better in an effort to be able to raise as much money as possible for the community. The Charros credit the hard work the Parada del Sol Committee, which is made up of volunteers who are dedicated to creating a safe, fun, vibrant community-minded event year after year.Long before its 10 a.m. kick off time, crowds gather along the route to watch the parade’s many floats and participants go by — including approximately 150 entries of colorful floats, mounted horse-riders, horse-drawn carriage, school marching bands, wagons and stagecoaches representing many cultures from Mexican to Native American to Arabian to Western.The Trail’s End Festival takes place immediately following the parade. For this one-of-a-kind daylong street party, Scottsdale’s Historic Old Town District is transformed into a massive family friendly festival featuring a kids’ zone, food trucks, beverage vendors, merchandise, arts and crafts booth and multiple stages with live entertainment including concerts from today’s popular bands as well as traditional performers. Much like the parade, the theme of 70 Years and Still Groovin’, the Western Cool Vibe, will carry through the Trail’s End Festival.Additional event details and complete entertainment lineup will be available soon via scottsdaleparade.com for more information.",
+			"description":"The Scottsdale Charros have just announced exciting information about the 70th Annual Scottsdale Parada Del Sol Historic Parade and Trail’s End Festival — including dates, theme and Grand Marshal. The parade and festival are scheduled to take place throughout Old Town Scottsdale on Wednesday, Sep. 3, 2025, beginning with the parade at 10 a.m., with the festival following from noon to 4 p.m.Scottsdale’s own, Oliver Smith Jewelers is this year’s presenting sponsor. This year’s theme 70 Years and Still Groovin’, the Western Cool Vibe, will honor the event as it enters its seventh decade and Barry Goldwater Jr. will serve as Grand Marshal of the festivities. The Scottsdale Parada Del Sol Historic Parade follows a route from Drinkwater Blvd. along Scottsdale Rd. and culminates at Brown Ave. and Indian School Rd. Following the traditional parade, the Trail’s End Festival takes over Scottsdale’s Old Town Historic District for a huge 70s-style block party.We are thrilled that the community continues to embrace the parade and festival as one of the area’s most cherished events, says Chris Chrissy Lyman, president of the Parade Committee for over 40 years of volunteerism with the committee. With the help of the Scottsdale Charros, we look forward to continuing this beloved time-honored tradition for many more years in the future.The Scottsdale Parada Del Sol Historic Parade is one of the longest-running community events in the city with the help of a core group of community volunteers with lifelong experiences of watching and participating in the event. The Scottsdale Charros have been riding in the parade for nearly as long as it has been in existence.When taking on management of the parade in 2021, the Scottsdale Charros committed to making the parade even bigger and better in an effort to be able to raise as much money as possible for the community. The Charros credit the hard work the Parada del Sol Committee, which is made up of volunteers who are dedicated to creating a safe, fun, vibrant community-minded event year after year.Long before its 10 a.m. kick off time, crowds gather along the route to watch the parade’s many floats and participants go by — including approximately 150 entries of colorful floats, mounted horse-riders, horse-drawn carriage, school marching bands, wagons and stagecoaches representing many cultures from Mexican to Native American to Arabian to Western.The Trail’s End Festival takes place immediately following the parade. For this one-of-a-kind daylong street party, Scottsdale’s Historic Old Town District is transformed into a massive family friendly festival featuring a kids’ zone, food trucks, beverage vendors, merchandise, arts and crafts booth and multiple stages with live entertainment including concerts from today’s popular bands as well as traditional performers. Much like the parade, the theme of 70 Years and Still Groovin’, the Western Cool Vibe, will carry through the Trail’s End Festival.Additional event details and complete entertainment lineup will be available soon via scottsdaleparade.com for more information.",
 			"weburl": "https://scottsdaleparade.com/",
 			"admission":"Free",
 			"doors_open":"10:00:00",
@@ -609,8 +609,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-02-03T07:00:00.000Z",
+						"start_date_at":"2025-09-03T07:00:00.000Z",
+						"end_date_at":"2025-09-03T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"16:00"
 					}
@@ -638,8 +638,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-27T07:00:00.000Z",
-						"end_date_at":"2024-01-27T07:00:00.000Z",
+						"start_date_at":"2025-01-27T07:00:00.000Z",
+						"end_date_at":"2025-01-27T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"15:00"
 					}
@@ -667,8 +667,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-23T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-12-23T07:00:00.000Z",
+						"end_date_at":"2025-12-24T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"18:00"
 					}
@@ -698,8 +698,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-02T07:00:00.000Z",
-						"end_date_at":"2024-02-04T07:00:00.000Z",
+						"start_date_at":"2025-09-02T07:00:00.000Z",
+						"end_date_at":"2025-09-04T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -729,8 +729,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-15T07:00:00.000Z",
-						"end_date_at":"2024-03-17T07:00:00.000Z",
+						"start_date_at":"2025-12-15T07:00:00.000Z",
+						"end_date_at":"2025-12-17T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -758,8 +758,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-02T07:00:00.000Z",
-						"end_date_at":"2024-03-02T07:00:00.000Z",
+						"start_date_at":"2025-12-02T07:00:00.000Z",
+						"end_date_at":"2025-12-02T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -777,7 +777,7 @@
 			"account": { "set": "4"},
 			"categories": { "set": ["3","4"] },
 			"title": "16th Annual Barbeque and Beer Festival",
-			"description":"Celebrating over a decade of delicious family fun in Chandler, the Original Barbeque & Beer Festival returns on Saturday, March 30, 2024, from noon –10 p.m.With over 30 BBQ pit masters, beer, spirits and novelty food items, the annual event will offer a full day of great music, family entertainment and finger licking good food with amazing crafted drinks to wash it all down.In addition to the endless meal offerings and entertainment, this event will feature Lumberjack shows, Kid’s Zone, a massive 6,500sq ft. March Madness Sports Bar with giant screens to view all of March Madness action and much more…An expanded VIP area includes catered BBQ, private bars, shaded areas, standing pit access in front of the stage, restroom suites, VIP exclusive entertainment, soft seating, fire pits and a commemorative lanyard.",
+			"description":"Celebrating over a decade of delicious family fun in Chandler, the Original Barbeque & Beer Festival returns on Tuesday, December 30, 2025, from noon –10 p.m.With over 30 BBQ pit masters, beer, spirits and novelty food items, the annual event will offer a full day of great music, family entertainment and finger licking good food with amazing crafted drinks to wash it all down.In addition to the endless meal offerings and entertainment, this event will feature Lumberjack shows, Kid’s Zone, a massive 6,500sq ft. March Madness Sports Bar with giant screens to view all of March Madness action and much more…An expanded VIP area includes catered BBQ, private bars, shaded areas, standing pit access in front of the stage, restroom suites, VIP exclusive entertainment, soft seating, fire pits and a commemorative lanyard.",
 			"weburl": "https://forty8live.com/chandlerbbq/",
 			"phone":"+16022762499",
 			"doors_open":"12:00:00",
@@ -787,8 +787,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-30T07:00:00.000Z",
-						"end_date_at":"2024-03-30T07:00:00.000Z",
+						"start_date_at":"2025-12-30T07:00:00.000Z",
+						"end_date_at":"2025-12-30T07:00:00.000Z",
 						"start_time": "12:00",
 						"end_time":"22:00"
 					}
@@ -806,7 +806,7 @@
 			"account": { "set": "28"},
 			"categories": { "set": ["1","3"] },
 			"title": "41st Annual St. Patrick's Day Parade and Faire",
-			"description":"The 41st Annual St. Patrick’s Day Parade in Phoenix, AZ will take place on March 16th, 2024 at 10 a.m.! The Parade takes place in Downtown Phoenix, going down 3rd street from Oak St. to Margaret T Hance Park.At the Faire you will find local and traditional St. Patrick’s Day meals. The Faire hosts delicious corned beef and cabbage available for those looking for the traditional meal. For those saving the traditional cuisine for family dinner, we have diverse food options from Arizona local vendors. There are pubs throughout the faire with Irish Beer and Buskers Irish Whiskey. The Faire provides Irish entertainment throughout the day with Irish dancing, Irish music, and more!Explore & celebrate Irish traditions, the Irish Cultural Center, and the Irish community in Arizona!",
+			"description":"The 41st Annual St. Patrick’s Day Parade in Phoenix, AZ will take place on March 16th, 2025 at 10 a.m.! The Parade takes place in Downtown Phoenix, going down 3rd street from Oak St. to Margaret T Hance Park.At the Faire you will find local and traditional St. Patrick’s Day meals. The Faire hosts delicious corned beef and cabbage available for those looking for the traditional meal. For those saving the traditional cuisine for family dinner, we have diverse food options from Arizona local vendors. There are pubs throughout the faire with Irish Beer and Buskers Irish Whiskey. The Faire provides Irish entertainment throughout the day with Irish dancing, Irish music, and more!Explore & celebrate Irish traditions, the Irish Cultural Center, and the Irish community in Arizona!",
 			"weburl": "https://stpatricksdayphoenix.org/",
 			"phone":"+16022580109",
 			"admission":"GA: $15 | Seniors & Military: $12 | Kids 12 & Under: Free",
@@ -817,8 +817,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-16T07:00:00.000Z",
-						"end_date_at":"2024-03-16T07:00:00.000Z",
+						"start_date_at":"2025-03-16T07:00:00.000Z",
+						"end_date_at":"2025-03-16T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -844,8 +844,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-02T07:00:00.000Z",
-						"end_date_at":"2024-03-03T07:00:00.000Z",
+						"start_date_at":"2025-12-02T07:00:00.000Z",
+						"end_date_at":"2025-12-03T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -871,8 +871,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-05-12T07:00:00.000Z",
-						"end_date_at":"2024-05-12T07:00:00.000Z",
+						"start_date_at":"2025-05-12T07:00:00.000Z",
+						"end_date_at":"2025-05-12T07:00:00.000Z",
 						"start_time": "15:00",
 						"end_time":"19:00"
 					}
@@ -898,8 +898,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-02-03T07:00:00.000Z",
+						"start_date_at":"2025-06-03T07:00:00.000Z",
+						"end_date_at":"2025-06-03T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"18:00"
 					}
@@ -916,7 +916,7 @@
 			"categories": { "set": ["3","4"] },
 			"title": "Arizona Strong Beer Festival",
 			"description":"Mark your calendars because the Arizona Strong Beer Festival is back! Be ready to see your favorite breweries again, explore new brews, and enjoy a fun filled day with friends and family at the iconic STRONG BEER FESTIVAL.",
-			"weburl": "https://chooseazbrews.com/strong-beer-festival-2024/",
+			"weburl": "https://chooseazbrews.com/strong-beer-festival-2025/",
 			"admission":"$20-70",
 			"date_rule_sets": {
 				"docs": [
@@ -924,8 +924,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-17T07:00:00.000Z",
+						"start_date_at":"2025-06-17T07:00:00.000Z",
+						"end_date_at":"2025-06-17T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -942,7 +942,7 @@
 			"account": { "set": "3"},
 			"categories": { "set": ["1","3"] },
 			"title": "Worldwide Women's Film Festival",
-			"description":"The Worldwide Women's Film Festival is supporting women in film by educating, and empowering women in the collaborative endeavor of filmmaking while we shine a light on women's stories and other diverse experiences across all genders. Festival runs March 8 - 10, 2024",
+			"description":"The Worldwide Women's Film Festival is supporting women in film by educating, and empowering women in the collaborative endeavor of filmmaking while we shine a light on women's stories and other diverse experiences across all genders. Festival runs October 8 - 10, 2025",
 			"weburl": "https://wwfilmfestival.org/",
 			"email":"worldwidewomensfilmfestival@gmail.com",
 			"phone":"+16025253012",
@@ -954,8 +954,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-08T07:00:00.000Z",
-						"end_date_at":"2024-03-10T07:00:00.000Z",
+						"start_date_at":"2025-10-08T07:00:00.000Z",
+						"end_date_at":"2025-10-10T07:00:00.000Z",
 						"start_time": "18:00"
 					}
 				]
@@ -971,7 +971,7 @@
 		{
 			"account": { "set": "47"},
 			"categories": { "set": ["1"] },
-			"title": "Game On Expo 2023",
+			"title": "Game On Expo 2025",
 			"description":"Game On Expo is a multimedia gaming and anime event that began in 2015, and is the largest gaming convention in Arizona. It's an event that celebrates gaming, anime, music, and more!Whether you're a hardcore or casual gamer and/or anime fan, there is something for everyone at Game On Expo. Our mission is to bring the G.A.M.E. (Gaming, Anime, Music, Esports) to Arizona. We are locally owned, and we are passionate about bringing a fun and family friendly event to Arizona.",
 			"weburl": "https://www.gameonexpo.com/",
 			"admission":"$34.99-$199.99",
@@ -981,8 +981,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-15T07:00:00.000Z",
-						"end_date_at":"2024-03-17T07:00:00.000Z",
+						"start_date_at":"2025-10-15T07:00:00.000Z",
+						"end_date_at":"2025-10-17T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1009,8 +1009,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-02T07:00:00.000Z",
-						"end_date_at":"2024-03-02T07:00:00.000Z",
+						"start_date_at":"2025-10-02T07:00:00.000Z",
+						"end_date_at":"2025-10-02T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -1025,9 +1025,9 @@
 		{
 			"account": { "set": "28"},
 			"categories": { "set": ["1","7"] },
-			"title": "Barrett-Jackson Fall 2024 Scottsdale Auction",
+			"title": "Barrett-Jackson Fall 2025 Scottsdale Auction",
 			"description":"For more than five decades, enthusiasts from all over the world have flocked to Barrett-Jackson, The World’s Greatest Collector Car Auctions, named America’s No.1 Attraction for Car Lovers in an USA Today Readers’ Choice Contest. Widely regarded as a barometer of the collector car industry, the auctions have evolved over the years into world-class automotive lifestyle events where thousands of the world’s most sought-after, unique and valuable automobiles cross the block in front of a global audience ‒ in-person, on live television and streaming. Barrett-Jackson produces events in Scottsdale, Arizona; Palm Beach, Florida; Las Vegas, Nevada and New Orleans, Louisiana. In addition to the millions watching the events via live television coverage on FYI and HISTORY, over 500,000 people are in attendance at all four auctions, looking to witness auction action at its best, capture the car of their dreams, mingle with celebrities, experience adrenaline-pumping thrill rides in the latest vehicles from America’s top automakers and shop in the vast Exhibitor Marketplace.",
-			"weburl": "https://www.barrett-jackson.com/Events/Event/Home/ScottsdaleFall-2024/4405093e-b600-4518-b578-aab00aef133d",
+			"weburl": "https://www.barrett-jackson.com/Events/Event/Home/ScottsdaleFall-2025/4405093e-b600-4518-b578-aab00aef133d",
 			"email":"information@barrett-jackson.com",
 			"phone":"+14804216694",
 			"admission":"General Admission: $25-$85, Discounted tickets available online in advance. Other discounts offered for Senior, Military, Student and First Responder tickets.",
@@ -1038,8 +1038,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-10-10T07:00:00.000Z",
-						"end_date_at":"2024-10-13T07:00:00.000Z",
+						"start_date_at":"2025-10-10T07:00:00.000Z",
+						"end_date_at":"2025-10-13T07:00:00.000Z",
 						"start_time": "08:00"
 					}
 				]
@@ -1056,7 +1056,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["3","4"] },
 			"title": "12th Annual Arizona Cocktail Weekend",
-			"description":"The longest-running cocktail event in the Southwest, Arizona Cocktail Weekend, is returning to the greater Phoenix area for its 12th year on February 16 and running through February 19, 2024. The four-day schedule will boast a variety of events, including exclusive tastings, expert-led seminars and can’t-miss cocktail events, in addition to three signature events, The Cocktail Carnival, Top Bars, and Last Slinger Standing. The events are spread out over various venues, including hotels and bars around the Valley, though most take place in downtown Phoenix.Kicking off the exciting weekend is The Cocktail Carnival, taking place on Saturday, February 17, at the Walter Where? House in Downtown Phoenix. This whimsical, circus-like event will showcase innovative and immersive light and sound displays, while guests enjoy unique cocktails, art shows and circus performances from Walter Productions, with DJ Nu-Mark as the event’s headliner. Each cocktail is curated to pair with select performances crafted from some of the best spirits brands from around the globe. Following the Carnival is Top Bars on Sunday, February 17, at Warehouse 215. The annual cocktail tasting event is a fan-favorite showstopper, with over 40 of the world’s best cocktail bars traveling to Downtown Phoenix as pop-ups, sharing some of their most popular signature cocktails. Some establishments are trekking all the way from London, Japan, and Hong Kong. Top Bars has been headlined by the best bars from around the world—previous years’ guests include Double Chicken Please from New York; Penicillin from Hong Kong; Analogue from Singapore; and Coupette from London, to name a few.Watch as Arizona’s top mixologists battle it out on Monday, February 18, at The Last Slinger Standing competition, at the event space at Republic National Distilling Company (RNDC). This bartending competition pits 16 of Arizona’s best mixologists against each other in head-to-head battles. Each round features secret ingredients, judged by a panel of renowned cocktail experts from around the world, until the the last slinger is remaining, and takes the trophy for 2024.Tickets for Arizona Cocktail Weekend start at $50, depending on the event and date of purchase.The 12th annual Arizona Cocktail Weekend is returning in 2024, running from February 16 through February 19, 2024, in Downtown Phoenix and beyond. The weekend is the longest-running cocktail event in the Southwest, with five days of exciting events, including tastings from pop-ups of global bars, a cocktail carnival, educational seminars, cocktail competitions, and much more to help you celebrate some of your favorite spirits and cocktails. To learn more about Arizona Cocktail Weekend or to purchase tickets, visit arizonacocktailweekend.com.",
+			"description":"The longest-running cocktail event in the Southwest, Arizona Cocktail Weekend, is returning to the greater Phoenix area for its 12th year on June 16 and running through June 19, 2025. The four-day schedule will boast a variety of events, including exclusive tastings, expert-led seminars and can’t-miss cocktail events, in addition to three signature events, The Cocktail Carnival, Top Bars, and Last Slinger Standing. The events are spread out over various venues, including hotels and bars around the Valley, though most take place in downtown Phoenix.Kicking off the exciting weekend is The Cocktail Carnival, taking place on Saturday, June 17, at the Walter Where? House in Downtown Phoenix. This whimsical, circus-like event will showcase innovative and immersive light and sound displays, while guests enjoy unique cocktails, art shows and circus performances from Walter Productions, with DJ Nu-Mark as the event’s headliner. Each cocktail is curated to pair with select performances crafted from some of the best spirits brands from around the globe. Following the Carnival is Top Bars on Sunday, June 17, at Warehouse 215. The annual cocktail tasting event is a fan-favorite showstopper, with over 40 of the world’s best cocktail bars traveling to Downtown Phoenix as pop-ups, sharing some of their most popular signature cocktails. Some establishments are trekking all the way from London, Japan, and Hong Kong. Top Bars has been headlined by the best bars from around the world—previous years’ guests include Double Chicken Please from New York; Penicillin from Hong Kong; Analogue from Singapore; and Coupette from London, to name a few.Watch as Arizona’s top mixologists battle it out on Monday, June 18, at The Last Slinger Standing competition, at the event space at Republic National Distilling Company (RNDC). This bartending competition pits 16 of Arizona’s best mixologists against each other in head-to-head battles. Each round features secret ingredients, judged by a panel of renowned cocktail experts from around the world, until the the last slinger is remaining, and takes the trophy for 2025.Tickets for Arizona Cocktail Weekend start at $50, depending on the event and date of purchase.The 12th annual Arizona Cocktail Weekend is returning in 2025, running from June 16 through June 19, 2025, in Downtown Phoenix and beyond. The weekend is the longest-running cocktail event in the Southwest, with five days of exciting events, including tastings from pop-ups of global bars, a cocktail carnival, educational seminars, cocktail competitions, and much more to help you celebrate some of your favorite spirits and cocktails. To learn more about Arizona Cocktail Weekend or to purchase tickets, visit arizonacocktailweekend.com.",
 			"weburl": "https://arizonacocktailweekend.com/",
 			"phone":"+16026335357",
 			"admission":"$50+. Ages 21+ only.",
@@ -1066,8 +1066,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-16T07:00:00.000Z",
-						"end_date_at":"2024-02-19T07:00:00.000Z",
+						"start_date_at":"2025-06-16T07:00:00.000Z",
+						"end_date_at":"2025-06-19T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1082,7 +1082,7 @@
 			"account": { "set": "28"},
 			"categories": { "set": ["1","3","4","5"] },
 			"title": "Melrose Vintage Market - Downtown Phoenix",
-			"description":"Join us for a nostalgic journey through time at the Melrose Vintage Market, happening on Sunday, January 21, 2024, from 9 am to 3 pm. Immerse yourself in the charm of yesteryears as you explore a curated collection of vintage treasures, unique finds, and timeless pieces.This event promises a delightful experience for vintage enthusiasts, collectors, and anyone with an appreciation for the beauty of bygone eras. Discover a diverse array of clothing, accessories, home decor, and more from different decades.Don't miss this opportunity to step back in time and uncover hidden gems that tell stories of days gone by. Whether you're a seasoned collector or just curious about the past, the Melrose Vintage Market invites you to indulge in a day of nostalgia and exploration.For more details and a sneak peek into what awaits you, visit www.melrosevintagemarket.com.Save the date, mark your calendars, and get ready for a unique vintage experience in the heart of Phoenix!",
+			"description":"Join us for a nostalgic journey through time at the Melrose Vintage Market, happening on Sunday, January 21, 2025, from 9 am to 3 pm. Immerse yourself in the charm of yesteryears as you explore a curated collection of vintage treasures, unique finds, and timeless pieces.This event promises a delightful experience for vintage enthusiasts, collectors, and anyone with an appreciation for the beauty of bygone eras. Discover a diverse array of clothing, accessories, home decor, and more from different decades.Don't miss this opportunity to step back in time and uncover hidden gems that tell stories of days gone by. Whether you're a seasoned collector or just curious about the past, the Melrose Vintage Market invites you to indulge in a day of nostalgia and exploration.For more details and a sneak peek into what awaits you, visit www.melrosevintagemarket.com.Save the date, mark your calendars, and get ready for a unique vintage experience in the heart of Phoenix!",
 			"weburl": "https://www.melrosevintagemarket.com/",
 			"email":"rochelle@melrosevintagemarket.com",
 			"phone":"+14803700166",
@@ -1094,8 +1094,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-21T07:00:00.000Z",
-						"end_date_at":"2024-01-21T07:00:00.000Z",
+						"start_date_at":"2025-01-21T07:00:00.000Z",
+						"end_date_at":"2025-01-21T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"15:00"
 					}
@@ -1113,7 +1113,7 @@
 			"account": { "set": "28"},
 			"categories": { "set": ["1","3","4","5"] },
 			"title": "Coronado Home Tour and Street Fair",
-			"description":"Explore the Charm of The Historic Coronado Neighborhood by attending their Annual Home Tour on Sunday, February 25, 2024, from 10am – 4pm.The Coronado Neighborhood Association, a registered 501(c)(3), is thrilled to announce the date for our upcoming exclusive home tour in The Coronado Neighborhood located in Midtown, between 7th St and 16th St, and McDowell and Thomas Roads. This event offers an unparalleled opportunity to explore the unique charm and character of this historic community. In addition, local artists, vendors, and food trucks will be showcasing their wares at our street fair located at Coronado Park (Palm Lane between 12th and 13th Streets).The Coronado Home Tour is set to showcase a curated selection of distinctive homes and artistic spaces, each with its own story and architectural style. From historic bungalows to modern interpretations, participants will have the chance to experience the rich diversity that defines The Coronado Neighborhood.Street parking within the neighborhood is free. Please adhere to signs and curb markings. Walking and biking are highly encouraged.Don't miss this exceptional opportunity to delve into the heart of The Coronado Neighborhood. Whether you're a long-time resident or a first-time visitor, The Coronado Home Tour promises an enriching experience for all.For media inquiries, please contact:Coronado Neighborhood Associationinfo@thcoronadoneighborhood.com",
+			"description":"Explore the Charm of The Historic Coronado Neighborhood by attending their Annual Home Tour on Wednesday, June 25, 2025, from 10am – 4pm.The Coronado Neighborhood Association, a registered 501(c)(3), is thrilled to announce the date for our upcoming exclusive home tour in The Coronado Neighborhood located in Midtown, between 7th St and 16th St, and McDowell and Thomas Roads. This event offers an unparalleled opportunity to explore the unique charm and character of this historic community. In addition, local artists, vendors, and food trucks will be showcasing their wares at our street fair located at Coronado Park (Palm Lane between 12th and 13th Streets).The Coronado Home Tour is set to showcase a curated selection of distinctive homes and artistic spaces, each with its own story and architectural style. From historic bungalows to modern interpretations, participants will have the chance to experience the rich diversity that defines The Coronado Neighborhood.Street parking within the neighborhood is free. Please adhere to signs and curb markings. Walking and biking are highly encouraged.Don't miss this exceptional opportunity to delve into the heart of The Coronado Neighborhood. Whether you're a long-time resident or a first-time visitor, The Coronado Home Tour promises an enriching experience for all.For media inquiries, please contact:Coronado Neighborhood Associationinfo@thcoronadoneighborhood.com",
 			"weburl": "https://thecoronadoneighborhood.com/HOME-TOUR",
 			"email":"treasurer@thecoronadoneighborhood.com",
 			"phone":"+13148087950",
@@ -1125,8 +1125,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-25T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-06-25T07:00:00.000Z",
+						"end_date_at":"2025-06-25T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"16:00"
 					}
@@ -1155,8 +1155,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"14:00"
 					}
@@ -1184,8 +1184,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-26T07:00:00.000Z",
-						"end_date_at":"2024-01-28T07:00:00.000Z",
+						"start_date_at":"2025-01-26T07:00:00.000Z",
+						"end_date_at":"2025-01-28T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1213,8 +1213,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-04T07:00:00.000Z",
-						"end_date_at":"2024-04-14T07:00:00.000Z",
+						"start_date_at":"2025-04-04T07:00:00.000Z",
+						"end_date_at":"2025-04-14T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"23:00"
 					}
@@ -1243,8 +1243,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "17:00",
 						"end_time":"21:00"
 					}
@@ -1274,8 +1274,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-15T07:00:00.000Z",
-						"end_date_at":"2024-03-15T07:00:00.000Z",
+						"start_date_at":"2025-10-15T07:00:00.000Z",
+						"end_date_at":"2025-10-15T07:00:00.000Z",
 						"start_time": "14:00",
 						"end_time":"15:00"
 					}
@@ -1302,8 +1302,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"15:00"
 					}
@@ -1333,8 +1333,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-13T07:00:00.000Z",
-						"end_date_at":"2024-01-15T07:00:00.000Z",
+						"start_date_at":"2025-01-13T07:00:00.000Z",
+						"end_date_at":"2025-01-15T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -1352,7 +1352,7 @@
 			"account": { "set": "4"},
 			"categories": { "set": ["3","4"] },
 			"title": "The Arizona Wine Festival",
-			"description":"Riedel Glass Wine Glass Tasting ExperienceSaturday 12:00 and 3:00 | Sunday 12:00 ~ $110Arizona’s premier wine festival is back! Featuring 21 of Arizona’s best wineries along with over 50 non-winery vendors including fine arts, artisan foods, vintage vendors, and non-stop entertainment along with 4 food trucks and local beer. Support our charity partner: Horse’s Help!Participating Wineries: Birds and Barrel | Bodega Pierce | Carlson Creek | Coronado Vineyards | Golden Rule Vineyards | Keeling Schaefer Vineyards | Pillsbury | Strive Vineyards | 1764 Vineyards | Arizona Stronghold | Caduceus | Copper Horse | DA Vines Wines | Page Springs | Soaring Wines | Vino Stache | Cella Wines | Oak Creek | Sonoita Vineyards | Su Vino Winery | Waggin’ Vineyard & EstateThis ticket include a festival commemorative glass, 5 tasting tickets at the festival, 3 Riedel glasses and admission to the seminar where you will be trying 3 wines from the glasses. Retail value is $175!Imagine you are a carpenter building a house, and someone tells you that you can pick only one tool to complete the job. Which one do you choose? You know you can’t use a hammer to tighten a screw or a screwdriver to cut a piece of wood, and this is the same as the philosophy of grape varietal specific glasses.Different wine varieties have different characters and flavor profiles. The size and shape of whatever vessel you use – whether that’s a RIEDEL glass or plastic cup – will alter the way your senses perceive the wine.This is a great chance to educate yourself and refine your tasting abilities.Band Schedule:Saturday, Jan. 27, 2024:11am to 12:45pm – Posterchild – This young pop dynamo will get the festival going.1pm to 3:45pm – Ponderosa Grove – This rockin’, soulful band is breaking out.4pm to 7pm – Azz Izz – One of Arizona’s legendary party bands returns to action.Sunday, Jan. 28, 2024:11am to 1:45pm – Brian Chartrand – Awesome band renders the best of Laurel Canyon.2pm to 5pm – Sandra Bassett Band – Channel the all the soul greats with this talented lady and her stellar crew.",
+			"description":"Riedel Glass Wine Glass Tasting ExperienceSaturday 12:00 and 3:00 | Sunday 12:00 ~ $110Arizona’s premier wine festival is back! Featuring 21 of Arizona’s best wineries along with over 50 non-winery vendors including fine arts, artisan foods, vintage vendors, and non-stop entertainment along with 4 food trucks and local beer. Support our charity partner: Horse’s Help!Participating Wineries: Birds and Barrel | Bodega Pierce | Carlson Creek | Coronado Vineyards | Golden Rule Vineyards | Keeling Schaefer Vineyards | Pillsbury | Strive Vineyards | 1764 Vineyards | Arizona Stronghold | Caduceus | Copper Horse | DA Vines Wines | Page Springs | Soaring Wines | Vino Stache | Cella Wines | Oak Creek | Sonoita Vineyards | Su Vino Winery | Waggin’ Vineyard & EstateThis ticket include a festival commemorative glass, 5 tasting tickets at the festival, 3 Riedel glasses and admission to the seminar where you will be trying 3 wines from the glasses. Retail value is $175!Imagine you are a carpenter building a house, and someone tells you that you can pick only one tool to complete the job. Which one do you choose? You know you can’t use a hammer to tighten a screw or a screwdriver to cut a piece of wood, and this is the same as the philosophy of grape varietal specific glasses.Different wine varieties have different characters and flavor profiles. The size and shape of whatever vessel you use – whether that’s a RIEDEL glass or plastic cup – will alter the way your senses perceive the wine.This is a great chance to educate yourself and refine your tasting abilities.Band Schedule:Saturday, Jan. 27, 2025:11am to 12:45pm – Posterchild – This young pop dynamo will get the festival going.1pm to 3:45pm – Ponderosa Grove – This rockin’, soulful band is breaking out.4pm to 7pm – Azz Izz – One of Arizona’s legendary party bands returns to action.Sunday, Jan. 28, 2025:11am to 1:45pm – Brian Chartrand – Awesome band renders the best of Laurel Canyon.2pm to 5pm – Sandra Bassett Band – Channel the all the soul greats with this talented lady and her stellar crew.",
 			"weburl": "https://willcoxwinecountry.org/event/the-arizona-wine-festival-heritage-square/",
 			"email":"festivals@willcoxwinecountry.org",
 			"admission":"Sat.: $35 pre-sale / $45 at the gate. Sun.: $30 pre-sale / $40 at the gate. Each ticket includes a commemorative wine glass and ten tasting ticket.Anyone can enter the event free, however, you must be 21 to taste wine or beer. Please bring ID.",
@@ -1363,8 +1363,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-27T07:00:00.000Z",
-						"end_date_at":"2024-01-28T07:00:00.000Z",
+						"start_date_at":"2025-01-27T07:00:00.000Z",
+						"end_date_at":"2025-01-28T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -1382,7 +1382,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["1","3","5"] },
 			"title": "19th Annual Polish Festival",
-			"description":"Please join us for the 19th Polish Festival, which will be hosted by Our Lady of Czestochowa Parish. Delicious Polish cuisine and refreshing imported Polish beer will complement traditional folk dances, Polish music, and fun activities for the whole family. There will be a souvenir boutique filled with a variety of traditional Polish jewelry, crafts, national ornaments, T-shirts, hats, and more. Free Admission & Parking, Saturday April 13, 2024, from 10 a.m. - 8 p.m., Sunday April 14, 2024 from 10 a.m. - 4 p.m.",
+			"description":"Please join us for the 19th Polish Festival, which will be hosted by Our Lady of Czestochowa Parish. Delicious Polish cuisine and refreshing imported Polish beer will complement traditional folk dances, Polish music, and fun activities for the whole family. There will be a souvenir boutique filled with a variety of traditional Polish jewelry, crafts, national ornaments, T-shirts, hats, and more. Free Admission & Parking, Saturday April 13, 2025, from 10 a.m. - 8 p.m., Sunday April 14, 2025 from 10 a.m. - 4 p.m.",
 			"weburl": "https://www.Polishfestivalaz.com/",
 			"phone":"+16022121172",
 			"admission":"Free",
@@ -1393,8 +1393,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-13T07:00:00.000Z",
-						"end_date_at":"2024-04-14T07:00:00.000Z",
+						"start_date_at":"2025-04-13T07:00:00.000Z",
+						"end_date_at":"2025-04-14T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"20:00"
 					}
@@ -1421,8 +1421,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-08T07:00:00.000Z",
-						"end_date_at":"2024-02-08T07:00:00.000Z",
+						"start_date_at":"2025-06-08T07:00:00.000Z",
+						"end_date_at":"2025-06-08T07:00:00.000Z",
 						"start_time": "21:00",
 						"end_time":"02:00"
 					}
@@ -1451,8 +1451,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-10T07:00:00.000Z",
-						"end_date_at":"2024-02-10T07:00:00.000Z",
+						"start_date_at":"2025-06-10T07:00:00.000Z",
+						"end_date_at":"2025-06-10T07:00:00.000Z",
 						"start_time": "21:00",
 						"end_time":"02:00"
 					}
@@ -1481,8 +1481,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-09T07:00:00.000Z",
-						"end_date_at":"2024-02-09T07:00:00.000Z",
+						"start_date_at":"2025-07-09T07:00:00.000Z",
+						"end_date_at":"2025-07-09T07:00:00.000Z",
 						"start_time": "21:00",
 						"end_time":"02:00"
 					}
@@ -1510,8 +1510,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-11T07:00:00.000Z",
-						"end_date_at":"2024-02-11T07:00:00.000Z",
+						"start_date_at":"2025-07-11T07:00:00.000Z",
+						"end_date_at":"2025-07-11T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"18:00"
 					}
@@ -1541,8 +1541,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-01T07:00:00.000Z",
-						"end_date_at":"2024-03-03T07:00:00.000Z",
+						"start_date_at":"2025-10-01T07:00:00.000Z",
+						"end_date_at":"2025-10-03T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"18:00"
 					}
@@ -1560,7 +1560,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["1","3","5"] },
 			"title": "12th Annual El Puente Festival",
-			"description":"Enjoy an afternoon of the Valley's most talented youth performers at the 12th Annual El Puente Festival, a free event presented by Cultural Coalition at Tempe Center for the Arts (TCA) on Sunday, April 21, 2024 from 2 to 6 p.m.Known for its signature community parade across the bridge, or el puente in spanish, this festival brings together artists of all ages to highlight the importance of connecting traditional arts and culture practices from one generation to the next. High school mariachi music, elementary school ballet folklórico dances, and free arts activities are just a few of the things attendees will enjoy during this event.The festival will have a variety of educational and arts activities for youth of all ages, including free books, hands-on crafts, and activities that get excited feet moving to the beat of the live music. Cultural Coalition will activate multiple areas of TCA including theater stages for professional performances, lobby areas for storytelling with puppets, and outdoor areas for food trucks and more!Performances inside the Theater and Studio are ticketed.To purchase tickets by telephone or online, contact: 480-350-2822",
+			"description":"Enjoy an afternoon of the Valley's most talented youth performers at the 12th Annual El Puente Festival, a free event presented by Cultural Coalition at Tempe Center for the Arts (TCA) on Sunday, April 21, 2025 from 2 to 6 p.m.Known for its signature community parade across the bridge, or el puente in spanish, this festival brings together artists of all ages to highlight the importance of connecting traditional arts and culture practices from one generation to the next. High school mariachi music, elementary school ballet folklórico dances, and free arts activities are just a few of the things attendees will enjoy during this event.The festival will have a variety of educational and arts activities for youth of all ages, including free books, hands-on crafts, and activities that get excited feet moving to the beat of the live music. Cultural Coalition will activate multiple areas of TCA including theater stages for professional performances, lobby areas for storytelling with puppets, and outdoor areas for food trucks and more!Performances inside the Theater and Studio are ticketed.To purchase tickets by telephone or online, contact: 480-350-2822",
 			"weburl": "https://culturalcoalition.com/elpuente/",
 			"email":"culturalcoalition@gmail.com",
 			"phone":"+14808345731",
@@ -1572,8 +1572,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-21T07:00:00.000Z",
-						"end_date_at":"2024-04-21T07:00:00.000Z",
+						"start_date_at":"2025-04-21T07:00:00.000Z",
+						"end_date_at":"2025-04-21T07:00:00.000Z",
 						"start_time": "14:00",
 						"end_time":"18:00"
 					}
@@ -1601,8 +1601,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-06T07:00:00.000Z",
-						"end_date_at":"2024-04-06T07:00:00.000Z",
+						"start_date_at":"2025-04-06T07:00:00.000Z",
+						"end_date_at":"2025-04-06T07:00:00.000Z",
 						"start_time": "19:00",
 						"end_time":"22:00"
 					}
@@ -1632,8 +1632,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"16:00"
 					}
@@ -1662,8 +1662,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"15:00"
 					}
@@ -1693,8 +1693,8 @@
 						"end_option_id": "date",
 						"frequency_id": "weekly",
 						"days_ids": ["saturday"],
-						"start_date_at":"2024-02-24T07:00:00.000Z",
-						"end_date_at":"2024-04-06T07:00:00.000Z",
+						"start_date_at":"2025-07-26T07:00:00.000Z",
+						"end_date_at":"2025-09-06T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1710,8 +1710,8 @@
 		{
 			"account": { "set": "33"},
 			"categories": { "set": ["1","3"] },
-			"title": "Indie Film Fest 2024",
-			"description":"February 21-24 of 2024 in downtown Phoenix, INDIE FILM FEST becomes the ultimate gathering of creative storytellers and audiences eager for new voices and fresh perspectives. Our visual extravaganza includes dramatic and documentary, short films, music videos, and multimedia installations by artists from all over the world. 2023 begins with a new way of sharing films at INDIE FILM FEST. From now until November artists, musicians, filmmakers and creatives from all over the world can submit your indie film to Indie Film Fest 2024. Using our exclusive and secure submission page on Filmfreeway you can submit your Documentary Feature, Documentary Short, Fictional Feature, Fictional Short, Music Videos, Sci Fi Thrillers, and so much more.Indie Film Fest is a multi day multi venue inclusive festival in downtown Phoenix going into our 6th year aiming to help grow the artist economy in Phoenix, AZ. In 2024 we return to downtown Phoenix with screenings at the Phoenix Center for the Arts as well as panels, mixers, and events all around the artist community on Roosevelt Row. Submissions will be open from June 1st to November 1st. We are actively seeking out projects that have a world premiere status to bring Phoenix the newest and most creative films launching in 2024. We offer each of our artists the opportunity to make money off of their festival debut with our digital distribution through our On Demand Channels once the festival has concluded. Starting in 2024 our films will have the opportunity to launch online immediately after the festival has concluded with marketing and PR included in the launch of their film.One of best things to do in Phoenix. — Phoenix New TimesTop things to do in Phoenix. — Arizona Republic",
+			"title": "Indie Film Fest 2025",
+			"description":"July 21-24 of 2025 in downtown Phoenix, INDIE FILM FEST becomes the ultimate gathering of creative storytellers and audiences eager for new voices and fresh perspectives. Our visual extravaganza includes dramatic and documentary, short films, music videos, and multimedia installations by artists from all over the world. 2023 begins with a new way of sharing films at INDIE FILM FEST. From now until November artists, musicians, filmmakers and creatives from all over the world can submit your indie film to Indie Film Fest 2025. Using our exclusive and secure submission page on Filmfreeway you can submit your Documentary Feature, Documentary Short, Fictional Feature, Fictional Short, Music Videos, Sci Fi Thrillers, and so much more.Indie Film Fest is a multi day multi venue inclusive festival in downtown Phoenix going into our 6th year aiming to help grow the artist economy in Phoenix, AZ. In 2025 we return to downtown Phoenix with screenings at the Phoenix Center for the Arts as well as panels, mixers, and events all around the artist community on Roosevelt Row. Submissions will be open from June 1st to November 1st. We are actively seeking out projects that have a world premiere status to bring Phoenix the newest and most creative films launching in 2025. We offer each of our artists the opportunity to make money off of their festival debut with our digital distribution through our On Demand Channels once the festival has concluded. Starting in 2025 our films will have the opportunity to launch online immediately after the festival has concluded with marketing and PR included in the launch of their film.One of best things to do in Phoenix. — Phoenix New TimesTop things to do in Phoenix. — Arizona Republic",
 			"weburl": "http://indiefilmfest.com/",
 			"date_rule_sets": {
 				"docs": [
@@ -1719,8 +1719,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-21T07:00:00.000Z",
-						"end_date_at":"2024-02-24T07:00:00.000Z",
+						"start_date_at":"2025-07-21T07:00:00.000Z",
+						"end_date_at":"2025-07-24T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1747,8 +1747,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"15:00"
 					}
@@ -1774,8 +1774,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-10-19T07:00:00.000Z",
-						"end_date_at":"2024-10-20T07:00:00.000Z",
+						"start_date_at":"2025-10-19T07:00:00.000Z",
+						"end_date_at":"2025-10-20T07:00:00.000Z",
 						"start_time": "12:00",
 						"end_time":"21:00"
 					}
@@ -1803,8 +1803,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-21T07:00:00.000Z",
-						"end_date_at":"2024-01-21T07:00:00.000Z",
+						"start_date_at":"2025-01-21T07:00:00.000Z",
+						"end_date_at":"2025-01-21T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1821,7 +1821,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["3"] },
 			"title": "Asian Festival",
-			"description":"Asian Festival, nonprofit 501 c (3) is organizing the Culture Night celebrating the Lunar New Year on Friday, January 12 and Saturday, January 13, 2024.We hosted the Asian Festival 2022, partnering with the City of Mesa to unveil the Asian District Signage and Culture Night 2023 promoting Asian District. The Festival was an eye-catching tourist attraction, positively impacting the city economically by generating over $400K in revenue. It was a great success and attracted more than 20,000 attendees.Asian Festival 2024 will be an extraordinary event, we are flying in the Living National Legend of Borneo (Malaysia) to perform Rainforest Music and workshops and also world famous Human Flow Art Master Ong. We are confident that we will create great awareness with our extensive publicity in the press, TV, social media platforms, multi channels marketing and partner with influencers. We also send out thousands of flyers and road signage to promote Asian Festival.More than 45% are first time to the Asian Festival. Thank you to 150 volunteers, who are our backbone of this event specially City of Mesa, Mesa & Scottsdale Police, Mesa Fire Dept, Mesa Community College, FBI, ASU, Bank of America, students, local communities and businesses.The Asian Festival mission is to promote a peaceful world by increasing international awareness and cultural understanding. It is a time to build community through businesses and family oriented activity.  The Asian Festival is the inaugural event, that we hope to expand to various other events supporting the Asian District throughout the year. Our focus is organizing diverse cultural festivals, workshops and events for the public to learn and experience another culture, meet international friends, improve their language ability, taste of Asian cuisine, arts & crafts, tea ceremony, cultural dance and promote the value of cultures and traditions.",
+			"description":"Asian Festival, nonprofit 501 c (3) is organizing the Culture Night celebrating the Lunar New Year on Friday, January 12 and Saturday, January 13, 2025.We hosted the Asian Festival 2022, partnering with the City of Mesa to unveil the Asian District Signage and Culture Night 2023 promoting Asian District. The Festival was an eye-catching tourist attraction, positively impacting the city economically by generating over $400K in revenue. It was a great success and attracted more than 20,000 attendees.Asian Festival 2025 will be an extraordinary event, we are flying in the Living National Legend of Borneo (Malaysia) to perform Rainforest Music and workshops and also world famous Human Flow Art Master Ong. We are confident that we will create great awareness with our extensive publicity in the press, TV, social media platforms, multi channels marketing and partner with influencers. We also send out thousands of flyers and road signage to promote Asian Festival.More than 45% are first time to the Asian Festival. Thank you to 150 volunteers, who are our backbone of this event specially City of Mesa, Mesa & Scottsdale Police, Mesa Fire Dept, Mesa Community College, FBI, ASU, Bank of America, students, local communities and businesses.The Asian Festival mission is to promote a peaceful world by increasing international awareness and cultural understanding. It is a time to build community through businesses and family oriented activity.  The Asian Festival is the inaugural event, that we hope to expand to various other events supporting the Asian District throughout the year. Our focus is organizing diverse cultural festivals, workshops and events for the public to learn and experience another culture, meet international friends, improve their language ability, taste of Asian cuisine, arts & crafts, tea ceremony, cultural dance and promote the value of cultures and traditions.",
 			"weburl": "https://asianfestivalaz.com/",
 			"admission":"Free Event",
 			"date_rule_sets": {
@@ -1830,8 +1830,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-12T07:00:00.000Z",
-						"end_date_at":"2024-01-13T07:00:00.000Z",
+						"start_date_at":"2025-01-12T07:00:00.000Z",
+						"end_date_at":"2025-01-13T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1857,8 +1857,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-05-02T07:00:00.000Z",
-						"end_date_at":"2024-05-05T07:00:00.000Z",
+						"start_date_at":"2025-05-02T07:00:00.000Z",
+						"end_date_at":"2025-05-05T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1875,7 +1875,7 @@
 			"account": { "set": "49"},
 			"categories": { "set": ["3"] },
 			"title": "38th Annual Arizona Gay Rodeo",
-			"description":"The 38th Annual Arizona Gay Rodeo will be February 16-18, 2024 at the Corona Ranch and Rodeo Grounds – 7811 S 29 th Ave – Laveen (Phoenix), Arizona. The venue is located on the southeast corner of South 29 th Avenue and West Baseline Road. The rodeo is an IGRA-sanctioned rodeo, and all 2024 IGRA Rules apply. Pets are not allowed on the rodeo grounds or in the pavilion; only service animals are allowed.Start time for the rodeo is 11:00 am Saturday-February 17 and Sunday-February 18. The ticket office and gate to the venue will open at 9:00 am each day. The awards ceremony will be at 7:00 pm Sunday-February 18.Rodeo events include: Bull Riding, Steer Riding, Chute Dogging, Calf Roping on Foot, Mounted Breakaway Roping, Barrel Racing, Pole Bending, Flag Race, Team Roping, Steer Decorating, Wild Drag Race, and Goat Dressing.A full-service bar will be open in the pavilion at 4:00 pm Friday and 10:00 am Saturday and Sunday.Games on the Green (a variety of games for kids and adults) will take place on the grass outside the pavilion from noon until 5:00 pm Saturday and from noon until 4:00 pm Sunday.Grand Entry will take place Saturday and Sunday approximately at 1:00 pm each day.There is a $5.00 parking fee per vehicle each day beginning at 4:00 pm Friday and 8:00 am Saturday and Sunday. This fee is charged by the venue and is totally out of AGRA’s control.",
+			"description":"The 38th Annual Arizona Gay Rodeo will be July 16-18, 2025 at the Corona Ranch and Rodeo Grounds – 7811 S 29 th Ave – Laveen (Phoenix), Arizona. The venue is located on the southeast corner of South 29 th Avenue and West Baseline Road. The rodeo is an IGRA-sanctioned rodeo, and all 2025 IGRA Rules apply. Pets are not allowed on the rodeo grounds or in the pavilion; only service animals are allowed.Start time for the rodeo is 11:00 am Wednesday-July 17 and Thursday-July 18. The ticket office and gate to the venue will open at 9:00 am each day. The awards ceremony will be at 7:00 pm Thursday-July 18.Rodeo events include: Bull Riding, Steer Riding, Chute Dogging, Calf Roping on Foot, Mounted Breakaway Roping, Barrel Racing, Pole Bending, Flag Race, Team Roping, Steer Decorating, Wild Drag Race, and Goat Dressing.A full-service bar will be open in the pavilion at 4:00 pm Friday and 10:00 am Wednesday and Thursday.Games on the Green (a variety of games for kids and adults) will take place on the grass outside the pavilion from noon until 5:00 pm Wednesday and from noon until 4:00 pm Thursday.Grand Entry will take place Wednesday and Thursday approximately at 1:00 pm each day.There is a $5.00 parking fee per vehicle each day beginning at 4:00 pm Friday and 8:00 am Wednesday and Thursday. This fee is charged by the venue and is totally out of AGRA’s control.",
 			"weburl": "https://agra-phx.com/",
 			"phone":"+16025109671",
 			"admission":"$20 per day",
@@ -1885,8 +1885,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-16T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-07-16T07:00:00.000Z",
+						"end_date_at":"2025-07-18T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -1914,8 +1914,8 @@
 						"end_option_id": "date",
 						"frequency_id": "weekly",
 						"days_ids": ["saturday"],
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-02-24T07:00:00.000Z",
+						"start_date_at":"2025-07-04T07:00:00.000Z",
+						"end_date_at":"2025-07-25T07:00:00.000Z",
 						"start_time": "15:00"
 					}
 				]
@@ -1944,8 +1944,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-13T07:00:00.000Z",
-						"end_date_at":"2024-04-13T07:00:00.000Z",
+						"start_date_at":"2025-04-13T07:00:00.000Z",
+						"end_date_at":"2025-04-13T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"13:30"
 					}
@@ -1962,9 +1962,9 @@
 		{
 			"account": { "set": "33"},
 			"categories": { "set": ["1","3","5"] },
-			"title": "Kierland Fine Art & Wine Festival - Feb. 2024",
-			"description":"The vibrant and culturally diverse Kierland Commons is set to host its 2nd annual Kierland Fine Art and Wine Festival. This celebration of art, culture, and exquisite flavors promises to enchant visitors with an unparalleled sensory experience. On February 3rd and 4th, Kierland Commons will be transformed into a bustling hub of creativity, showcasing the talents of renowned artists and the finest wines from Arizona.This festival is rain or shine. It is free to attend. Only cost is for wine or beer tastings.Saturday & Sunday l Feb. 3 & 4, 2024. Art Festival 10a-5p | Wine Garden 11a-5pSat. Feb. 3 - Wine Festival - $35 per person pre-sale / $45 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Sun. Feb. 4 - Wine Festival - $30 per person pre-sale / $40 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Featuring 16 of Arizona’s best wineries along with over 100 fine arts, artisan foods, and non-stop entertainment.",
-			"weburl": "https://www.eventbrite.com/e/kierland-fine-art-wine-festival-feb-2024-tickets-778474035797",
+			"title": "Kierland Fine Art & Wine Festival - Jul. 2025",
+			"description":"The vibrant and culturally diverse Kierland Commons is set to host its 2nd annual Kierland Fine Art and Wine Festival. This celebration of art, culture, and exquisite flavors promises to enchant visitors with an unparalleled sensory experience. On July 3rd and 4th, Kierland Commons will be transformed into a bustling hub of creativity, showcasing the talents of renowned artists and the finest wines from Arizona.This festival is rain or shine. It is free to attend. Only cost is for wine or beer tastings.Thursday & Friday l Jul. 3 & 4, 2025. Art Festival 10a-5p | Wine Garden 11a-5pSat. Jul. 3 - Wine Festival - $35 per person pre-sale / $45 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Fri. Jul. 4 - Wine Festival - $30 per person pre-sale / $40 at the gate. Each ticket includes a commemorative wine glass and ten tasting tickets.Featuring 16 of Arizona’s best wineries along with over 100 fine arts, artisan foods, and non-stop entertainment.",
+			"weburl": "https://www.eventbrite.com/e/kierland-fine-art-wine-festival-jul-2025-tickets-778474035797",
 			"email":"festivals@willcoxwinecountry.org",
 			"phone":"+14805168848",
 			"admission":"Free Entry",
@@ -1975,8 +1975,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-03T07:00:00.000Z",
-						"end_date_at":"2024-02-04T07:00:00.000Z",
+						"start_date_at":"2025-07-03T07:00:00.000Z",
+						"end_date_at":"2025-07-04T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -2007,8 +2007,8 @@
 						"end_option_id": "date",
 						"frequency_id": "weekly",
 						"days_ids": ["friday"],
-						"start_date_at":"2024-02-02T07:00:00.000Z",
-						"end_date_at":"2024-02-23T07:00:00.000Z",
+						"start_date_at":"2025-07-04T07:00:00.000Z",
+						"end_date_at":"2025-07-25T07:00:00.000Z",
 						"start_time": "11:00"
 					}
 				]
@@ -2035,8 +2035,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-24T07:00:00.000Z",
+						"start_date_at":"2025-07-17T07:00:00.000Z",
+						"end_date_at":"2025-07-24T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2065,8 +2065,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-18T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-07-18T07:00:00.000Z",
+						"end_date_at":"2025-07-18T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"14:00"
 					}
@@ -2083,7 +2083,7 @@
 		{
 			"account": { "set": "33"},
 			"categories": { "set": ["1","6","3"] },
-			"title": "Arizona Bike Week 2024",
+			"title": "Arizona Bike Week 2025",
 			"description":"Whether you’re an avid motorcycle enthusiast or non-rider, Arizona Bike Week promises to deliver an event like you’ve never seen before. ABW is a growing event, and each year brings more parties, activities and attractions. There’s so much to see and do, you’ll want to visit more than once over the five days of the event. WestWorld is home to the Southwest’s largest motorcycle event, and the pristine 380-acre special event site makes for the perfect setting for non-stop fun and excitement. In the ABW PowerYard, you’ll find hundreds of vendors, builders, dealers and manufacturers offering all the best elements of the powersports industry. Plus, daily stunt shows, contests, live entertainment and bike shows. The RockYard features nightly blockbuster concerts at the most affordable ticket pricing you’ll find. This year’s lineup includes Godsmack, Brantley Gilbert, George Thorogood and The Destroyers w/Everclear, and Yelawolf. All of this (even the concerts!) is included with your five-day Rally Pass. Early bird pricing gets you this all-inclusive pass for just $99. Single day passes are also available. For more details, go to azbikeweek.com.",
 			"weburl": "https://azbikeweek.com/",
 			"email":"info@azbikeweek.com",
@@ -2095,8 +2095,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-03T07:00:00.000Z",
-						"end_date_at":"2024-04-07T07:00:00.000Z",
+						"start_date_at":"2025-04-03T07:00:00.000Z",
+						"end_date_at":"2025-04-07T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2112,9 +2112,9 @@
 		{
 			"account": { "set": "3"},
 			"categories": { "set": ["1","6","3","4"] },
-			"title": "Buds-A-Palooza 2024",
-			"description":"The minds behind Bud's Glass Joint are excited to bring Buds-A-Palooza back to the streets of Roosevelt Row and downtown Phoenix on April 19, 2024. Presented by Trulieve + Harvest, Buds-A-Palooza was named one of America's Best 420 Events by Leafly and WeedMaps.Enjoy live music, stand up comedy, stoner flicks, munchies, glass blowing, a mural park and that sweet sweet cheeba! Main stage lineup will be announced November 1st. Get ready!*This is a 21+ event. All attendees will be ID'd at the door. No one under 21 will be allowed in, even MMJ card holders. Sorry!",
-			"weburl": "https://www.eventbrite.com/e/buds-a-palooza-2024-tickets-699351758937",
+			"title": "Buds-A-Palooza 2025",
+			"description":"The minds behind Bud's Glass Joint are excited to bring Buds-A-Palooza back to the streets of Roosevelt Row and downtown Phoenix on April 19, 2025. Presented by Trulieve + Harvest, Buds-A-Palooza was named one of America's Best 420 Events by Leafly and WeedMaps.Enjoy live music, stand up comedy, stoner flicks, munchies, glass blowing, a mural park and that sweet sweet cheeba! Main stage lineup will be announced November 1st. Get ready!*This is a 21+ event. All attendees will be ID'd at the door. No one under 21 will be allowed in, even MMJ card holders. Sorry!",
+			"weburl": "https://www.eventbrite.com/e/buds-a-palooza-2025-tickets-699351758937",
 			"admission":"$35-$50",
 			"doors_open":"16:20:00",
 			"date_rule_sets": {
@@ -2123,8 +2123,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-19T07:00:00.000Z",
-						"end_date_at":"2024-04-19T07:00:00.000Z",
+						"start_date_at":"2025-04-19T07:00:00.000Z",
+						"end_date_at":"2025-04-19T07:00:00.000Z",
 						"start_time": "16:20:00",
 						"end_time":"23:59"
 					}
@@ -2142,8 +2142,8 @@
 			"account": { "set": "33"},
 			"categories": { "set": ["1","5"] },
 			"title": "2nd Annual Scottsdale Navajo Rug & Jewelry Show",
-			"description":"The Holland Community Center is proud to host the Adopt-a-Native-Elder Program’s 2nd Annual Scottsdale Navajo Rug & Jewelry Show from February 16-18, 2024. Featuring over 200 traditional handwoven Navajo rugs, jewelry and crafts for sale, as well as weaving demonstrations, stories, cultural teachings and raffles, the Show will offer attendees an opportunity to purchase one-of-a-kind items while gaining deeper insight into Native culture. The weekend will begin with a VIP preview and sale on Friday, Feb. 16 from 5-8 p.m., allowing attendees an early chance to view and purchase rugs and other handcrafted items before the Show opens to the public. On Saturday and Sunday, Feb. 17-18, the Show will run from 10 a.m. to 5 p.m. each day; admission is free, and all proceeds from rug sales will directly support the weavers. The Featured Weaver of this year’s Navajo Rug & Jewelry Show is Nellie Curley, who is known for incorporating cultural teachings into each of her rugs. Through her weavings, Nellie tells the Creation Story of her homelands and showcases various Navajo ceremonies in rich detail. Several of her rugs will be available for purchase at the Show. Attendees will also have a special opportunity to watch weaving demonstrations and meet several of the weavers and artisans who created the rugs and other items available for purchase. To learn more about Adopt-A-Native-Elder and the various ways to support this incredible organization, visit https://anelder.org. For more information about the 2nd Annual Scottsdale Navajo Rug & Jewelry Show, visit https://hollandcenter.org.",
-			"weburl": "https://hollandcenter.org/event/navajo-rug-jewelry-festival-feb-17-18/",
+			"description":"The Holland Community Center is proud to host the Adopt-a-Native-Elder Program’s 2nd Annual Scottsdale Navajo Rug & Jewelry Show from July 18-20, 2025. Featuring over 200 traditional handwoven Navajo rugs, jewelry and crafts for sale, as well as weaving demonstrations, stories, cultural teachings and raffles, the Show will offer attendees an opportunity to purchase one-of-a-kind items while gaining deeper insight into Native culture. The weekend will begin with a VIP preview and sale on Friday, Jul. 18 from 5-8 p.m., allowing attendees an early chance to view and purchase rugs and other handcrafted items before the Show opens to the public. On Saturday and Sunday, Jul. 19-20, the Show will run from 10 a.m. to 5 p.m. each day; admission is free, and all proceeds from rug sales will directly support the weavers. The Featured Weaver of this year’s Navajo Rug & Jewelry Show is Nellie Curley, who is known for incorporating cultural teachings into each of her rugs. Through her weavings, Nellie tells the Creation Story of her homelands and showcases various Navajo ceremonies in rich detail. Several of her rugs will be available for purchase at the Show. Attendees will also have a special opportunity to watch weaving demonstrations and meet several of the weavers and artisans who created the rugs and other items available for purchase. To learn more about Adopt-A-Native-Elder and the various ways to support this incredible organization, visit https://anelder.org. For more information about the 2nd Annual Scottsdale Navajo Rug & Jewelry Show, visit https://hollandcenter.org.",
+			"weburl": "https://hollandcenter.org/event/navajo-rug-jewelry-festival-jul-19-20/",
 			"email":"info@azfcf.org",
 			"phone":"+14804881090",
 			"admission":"Free",
@@ -2154,8 +2154,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-18T07:00:00.000Z",
+						"start_date_at":"2025-07-19T07:00:00.000Z",
+						"end_date_at":"2025-07-20T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -2173,7 +2173,7 @@
 			"account": { "set": "12"},
 			"categories": { "set": ["1","3"] },
 			"title": "Art of the Cowgirl",
-			"description":"Celebrate the very best of Western female artistry, craftsmanship and horsemanship during the Sixth Annual Art of the Cowgirl gathering, happening Jan. 17-21, 9 a.m.-6 p.m. at Horseshoe Park and Equestrian Centre. This five-day event is family-friendly, and will feature over 80 trade show vendors, an all-women’s ranch rodeo, horsewoman competitions, workshops, live country music performances and much more. Little cowboys and cowgirls can participate in hands-on crafting and roping classes with instructors. Single-day passes are $55, and five-day passes are $195. For more information, visit artofthecowgirl.com.",
+			"description":"Celebrate the very best of Western female artistry, craftsmanship and horsemanship during the Sixth Annual Art of the Cowgirl gathering, happening June 17-21, 9 a.m.-6 p.m. at Horseshoe Park and Equestrian Centre. This five-day event is family-friendly, and will feature over 80 trade show vendors, an all-women’s ranch rodeo, horsewoman competitions, workshops, live country music performances and much more. Little cowboys and cowgirls can participate in hands-on crafting and roping classes with instructors. Single-day passes are $55, and five-day passes are $195. For more information, visit artofthecowgirl.com.",
 			"weburl": "https://artofthecowgirl.com/",
 			"email":"doreen@artofthecowgirl.com",
 			"admission":"Single day pass is $55, five-day pass is $195.",
@@ -2184,8 +2184,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-17T07:00:00.000Z",
-						"end_date_at":"2024-01-21T07:00:00.000Z",
+						"start_date_at":"2025-06-17T07:00:00.000Z",
+						"end_date_at":"2025-06-21T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"18:00"
 					}
@@ -2214,8 +2214,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "16:00",
 						"end_time":"22:00"
 					}
@@ -2244,8 +2244,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-14T07:00:00.000Z",
-						"end_date_at":"2024-01-14T07:00:00.000Z",
+						"start_date_at":"2025-06-14T07:00:00.000Z",
+						"end_date_at":"2025-06-14T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"15:00"
 					}
@@ -2274,8 +2274,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "16:00",
 						"end_time":"21:00"
 					}
@@ -2304,8 +2304,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-09T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-09T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "16:00"
 					}
 				]
@@ -2333,8 +2333,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "15:00",
 						"end_time":"22:00"
 					}
@@ -2362,8 +2362,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2391,8 +2391,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "17:00",
 						"end_time":"22:00"
 					}
@@ -2421,8 +2421,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "17:00",
 						"end_time":"22:00"
 					}
@@ -2449,8 +2449,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "19:00",
 						"end_time":"21:00"
 					}
@@ -2478,8 +2478,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-11T07:00:00.000Z",
-						"end_date_at":"2024-02-11T07:00:00.000Z",
+						"start_date_at":"2025-08-11T07:00:00.000Z",
+						"end_date_at":"2025-08-11T07:00:00.000Z",
 						"start_time": "15:00"
 					}
 				]
@@ -2507,8 +2507,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "17:30",
 						"end_time":"21:00"
 					}
@@ -2536,8 +2536,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-14T07:00:00.000Z",
-						"end_date_at":"2024-02-14T07:00:00.000Z",
+						"start_date_at":"2025-02-14T07:00:00.000Z",
+						"end_date_at":"2025-02-14T07:00:00.000Z",
 						"start_time": "17:30",
 						"end_time":"21:00"
 					}
@@ -2614,7 +2614,7 @@
 		{
 			"account": { "set": "12"},
 			"categories": { "set": ["1","5"] },
-			"title": "Annual Bonsai Show 2024",
+			"title": "Annual Bonsai Show 2025",
 			"description":"Phoenix Bonsai Society will display established Bonsai trees and trees under development to illustrate how the art of Bonsai is created, in addition to Bonsai trees, the Society will display Viewing Stones, and Kusamono plantings, demonstrations will be presented during the day.April 6th - 9 - 4:30April 7th - 10:00 - 3:30",
 			"weburl": "http://www.phoenixbonsai.com/",
 			"admission":"Free",
@@ -2624,8 +2624,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-06T07:00:00.000Z",
-						"end_date_at":"2024-04-07T07:00:00.000Z",
+						"start_date_at":"2025-04-06T07:00:00.000Z",
+						"end_date_at":"2025-04-07T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2643,7 +2643,7 @@
 			"categories": { "set": ["3","5"] },
 			"title": "Irish Fountain Fest",
 			"description":"Put on your green and join the Town of Fountain Hills as we shamROCK the Hills at our Irish Fountain Fest! Food, fun, and music will all be a part of this family-friendly event, and who could forget that our World Famous Fountain will be transformed into a bright emerald green geyser at 12:00 and 4:00 p.m. This event will feature a kid’s zone, Traditional Irish folk music, a Celtic rock band, food trucks, the Crescent Crown Beer Garden, and much more! This event is open to families of all ages and is completely free of charge!Entertainment Schedule:11:00 a.m. Festival Opens11:00 a.m. Frank Mackey - Musician12:00 p.m. Greening of the Fountain1:00-2:00 p.m.- Kilted Spirit Band2:00-3:00 p.m - Phoenix Pipe & Drum Band3:00-5:00 p.m. - Traveler – Celtic Rock Band4:00 p.m. - Greening of the FountainDon’t get caught down on your luck, ShamROCK the Hills at the Fountain Hills Irish Fountain Fest!",
-			"weburl": "https://www.experiencefountainhills.org/events/2024/irish-fest",
+			"weburl": "https://www.experiencefountainhills.org/events/2025/irish-fest",
 			"admission":"Free",
 			"doors_open":"11:00:00",
 			"date_rule_sets": {
@@ -2652,8 +2652,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-16T07:00:00.000Z",
-						"end_date_at":"2024-03-16T07:00:00.000Z",
+						"start_date_at":"2025-10-16T07:00:00.000Z",
+						"end_date_at":"2025-10-16T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -2729,17 +2729,17 @@
 		{
 			"account": { "set": "33"},
 			"categories": { "set": ["1","3"] },
-			"title": "Mecum Auto Auctions 2024",
-			"description":"Mecum Auctions Returns to Greater Phoenix's State Farm Stadium in March 2024!",
-			"weburl": "https://www.mecum.com/auctions/glendale-2024/",
+			"title": "Mecum Auto Auctions 2025",
+			"description":"Mecum Auctions Returns to Greater Phoenix's State Farm Stadium in October 2025!",
+			"weburl": "https://www.mecum.com/auctions/glendale-2025/",
 			"date_rule_sets": {
 				"docs": [
 					{
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-05T07:00:00.000Z",
-						"end_date_at":"2024-03-09T07:00:00.000Z",
+						"start_date_at":"2025-10-05T07:00:00.000Z",
+						"end_date_at":"2025-10-09T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2765,8 +2765,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-30T07:00:00.000Z",
-						"end_date_at":"2024-03-30T07:00:00.000Z",
+						"start_date_at":"2025-03-30T07:00:00.000Z",
+						"end_date_at":"2025-03-30T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -2792,8 +2792,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-02T07:00:00.000Z",
-						"end_date_at":"2024-03-03T07:00:00.000Z",
+						"start_date_at":"2025-10-02T07:00:00.000Z",
+						"end_date_at":"2025-10-03T07:00:00.000Z",
 						"start_time": "09:30",
 						"end_time":"17:00"
 					}
@@ -2823,8 +2823,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-10T07:00:00.000Z",
-						"end_date_at":"2024-03-10T07:00:00.000Z",
+						"start_date_at":"2025-11-10T07:00:00.000Z",
+						"end_date_at":"2025-11-10T07:00:00.000Z",
 						"start_time": "14:00",
 						"end_time":"17:00"
 					}
@@ -2841,8 +2841,8 @@
 		{
 			"account": { "set": "7"},
 			"categories": { "set": ["7"] },
-			"title": "2024 NHRA Arizona Nationals",
-			"description":"NHRA will return to Phoenix for the 2024 NHRA Mission Foods Drag Racing Series Season, heading to the newly renamed Firebird Motorsports Park for the 39th Annual NHRA Arizona Nationals from April 5-7, 2024!",
+			"title": "2025 NHRA Arizona Nationals",
+			"description":"NHRA will return to Phoenix for the 2025 NHRA Mission Foods Drag Racing Series Season, heading to the newly renamed Firebird Motorsports Park for the 39th Annual NHRA Arizona Nationals from April 5-7, 2025!",
 			"weburl": "https://racefirebird.com/event/nhra-arizona-nationals/",
 			"email":"Info@RaceWildHorse.net",
 			"phone":"+15207965601",
@@ -2854,8 +2854,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-05T07:00:00.000Z",
-						"end_date_at":"2024-04-07T07:00:00.000Z",
+						"start_date_at":"2025-04-05T07:00:00.000Z",
+						"end_date_at":"2025-04-07T07:00:00.000Z",
 						"start_time": "08:00",
 						"end_time":"18:00"
 					}
@@ -2884,8 +2884,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-18T07:00:00.000Z",
-						"end_date_at":"2024-03-19T07:00:00.000Z",
+						"start_date_at":"2025-03-18T07:00:00.000Z",
+						"end_date_at":"2025-03-19T07:00:00.000Z",
 						"start_time": "08:00"
 					}
 				]
@@ -2903,7 +2903,7 @@
 			"categories": { "set": ["1","6"] },
 			"title": "MusicaNova Orchestra",
 			"description":"RepetoireMichael Daugherty,Dead ElvisKristilyn Woods, bassoonPeggy Glanville-Hicks,Three GymnopédiesFranz Krommer, Concerto no. 2 for Two Clarinets and Orchestra, op. 91Kristin Fray and Anthony Masiello, clarinetFranz Joseph Haydn, Symphony no. 98 in B-flat MajorMichael Daugherty’sDead Elvisis a tour de force in which the MusicaNova Orchestra’s principal bassoon, Kristilyn Woods, dons the sequined jumpsuit and plays the Dies Irae, the medieval Latin chant for the day of judgment, while a small ensemble riffs on rock and roll motifs. The piece contemplates the price of fame, the myth of Elvis, and how the dead rock star exemplifies American culture, history, and mythology.The concert also features the orchestra’s Kristin Fray and Anthony Masiello in a rare double concerto for clarinets, theThree Gymnopediesthat helped establish Glanville-Hicks as a leading 20thcentury composer; and the sixth of Haydn’s 12 London symphonies, which ends with a pleasant surprise.",
-			"weburl": "https://mim.org/events/musicanova-orchestra-mar-24-2024/",
+			"weburl": "https://mim.org/events/musicanova-orchestra-nov-24-2025/",
 			"email":"sydney.rich@mim.org",
 			"phone":"+14804786000",
 			"admission":"$33.50-38.50",
@@ -2914,8 +2914,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-24T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-11-24T07:00:00.000Z",
+						"end_date_at":"2025-11-24T07:00:00.000Z",
 						"start_time": "18:00",
 						"end_time":"19:30"
 					}
@@ -2945,8 +2945,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-23T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-08-23T07:00:00.000Z",
+						"end_date_at":"2025-08-25T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -2975,8 +2975,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-15T07:00:00.000Z",
-						"end_date_at":"2024-03-17T07:00:00.000Z",
+						"start_date_at":"2025-03-15T07:00:00.000Z",
+						"end_date_at":"2025-03-17T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"23:00"
 					}
@@ -3005,8 +3005,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"14:00"
 					}
@@ -3025,7 +3025,7 @@
 			"categories": { "set": ["1","6"] },
 			"title": "Experience Ireland",
 			"description":"Experience the Emerald Isle at MIM! Learn about the beautiful culture of Ireland through its rich and captivating musical traditions.All activities happen on Saturday and Sunday unless noted otherwise.Craft: Spoons9:00 a.m.–4:00 p.m.Make your own music with spoons, a popular instrument within Irish music. Instrument Spotlight: Concertina9:00 a.m.–4:00 p.m.Create a fun atmosphere by trying out a concertina while you visit the museum.Photo Booth9:00 a.m.–4:00 p.m.Have your picture taken in our hands-free photo booth! Digitally share your pictures and tag us with #MIMphx for a chance to be featured on our social media.Curator Talk: The Influence of Irish Music10:30–11:00 a.m.Explore with Matthew Zeller, MIM’s curator for Europe, the enormous influence of Irish music and musical instruments on music around the world—including classical composers such as Frédéric Chopin and popular artists such as the Snake Charmer and Dropkick Murphys.Performance: Scott Jeffers11:15 a.m.–noonEnjoy a captivating Celtic performance by soloist Scott Jeffers!Pop-Up Performance: Heart Strings12:15–12:30 p.m.Listen to Irish folk tales as told by Celtic storyteller Chrissy Dart and harpist Jocelyn Obermeyer.Performance: Stilicho1:00–1:45 p.m.Join us for a performance by Irish folk band Stilicho and be transported to the rolling hills of Ireland.Performance: Bracken School of Irish Dance2:30–3:00 p.m.Step and clap along to a lively performance from the Bracken School of Irish Dance!Workshop: Irish Step Dancing3:30–4:00 p.m.Don’t miss your chance to learn Irish step dance moves in this workshop.Weekend Extras Available for PurchaseLunch at Café AllegroOffered daily 11:00 a.m.–3:00 p.m.Enjoy a menuof delicious global cuisine with fresh entrées, salads, soups, and grill items showcasing local produce and flavors from around the world.Shop the Museum StoreThe Museum Store will feature Irish instruments (such asbodhránsand tin whistles) and a lively assortment of books and CDs. Memberssave 10% on most items in the Museum Store and online. Every purchase benefits MIM and its programs.",
-			"weburl": "https://mim.org/events/experience-ireland-mar-16-2024/2024-03-16/",
+			"weburl": "https://mim.org/events/experience-ireland-nov-16-2025/2025-11-16/",
 			"email":"sydney.rich@mim.org",
 			"phone":"+14804786000",
 			"admission":"Free with Museum Admission",
@@ -3036,8 +3036,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-16T07:00:00.000Z",
-						"end_date_at":"2024-03-17T07:00:00.000Z",
+						"start_date_at":"2025-11-16T07:00:00.000Z",
+						"end_date_at":"2025-11-17T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"17:00"
 					}
@@ -3065,8 +3065,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-31T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-03-31T07:00:00.000Z",
+						"end_date_at":"2025-03-31T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"14:00"
 					}
@@ -3094,8 +3094,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-24T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-11-24T07:00:00.000Z",
+						"end_date_at":"2025-11-24T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"14:00"
 					}
@@ -3180,8 +3180,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-06T07:00:00.000Z",
-						"end_date_at":"2024-04-06T07:00:00.000Z",
+						"start_date_at":"2025-04-06T07:00:00.000Z",
+						"end_date_at":"2025-04-06T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"14:00"
 					}
@@ -3230,8 +3230,8 @@
 			"account": { "set": "12"},
 			"categories": { "set": ["1","6"] },
 			"title": "Ballet Arizona - Contemporary Moves",
-			"description":"Join Ballet Arizona March 28 through 31 for the return of its annual production, Contemporary Moves at Orpheum Theatre. Ballet Arizona will present a masterful program of four innovative works by Ib Andersen, Nayon Iovino, Alejandro Cerrudo and Paul Taylor. This year’s selection of contemporary ballets celebrates South America, from Brazil to Argentina, inspired by its music, landscapes and traditions.Contemporary Moves is a dance lover’s dream as this vibrant program features an evening of diverse short ballets, similar to a collection of short stories, from some of the most masterful choreographers of our time. Arizonans will experience the new and unexpected as Ballet Arizona presents Nayon Iovino’s Inner Layer, Alejandro Cerrudo’s Never Was, Paul Taylor’s Piazzola Caldera, and Ib Andersen’s Rio. Audiences will enjoy musical compositions from Philip Glass, Astor Piazzolla, Jerzy Peterburshsky and more.",
-			"weburl": "https://balletaz.org/performance/contemporary-moves/2024-03-28/",
+			"description":"Join Ballet Arizona November 27 through 30 for the return of its annual production, Contemporary Moves at Orpheum Theatre. Ballet Arizona will present a masterful program of four innovative works by Ib Andersen, Nayon Iovino, Alejandro Cerrudo and Paul Taylor. This year’s selection of contemporary ballets celebrates South America, from Brazil to Argentina, inspired by its music, landscapes and traditions.Contemporary Moves is a dance lover’s dream as this vibrant program features an evening of diverse short ballets, similar to a collection of short stories, from some of the most masterful choreographers of our time. Arizonans will experience the new and unexpected as Ballet Arizona presents Nayon Iovino’s Inner Layer, Alejandro Cerrudo’s Never Was, Paul Taylor’s Piazzola Caldera, and Ib Andersen’s Rio. Audiences will enjoy musical compositions from Philip Glass, Astor Piazzolla, Jerzy Peterburshsky and more.",
+			"weburl": "https://balletaz.org/performance/contemporary-moves/2025-11-27/",
 			"admission":"$35-169",
 			"date_rule_sets": {
 				"docs": [
@@ -3239,8 +3239,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-28T07:00:00.000Z",
-						"end_date_at":"2024-03-31T07:00:00.000Z",
+						"start_date_at":"2025-11-27T07:00:00.000Z",
+						"end_date_at":"2025-11-30T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -3269,8 +3269,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-07T07:00:00.000Z",
-						"end_date_at":"2024-03-07T07:00:00.000Z",
+						"start_date_at":"2025-11-07T07:00:00.000Z",
+						"end_date_at":"2025-11-07T07:00:00.000Z",
 						"start_time": "10:30",
 						"end_time":"11:30"
 					}
@@ -3300,8 +3300,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-24T07:00:00.000Z",
-						"end_date_at":"2024-01-24T07:00:00.000Z",
+						"start_date_at":"2025-06-24T07:00:00.000Z",
+						"end_date_at":"2025-06-24T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"19:00"
 					}
@@ -3329,8 +3329,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-05-12T07:00:00.000Z",
-						"end_date_at":"2024-05-12T07:00:00.000Z",
+						"start_date_at":"2025-05-12T07:00:00.000Z",
+						"end_date_at":"2025-05-12T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"14:00"
 					}
@@ -3360,8 +3360,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-13T07:00:00.000Z",
-						"end_date_at":"2024-04-13T07:00:00.000Z",
+						"start_date_at":"2025-04-13T07:00:00.000Z",
+						"end_date_at":"2025-04-13T07:00:00.000Z",
 						"start_time": "12:00",
 						"end_time":"19:00"
 					}
@@ -3391,8 +3391,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-04-28T07:00:00.000Z",
-						"end_date_at":"2024-04-28T07:00:00.000Z",
+						"start_date_at":"2025-04-28T07:00:00.000Z",
+						"end_date_at":"2025-04-28T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"17:00"
 					}
@@ -3422,8 +3422,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-05T07:00:00.000Z",
-						"end_date_at":"2024-01-07T07:00:00.000Z",
+						"start_date_at":"2025-06-05T07:00:00.000Z",
+						"end_date_at":"2025-06-07T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3453,8 +3453,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-01-26T07:00:00.000Z",
-						"end_date_at":"2024-01-28T07:00:00.000Z",
+						"start_date_at":"2025-05-26T07:00:00.000Z",
+						"end_date_at":"2025-05-28T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3484,8 +3484,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-09T07:00:00.000Z",
-						"end_date_at":"2024-02-11T07:00:00.000Z",
+						"start_date_at":"2025-08-09T07:00:00.000Z",
+						"end_date_at":"2025-08-11T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3515,8 +3515,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-23T07:00:00.000Z",
-						"end_date_at":"2024-02-25T07:00:00.000Z",
+						"start_date_at":"2025-08-23T07:00:00.000Z",
+						"end_date_at":"2025-08-25T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3546,8 +3546,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-08T07:00:00.000Z",
-						"end_date_at":"2024-03-10T07:00:00.000Z",
+						"start_date_at":"2025-11-08T07:00:00.000Z",
+						"end_date_at":"2025-11-10T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3577,8 +3577,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-22T07:00:00.000Z",
-						"end_date_at":"2024-03-24T07:00:00.000Z",
+						"start_date_at":"2025-11-22T07:00:00.000Z",
+						"end_date_at":"2025-11-24T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3608,8 +3608,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-03-29T07:00:00.000Z",
-						"end_date_at":"2024-03-30T07:00:00.000Z",
+						"start_date_at":"2025-11-29T07:00:00.000Z",
+						"end_date_at":"2025-11-30T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3639,8 +3639,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-12T07:00:00.000Z",
-						"end_date_at":"2024-04-14T07:00:00.000Z",
+						"start_date_at":"2025-04-12T07:00:00.000Z",
+						"end_date_at":"2025-04-14T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3670,8 +3670,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-26T07:00:00.000Z",
-						"end_date_at":"2024-04-28T07:00:00.000Z",
+						"start_date_at":"2025-04-26T07:00:00.000Z",
+						"end_date_at":"2025-04-28T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3701,8 +3701,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-05-10T07:00:00.000Z",
-						"end_date_at":"2024-05-12T07:00:00.000Z",
+						"start_date_at":"2025-05-10T07:00:00.000Z",
+						"end_date_at":"2025-05-12T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3732,8 +3732,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-05-17T07:00:00.000Z",
-						"end_date_at":"2024-05-18T07:00:00.000Z",
+						"start_date_at":"2025-05-17T07:00:00.000Z",
+						"end_date_at":"2025-05-18T07:00:00.000Z",
 						"start_time": "19:30",
 						"end_time":"22:30"
 					}
@@ -3763,8 +3763,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-10T07:00:00.000Z",
-						"end_date_at":"2024-02-10T07:00:00.000Z",
+						"start_date_at":"2025-08-10T07:00:00.000Z",
+						"end_date_at":"2025-08-10T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"14:00"
 					}
@@ -3794,8 +3794,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-29T07:00:00.000Z",
-						"end_date_at":"2024-02-29T07:00:00.000Z",
+						"start_date_at":"2025-08-29T07:00:00.000Z",
+						"end_date_at":"2025-08-29T07:00:00.000Z",
 						"start_time": "17:00",
 						"end_time":"18:15"
 					}
@@ -3823,8 +3823,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-02-17T07:00:00.000Z",
-						"end_date_at":"2024-02-17T07:00:00.000Z",
+						"start_date_at":"2025-08-17T07:00:00.000Z",
+						"end_date_at":"2025-08-17T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"14:00"
 					}
@@ -3842,7 +3842,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["3","4"] },
 			"title": "A Taste of AZ Food and Drink Festival at Salt River Fields",
-			"description":"<div class=elementor-element elementor-element-e73e91f e-flex e-con-boxed e-con data-id=e73e91f data-element_type=container data-settings={&quot;content_width&quot;:&quot;boxed&quot;}><div class=e-con-inner><div class=elementor-element elementor-element-8cd0d99 elementor-widget elementor-widget-text-editor data-id=8cd0d99 data-element_type=widget data-widget_type=text-editor.default><div class=elementor-widget-container>Join us for Arizona’s newest intimate food and drink festival in Scottsdale, Arizona!Mark your calendars for January 27, 2024, from 1:00 pm to 6:00 pm, and make your way to the Salt River Fields East Lawn where food and drink, live music, and more awaits. Indulge in an array of samples including tacos, burgers, beer, wine, and cocktails!</div></div></div></div><div class=elementor-element elementor-element-642772a elementor-align-center elementor-widget elementor-widget-button data-id=642772a data-element_type=widget data-widget_type=button.default><div class=elementor-widget-container><div class=elementor-button-wrapper></div></div></div>",
+			"description":"<div class=elementor-element elementor-element-e73e91f e-flex e-con-boxed e-con data-id=e73e91f data-element_type=container data-settings={&quot;content_width&quot;:&quot;boxed&quot;}><div class=e-con-inner><div class=elementor-element elementor-element-8cd0d99 elementor-widget elementor-widget-text-editor data-id=8cd0d99 data-element_type=widget data-widget_type=text-editor.default><div class=elementor-widget-container>Join us for Arizona’s newest intimate food and drink festival in Scottsdale, Arizona!Mark your calendars for May 27, 2025, from 1:00 pm to 6:00 pm, and make your way to the Salt River Fields East Lawn where food and drink, live music, and more awaits. Indulge in an array of samples including tacos, burgers, beer, wine, and cocktails!</div></div></div></div><div class=elementor-element elementor-element-642772a elementor-align-center elementor-widget elementor-widget-button data-id=642772a data-element_type=widget data-widget_type=button.default><div class=elementor-widget-container><div class=elementor-button-wrapper></div></div></div>",
 			"weburl": "https://atasteofaz.com/food-and-drink-festival-in-scottsdale-arizona/",
 			"doors_open":"13:00:00",
 			"date_rule_sets": {
@@ -3851,8 +3851,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-27T07:00:00.000Z",
-						"end_date_at":"2024-01-27T07:00:00.000Z",
+						"start_date_at":"2025-05-27T07:00:00.000Z",
+						"end_date_at":"2025-05-27T07:00:00.000Z",
 						"start_time": "13:00",
 						"end_time":"18:00"
 					}
@@ -3880,8 +3880,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-16T07:00:00.000Z",
-						"end_date_at":"2024-03-16T07:00:00.000Z",
+						"start_date_at":"2025-11-16T07:00:00.000Z",
+						"end_date_at":"2025-11-16T07:00:00.000Z",
 						"start_time": "19:00",
 						"end_time":"21:00"
 					}
@@ -3899,7 +3899,7 @@
 			"account": { "set": "33"},
 			"categories": { "set": ["1","3"] },
 			"title": "Junk in the Trunk Vintage Market",
-			"description":"The much-anticipated Junk in the Trunk Vintage Market is set to make its return to WestWorld in Scottsdale from April 26 to 28, 2024. This semi-annual shopping experience is a highlight for shoppers, showcasing an array of local small businesses, creative handmade artisans and a vast selection of one-of-a-kind vintage items and antiques. Spread across over 120,000 square feet, the market features over 160 small business vendors from across the country. Offering everything from trendy apparel and exquisite jewelry to one-of-a-kind antiques, furniture, vintage treasures and home decor, Junk in the Trunk Vintage Market continues to attract thousands of shopping enthusiasts from the Southwest and beyond.Junk in the Trunk Vintage Market offers an extensive variety of items catering to diverse tastes and needs. Attendees can explore a wide range of products including art, rugs, jewelry, candles and unique items in modern, industrial, shabby-chic and vintage styles. The market provides an ideal shopping destination for those looking to find special pieces for their homes, graduation gifts, Mother’s Day gifts, and maybe a little something to treat yourself. Beyond the shopping experience, the event is a hub of entertainment with live music and a selection of food trucks, creating a vibrant and enjoyable atmosphere for everyone throughout the weekend.Junk in the Trunk Vintage Market will be held April 26-28, 2024 at WestWorld, 16601 North Pima Road in Scottsdale. Ticket prices range from $8.00 (GA) to $60.00 (VIP). All tickets are available for purchase online ahead of the Market.TICKET INFORMATION:VIP, Early Entry and General Admission tickets go on sale February 15th at junkinthetrunkvintagemarket.com; tickets will also be available for purchase at the gate.The Friday night shopping VIP event will be on Friday, April 26 from 4-9 p.m.: $50.00 in advance and $60 at the gate on the day of the event.Early Entry tickets (8-10 a.m. Saturday, April 27) are $25.00 in advance and $30 at the gate on the day of the event.General Admission tickets (10 a.m.-3 p.m. Saturday & Sunday, April 27 & 28) are $8.00 in advance and $10 at the gate on the day of the event.Veterans and active Military receive $1.00 off their ticket purchased at the gate.Wear official Junk in the Trunk Vintage Market apparel for $1.00 discount, at the gate only.Kids 12 and under are free.Venue charges for parking – $10.00 per vehicle. Please plan to carpool. Tickets are available to purchase online at the discounted rate from February 15th-April 24th.",
+			"description":"The much-anticipated Junk in the Trunk Vintage Market is set to make its return to WestWorld in Scottsdale from April 26 to 28, 2025. This semi-annual shopping experience is a highlight for shoppers, showcasing an array of local small businesses, creative handmade artisans and a vast selection of one-of-a-kind vintage items and antiques. Spread across over 120,000 square feet, the market features over 160 small business vendors from across the country. Offering everything from trendy apparel and exquisite jewelry to one-of-a-kind antiques, furniture, vintage treasures and home decor, Junk in the Trunk Vintage Market continues to attract thousands of shopping enthusiasts from the Southwest and beyond.Junk in the Trunk Vintage Market offers an extensive variety of items catering to diverse tastes and needs. Attendees can explore a wide range of products including art, rugs, jewelry, candles and unique items in modern, industrial, shabby-chic and vintage styles. The market provides an ideal shopping destination for those looking to find special pieces for their homes, graduation gifts, Mother’s Day gifts, and maybe a little something to treat yourself. Beyond the shopping experience, the event is a hub of entertainment with live music and a selection of food trucks, creating a vibrant and enjoyable atmosphere for everyone throughout the weekend.Junk in the Trunk Vintage Market will be held April 26-28, 2025 at WestWorld, 16601 North Pima Road in Scottsdale. Ticket prices range from $8.00 (GA) to $60.00 (VIP). All tickets are available for purchase online ahead of the Market.TICKET INFORMATION:VIP, Early Entry and General Admission tickets go on sale February 15th at junkinthetrunkvintagemarket.com; tickets will also be available for purchase at the gate.The Friday night shopping VIP event will be on Friday, April 26 from 4-9 p.m.: $50.00 in advance and $60 at the gate on the day of the event.Early Entry tickets (8-10 a.m. Saturday, April 27) are $25.00 in advance and $30 at the gate on the day of the event.General Admission tickets (10 a.m.-3 p.m. Saturday & Sunday, April 27 & 28) are $8.00 in advance and $10 at the gate on the day of the event.Veterans and active Military receive $1.00 off their ticket purchased at the gate.Wear official Junk in the Trunk Vintage Market apparel for $1.00 discount, at the gate only.Kids 12 and under are free.Venue charges for parking – $10.00 per vehicle. Please plan to carpool. Tickets are available to purchase online at the discounted rate from February 15th-April 24th.",
 			"weburl": "https://junkinthetrunkvintagemarket.com/markets/scottsdale-market/",
 			"email":"info@junkinthetrunkvintagemarket.com",
 			"phone":"+14806964018",
@@ -3911,8 +3911,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-04-26T07:00:00.000Z",
-						"end_date_at":"2024-04-28T07:00:00.000Z",
+						"start_date_at":"2025-04-26T07:00:00.000Z",
+						"end_date_at":"2025-04-28T07:00:00.000Z",
 						"start_time": "10:00",
 						"end_time":"15:00"
 					}
@@ -3941,8 +3941,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-16T07:00:00.000Z",
-						"end_date_at":"2024-03-09T07:00:00.000Z",
+						"start_date_at":"2025-09-16T07:00:00.000Z",
+						"end_date_at":"2025-09-09T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"22:00"
 					}
@@ -3970,8 +3970,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-02T07:00:00.000Z",
-						"end_date_at":"2024-03-02T07:00:00.000Z",
+						"start_date_at":"2025-11-02T07:00:00.000Z",
+						"end_date_at":"2025-11-02T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"10:00"
 					}
@@ -3989,7 +3989,7 @@
 			"account": { "set": "47"},
 			"categories": { "set": ["3","4"] },
 			"title": "Arizona Nom Nom Noodles Festival",
-			"description":"The 2nd Annual Nom Nom Noodles Festival will be held on Jan. 27 at Centennial Plaza Park in Peoria. Follow Arizona Nom Nom Noodles Festival to be kept up to date or on Instagram @aznomnomnoodles.The Arizona Nom Nom Noodles Festival will have over ten local food businesses at this Asian food festival. You can also try different noodles from various cultures such as yakisoba, expanding the footprint of globally inspired food festivals in Arizona. We specialize in food events that highlight ethnic diversity.Our goal is to show more than fair type of food and help small businesses grow. Our events are also a place for people to discover new foods and try new items. We strongly believe in creativity such as fusion foods like ice cream bao. We also believe creativity stems from ethnic diversity. For example, a previous food vendor created their own version of cha siu bao. Cha siu bao is a traditional baked or steamed bun with a fluffy milk bread and sweet BBQ pork inside. They created a smoked version and uses smoked pork belly as the filling. This is also what we consider the creativity bedrock and for businesses to experiment and create fusion flavors. Our goal for these food events is to discover new foods and foster creativity.",
+			"description":"The 2nd Annual Nom Nom Noodles Festival will be held on May 27 at Centennial Plaza Park in Peoria. Follow Arizona Nom Nom Noodles Festival to be kept up to date or on Instagram @aznomnomnoodles.The Arizona Nom Nom Noodles Festival will have over ten local food businesses at this Asian food festival. You can also try different noodles from various cultures such as yakisoba, expanding the footprint of globally inspired food festivals in Arizona. We specialize in food events that highlight ethnic diversity.Our goal is to show more than fair type of food and help small businesses grow. Our events are also a place for people to discover new foods and try new items. We strongly believe in creativity such as fusion foods like ice cream bao. We also believe creativity stems from ethnic diversity. For example, a previous food vendor created their own version of cha siu bao. Cha siu bao is a traditional baked or steamed bun with a fluffy milk bread and sweet BBQ pork inside. They created a smoked version and uses smoked pork belly as the filling. This is also what we consider the creativity bedrock and for businesses to experiment and create fusion flavors. Our goal for these food events is to discover new foods and foster creativity.",
 			"weburl": "https://www.tickettailor.com/events/nomnomnoodles/963067?ref=pr",
 			"email":"aznomnomnoodles@gmail.com",
 			"admission":"$5-$35",
@@ -4000,8 +4000,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-01-27T07:00:00.000Z",
-						"end_date_at":"2024-01-27T07:00:00.000Z",
+						"start_date_at":"2025-05-27T07:00:00.000Z",
+						"end_date_at":"2025-05-27T07:00:00.000Z",
 						"start_time": "11:00",
 						"end_time":"17:00"
 					}
@@ -4020,7 +4020,7 @@
 			"categories": { "set": ["4"] },
 			"title": "Roars and Pours",
 			"description":"Guests 21 and older can sip and stroll select Zoo trails while enjoying craft brews, wine and food. Plus, animal encounters, yard games, live music, entertainment and more!The Habit Burger Grill food truck will also be on site serving up delicious bites in a food truck take over of Roars & Pours!",
-			"weburl": "https://www.phoenixzoo.org/events/roars-pours-march-7-2024/",
+			"weburl": "https://www.phoenixzoo.org/events/roars-pours-december-7-2025/",
 			"email":"communications@phoenixzoo.org",
 			"phone":"+16022863800",
 			"admission":"$10 per person (must be 21+ with a valid ID)",
@@ -4031,8 +4031,8 @@
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at":"2024-03-07T07:00:00.000Z",
-						"end_date_at":"2024-03-07T07:00:00.000Z",
+						"start_date_at":"2025-12-07T07:00:00.000Z",
+						"end_date_at":"2025-12-07T07:00:00.000Z",
 						"start_time": "17:30",
 						"end_time":"20:30"
 					}
@@ -4059,8 +4059,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-10-04T07:00:00.000Z",
-						"end_date_at":"2024-10-06T07:00:00.000Z",
+						"start_date_at":"2025-10-04T07:00:00.000Z",
+						"end_date_at":"2025-10-06T07:00:00.000Z",
 						"start_time": "10:00"
 					}
 				]
@@ -4093,7 +4093,7 @@
 						"interval": 1,
 						"end_option_id": "occurrences",
 						"frequency_id": "weekly",
-						"start_date_at": "2024-01-05T07:00:00.000Z",
+						"start_date_at": "2025-05-09T07:00:00.000Z",
 						"start_time": "13:00",
 						"end_time": "16:00"
 					}
@@ -4103,8 +4103,8 @@
 			"offers": { "set": "2" },
 			"phone": "+15205555555",
 			"rank": { "set": "1" },
-			"post_from_at": "2024-01-18T07:00:00.000Z",
-			"post_to_at": "2024-01-30T07:00:00.000Z",
+			"post_from_at": "2025-05-18T07:00:00.000Z",
+			"post_to_at": "2025-05-30T07:00:00.000Z",
 			"social_facebook": "4thstreetmarkets",
 			"social_instagram": "4thstreetmarkets",
 			"social_tiktok": "@4thstreetmarkets",
@@ -4124,14 +4124,14 @@
 			"account": { "set": "2" },
 			"categories": { "set": ["1", "2", "5", "3", "4"] },
 			"channels": { "set": ["1"] },
-			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nFriday, March 8, 4:00 PM to 6:00 PM\n\nLorem ipsum.",
+			"description": "\"Wildlife Wonders\" is a juried exhibition of members of the Society of Animal Artists. Sixty original works by international artists, each a testament to the endless diversity of wildlife. From intricate sculptures to vibrant paintings, this collection heralds the wonders that inhabit our planet, from the smallest insects and birds to majestic predators.\n\nThese art works celebrate the natural world and help us see its beauty and resilience. They also serve to call our attention to the need for conservation.\n\nThe Society of Animal Artists (SAA) is an international organization for artists who paint, sculpt, or draw animals and wildlife, founded in 1960. \n\nOpening Art Reception \nMonday, December 8, 4:00 PM to 6:00 PM\n\nLorem ipsum.",
 			"date_rule_sets": {
 				"docs": [
 					{
 						"interval": null,
 						"end_option_id": null,
 						"frequency_id": "single_date",
-						"start_date_at": "2024-03-08T07:00:00.000Z",
+						"start_date_at": "2025-12-08T07:00:00.000Z",
 						"start_time": "04:00",
 						"end_time": "18:00"
 					},
@@ -4139,9 +4139,9 @@
 						"interval": 1,
 						"end_option_id": null,
 						"frequency_id": "daily",
-						"start_date_at": "2024-03-09T07:00:00.000Z",
+						"start_date_at": "2025-12-09T07:00:00.000Z",
 						"start_time": "10:00",
-						"end_date_at": "2024-06-09T07:00:00.000Z",
+						"end_date_at": "2026-01-09T07:00:00.000Z",
 						"end_time": "16:00"
 					}
 				]
@@ -4158,7 +4158,7 @@
 			"email": "arts@desertmuseum.org",
 			"phone": "+15205555555",
 			"rank": { "set": "1" },
-			"post_from_at": "2024-03-02T07:00:00.000Z",
+			"post_from_at": "2025-12-02T07:00:00.000Z",
 			"approval_status": { "set": "draft" },
 			"approval_parent": { "set": "4" }
 		},
@@ -4175,8 +4175,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-04T07:00:00.000Z",
-						"end_date_at":"2024-02-12T07:00:00.000Z",
+						"start_date_at":"2025-09-04T07:00:00.000Z",
+						"end_date_at":"2025-09-12T07:00:00.000Z",
 						"start_time": "09:00"
 					}
 				]
@@ -4195,7 +4195,7 @@
 			"account": { "set": "6"},
 			"categories": { "set": ["3","4"] },
 			"title": "Glendale Chocolates Affaire",
-			"description":" The Chocolates Affaire is the premiere event for chocolate lovers everywhere on February 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun!",
+			"description":" The Chocolates Affaire is the premiere event for chocolate lovers everywhere on September 17 & 18 from 10 am to 5 pm. The event brings unique chocolate experiences to the City of Glendale full of chocolatiers, wine tastings, lawn games and family-friendly fun!",
 			"weburl": "https://thechocolateaffaire.com/",
 			"admission":"Free",
 			"doors_open":"09:00:00",
@@ -4205,8 +4205,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-15T07:00:00.000Z",
-						"end_date_at":"2024-02-20T07:00:00.000Z",
+						"start_date_at":"2025-09-15T07:00:00.000Z",
+						"end_date_at":"2025-09-20T07:00:00.000Z",
 						"start_time": "08:00",
 						"end_time":"16:00"
 					}
@@ -4235,8 +4235,8 @@
 						"interval": 1,
 						"end_option_id": "date",
 						"frequency_id": "daily",
-						"start_date_at":"2024-02-12T07:00:00.000Z",
-						"end_date_at":"2024-02-26T07:00:00.000Z",
+						"start_date_at":"2025-09-12T07:00:00.000Z",
+						"end_date_at":"2025-09-26T07:00:00.000Z",
 						"start_time": "09:00",
 						"end_time":"18:00"
 					}
