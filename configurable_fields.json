@@ -83,6 +83,14 @@
 		{
 			"label": "Address",
 			"type_id": "addressSingle"
+		},
+		{
+			"label": "Email",
+			"type_id": "email"
+		},
+		{
+			"label": "Yes/No Radio",
+			"type_id": "yesNoRadio"
 		}
 	]
 }
