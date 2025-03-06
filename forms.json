@@ -2,15 +2,6 @@
 	"model": "forms",
 	"data": [
 		{
-			"title": "Visitor Guide Request",
-			"type_id": "contact",
-			"is_posted_on_website":true,
-			"is_active":true,
-			"response_url":"https://simpleviewinc.com",
-			"response_text":"Check out the website for more information",
-			"is_deleted": false
-		},
-		{
 			"title": "Newsletter Sign Up",
 			"type_id": "contact",
 			"is_posted_on_website":true,
