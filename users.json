@@ -8,6 +8,14 @@
 			"email_address": "jfrazierqa@gmail.com",
 			"type_id": "portal",
 			"is_auth_active": true
+		},
+		{
+			"user_id": "67cb44845bb2c3c910e1285c",
+			"first_name": "Anthony",
+			"last_name": "Glazebrook-Portal",
+			"email_address": "anthony.glazebrook+portal@gmail.com",
+			"type_id": "portal",
+			"is_auth_active": true
 		}
 	]
 }

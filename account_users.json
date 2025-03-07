@@ -10,6 +10,17 @@
 			"roles": {
 				"set": ["5"]
 			}
+		},
+		{
+			"account_id": "13",
+			"user_id": "67cb44845bb2c3c910e1285c",
+			"first_name": "Anthony",
+			"last_name": "Glazebrook-Portal",
+			"title": "Doctor",
+			"roles": {
+				"set": ["5"]
+			}
 		}
+
 	]
 }
