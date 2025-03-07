@@ -281,6 +281,24 @@
 			"is_shown_in_portal": true
 		},
 		{
+			"configurable_field_id": "15",
+			"module": "listings",
+			"name": "address",
+			"label": "Address Field"
+		},
+		{
+			"configurable_field_id": "16",
+			"module": "listings",
+			"name": "email",
+			"label": "Email Field"
+		},
+		{
+			"configurable_field_id": "17",
+			"module": "listings",
+			"name": "yes_no_radio",
+			"label": "Yes/No Radio"
+		},
+		{
 			"configurable_field_id": "1",
 			"module": "meeting_facilities",
 			"name": "text_portal",
