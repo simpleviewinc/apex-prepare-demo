@@ -1,0 +1,12 @@
+{
+	"name": "apex-prepare-demo",
+	"dependencies": {
+		"@tsconfig/node20": "20.1.5",
+		"date-fns": "4.1.0",
+		"ts-node": "10.9.2",
+		"typescript": "5.8.2"
+	},
+	"scripts": {
+		"generate-inquiries": "ts-node src/generateInquiries.ts"
+	}
+}
