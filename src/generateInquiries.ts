@@ -10,7 +10,7 @@ function getRandomIntInclusive(min: number, max: number) {
 }
 
 /** Choose a random entry from an array */
-function randEntry(arr: any[]) {
+function randEntry<T>(arr: T[]): T {
 	return arr[getRandomIntInclusive(0, arr.length - 1)];
 }
 
@@ -24,6 +24,21 @@ function weightedArray<T extends string | number>(obj: Map<T, number>) {
 	return arr;
 }
 
+const usedEmails = new Set<string>();
+function getUniqueEmail(first_name: string, last_name: string) {
+	let i = 0;
+	while (true) {
+		const email = `${first_name.toLowerCase()}.${last_name.toLowerCase()}_${i}@fakeemail.com`
+		
+		if (!usedEmails.has(email)) {
+			usedEmails.add(email);
+			return email;
+		}
+		
+		i++;
+	}
+}
+
 const BROCHURE_PER_CONTACT_MIN = 0;
 const BROCHURE_PER_CONTACT_MAX = 4;
 const BROCHURE_TOTAL = 4;
@@ -31,6 +46,10 @@ const BROCHURE_TOTAL = 4;
 const INTEREST_PER_CONTACT_MIN = 0;
 const INTEREST_PER_CONTACT_MAX = 3;
 const INTEREST_TOTAL = 8;
+
+const HAS_EMAIL_CHANCE = .7;
+const HAS_ADDRESS_CHANCE = .9;
+const IS_SEND_EMAIL_CHANCE = .4;
 
 const addressDirections = ["N", "S", "E", "W"];
 
@@ -291,6 +310,13 @@ interface Contact {
 	addresses?: {
 		docs: Address[]
 	}
+	groups?: {
+		set: string[]
+	}
+	emails?: {
+		docs: Email[]
+	}
+	is_send_email: boolean
 }
 
 interface Address {
@@ -315,6 +341,12 @@ interface Inquiry {
 	brochures?: {
 		set: string[]
 	}
+}
+
+interface Email {
+	email_address: string
+	is_primary: boolean
+	email_type_id: string
 }
 
 const contacts: Contact[] = [];
@@ -364,7 +396,7 @@ for (let i = 0; i < 500; i++) {
 		});
 	}
 
-	const hasAddress = Math.random() > .3;
+	const hasAddress = HAS_ADDRESS_CHANCE > Math.random();
 	const addresses: Address[] = [];
 	if (hasAddress) {
 		const state_id = randEntry(stateOptions);
@@ -383,11 +415,27 @@ for (let i = 0; i < 500; i++) {
 		});
 	}
 
+	const hasEmail = HAS_EMAIL_CHANCE > Math.random();
+	const emails: Email[] = [];
+	if (hasEmail) {
+		const email_address = getUniqueEmail(first_name, last_name);
+		emails.push({
+			email_address,
+			email_type_id: "personal",
+			is_primary: true
+		});
+	}
+
 	contacts.push({
+		groups: {
+			set: ["2"]
+		},
 		first_name,
 		last_name,
 		inquiries: inquiries.length > 0 ? { docs: inquiries } : undefined,
-		addresses: addresses.length > 0 ? { docs: addresses } : undefined
+		addresses: addresses.length > 0 ? { docs: addresses } : undefined,
+		emails: emails.length > 0 ? { docs: emails } : undefined,
+		is_send_email: emails.length > 0 && IS_SEND_EMAIL_CHANCE > Math.random()
 	});
 }
 
