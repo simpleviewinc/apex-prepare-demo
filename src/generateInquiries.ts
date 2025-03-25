@@ -2,16 +2,19 @@ import fs from "fs";
 import { add } from "date-fns/add";
 import { ok } from "assert";
 
+/** Generate a random number between min and max inclusive */
 function getRandomIntInclusive(min: number, max: number) {
 	const minCeiled = Math.ceil(min);
 	const maxFloored = Math.floor(max);
 	return Math.floor(Math.random() * (maxFloored - minCeiled + 1) + minCeiled); // The maximum is inclusive and the minimum is inclusive
 }
 
+/** Choose a random entry from an array */
 function randEntry(arr: any[]) {
 	return arr[getRandomIntInclusive(0, arr.length - 1)];
 }
 
+/** Using a map of keys and count it will generate an array with that number of instances of each key so that a random pick will be weighted */
 function weightedArray<T extends string | number>(obj: Map<T, number>) {
 	const arr: T[] = [];
 	for (const [key, val] of obj) {
