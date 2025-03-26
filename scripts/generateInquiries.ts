@@ -2,9 +2,11 @@ import fs from "fs";
 import { add } from "date-fns/add";
 import { ok } from "assert";
 import weightedArray from "../src/weightedArray";
-import randEntry from "../src/randEntry";
-import getRandomIntInclusive from "../src/getRandomIntInclusive";
-import getRandomSet from "../src/getRandomSet";
+import RandomUtils from "../src/RandomUtils";
+
+const CONTACT_COUNT = 500;
+const INQUIRY_MIN = 0;
+const INQUIRY_MAX = 3;
 
 const BROCHURE_PER_CONTACT_MIN = 0;
 const BROCHURE_PER_CONTACT_MAX = 4;
@@ -356,20 +358,24 @@ interface Email {
 
 const contacts: Contact[] = [];
 
-for (let i = 0; i < 500; i++) {
-	const first_name = randEntry(firstNames);
-	const last_name = randEntry(lastNames);
+for (let i = 0; i < CONTACT_COUNT; i++) {
+	const cr = new RandomUtils((100 * i).toString());
 
-	const inquiryCount = getRandomIntInclusive(0, 3);
+	const first_name = cr.randEntry(firstNames);
+	const last_name = cr.randEntry(lastNames);
+
+	const inquiryCount = cr.getRandomIntInclusive(INQUIRY_MIN, INQUIRY_MAX);
 	const inquiries: Inquiry[] = [];
 
-	for (let i = 0; i < inquiryCount; i++) {
-		const year = getRandomIntInclusive(2023, 2025);
-		const month = randEntry(monthOptions);
-		const day = getRandomIntInclusive(1, 27);
+	for (let j = 0; j < inquiryCount; j++) {
+		const r = new RandomUtils((100 * i + j).toString());
+
+		const year = r.getRandomIntInclusive(2023, 2025);
+		const month = r.randEntry(monthOptions);
+		const day = r.getRandomIntInclusive(1, 27);
 		
 		const arrival_date_at = new Date(year, month - 1, day);
-		const dateSubtract = -getRandomIntInclusive(5, 90);
+		const dateSubtract = -r.getRandomIntInclusive(5, 90);
 		const date_at = add(arrival_date_at, { days: dateSubtract });
 
 		// drop inquiries that happen to occur greater than now
@@ -377,41 +383,41 @@ for (let i = 0; i < 500; i++) {
 			continue;
 		}
 
-		const interests = getRandomSet(INTEREST_PER_CONTACT_MIN, INTEREST_PER_CONTACT_MAX, INTEREST_TOTAL);
-		const brochures = getRandomSet(BROCHURE_PER_CONTACT_MIN, BROCHURE_PER_CONTACT_MAX, BROCHURE_TOTAL);
-		const regions = getRandomSet(REGION_PER_INQUIRY_MIN, REGION_PER_INQUIRY_MAX, REGION_TOTAL);
+		const interests = r.getRandomSet(INTEREST_PER_CONTACT_MIN, INTEREST_PER_CONTACT_MAX, INTEREST_TOTAL);
+		const brochures = r.getRandomSet(BROCHURE_PER_CONTACT_MIN, BROCHURE_PER_CONTACT_MAX, BROCHURE_TOTAL);
+		const regions = r.getRandomSet(REGION_PER_INQUIRY_MIN, REGION_PER_INQUIRY_MAX, REGION_TOTAL);
 
 		inquiries.push({
 			type_id: "5",
 			date_at: date_at.toISOString(),
 			arrival_date_at: arrival_date_at.toISOString(),
-			comments: randEntry(comments),
-			visitor_number: getRandomIntInclusive(VISITOR_NUMBER_MIN, VISITOR_NUMBER_MAX),
-			stay_length: getRandomIntInclusive(STAY_LENGTH_MIN, STAY_LENGTH_MAX),
+			comments: r.randEntry(comments),
+			visitor_number: r.getRandomIntInclusive(VISITOR_NUMBER_MIN, VISITOR_NUMBER_MAX),
+			stay_length: r.getRandomIntInclusive(STAY_LENGTH_MIN, STAY_LENGTH_MAX),
 			interests: interests.length > 0 ? { set: interests } : undefined,
 			brochures: brochures.length > 0 ? { set: brochures } : undefined,
 			custom: {
 				doc: {
-					how_did_you_hear: randEntry(howDidYouHear),
+					how_did_you_hear: r.randEntry(howDidYouHear),
 					regions: regions.length > 0 ? { set: regions } : undefined,
-					is_newsletter: NEWSLETTER_CHANCE > Math.random(),
-					is_visited_before: VISITED_BEFORE_CHANCE > Math.random()
+					is_newsletter: NEWSLETTER_CHANCE > r.random(),
+					is_visited_before: VISITED_BEFORE_CHANCE > r.random()
 				}
 			}
 		});
 	}
 
-	const hasAddress = HAS_ADDRESS_CHANCE > Math.random();
+	const hasAddress = HAS_ADDRESS_CHANCE > cr.random();
 	const addresses: Address[] = [];
 	if (hasAddress) {
-		const state_id = randEntry(stateOptions);
+		const state_id = cr.randEntry(stateOptions);
 		const stateInfo = stateData.get(state_id);
 		ok(stateInfo);
-		const city = randEntry(stateInfo.cities);
-		const postal_code = randEntry(stateInfo.zipCodes);
+		const city = cr.randEntry(stateInfo.cities);
+		const postal_code = cr.randEntry(stateInfo.zipCodes);
 
 		addresses.push({
-			address_line_1: `${getRandomIntInclusive(1000, 15000)} ${randEntry(addressDirections)} ${randEntry(streetNames)}`,
+			address_line_1: `${cr.getRandomIntInclusive(1000, 15000)} ${cr.randEntry(addressDirections)} ${cr.randEntry(streetNames)}`,
 			state_id,
 			city,
 			postal_code,
@@ -420,7 +426,7 @@ for (let i = 0; i < 500; i++) {
 		});
 	}
 
-	const hasEmail = HAS_EMAIL_CHANCE > Math.random();
+	const hasEmail = HAS_EMAIL_CHANCE > cr.random();
 	const emails: Email[] = [];
 	if (hasEmail) {
 		const email_address = getUniqueEmail(first_name, last_name);
@@ -440,7 +446,7 @@ for (let i = 0; i < 500; i++) {
 		inquiries: inquiries.length > 0 ? { docs: inquiries } : undefined,
 		addresses: addresses.length > 0 ? { docs: addresses } : undefined,
 		emails: emails.length > 0 ? { docs: emails } : undefined,
-		is_send_email: emails.length > 0 && IS_SEND_EMAIL_CHANCE > Math.random()
+		is_send_email: emails.length > 0 && IS_SEND_EMAIL_CHANCE > cr.random()
 	});
 }
 

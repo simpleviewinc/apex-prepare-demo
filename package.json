@@ -3,10 +3,12 @@
 	"dependencies": {
 		"@tsconfig/node20": "20.1.5",
 		"date-fns": "4.1.0",
+		"seed-random": "2.2.0",
 		"ts-node": "10.9.2",
 		"typescript": "5.8.2"
 	},
 	"scripts": {
+		"generate-events": "ts-node scripts/generateEvents.ts",
 		"generate-inquiries": "ts-node scripts/generateInquiries.ts"
 	}
 }
