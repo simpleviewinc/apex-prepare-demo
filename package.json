@@ -7,6 +7,6 @@
 		"typescript": "5.8.2"
 	},
 	"scripts": {
-		"generate-inquiries": "ts-node src/generateInquiries.ts"
+		"generate-inquiries": "ts-node scripts/generateInquiries.ts"
 	}
 }

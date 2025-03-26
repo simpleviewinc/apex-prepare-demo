@@ -1,54 +1,10 @@
 import fs from "fs";
 import { add } from "date-fns/add";
 import { ok } from "assert";
-
-/** Generate a random number between min and max inclusive */
-function getRandomIntInclusive(min: number, max: number) {
-	const minCeiled = Math.ceil(min);
-	const maxFloored = Math.floor(max);
-	return Math.floor(Math.random() * (maxFloored - minCeiled + 1) + minCeiled); // The maximum is inclusive and the minimum is inclusive
-}
-
-/** Choose a random entry from an array */
-function randEntry<T>(arr: T[]): T {
-	return arr[getRandomIntInclusive(0, arr.length - 1)];
-}
-
-/** Using a map of keys and count it will generate an array with that number of instances of each key so that a random pick will be weighted */
-function weightedArray<T extends string | number>(obj: Map<T, number>) {
-	const arr: T[] = [];
-	for (const [key, val] of obj) {
-		arr.push(...new Array(val).fill(key));
-	}
-
-	return arr;
-}
-
-const usedEmails = new Set<string>();
-function getUniqueEmail(first_name: string, last_name: string) {
-	let i = 0;
-	while (true) {
-		const email = `${first_name.toLowerCase()}.${last_name.toLowerCase()}_${i}@fakeemail.com`
-		
-		if (!usedEmails.has(email)) {
-			usedEmails.add(email);
-			return email;
-		}
-		
-		i++;
-	}
-}
-
-/** Generate an array of entries of random length between min/max inclusive with random values between 1 and total */
-function getRandomSet(min: number, max: number, total: number) {
-	const count = getRandomIntInclusive(min, max);
-	const items: string[] = [];
-	for (let i = 0; i < count; i++) {
-		items.push(getRandomIntInclusive(1, total).toString());
-	}
-
-	return items;
-}
+import weightedArray from "../src/weightedArray";
+import randEntry from "../src/randEntry";
+import getRandomIntInclusive from "../src/getRandomIntInclusive";
+import getRandomSet from "../src/getRandomSet";
 
 const BROCHURE_PER_CONTACT_MIN = 0;
 const BROCHURE_PER_CONTACT_MAX = 4;
@@ -73,6 +29,21 @@ const HAS_ADDRESS_CHANCE = .9;
 const IS_SEND_EMAIL_CHANCE = .4;
 const NEWSLETTER_CHANCE = .3;
 const VISITED_BEFORE_CHANCE = .2;
+
+const usedEmails = new Set<string>();
+function getUniqueEmail(first_name: string, last_name: string) {
+	let i = 0;
+	while (true) {
+		const email = `${first_name.toLowerCase()}.${last_name.toLowerCase()}_${i}@fakeemail.com`
+		
+		if (!usedEmails.has(email)) {
+			usedEmails.add(email);
+			return email;
+		}
+		
+		i++;
+	}
+}
 
 const addressDirections = ["N", "S", "E", "W"];
 
