@@ -8,6 +8,7 @@
 		"typescript": "5.8.2"
 	},
 	"scripts": {
+		"generate-events": "ts-node scripts/generateEvents.ts",
 		"generate-inquiries": "ts-node scripts/generateInquiries.ts"
 	}
 }
