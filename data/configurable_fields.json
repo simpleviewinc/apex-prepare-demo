@@ -91,6 +91,11 @@
 		{
 			"label": "Yes/No Radio",
 			"type_id": "yesNoRadio"
+		},
+		{
+			"label": "Regions",
+			"type_id": "checkbox",
+			"options_module_id": "regions"
 		}
 	]
 }

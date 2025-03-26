@@ -156,8 +156,26 @@
 		{
 			"configurable_field_id": "1",
 			"module": "inquiries",
-			"name": "text",
-			"label": "Text Field"
+			"name": "how_did_you_hear",
+			"label": "How did you hear about us?"
+		},
+		{
+			"configurable_field_id": "18",
+			"module": "inquiries",
+			"name": "regions",
+			"label": "Regions of Interest"
+		},
+		{
+			"configurable_field_id": "17",
+			"module": "inquiries",
+			"name": "newsletter",
+			"label": "Would you like to subscribe to our newsletter?"
+		},
+		{
+			"configurable_field_id": "17",
+			"module": "inquiries",
+			"name": "visited_before",
+			"label": "Have you visited us before?"
 		},
 		{
 			"configurable_field_id": "1",
@@ -255,13 +273,6 @@
 		{
 			"configurable_field_id": "1",
 			"module": "account_images",
-			"name": "text_portal",
-			"label": "Text Field - Portal",
-			"is_shown_in_portal": true
-		},
-		{
-			"configurable_field_id": "1",
-			"module": "inquiries",
 			"name": "text_portal",
 			"label": "Text Field - Portal",
 			"is_shown_in_portal": true

@@ -39,6 +39,17 @@ function getUniqueEmail(first_name: string, last_name: string) {
 	}
 }
 
+/** Generate an array of entries of random length between min/max inclusive with random values between 1 and total */
+function getRandomSet(min: number, max: number, total: number) {
+	const count = getRandomIntInclusive(min, max);
+	const items: string[] = [];
+	for (let i = 0; i < count; i++) {
+		items.push(getRandomIntInclusive(1, total).toString());
+	}
+
+	return items;
+}
+
 const BROCHURE_PER_CONTACT_MIN = 0;
 const BROCHURE_PER_CONTACT_MAX = 4;
 const BROCHURE_TOTAL = 4;
@@ -47,9 +58,21 @@ const INTEREST_PER_CONTACT_MIN = 0;
 const INTEREST_PER_CONTACT_MAX = 3;
 const INTEREST_TOTAL = 8;
 
+const REGION_PER_INQUIRY_MIN = 0;
+const REGION_PER_INQUIRY_MAX = 3;
+const REGION_TOTAL = 3;
+
+const VISITOR_NUMBER_MIN = 1;
+const VISITOR_NUMBER_MAX = 10;
+
+const STAY_LENGTH_MIN = 1;
+const STAY_LENGTH_MAX = 5;
+
 const HAS_EMAIL_CHANCE = .7;
 const HAS_ADDRESS_CHANCE = .9;
 const IS_SEND_EMAIL_CHANCE = .4;
+const NEWSLETTER_CHANCE = .3;
+const VISITED_BEFORE_CHANCE = .2;
 
 const addressDirections = ["N", "S", "E", "W"];
 
@@ -243,6 +266,12 @@ const streetNames = [
 	"Riverbend Road"
 ];
 
+const howDidYouHear = [
+	"Friends",
+	"Internet search",
+	"We visited before."
+];
+
 // prompt
 // Can you create a javascript Map where the keys are Arizona, California, Utah, Colorado, Oregon and Washington. For each key it should store an object with zipCodes that has 10 zip codes from that state, and a cities key that stores 10 cities from that state?
 const stateData = new Map([
@@ -300,6 +329,9 @@ const arrivalMonthWeights = new Map([
 
 const monthOptions = weightedArray(arrivalMonthWeights);
 
+interface ManyToMany {
+	set: string[]
+}
 
 interface Contact {
 	first_name: string
@@ -310,9 +342,7 @@ interface Contact {
 	addresses?: {
 		docs: Address[]
 	}
-	groups?: {
-		set: string[]
-	}
+	groups?: ManyToMany
 	emails?: {
 		docs: Email[]
 	}
@@ -335,11 +365,15 @@ interface Inquiry {
 	arrival_date_at: string
 	visitor_number: number
 	stay_length: number
-	interests?: {
-		set: string[]
-	}
-	brochures?: {
-		set: string[]
+	interests?: ManyToMany
+	brochures?: ManyToMany
+	custom?: {
+		doc: {
+			how_did_you_hear?: string
+			regions?: ManyToMany
+			is_newsletter?: boolean
+			is_visited_before?: boolean
+		}
 	}
 }
 
@@ -372,27 +406,27 @@ for (let i = 0; i < 500; i++) {
 			continue;
 		}
 
-		const interestCount = getRandomIntInclusive(INTEREST_PER_CONTACT_MIN, INTEREST_PER_CONTACT_MAX);
-		const interests: string[] = [];
-		for (let i = 0; i < interestCount; i++) {
-			interests.push(getRandomIntInclusive(1, INTEREST_TOTAL).toString());
-		}
-
-		const brochureCount = getRandomIntInclusive(BROCHURE_PER_CONTACT_MIN, BROCHURE_PER_CONTACT_MAX);
-		const brochures: string[] = [];
-		for (let i = 0; i < brochureCount; i++) {
-			brochures.push(getRandomIntInclusive(1, BROCHURE_TOTAL).toString());
-		}
+		const interests = getRandomSet(INTEREST_PER_CONTACT_MIN, INTEREST_PER_CONTACT_MAX, INTEREST_TOTAL);
+		const brochures = getRandomSet(BROCHURE_PER_CONTACT_MIN, BROCHURE_PER_CONTACT_MAX, BROCHURE_TOTAL);
+		const regions = getRandomSet(REGION_PER_INQUIRY_MIN, REGION_PER_INQUIRY_MAX, REGION_TOTAL);
 
 		inquiries.push({
 			type_id: "5",
 			date_at: date_at.toISOString(),
 			arrival_date_at: arrival_date_at.toISOString(),
 			comments: randEntry(comments),
-			visitor_number: getRandomIntInclusive(1, 10),
-			stay_length: getRandomIntInclusive(1, 3),
+			visitor_number: getRandomIntInclusive(VISITOR_NUMBER_MIN, VISITOR_NUMBER_MAX),
+			stay_length: getRandomIntInclusive(STAY_LENGTH_MIN, STAY_LENGTH_MAX),
 			interests: interests.length > 0 ? { set: interests } : undefined,
-			brochures: brochures.length > 0 ? { set: brochures } : undefined
+			brochures: brochures.length > 0 ? { set: brochures } : undefined,
+			custom: {
+				doc: {
+					how_did_you_hear: randEntry(howDidYouHear),
+					regions: regions.length > 0 ? { set: regions } : undefined,
+					is_newsletter: NEWSLETTER_CHANCE > Math.random(),
+					is_visited_before: VISITED_BEFORE_CHANCE > Math.random()
+				}
+			}
 		});
 	}
 
