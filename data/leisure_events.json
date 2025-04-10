@@ -111,7 +111,7 @@
 					},
 					{
 						"interval": 1,
-						"end_option_id": null,
+						"end_option_id": "never",
 						"frequency_id": "daily",
 						"start_date_at": "2025-12-09T07:00:00.000Z",
 						"start_time": "10:00",
@@ -4137,7 +4137,7 @@
 					},
 					{
 						"interval": 1,
-						"end_option_id": null,
+						"end_option_id": "never",
 						"frequency_id": "daily",
 						"start_date_at": "2025-12-09T07:00:00.000Z",
 						"start_time": "10:00",
