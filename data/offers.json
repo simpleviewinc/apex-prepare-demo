@@ -12,12 +12,6 @@
 			"channels": { "set": ["1"] },
 			"description": "This is my 4th Street Offer!\nCome and get it!",
 			"listings": { "set": ["1"] },
-			"media": {
-				"docs": [
-					{ "image_id": "4", "sort_order": 1 },
-					{ "image_id": "5", "sort_order": 2 }
-				]
-			},
 			"post_from_at": "2025-02-18T07:00:00.000Z",
 			"post_to_at": "2025-02-21T07:00:00.000Z",
 			"redeem_from_at": "2025-02-19T07:00:00.000Z",
@@ -1036,12 +1030,6 @@
 			"channels": { "set": ["1"] },
 			"description": "This is my 4th Street Offer!\nCome and get it!\nLorem Ipsum.",
 			"listings": { "set": ["1"] },
-			"media": {
-				"docs": [
-					{ "image_id": "5", "sort_order": 1 },
-					{ "image_id": "4", "sort_order": 2 }
-				]
-			},
 			"post_from_at": "2025-01-17T07:00:00.000Z",
 			"post_to_at": "2025-01-20T07:00:00.000Z",
 			"redeem_from_at": "2025-01-18T07:00:00.000Z",
