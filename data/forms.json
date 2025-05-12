@@ -8,6 +8,7 @@
 			"is_active":true,
 			"response_text":"all the information in the world",
 			"is_deleted": false,
+			"inquiry_type_id": "5",
 			"fields": {
 				"docs": [
 					{
@@ -128,6 +129,7 @@
 			"is_active":true,
 			"response_text":"Check out the website for more information",
 			"is_deleted": false,
+			"inquiry_type_id": "5",
 			"fields": {
 				"docs": [
 					{
