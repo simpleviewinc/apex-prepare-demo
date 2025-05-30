@@ -77,8 +77,10 @@
 		{
 			"title": "Partner Sign Up",
 			"type_id": "partner_signup",
-			"is_posted_on_website":true,
-			"is_active":true,
+			"is_posted_on_website": true,
+			"is_active": true,
+			"engagement_level_id": "1",
+			"role_id": "5",
 			"response_text":"You will receive an email shortly to login...",
 			"is_deleted": false,
 			"fields": {
