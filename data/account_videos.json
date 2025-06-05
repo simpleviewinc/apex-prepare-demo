@@ -48,6 +48,25 @@
 			"credits":"JW Marriott Starr Pass",
 			"is_publication_consent": true,
 			"is_deleted": false
+		},
+		{
+			"account_id":"8",
+			"title":"Virtual Classes at the Arizona-Sonora Desert Museum",
+			"type_id":"vimeo",
+			"external_id":"597470553",
+			"credits":"Arizona-Sonora Desert Museum",
+			"internal_notes":"Discover the joy of the desert and the joy of learning alongside our expert Desert Museum educators, scientists, and of course live animals. Programs are offered Tuesdays-Fridays. Choose your date, time, grade level (PreK-12th) and favorite topic. Each program includes animals, bio-artifacts, extra online resources and downloads, and exclusive time for your group to have questions answered from an expert. Perfect for teachers, groups, homeschoolers, and learning pods! Programs vary in length from 30 to ~45 minutes.",
+			"is_publication_consent": true,
+			"is_deleted": false
+		},
+		{
+			"account_id":"2",
+			"title":"JW Marriott Starr Pass Resort & Spa",
+			"type_id":"vimeo",
+			"external_id":"953658800",
+			"credits":"JW Marriott Starr Pass",
+			"is_publication_consent": true,
+			"is_deleted": false
 		}
 	]
 }
