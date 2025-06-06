@@ -22,9 +22,19 @@
 			"sort_order": 4
 		},
 		{
+			"listing_id": "3",
+			"video_id": "6",
+			"sort_order": 1
+		},
+		{
 			"leisure_event_id": "5",
 			"image_id": "7",
 			"sort_order": 1
+		},
+		{
+			"leisure_event_id": "5",
+			"video_id": "7",
+			"sort_order": 2
 		},
 		{
 			"offer_id": "3",
