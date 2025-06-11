@@ -4,37 +4,58 @@
 		{
 			"account_id":"13",
 			"contact_id":"28",
-			"title":"Facility & Event Sales"
+			"title":"Facility & Event Sales",
+			"contact_designations": {
+				"set": ["1", "2"]
+			}
 		},
 		{
 			"account_id":"13",
 			"contact_id":"5",
-			"title":"Owner"
+			"title":"Owner",
+			"contact_designations": {
+				"set": ["2", "3"]
+			}
 		},
 		{
 			"account_id":"8",
 			"contact_id":"2",
-			"title":"Facilities Engineer"
+			"title":"Facilities Engineer",
+			"contact_designations": {
+				"set": ["3"]
+			}
 		},
 		{
 			"account_id":"2",
 			"contact_id":"6",
-			"title":"Event Planner"
+			"title":"Event Planner",
+			"contact_designations": {
+				"set": ["4"]
+			}
 		},
 		{
 			"account_id":"2",
 			"contact_id":"73",
-			"title":"General Manager"
+			"title":"General Manager",
+			"contact_designations": {
+				"set": ["1", "4"]
+			}
 		},
 		{
 			"account_id":"2",
 			"contact_id":"25",
-			"title":"Sales and Services Coordinator"
+			"title":"Sales and Services Coordinator",
+			"contact_designations": {
+				"set": ["2"]
+			}
 		},
 		{
 			"account_id":"2",
 			"contact_id":"11",
-			"title":"Director of Marketing"
+			"title":"Director of Marketing",
+			"contact_designations": {
+				"set": ["3", "4"]
+			}
 		}
 	]
 }
