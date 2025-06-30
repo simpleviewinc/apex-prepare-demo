@@ -9,7 +9,7 @@
 			"decimal": 7.25,
 			"date_at": "2024-03-08T07:00:00.000Z",
 			"datetime_at": "2024-04-07T15:45:00.000Z",
-			"time": "15:00",
+			"time": "15:00:00",
 			"phone": "+15209751234",
 			"url": "https://www.google.com/",
 			"is_toggle": true,
@@ -20,6 +20,22 @@
 			},
 			"checkbox": {
 				"set": ["1","3"]
+			},
+			"email": "aaron.bilkins@gmail.com",
+			"is_yes_no_radio": true,
+			"address": {
+				"doc": {
+					"address_line_1": "5700 North Sabino Canyon Road",
+					"address_line_2": "",
+					"address_line_3": null,
+					"city": "Tucson",
+					"country_id": "US",
+					"postal_code": "85750",
+					"state_id": "US_AZ",
+					"is_physical": true,
+					"is_shipping": false,
+					"is_billing": false
+				}
 			}
 		},
 		{
