@@ -96,6 +96,11 @@
 			"label": "Regions",
 			"type_id": "checkbox",
 			"options_module_id": "regions"
+		},
+		{
+			"label": "HTML",
+			"type_id": "html",
+			"html_content": "Test <b>html</b> content."
 		}
 	]
 }

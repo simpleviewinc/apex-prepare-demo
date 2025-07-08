@@ -142,6 +142,12 @@
 			"label": "Yes/No Radio"
 		},
 		{
+			"configurable_field_id": "19",
+			"module": "contacts",
+			"name": "html",
+			"label": "HTML Content"
+		},
+		{
 			"configurable_field_id": "1",
 			"module": "accommodation_facilities",
 			"name": "text",

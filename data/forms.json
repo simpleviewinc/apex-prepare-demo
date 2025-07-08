@@ -217,6 +217,11 @@
 						"label": "URL",
 						"name": "url",
 						"is_required": false
+					},
+					{
+						"configurable_field_id": "19",
+						"label": "HTML",
+						"name": "html"
 					}
 				]
 			}
