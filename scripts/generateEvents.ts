@@ -79,7 +79,7 @@ interface EventRuleSet {
 	frequency_id: string
 }
 
-for (let files = 0; files < 27; files++) {
+for (let files = 2; files < 10; files++) {
 	const events: Event[] = [];
 	for (let i = 0; i < EVENT_COUNT; i++) {
 		const r = new RandomUtils((100 * i).toString());
