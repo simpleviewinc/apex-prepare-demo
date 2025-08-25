@@ -1,7 +1,7 @@
 import fs from "fs";
 import RandomUtils from "../src/RandomUtils";
 
-const EVENT_COUNT = 30000;
+const EVENT_COUNT = 20000;
 
 const accounts = [
 	"7",
@@ -99,8 +99,8 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 
 	events.push({
 		account_id,
-		title: r.randEntry(eventTitles),
-		description: "Enjoy the event open to all ages! Food vendors and family-friendly activities will be available throughout the day/night. Just come and enjoy the fun!",
+		title: "test",
+		description: "Desc",
 		date_rule_sets: {
 			docs: ruleSet
 		}
