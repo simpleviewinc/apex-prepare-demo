@@ -1,7 +1,7 @@
 import fs from "fs";
 import RandomUtils from "../src/RandomUtils";
 
-const EVENT_COUNT = 10000;
+const EVENT_COUNT = 30000;
 
 const accounts = [
 	"7",
@@ -87,7 +87,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	const account_id = r.randEntry(accounts);
 
 	const year = r.getRandomIntInclusive(2023, 2025);
-	const month = r.getRandomIntInclusive(0, 11);
+	const month = r.getRandomIntInclusive(4, 9);
 	const day = r.getRandomIntInclusive(0, 28);
 
 	const ruleSet = {
