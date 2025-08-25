@@ -1,7 +1,7 @@
 import fs from "fs";
 import RandomUtils from "../src/RandomUtils";
 
-const EVENT_COUNT = 20000;
+const EVENT_COUNT = 10000;
 
 const accounts = [
 	"7",
@@ -100,7 +100,6 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	events.push({
 		account_id,
 		title: "test",
-		description: "Desc",
 		date_rule_sets: {
 			docs: ruleSet
 		}
