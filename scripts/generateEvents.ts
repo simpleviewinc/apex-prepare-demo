@@ -1,7 +1,7 @@
 import fs from "fs";
 import RandomUtils from "../src/RandomUtils";
 
-const EVENT_COUNT = 15000;
+const EVENT_COUNT = 10000;
 
 const accounts = [
 	"7",
