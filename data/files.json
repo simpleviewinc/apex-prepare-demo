@@ -6,42 +6,54 @@
 			"name": "ASDM_map_large.jpg",
 			"guid": "2bca3e76-1656-4044-8338-b0ca7121bc7b",
 			"file_size": 1223509,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731452392/apex/account_images/file/291e7a94-e19f-4d28-9708-9a956f2d05a4-a-ASDM_map_large.jpg.jpg",
+			"height": 1364,
+			"width": 1613
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg",
 			"name": "ASM-coyote.jpg",
 			"guid": "1c73c817-6e0b-4017-8d82-1a5b44f768ed",
 			"file_size": 59312,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453174/apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg.webp"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453174/apex/account_images/file/a5941d58-ff45-4a87-828f-4925a0fdc63a-a-ASM-coyote.jpg.webp",
+			"height": 675,
+			"width": 1080
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
 			"name": "Arizona-Sonora-Desert-Museum-Photo-Op.jpg",
 			"guid": "f1e1ba56-af46-4e83-aec9-4ec2737fe5a1",
 			"file_size": 1369763,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453367/apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453367/apex/account_images/file/8115697c-05de-48ea-88e4-03ee7f1db264-a-Arizona-Sonora-Desert-Museum-Photo-Op.jpg.jpg",
+			"height": 2205,
+			"width": 3329
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png",
 			"name": "4SMLogoBlue.png",
 			"guid": "1e767074-0618-4dc8-81da-ed47d8d2c11b",
 			"file_size": 15865,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png",
+			"height": 1198,
+			"width": 1043
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg",
 			"name": "4sm-image8_psd.jpg",
 			"guid": "40422544-9073-4362-b717-f67f394019bc",
 			"file_size": 161466,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453538/apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453538/apex/account_images/file/2057d9c3-06e2-4e14-a924-163c94b59053-a-4sm-image8_psd.jpg.jpg",
+			"height": 750,
+			"width": 750
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg",
 			"name": "4sm-Native-Son-502-Edit.jpg",
 			"guid": "754cde39-ced9-44ca-8571-c7c490b274da",
 			"file_size": 69140,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453710/apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1731453710/apex/account_images/file/b4b36bc8-bff7-4be1-b100-30f417253e6f-a-4sm-Native-Son-502-Edit.jpg.jpg",
+			"height": 750,
+			"width": 750
 		},
 		{
 			"filestorage_id": "gcp://apex/food truck round up.jpg",
@@ -54,77 +66,99 @@
 			"name": "Bike-Race.jpg",
 			"guid": "a0692ad6-80f7-404e-89a4-dd2d90704e2d",
 			"file_size": 135749,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720475019/apex/account_images/file/1c73c9eb-905c-4f23-bc3e-f571e6c70c6b-a-Bike-Race.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720475019/apex/account_images/file/1c73c9eb-905c-4f23-bc3e-f571e6c70c6b-a-Bike-Race.jpg.jpg",
+			"height": 800,
+			"width": 800
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/971d2aa3-d726-44a0-a3f0-650d117d0291-a-Night-Shot-with-Stars_night.jpg",
 			"name": "Night-Shot-with-Stars_night.jpg",
 			"guid": "e4b92af9-0d8e-450f-a7cb-da7ff02f2a79",
 			"file_size": 78540,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476234/apex/account_images/file/971d2aa3-d726-44a0-a3f0-650d117d0291-a-Night-Shot-with-Stars_night.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476234/apex/account_images/file/971d2aa3-d726-44a0-a3f0-650d117d0291-a-Night-Shot-with-Stars_night.jpg.jpg",
+			"height": 445,
+			"width": 599
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/860bc871-1c24-4057-b06a-5c69842b52a1-a-Hashani-Spa-Starr-Pass.jpg",
 			"name": "Hashani-Spa-Starr-Pass.jpg",
 			"guid": "e3ba138f-6789-4471-9033-f09a3473e389",
 			"file_size": 1952619,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476261/apex/account_images/file/860bc871-1c24-4057-b06a-5c69842b52a1-a-Hashani-Spa-Starr-Pass.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476261/apex/account_images/file/860bc871-1c24-4057-b06a-5c69842b52a1-a-Hashani-Spa-Starr-Pass.jpg.jpg",
+			"height": 1600,
+			"width": 2400
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/a2f7ae56-6af1-42ed-9fe8-c9a8b1d3dbe3-a-JWMarriottStarrPassLogo.jpg",
 			"name": "JWMarriottStarrPassLogo.jpg",
 			"guid": "fb252e9c-14f2-4c7e-aaae-6bd514a4fd3b",
 			"file_size": 12303,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476279/apex/account_images/file/a2f7ae56-6af1-42ed-9fe8-c9a8b1d3dbe3-a-JWMarriottStarrPassLogo.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476279/apex/account_images/file/a2f7ae56-6af1-42ed-9fe8-c9a8b1d3dbe3-a-JWMarriottStarrPassLogo.jpg.jpg",
+			"height": 180,
+			"width": 300
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/34813cb9-27e7-4c1a-ae50-6eb5b5ceb0a9-a-Pool-and-Moon.jpg",
 			"name": "Pool-and-Moon.jpg",
 			"guid": "173b671c-bd30-42a9-baca-24554ee157bb",
 			"file_size": 21032936,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476323/apex/account_images/file/34813cb9-27e7-4c1a-ae50-6eb5b5ceb0a9-a-Pool-and-Moon.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476323/apex/account_images/file/34813cb9-27e7-4c1a-ae50-6eb5b5ceb0a9-a-Pool-and-Moon.jpg.jpg",
+			"height": 3797,
+			"width": 5695
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/ebb5f3ad-c7d4-4012-9bab-252940eb1c0c-a-reflections-pool-view.jpg",
 			"name": "reflections pool view.jpg",
 			"guid": "89042a16-30ae-4c58-b988-adf644ae57bc",
 			"file_size": 358383,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476346/apex/account_images/file/ebb5f3ad-c7d4-4012-9bab-252940eb1c0c-a-reflections-pool-view.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476346/apex/account_images/file/ebb5f3ad-c7d4-4012-9bab-252940eb1c0c-a-reflections-pool-view.jpg.jpg",
+			"height": 1245,
+			"width": 2400
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/ad6cf9ea-ec93-4c9c-9324-55671b1f9700-a-SPG9.jpg",
 			"name": "SPG9.jpg",
 			"guid": "d64a4d38-69c3-4a14-9fe3-c58562e7df00",
 			"file_size": 237743,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476387/apex/account_images/file/ad6cf9ea-ec93-4c9c-9324-55671b1f9700-a-SPG9.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476387/apex/account_images/file/ad6cf9ea-ec93-4c9c-9324-55671b1f9700-a-SPG9.jpg.jpg",
+			"height": 810,
+			"width": 1440
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/939cc336-67dc-45a9-8b65-13f8f5bceacc-a-clublogo.png",
 			"name": "clublogo.png",
 			"guid": "b28f7548-9d4a-48f8-81d3-76729c594dbf",
 			"file_size": 46133,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476406/apex/account_images/file/939cc336-67dc-45a9-8b65-13f8f5bceacc-a-clublogo.png.png"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476406/apex/account_images/file/939cc336-67dc-45a9-8b65-13f8f5bceacc-a-clublogo.png.png",
+			"height": 256,
+			"width": 400
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/a3a8e4ee-e371-40c4-a2ef-93439cf64bdf-a-1231505_TUSSP_Signature_Shot.jpg",
 			"name": "1231505_TUSSP_Signature_Shot.jpg",
 			"guid": "ade04eb4-fa8f-45fb-95c1-e39cc5faa328",
 			"file_size": 548507,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476424/apex/account_images/file/a3a8e4ee-e371-40c4-a2ef-93439cf64bdf-a-1231505_TUSSP_Signature_Shot.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476424/apex/account_images/file/a3a8e4ee-e371-40c4-a2ef-93439cf64bdf-a-1231505_TUSSP_Signature_Shot.jpg.jpg",
+			"height": 1920,
+			"width": 2880
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/2271a48e-9532-426c-a1e8-4f434141230c-a-SP_golfer_teeing_off_5702.jpg",
 			"name": "SP_golfer_teeing_off_5702.jpg",
 			"guid": "8b45a3c2-6027-494e-b707-75b3fc91d415",
 			"file_size": 264206,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476441/apex/account_images/file/2271a48e-9532-426c-a1e8-4f434141230c-a-SP_golfer_teeing_off_5702.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476441/apex/account_images/file/2271a48e-9532-426c-a1e8-4f434141230c-a-SP_golfer_teeing_off_5702.jpg.jpg",
+			"height": 800,
+			"width": 1200
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/fada0326-19de-401f-8d08-e7d93012b71e-a-wildlife_wonders.png",
 			"name": "wildlife_wonders.png",
 			"guid": "87bddec4-025c-4887-b711-795b21c7563f",
 			"file_size": 731733,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476456/apex/account_images/file/fada0326-19de-401f-8d08-e7d93012b71e-a-wildlife_wonders.png.png"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476456/apex/account_images/file/fada0326-19de-401f-8d08-e7d93012b71e-a-wildlife_wonders.png.png",
+			"height": 493,
+			"width": 977
 		},
 		{
 			"filestorage_id": "gcp://apex/meeting_facilities/floor_plans/a45c2cc1-a2ae-48da-8fae-346a59552098-a-Meeting-Space-Capacities.pdf",
@@ -137,28 +171,36 @@
 			"name": "primo-patio-starr-pass.jpg",
 			"guid": "9920215c-8165-4e13-b5d6-fa46c3d552d7",
 			"file_size": 11161146,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476484/apex/account_images/file/3e30f7b0-491e-4a2e-be7d-79a6d095fd20-a-primo-patio-starr-pass.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476484/apex/account_images/file/3e30f7b0-491e-4a2e-be7d-79a6d095fd20-a-primo-patio-starr-pass.jpg.jpg",
+			"height": 2698,
+			"width": 4056
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/59516cc6-248d-4fb3-aa12-cda8844f6712-a-Clubhouse_Pool.JPG",
 			"name": "Clubhouse_Pool.JPG",
 			"guid": "0eb4831e-c87f-4325-87ad-55ff947d744a",
 			"file_size": 158814,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476501/apex/account_images/file/59516cc6-248d-4fb3-aa12-cda8844f6712-a-Clubhouse_Pool.JPG.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476501/apex/account_images/file/59516cc6-248d-4fb3-aa12-cda8844f6712-a-Clubhouse_Pool.JPG.jpg",
+			"height": 659,
+			"width": 1186
 		},
 		{
 			"filestorage_id": "cloudinary://apex/account_images/file/1393f7f8-9489-4636-a595-9491968afe42-a-SP_main_building_horiz_4441.jpg",
 			"name": "SP_main_building_horiz_4441.jpg",
 			"guid": "e1415da3-41b1-4252-8bbf-efe09b7c2a86",
 			"file_size": 549447,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476521/apex/account_images/file/1393f7f8-9489-4636-a595-9491968afe42-a-SP_main_building_horiz_4441.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1720476521/apex/account_images/file/1393f7f8-9489-4636-a595-9491968afe42-a-SP_main_building_horiz_4441.jpg.jpg",
+			"height": 1200,
+			"width": 1800
 		},
 		{
 			"filestorage_id": "cloudinary://apex/bulletins/hero_image/fc01cee4-f04a-47c7-886e-60beae0bb16b-a-Mural_Quails.jpg",
 			"name": "Mural_Quails.jpg",
 			"guid": "bd0f25f6-6254-4b64-a01b-a1b5c1a8e1a6",
 			"file_size": 759011,
-			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1724344476/apex/bulletins/hero_image/fc01cee4-f04a-47c7-886e-60beae0bb16b-a-Mural_Quails.jpg.jpg"
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1724344476/apex/bulletins/hero_image/fc01cee4-f04a-47c7-886e-60beae0bb16b-a-Mural_Quails.jpg.jpg",
+			"height": 515,
+			"width": 1200
 		},
 		{
 			"filestorage_id": "gcp://apex/bulletins/files/e0ef7dc9-6918-4f0b-bc93-b40a8f7f2ff2-a-DI_2024-summer-travel.pdf",
