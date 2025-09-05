@@ -1,0 +1,69 @@
+{
+	"model": "service_facilities",
+	"data": [
+		{
+			"amenities": {
+				"set": [
+					"attraction_tickets",
+                    "group_billing",
+                    "group_rates_available"
+				]
+			},
+            "description": "We offer full service offerings at discounted rates.",
+            "service_area":"Maricopa county",
+            "booking_policy": "You may cancel your reservation for no charge before 11:59 PM local hotel time (7 day[s] before arrival). Please note that we will assess a fee if you must cancel after this deadline. If you have made a prepayment, we will retain all or part of your prepayment. If not, we will charge your credit card",
+			"property_id": "1",
+            "service_offerings": { "set": ["10"] }
+		},
+		{
+			"amenities": {
+				"set": [
+					"onsite_catering",
+					"onsite_event_decorating_services",
+					"onsite_location_photographers",
+					"onsite_video_services",
+					"onsite_wedding_and_event_coordinator"
+				]
+			},
+            "description": "A multitude of services in-house, at your fingertips.",
+            "service_area":"Catalina foothills",
+            "booking_policy": "Must cancel a week in advance.",
+			"property_id": "7",
+            "service_offerings": { "set": ["3","15"] }
+		},
+		{
+			"amenities": {
+				"set": [
+					"non_profit_rates"
+				]
+			},
+            "description": "Tasty Pastry",
+            "booking_policy": "Must cancel a week in advance.",
+			"property_id": "10",
+            "service_offerings": { "set": ["10"] }
+		},
+		{
+			"amenities": {
+				"set": [
+					"available_for_buy_out",
+					"incentive_program"
+				]
+			},
+            "description": "Pub related services",
+            "service_area":"All of Phoenix",
+			"property_id": "2",
+            "service_offerings": { "set": ["2","6","8"] }
+		},
+		{
+			"amenities": {
+				"set": [
+					"small_group_charters",
+					"deposit_requirements",
+					"free_cancellation"
+				]
+			},
+			"property_id": "11",
+            "service_offerings": { "set": ["5"] }
+		}
+	]
+}
