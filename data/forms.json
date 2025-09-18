@@ -9,6 +9,8 @@
 			"response_text":"all the information in the world",
 			"is_deleted": false,
 			"inquiry_type_id": "5",
+			"forms_notification_sender_id": "1",
+			"forms_notification_template_id": "9",
 			"fields": {
 				"docs": [
 					{
@@ -83,6 +85,8 @@
 			"role_id": "5",
 			"response_text":"You will receive an email shortly to login...",
 			"is_deleted": false,
+			"forms_notification_sender_id": "1",
+			"forms_notification_template_id": "9",
 			"fields": {
 				"docs": [
 					{
@@ -132,6 +136,8 @@
 			"response_text":"Check out the website for more information",
 			"is_deleted": false,
 			"inquiry_type_id": "5",
+			"forms_notification_sender_id": "1",
+			"forms_notification_template_id": "9",
 			"fields": {
 				"docs": [
 					{
