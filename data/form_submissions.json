@@ -1,0 +1,129 @@
+{
+	"model": "form_submissions",
+	"data": [
+		{
+			"form_id": "3",
+			"contact_id": "474",
+			"inquiry_id": "394",
+			"data": {
+				"url": "https://example.com",
+				"date": "2026-01-24T08:00:00.000Z",
+				"text": "Are there any upcoming festivals or events?",
+				"phone": "+15205555555",
+				"radio": {
+					"label": "Item 3",
+					"value": "3"
+				},
+				"toggle": true,
+				"address": {
+					"city": "Anaheim",
+					"state": {
+						"label": "California",
+						"value": "US_CA"
+					},
+					"country": {
+						"label": "United States",
+						"value": "US"
+					},
+					"address1": "6687 N Autumn Ridge Trail",
+					"postalCode": "90001"
+				},
+				"integer": "78",
+				"dropdown": {
+					"label": "Purple",
+					"value": "5"
+				},
+				"textarea": "some\nmulti\nline\ntext",
+				"last_name": "Williams",
+				"checkboxes": [
+					{
+						"label": "Red",
+						"value": "1"
+					},
+					{
+						"label": "Green",
+						"value": "2"
+					}
+				],
+				"first_name": "Jennifer",
+				"email_address": "jennifer.williams_0@fakeemail.com"
+			}
+		},
+		{
+			"form_id": "3",
+			"contact_id": "596",
+			"inquiry_id": "539",
+			"data": {
+				"url": "https://workinghard.com",
+				"date": "2029-05-09T07:00:00.000Z",
+				"text": "What’s the best way to get around the city?",
+				"phone": "+15205751151",
+				"radio": {
+					"label": "Item 3",
+					"value": "3"
+				},
+				"toggle": true,
+				"address": {
+					"city": "Beaverton",
+					"state": {
+						"label": "Oregon",
+						"value": "US_OR"
+					},
+					"country": {
+						"label": "United States",
+						"value": "US"
+					},
+					"address1": "2607 W Birch Court",
+					"postalCode": "97201"
+				},
+				"integer": "23",
+				"dropdown": {
+					"label": "Yellow",
+					"value": "4"
+				},
+				"textarea": "It\nis\nFriday\nafternoon",
+				"last_name": "Wilson",
+				"checkboxes": [
+					{
+						"label": "Orange",
+						"value": "6"
+					},
+					{
+						"label": "Purple",
+						"value": "5"
+					},
+					{
+						"label": "Yellow",
+						"value": "4"
+					}
+				],
+				"first_name": "Melissa",
+				"email_address": "mwilson@example.com"
+			}
+		},
+		{
+			"form_id": "2",
+			"account_id": "126",
+			"data": {
+				"title": "Ms",
+				"address": {
+					"city": "Phoenix",
+					"state": {
+						"label": "Arizona",
+						"value": "US_AZ"
+					},
+					"country": {
+						"label": "United States",
+						"value": "US"
+					},
+					"address1": "PO Box 57",
+					"postalCode": "85019"
+				},
+				"company": "Pleasant Corner Inn",
+				"last_name": "Hill",
+				"first_name": "Susan",
+				"email_address": "susan.hill_1@fakeemail.com"
+			}
+		}
+	]
+}
