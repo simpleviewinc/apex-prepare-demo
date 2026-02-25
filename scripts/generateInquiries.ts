@@ -366,12 +366,11 @@ for (let i = 0; i < CONTACT_COUNT; i++) {
 
 	const inquiryCount = cr.getRandomIntInclusive(INQUIRY_MIN, INQUIRY_MAX);
 	const inquiries: Inquiry[] = [];
+	const twoYearsAgo = new Date().getFullYear() - 2;
+	const thisYear = new Date().getFullYear();
 
 	for (let j = 0; j < inquiryCount; j++) {
 		const r = new RandomUtils((100 * i + j).toString());
-		const twoYearsAgo = new Date().getFullYear() - 2;
-		const thisYear = new Date().getFullYear();
-	
 		const year = r.getRandomIntInclusive(twoYearsAgo, thisYear);
 		const month = r.randEntry(monthOptions);
 		const day = r.getRandomIntInclusive(1, 27);
