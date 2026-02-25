@@ -24,7 +24,7 @@
 			"property": { "set": "3" },
 			"subcategories": { "set": ["3"] },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2024-02-15T07:00:00.000Z"
+			"post_from_at": "2025-02-15T07:00:00.000Z"
 		},
 		{
 			"title": "Arizona-Sonora Desert Museum - Things To Do - Outdoors",
@@ -76,7 +76,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "9" },
@@ -86,13 +86,13 @@
 			"is_featured": true,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": true,
 					"categories": { "set": ["1"] },
-					"publish_from_at": "2024-01-10T14:00:00.000Z",
-					"publish_to_at": "2024-01-21T21:00:00.000Z"
+					"publish_from_at": "2025-01-10T14:00:00.000Z",
+					"publish_to_at": "2025-01-21T21:00:00.000Z"
 				}
 			}
 		},
@@ -104,7 +104,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "11" },
@@ -114,7 +114,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "12" },
@@ -124,7 +124,7 @@
 			"is_featured": true,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "13" },
@@ -134,8 +134,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "14" },
@@ -145,8 +145,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "15" },
@@ -156,8 +156,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "16" },
@@ -167,8 +167,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "17" },
@@ -178,8 +178,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "18" },
@@ -189,8 +189,8 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "19" },
@@ -200,7 +200,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": false,
@@ -216,7 +216,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "21" },
@@ -226,7 +226,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "22" },
@@ -236,7 +236,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "23" },
@@ -246,7 +246,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "24" },
@@ -256,7 +256,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "25" },
@@ -266,7 +266,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": true,
@@ -282,7 +282,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "27" },
@@ -292,7 +292,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "28" },
@@ -302,7 +302,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "29" },
@@ -312,7 +312,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "30" },
@@ -322,7 +322,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "31" },
@@ -332,7 +332,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "32" },
@@ -342,7 +342,7 @@
 			"is_featured": false,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "33" },
@@ -352,7 +352,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "34" },
@@ -362,7 +362,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "35" },
@@ -372,7 +372,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "36" },
@@ -382,7 +382,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "37" },
@@ -392,7 +392,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "38" },
@@ -402,7 +402,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "39" },
@@ -412,7 +412,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "40" },
@@ -422,7 +422,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "41" },
@@ -432,7 +432,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "42" },
@@ -442,7 +442,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "43" },
@@ -452,7 +452,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "44" },
@@ -462,7 +462,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "45" },
@@ -472,7 +472,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "46" },
@@ -482,7 +482,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "47" },
@@ -492,7 +492,7 @@
 			"is_featured": true,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "48" },
@@ -502,7 +502,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": false,
@@ -519,7 +519,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "50" },
@@ -529,7 +529,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "51" },
@@ -539,8 +539,8 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "52" },
@@ -550,13 +550,13 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": true,
 					"categories": { "set": ["1"] },
-					"publish_from_at": "2024-07-31T07:00:00.000Z"
+					"publish_from_at": "2025-07-31T07:00:00.000Z"
 				}
 			}
 		},
@@ -568,8 +568,8 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "54" },
@@ -579,8 +579,8 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "55" },
@@ -590,8 +590,8 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
-			"post_to_at": "2024-12-15T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z",
+			"post_to_at": "2025-12-15T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "56" },
@@ -601,7 +601,7 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "57" },
@@ -611,7 +611,7 @@
 			"is_featured": false,
 			"rank": { "set": "3" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "58" },
@@ -621,7 +621,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "59" },
@@ -631,7 +631,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "60" },
@@ -641,7 +641,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "61" },
@@ -651,7 +651,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "62" },
@@ -661,7 +661,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "63" },
@@ -671,7 +671,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "64" },
@@ -681,7 +681,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "65" },
@@ -690,7 +690,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "66" },
@@ -700,7 +700,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "67" },
@@ -710,7 +710,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "68" },
@@ -720,7 +720,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "69" },
@@ -730,7 +730,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "70" },
@@ -740,7 +740,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "71" },
@@ -750,7 +750,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "72" },
@@ -760,7 +760,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "73" },
@@ -770,7 +770,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "74" },
@@ -780,7 +780,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "75" },
@@ -790,7 +790,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "76" },
@@ -800,7 +800,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "77" },
@@ -810,7 +810,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "78" },
@@ -820,7 +820,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "79" },
@@ -830,7 +830,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "80" },
@@ -840,7 +840,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "81" },
@@ -850,7 +850,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "82" },
@@ -860,7 +860,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "83" },
@@ -870,7 +870,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "84" },
@@ -880,7 +880,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "85" },
@@ -890,7 +890,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "86" },
@@ -900,7 +900,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "87" },
@@ -910,7 +910,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "88" },
@@ -920,7 +920,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "89" },
@@ -930,7 +930,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "90" },
@@ -940,7 +940,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "91" },
@@ -950,7 +950,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "92" },
@@ -960,7 +960,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "93" },
@@ -970,7 +970,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "94" },
@@ -979,7 +979,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "95" },
@@ -989,7 +989,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "96" },
@@ -999,7 +999,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "97" },
@@ -1009,7 +1009,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "98" },
@@ -1019,7 +1019,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "99" },
@@ -1029,7 +1029,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "100" },
@@ -1039,7 +1039,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "101" },
@@ -1049,7 +1049,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "102" },
@@ -1059,7 +1059,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "103" },
@@ -1069,7 +1069,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "104" },
@@ -1079,7 +1079,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "105" },
@@ -1089,7 +1089,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "106" },
@@ -1099,7 +1099,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "107" },
@@ -1109,7 +1109,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "108" },
@@ -1119,7 +1119,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "8", "7"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "109" },
@@ -1129,7 +1129,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "110" },
@@ -1139,7 +1139,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "111" },
@@ -1149,7 +1149,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "112" },
@@ -1159,7 +1159,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "113" },
@@ -1169,7 +1169,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "114" },
@@ -1179,7 +1179,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "115" },
@@ -1189,7 +1189,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "116" },
@@ -1199,7 +1199,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "2"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "117" },
@@ -1209,7 +1209,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "118" },
@@ -1219,7 +1219,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "119" },
@@ -1229,7 +1229,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "120" },
@@ -1239,7 +1239,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "121" },
@@ -1249,7 +1249,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "122" },
@@ -1259,7 +1259,7 @@
 			"is_featured": false,
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z"
+			"post_from_at": "2024-01-01T07:00:00.000Z"
 		},
 		{
 			"title": "4th Street Market - Dining - American",
@@ -1279,7 +1279,7 @@
 			"property": { "set": "3" },
 			"subcategories": { "set": ["3", "1", "2", "4"] },
 			"channels": { "set": ["1", "3", "2"] },
-			"post_from_at": "2024-02-15T07:00:00.000Z",
+			"post_from_at": "2025-02-15T07:00:00.000Z",
 			"approval_status": { "set" : "draft" },
 			"approval_parent": { "set" : "2" }
 		},
@@ -1300,7 +1300,7 @@
 			"is_featured": true,
 			"rank": { "set": "1" },
 			"channels": { "set": ["1", "3"] },
-			"post_from_at": "2023-01-01T07:00:00.000Z",
+			"post_from_at": "2024-01-01T07:00:00.000Z",
 			"approval_status": { "set" : "awaiting_approval" },
 			"approval_parent": { "set" : "9" }
 		},

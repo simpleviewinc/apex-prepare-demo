@@ -86,7 +86,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 
 	const account_id = r.randEntry(accounts);
 
-	const year = r.getRandomIntInclusive(2023, 2025);
+	const year = r.getRandomIntInclusive(2024, 2026);
 	const month = r.getRandomIntInclusive(0, 11);
 	const day = r.getRandomIntInclusive(0, 28);
 

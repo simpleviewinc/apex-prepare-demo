@@ -370,7 +370,7 @@ for (let i = 0; i < CONTACT_COUNT; i++) {
 	for (let j = 0; j < inquiryCount; j++) {
 		const r = new RandomUtils((100 * i + j).toString());
 
-		const year = r.getRandomIntInclusive(2023, 2025);
+		const year = r.getRandomIntInclusive(2024, 2026);
 		const month = r.randEntry(monthOptions);
 		const day = r.getRandomIntInclusive(1, 27);
 		

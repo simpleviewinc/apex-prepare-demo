@@ -6,7 +6,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "3",
-			"decision_due_at": "2023-02-15T00:00:00.000Z",
+			"decision_due_at": "2024-02-15T00:00:00.000Z",
 			"is_repeat": true,
 			"source_id": "2",
 			"sales_territory_id": "1",
@@ -45,29 +45,29 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2023-10-01T00:00:00.000Z",
-						"end_at": "2023-10-03T00:00:00.000Z",
+						"start_at": "2024-10-01T00:00:00.000Z",
+						"end_at": "2024-10-03T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2023-10-17T00:00:00.000Z",
-						"end_at": "2023-10-19T00:00:00.000Z",
+						"start_at": "2024-10-17T00:00:00.000Z",
+						"end_at": "2024-10-19T00:00:00.000Z",
 						"is_primary": false
 					},
 					{
-						"start_at": "2023-11-01T00:00:00.000Z",
-						"end_at": "2023-11-03T00:00:00.000Z",
+						"start_at": "2024-11-01T00:00:00.000Z",
+						"end_at": "2024-11-03T00:00:00.000Z",
 						"is_primary": false
 					}
 				]
 			}
 		},
 		{
-			"opportunity_name": "Mega Meet 2024",
+			"opportunity_name": "Mega Meet 2025",
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "6",
-			"decision_due_at": "2023-10-25T00:00:00.000Z",
+			"decision_due_at": "2024-10-25T00:00:00.000Z",
 			"is_repeat": true,
 			"source_id": "1",
 			"sales_territory_id": "1",
@@ -84,18 +84,18 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2024-04-01T00:00:00.000Z",
-						"end_at": "2024-04-03T00:00:00.000Z",
+						"start_at": "2025-04-01T00:00:00.000Z",
+						"end_at": "2025-04-03T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2024-04-17T00:00:00.000Z",
-						"end_at": "2024-04-19T00:00:00.000Z",
+						"start_at": "2025-04-17T00:00:00.000Z",
+						"end_at": "2025-04-19T00:00:00.000Z",
 						"is_primary": false
 					},
 					{
-						"start_at": "2024-04-21T00:00:00.000Z",
-						"end_at": "2024-04-23T00:00:00.000Z",
+						"start_at": "2025-04-21T00:00:00.000Z",
+						"end_at": "2025-04-23T00:00:00.000Z",
 						"is_primary": false
 					}
 				]
@@ -106,7 +106,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "4",
-			"decision_due_at": "2023-04-24T00:00:00.000Z",
+			"decision_due_at": "2024-04-24T00:00:00.000Z",
 			"is_repeat": true,
 			"source_id": "2",
 			"sales_territory_id": "2",
@@ -137,7 +137,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "7",
-			"decision_due_at": "2023-02-13T00:00:00.000Z",
+			"decision_due_at": "2024-02-13T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "4",
 			"sales_territory_id": "1",
@@ -164,19 +164,19 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2023-10-30T00:00:00.000Z",
-						"end_at": "2023-10-31T00:00:00.000Z",
+						"start_at": "2024-10-30T00:00:00.000Z",
+						"end_at": "2024-10-31T00:00:00.000Z",
 						"is_primary": true
 					}
 				]
 			}
 		},
 		{
-			"opportunity_name": "Small Business Conference 2025",
+			"opportunity_name": "Small Business Conference 2026",
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "6",
-			"decision_due_at": "2023-05-26T00:00:00.000Z",
+			"decision_due_at": "2024-05-26T00:00:00.000Z",
 			"is_repeat": true,
 			"source_id": "1",
 			"sales_territory_id": "1",
@@ -194,24 +194,24 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2025-08-05T00:00:00.000Z",
-						"end_at": "2025-08-09T00:00:00.000Z",
+						"start_at": "2026-08-05T00:00:00.000Z",
+						"end_at": "2026-08-09T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2025-08-15T00:00:00.000Z",
-						"end_at": "2025-08-19T00:00:00.000Z",
+						"start_at": "2026-08-15T00:00:00.000Z",
+						"end_at": "2026-08-19T00:00:00.000Z",
 						"is_primary": false
 					}
 				]
 			}
 		},
 		{
-			"opportunity_name": "2024 Annual Gamers Summit",
+			"opportunity_name": "2025 Annual Gamers Summit",
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "2",
-			"decision_due_at": "2023-03-18T00:00:00.000Z",
+			"decision_due_at": "2024-03-18T00:00:00.000Z",
 			"is_repeat": true,
 			"source_id": "1",
 			"sales_territory_id": "1",
@@ -234,13 +234,13 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2024-06-20T00:00:00.000Z",
-						"end_at": "2024-06-23T00:00:00.000Z",
+						"start_at": "2025-06-20T00:00:00.000Z",
+						"end_at": "2025-06-23T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2024-06-11T00:00:00.000Z",
-						"end_at": "2024-06-14T00:00:00.000Z",
+						"start_at": "2025-06-11T00:00:00.000Z",
+						"end_at": "2025-06-14T00:00:00.000Z",
 						"is_primary": false
 					}
 				]
@@ -251,7 +251,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "1",
-			"decision_due_at": "2023-05-13T00:00:00.000Z",
+			"decision_due_at": "2024-05-13T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "3",
 			"sales_territory_id": "4",
@@ -279,11 +279,11 @@
 			}
 		},
 		{
-			"opportunity_name": "Restaurants Europe 2023",
+			"opportunity_name": "Restaurants Europe 2024",
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "5",
-			"decision_due_at": "2022-09-26T00:00:00.000Z",
+			"decision_due_at": "2023-09-26T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "1",
 			"sales_territory_id": "4",
@@ -318,13 +318,13 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2023-02-18T00:00:00.000Z",
-						"end_at": "2023-02-20T00:00:00.000Z",
+						"start_at": "2024-02-18T00:00:00.000Z",
+						"end_at": "2024-02-20T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2023-03-11T00:00:00.000Z",
-						"end_at": "2023-03-14T00:00:00.000Z",
+						"start_at": "2024-03-11T00:00:00.000Z",
+						"end_at": "2024-03-14T00:00:00.000Z",
 						"is_primary": false
 					}
 				]
@@ -335,7 +335,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "1",
 			"opportunity_type_id": "1",
-			"decision_due_at": "2024-08-15T00:00:00.000Z",
+			"decision_due_at": "2025-08-15T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "3",
 			"sales_territory_id": "1",
@@ -354,7 +354,7 @@
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "2",
 			"opportunity_type_id": "4",
-			"decision_due_at": "2025-10-01T00:00:00.000Z",
+			"decision_due_at": "2026-10-01T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "4",
 			"sales_territory_id": "1",
@@ -376,11 +376,11 @@
 			}
 		},
 		{
-			"opportunity_name": "The Global Produce and Floral Show 2025",
+			"opportunity_name": "The Global Produce and Floral Show 2026",
 			"groups": { "set": ["3"] },
 			"opportunity_status_id": "3",
 			"opportunity_type_id": "3",
-			"decision_due_at": "2021-11-12T00:00:00.000Z",
+			"decision_due_at": "2022-11-12T00:00:00.000Z",
 			"is_repeat": false,
 			"source_id": "4",
 			"sales_territory_id": "5",
@@ -400,13 +400,13 @@
 			"opportunity_dates": {
 				"docs": [
 					{
-						"start_at": "2025-05-10T00:00:00.000Z",
-						"end_at": "2025-05-14T00:00:00.000Z",
+						"start_at": "2026-05-10T00:00:00.000Z",
+						"end_at": "2026-05-14T00:00:00.000Z",
 						"is_primary": true
 					},
 					{
-						"start_at": "2025-05-01T00:00:00.000Z",
-						"end_at": "2025-05-04T00:00:00.000Z",
+						"start_at": "2026-05-01T00:00:00.000Z",
+						"end_at": "2026-05-04T00:00:00.000Z",
 						"is_primary": false
 					}
 				]

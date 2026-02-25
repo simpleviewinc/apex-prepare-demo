@@ -4,7 +4,7 @@
 		{
 			"name": "Cookies VIP",
 			"attendees": 15,
-			"response_due_at": "2023-02-15T00:00:00Z",
+			"response_due_at": "2024-02-15T00:00:00Z",
 			"request_rate_range": "175 - 250 per night",
 			"comments": "Single occupancy. King bed or business suite preferred.",
 			"opportunity_id": "1",
@@ -31,47 +31,47 @@
 							"docs": [
 								{
 									"room_type_id": "1",
-									"date_at": "2023-09-30T00:00:00Z",
+									"date_at": "2024-09-30T00:00:00Z",
 									"count": 10
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-01T00:00:00Z",
+									"date_at": "2024-10-01T00:00:00Z",
 									"count": 20
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-02T00:00:00Z",
+									"date_at": "2024-10-02T00:00:00Z",
 									"count": 20
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-03T00:00:00Z",
+									"date_at": "2024-10-03T00:00:00Z",
 									"count": 20
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-04T00:00:00Z",
+									"date_at": "2024-10-04T00:00:00Z",
 									"count": 10
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-05T00:00:00Z",
+									"date_at": "2024-10-05T00:00:00Z",
 									"count": 10
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-01T00:00:00Z",
+									"date_at": "2024-10-01T00:00:00Z",
 									"count": 2
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-02T00:00:00Z",
+									"date_at": "2024-10-02T00:00:00Z",
 									"count": 2
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-03T00:00:00Z",
+									"date_at": "2024-10-03T00:00:00Z",
 									"count": 2
 								}
 							]
@@ -98,47 +98,47 @@
 										"docs": [
 											{
 												"room_type_id": "1",
-												"date_at": "2023-09-30T00:00:00Z",
+												"date_at": "2024-09-30T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-01T00:00:00Z",
+												"date_at": "2024-10-01T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-02T00:00:00Z",
+												"date_at": "2024-10-02T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-03T00:00:00Z",
+												"date_at": "2024-10-03T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-04T00:00:00Z",
+												"date_at": "2024-10-04T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-05T00:00:00Z",
+												"date_at": "2024-10-05T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-01T00:00:00Z",
+												"date_at": "2024-10-01T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-02T00:00:00Z",
+												"date_at": "2024-10-02T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-03T00:00:00Z",
+												"date_at": "2024-10-03T00:00:00Z",
 												"count": 2
 											}
 										]
@@ -164,47 +164,47 @@
 										"docs": [
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-16T00:00:00Z",
+												"date_at": "2024-10-16T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-17T00:00:00Z",
+												"date_at": "2024-10-17T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-18T00:00:00Z",
+												"date_at": "2024-10-18T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-19T00:00:00Z",
+												"date_at": "2024-10-19T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-20T00:00:00Z",
+												"date_at": "2024-10-20T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-21T00:00:00Z",
+												"date_at": "2024-10-21T00:00:00Z",
 												"count": 5
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-17T00:00:00Z",
+												"date_at": "2024-10-17T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-18T00:00:00Z",
+												"date_at": "2024-10-18T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-19T00:00:00Z",
+												"date_at": "2024-10-19T00:00:00Z",
 												"count": 2
 											}
 										]
@@ -236,17 +236,17 @@
 										"docs": [
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-01T00:00:00Z",
+												"date_at": "2024-10-01T00:00:00Z",
 												"count": 10
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-02T00:00:00Z",
+												"date_at": "2024-10-02T00:00:00Z",
 												"count": 15
 											},
 											{
 												"room_type_id": "1",
-												"date_at": "2023-10-03T00:00:00Z",
+												"date_at": "2024-10-03T00:00:00Z",
 												"count": 10
 											}
 										]
@@ -261,47 +261,47 @@
 				"docs": [
 					{
 						"room_type_id": "1",
-						"date_at": "2023-09-30T00:00:00Z",
+						"date_at": "2024-09-30T00:00:00Z",
 						"count": 5
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2023-10-01T00:00:00Z",
+						"date_at": "2024-10-01T00:00:00Z",
 						"count": 15
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2023-10-02T00:00:00Z",
+						"date_at": "2024-10-02T00:00:00Z",
 						"count": 15
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2023-10-03T00:00:00Z",
+						"date_at": "2024-10-03T00:00:00Z",
 						"count": 15
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2023-10-04T00:00:00Z",
+						"date_at": "2024-10-04T00:00:00Z",
 						"count": 5
 					},
 					{
 						"room_type_id": "1",
-						"date_at": "2023-10-05T00:00:00Z",
+						"date_at": "2024-10-05T00:00:00Z",
 						"count": 5
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-01T00:00:00Z",
+						"date_at": "2024-10-01T00:00:00Z",
 						"count": 2
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-02T00:00:00Z",
+						"date_at": "2024-10-02T00:00:00Z",
 						"count": 2
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-03T00:00:00Z",
+						"date_at": "2024-10-03T00:00:00Z",
 						"count": 2
 					}
 				]
@@ -310,7 +310,7 @@
 		{
 			"name": "Attendees",
 			"attendees": 500,
-			"response_due_at": "2023-02-15T00:00:00Z",
+			"response_due_at": "2024-02-15T00:00:00Z",
 			"request_rate_range": "99 - 150 per night",
 			"opportunity_id": "1",
 			"hotels": {
@@ -332,27 +332,27 @@
 							"docs": [
 								{
 									"room_type_id": "2",
-									"date_at": "2023-09-30T00:00:00Z",
+									"date_at": "2024-09-30T00:00:00Z",
 									"count": 50
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-01T00:00:00Z",
+									"date_at": "2024-10-01T00:00:00Z",
 									"count": 100
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-02T00:00:00Z",
+									"date_at": "2024-10-02T00:00:00Z",
 									"count": 100
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-03T00:00:00Z",
+									"date_at": "2024-10-03T00:00:00Z",
 									"count": 100
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-04T00:00:00Z",
+									"date_at": "2024-10-04T00:00:00Z",
 									"count": 50
 								}
 							]
@@ -375,27 +375,27 @@
 										"docs": [
 											{
 												"room_type_id": "2",
-												"date_at": "2023-09-30T00:00:00Z",
+												"date_at": "2024-09-30T00:00:00Z",
 												"count": 50
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-01T00:00:00Z",
+												"date_at": "2024-10-01T00:00:00Z",
 												"count": 100
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-02T00:00:00Z",
+												"date_at": "2024-10-02T00:00:00Z",
 												"count": 100
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-03T00:00:00Z",
+												"date_at": "2024-10-03T00:00:00Z",
 												"count": 100
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-04T00:00:00Z",
+												"date_at": "2024-10-04T00:00:00Z",
 												"count": 50
 											}
 										]
@@ -410,27 +410,27 @@
 				"docs": [
 					{
 						"room_type_id": "2",
-						"date_at": "2023-09-30T00:00:00Z",
+						"date_at": "2024-09-30T00:00:00Z",
 						"count": 50
 					},
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-01T00:00:00Z",
+						"date_at": "2024-10-01T00:00:00Z",
 						"count": 100
 					},
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-02T00:00:00Z",
+						"date_at": "2024-10-02T00:00:00Z",
 						"count": 100
 					},
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-03T00:00:00Z",
+						"date_at": "2024-10-03T00:00:00Z",
 						"count": 100
 					},
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-04T00:00:00Z",
+						"date_at": "2024-10-04T00:00:00Z",
 						"count": 50
 					}
 				]
@@ -439,7 +439,7 @@
 		{
 			"name": "Barnes/Fiore Wedding Guests",
 			"attendees": 250,
-			"response_due_at": "2022-12-10T00:00:00Z",
+			"response_due_at": "2023-12-10T00:00:00Z",
 			"request_rate_range": "150 - 225 per night",
 			"opportunity_id": "4",
 			"hotels": {
@@ -469,27 +469,27 @@
 							"docs": [
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-30T00:00:00Z",
+									"date_at": "2024-10-30T00:00:00Z",
 									"count": 75
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-30T00:00:00Z",
+									"date_at": "2024-10-30T00:00:00Z",
 									"count": 175
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-31T00:00:00Z",
+									"date_at": "2024-10-31T00:00:00Z",
 									"count": 75
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-31T00:00:00Z",
+									"date_at": "2024-10-31T00:00:00Z",
 									"count": 175
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-31T00:00:00Z",
+									"date_at": "2024-10-31T00:00:00Z",
 									"count": 1
 								}
 							]
@@ -514,27 +514,27 @@
 							"docs": [
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 72
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 173
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 1
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 72
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 173
 								}
 							]
@@ -557,12 +557,12 @@
 										"docs": [
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-30T00:00:00Z",
+												"date_at": "2024-10-30T00:00:00Z",
 												"count": 250
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-31T00:00:00Z",
+												"date_at": "2024-10-31T00:00:00Z",
 												"count": 250
 											}
 										]
@@ -577,12 +577,12 @@
 				"docs": [
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-30T00:00:00.000Z",
+						"date_at": "2024-10-30T00:00:00.000Z",
 						"count": 250
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-31T00:00:00.000Z",
+						"date_at": "2024-10-31T00:00:00.000Z",
 						"count": 250
 					}
 				]
@@ -591,7 +591,7 @@
 		{
 			"name": "Barnes/Fiore Wedding Party",
 			"attendees": 14,
-			"response_due_at": "2022-12-10T00:00:00Z",
+			"response_due_at": "2023-12-10T00:00:00Z",
 			"request_rate_range": "175 - 300 per night",
 			"opportunity_id": "4",
 			"hotels": {
@@ -627,22 +627,22 @@
 										"docs": [
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-30T00:00:00.000Z",
+												"date_at": "2024-10-30T00:00:00.000Z",
 												"count": 12
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-30T00:00:00.000Z",
+												"date_at": "2024-10-30T00:00:00.000Z",
 												"count": 1
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-31T00:00:00.000Z",
+												"date_at": "2024-10-31T00:00:00.000Z",
 												"count": 12
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-31T00:00:00.000Z",
+												"date_at": "2024-10-31T00:00:00.000Z",
 												"count": 1
 											}
 										]
@@ -672,22 +672,22 @@
 							"docs": [
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 12
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 1
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 12
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 1
 								}
 							]
@@ -712,27 +712,27 @@
 							"docs": [
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 12
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-30T00:00:00.000Z",
+									"date_at": "2024-10-30T00:00:00.000Z",
 									"count": 1
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 1
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 12
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-10-31T00:00:00.000Z",
+									"date_at": "2024-10-31T00:00:00.000Z",
 									"count": 1
 								}
 							]
@@ -759,22 +759,22 @@
 										"docs": [
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-30T00:00:00.000Z",
+												"date_at": "2024-10-30T00:00:00.000Z",
 												"count": 12
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-30T00:00:00.000Z",
+												"date_at": "2024-10-30T00:00:00.000Z",
 												"count": 1
 											},
 											{
 												"room_type_id": "2",
-												"date_at": "2023-10-31T00:00:00.000Z",
+												"date_at": "2024-10-31T00:00:00.000Z",
 												"count": 12
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-10-31T00:00:00.000Z",
+												"date_at": "2024-10-31T00:00:00.000Z",
 												"count": 1
 											}
 										]
@@ -789,22 +789,22 @@
 				"docs": [
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-30T00:00:00.000Z",
+						"date_at": "2024-10-30T00:00:00.000Z",
 						"count": 12
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-30T00:00:00.000Z",
+						"date_at": "2024-10-30T00:00:00.000Z",
 						"count": 1
 					},
 					{
 						"room_type_id": "2",
-						"date_at": "2023-10-31T00:00:00.000Z",
+						"date_at": "2024-10-31T00:00:00.000Z",
 						"count": 12
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-10-31T00:00:00.000Z",
+						"date_at": "2024-10-31T00:00:00.000Z",
 						"count": 1
 					}
 				]
@@ -813,7 +813,7 @@
 		{
 			"name": "Attendees",
 			"attendees": 850,
-			"response_due_at": "2022-09-26T00:00:00Z",
+			"response_due_at": "2023-09-26T00:00:00Z",
 			"request_rate_range": "99 - 250 per night",
 			"opportunity_id": "8",
 			"hotels": {
@@ -835,17 +835,17 @@
 							"docs": [
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-18T00:00:00Z",
+									"date_at": "2024-02-18T00:00:00Z",
 									"count": 4
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-19T00:00:00Z",
+									"date_at": "2024-02-19T00:00:00Z",
 									"count": 5
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-20T00:00:00Z",
+									"date_at": "2024-02-20T00:00:00Z",
 									"count": 4
 								}
 							]
@@ -870,47 +870,47 @@
 							"docs": [
 								{
 									"room_type_id": "1",
-									"date_at": "2023-02-18T00:00:00Z",
+									"date_at": "2024-02-18T00:00:00Z",
 									"count": 321
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-02-19T00:00:00Z",
+									"date_at": "2024-02-19T00:00:00Z",
 									"count": 333
 								},
 								{
 									"room_type_id": "1",
-									"date_at": "2023-02-20T00:00:00Z",
+									"date_at": "2024-02-20T00:00:00Z",
 									"count": 292
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-02-18T00:00:00Z",
+									"date_at": "2024-02-18T00:00:00Z",
 									"count": 415
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-02-19T00:00:00Z",
+									"date_at": "2024-02-19T00:00:00Z",
 									"count": 425
 								},
 								{
 									"room_type_id": "2",
-									"date_at": "2023-02-20T00:00:00Z",
+									"date_at": "2024-02-20T00:00:00Z",
 									"count": 381
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-18T00:00:00Z",
+									"date_at": "2024-02-18T00:00:00Z",
 									"count": 2
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-19T00:00:00Z",
+									"date_at": "2024-02-19T00:00:00Z",
 									"count": 5
 								},
 								{
 									"room_type_id": "3",
-									"date_at": "2023-02-20T00:00:00Z",
+									"date_at": "2024-02-20T00:00:00Z",
 									"count": 4
 								}
 							]
@@ -941,17 +941,17 @@
 										"docs": [
 											{
 												"room_type_id": "3",
-												"date_at": "2023-02-18T00:00:00Z",
+												"date_at": "2024-02-18T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-02-19T00:00:00Z",
+												"date_at": "2024-02-19T00:00:00Z",
 												"count": 2
 											},
 											{
 												"room_type_id": "3",
-												"date_at": "2023-02-20T00:00:00Z",
+												"date_at": "2024-02-20T00:00:00Z",
 												"count": 2
 											}
 										]
@@ -966,17 +966,17 @@
 				"docs": [
 					{
 						"room_type_id": "3",
-						"date_at": "2023-02-18T00:00:00Z",
+						"date_at": "2024-02-18T00:00:00Z",
 						"count": 2
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-02-19T00:00:00Z",
+						"date_at": "2024-02-19T00:00:00Z",
 						"count": 2
 					},
 					{
 						"room_type_id": "3",
-						"date_at": "2023-02-20T00:00:00Z",
+						"date_at": "2024-02-20T00:00:00Z",
 						"count": 2
 					}
 				]
