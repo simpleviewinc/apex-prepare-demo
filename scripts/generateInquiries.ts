@@ -369,8 +369,10 @@ for (let i = 0; i < CONTACT_COUNT; i++) {
 
 	for (let j = 0; j < inquiryCount; j++) {
 		const r = new RandomUtils((100 * i + j).toString());
-
-		const year = r.getRandomIntInclusive(2024, 2026);
+		const twoYearsAgo = new Date().getFullYear() - 2;
+		const thisYear = new Date().getFullYear();
+	
+		const year = r.getRandomIntInclusive(twoYearsAgo, thisYear);
 		const month = r.randEntry(monthOptions);
 		const day = r.getRandomIntInclusive(1, 27);
 		

@@ -85,8 +85,10 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	const r = new RandomUtils((100 * i).toString());
 
 	const account_id = r.randEntry(accounts);
+	const lastYear = new Date().getFullYear() - 1;
+	const nextYear = new Date().getFullYear() + 1;
 
-	const year = r.getRandomIntInclusive(2024, 2026);
+	const year = r.getRandomIntInclusive(lastYear, nextYear);
 	const month = r.getRandomIntInclusive(0, 11);
 	const day = r.getRandomIntInclusive(0, 28);
 
