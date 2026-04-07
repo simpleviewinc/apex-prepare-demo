@@ -364,6 +364,18 @@
 			"is_shown_in_portal": true
 		},
 		{
+			"configurable_field_id": "20",
+			"module": "properties",
+			"name": "floor_layout",
+			"label": "Floor layout"
+		},
+		{
+			"configurable_field_id": "21",
+			"module": "properties",
+			"name": "internal_property_dimensions",
+			"label": "Internal Property dimensions"
+		},
+		{
 			"configurable_field_id": "1",
 			"module": "sports_facilities",
 			"name": "text_portal",
