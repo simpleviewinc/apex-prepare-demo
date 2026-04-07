@@ -366,14 +366,14 @@
 		{
 			"configurable_field_id": "20",
 			"module": "properties",
-			"name": "floor_layout",
-			"label": "Floor layout"
+			"name": "floor_plan",
+			"label": "Floor Plan"
 		},
 		{
 			"configurable_field_id": "21",
 			"module": "properties",
-			"name": "internal_property_dimensions",
-			"label": "Internal Property dimensions"
+			"name": "property_dimensions_private",
+			"label": "Property Dimensions (Private)"
 		},
 		{
 			"configurable_field_id": "1",
