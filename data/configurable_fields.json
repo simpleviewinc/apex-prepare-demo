@@ -101,6 +101,22 @@
 			"label": "HTML",
 			"type_id": "html",
 			"html_content": "Test <b>html</b> content."
+		},
+		{
+			"label": "File Upload (Public)",
+			"type_id": "upload",
+			"size_id": "md",
+			"upload_max_limit": 1,
+			"is_upload_public": true,
+			"instruction_text": "Files use a public URL when the storage service supports it (for example Cloudinary)."
+		},
+		{
+			"label": "File Upload (Private)",
+			"type_id": "upload",
+			"size_id": "md",
+			"upload_max_limit": 1,
+			"is_upload_public": false,
+			"instruction_text": "Files are private and require authentication to access."
 		}
 	]
 }
