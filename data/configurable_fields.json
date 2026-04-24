@@ -61,6 +61,26 @@
 			"type_id": "toggle"
 		},
 		{
+			"label": "Dropdown Field",
+			"type_id": "dropdown",
+			"options_module_id": "configurable_dropdown_options"
+		},
+		{
+			"label": "Radio Field",
+			"type_id": "radio",
+			"options_module_id": "configurable_dropdown_options"
+		},
+		{
+			"label": "Multiselect Field",
+			"type_id": "advancedSelection",
+			"options_module_id": "configurable_dropdown_options"
+		},
+		{
+			"label": "Checkboxes Field",
+			"type_id": "checkbox",
+			"options_module_id": "configurable_dropdown_options"
+		},
+		{
 			"label": "Address",
 			"type_id": "addressSingle"
 		},
