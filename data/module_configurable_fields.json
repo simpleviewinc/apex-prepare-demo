@@ -22,8 +22,8 @@
 		{
 			"configurable_field_id": "11",
 			"module": "accounts",
-			"name": "color",
-			"label": "Color"
+			"name": "visit_reason",
+			"label": "Visit Reason"
 		},
 		{
 			"configurable_field_id": "14",
