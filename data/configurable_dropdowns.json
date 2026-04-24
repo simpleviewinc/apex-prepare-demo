@@ -2,14 +2,14 @@
 	"model": "configurable_dropdowns",
 	"data": [
 		{
-			"name": "custom1",
-			"label": "Items",
-			"is_sortable": false
+			"name": "visit_reason",
+			"label": "Visit Reason",
+			"is_sortable": true
 		},
 		{
-			"name": "custom2",
-			"label": "Colors",
-			"is_sortable": true
+			"name": "star_rating",
+			"label": "Star Rating",
+			"is_sortable": false
 		}
 	]
 }
