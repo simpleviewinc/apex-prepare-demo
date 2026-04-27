@@ -9,44 +9,44 @@
 		},
 		{
 			"configurable_dropdown_id": "1",
-			"label": "Leisure / Relaxation",
-			"value": "leisure_relaxation",
-			"sort_order": 2
-		},
-		{
-			"configurable_dropdown_id": "1",
-			"label": "Sightseeing / Tourism",
-			"value": "sightseeing_tourism",
-			"sort_order": 3
-		},
-		{
-			"configurable_dropdown_id": "1",
 			"label": "Dining / Food",
 			"value": "dining_food",
-			"sort_order": 4
-		},
-		{
-			"configurable_dropdown_id": "1",
-			"label": "Shopping",
-			"value": "shopping",
-			"sort_order": 5
+			"sort_order": 2
 		},
 		{
 			"configurable_dropdown_id": "1",
 			"label": "Event / Entertainment",
 			"value": "event_entertainment",
-			"sort_order": 6
+			"sort_order": 3
 		},
 		{
 			"configurable_dropdown_id": "1",
-			"label": "Visiting Friends or Family",
-			"value": "visiting_friends_or_family",
-			"sort_order": 7
+			"label": "Leisure / Relaxation",
+			"value": "leisure_relaxation",
+			"sort_order": 4
 		},
 		{
 			"configurable_dropdown_id": "1",
 			"label": "Passing Through / Transit",
 			"value": "passing_through_transit",
+			"sort_order": 5
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Shopping",
+			"value": "shopping",
+			"sort_order": 6
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Sightseeing / Tourism",
+			"value": "sightseeing_tourism",
+			"sort_order": 7
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Visiting Friends or Family",
+			"value": "visiting_friends_or_family",
 			"sort_order": 8
 		},
 		{
