@@ -1,0 +1,78 @@
+{
+	"model": "configurable_dropdown_options",
+	"data": [
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Business / Work",
+			"value": "business_work",
+			"sort_order": 1
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Dining / Food",
+			"value": "dining_food",
+			"sort_order": 2
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Event / Entertainment",
+			"value": "event_entertainment",
+			"sort_order": 3
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Leisure / Relaxation",
+			"value": "leisure_relaxation",
+			"sort_order": 4
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Passing Through / Transit",
+			"value": "passing_through_transit",
+			"sort_order": 5
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Shopping",
+			"value": "shopping",
+			"sort_order": 6
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Sightseeing / Tourism",
+			"value": "sightseeing_tourism",
+			"sort_order": 7
+		},
+		{
+			"configurable_dropdown_id": "1",
+			"label": "Visiting Friends or Family",
+			"value": "visiting_friends_or_family",
+			"sort_order": 8
+		},
+		{
+			"configurable_dropdown_id": "2",
+			"label": "1 Star",
+			"value": "1"
+		},
+		{
+			"configurable_dropdown_id": "2",
+			"label": "2 Stars",
+			"value": "2"
+		},
+		{
+			"configurable_dropdown_id": "2",
+			"label": "3 Stars",
+			"value": "3"
+		},
+		{
+			"configurable_dropdown_id": "2",
+			"label": "4 Stars",
+			"value": "4"
+		},
+		{
+			"configurable_dropdown_id": "2",
+			"label": "5 Stars",
+			"value": "5"
+		}
+	]
+}
