@@ -66,8 +66,8 @@
       "options_configurable_dropdown_id": "2"
     },
     {
-      "label": "Visit Reason Radio Field",
-      "type_id": "radio",
+      "label": "Visit Reason Checkboxes Field",
+      "type_id": "checkbox",
       "options_configurable_dropdown_id": "1"
     },
     {
@@ -76,8 +76,8 @@
       "options_configurable_dropdown_id": "1"
     },
     {
-      "label": "Star Rating Checkboxes Field",
-      "type_id": "checkbox",
+      "label": "Star Rating Radio Field",
+      "type_id": "radio",
       "options_configurable_dropdown_id": "2"
     },
     {
