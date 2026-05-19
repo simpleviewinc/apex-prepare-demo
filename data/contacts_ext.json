@@ -14,7 +14,7 @@
 			"url": "https://www.google.com/",
 			"is_toggle": true,
 			"sr_dropdown_id": "13",
-			"vr_radio_id": "2",
+			"sr_radio_id": "12",
 			"vr_multiselect": {
 				"set": ["2","4"]
 			},
@@ -51,7 +51,7 @@
 			"integer": 10,
 			"url": "https://web.archive.org/",
 			"is_toggle": true,
-			"vr_radio_id": "3",
+			"sr_dropdown_id": "13",
 			"vr_checkboxes": {
 				"set": ["2"]
 			}

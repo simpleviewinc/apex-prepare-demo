@@ -114,8 +114,8 @@
 		{
 			"configurable_field_id": "14",
 			"module": "contacts",
-			"name": "vr_radio",
-			"label": "Visit Reason Radio Field"
+			"name": "sr_radio",
+			"label": "Star Rating Radio Field"
 		},
 		{
 			"configurable_field_id": "15",
