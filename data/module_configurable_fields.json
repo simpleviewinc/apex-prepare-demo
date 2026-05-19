@@ -97,13 +97,13 @@
 			"configurable_field_id": "11",
 			"module": "contacts",
 			"name": "dropdown",
-			"label": "Dropdown Field"
+			"label": "Visit Reason Dropdown Field"
 		},
 		{
 			"configurable_field_id": "12",
 			"module": "contacts",
 			"name": "radio",
-			"label": "Radio Field"
+			"label": "Visit Reason Radio Field"
 		},
 		{
 			"configurable_field_id": "13",
@@ -115,7 +115,7 @@
 			"configurable_field_id": "14",
 			"module": "contacts",
 			"name": "checkbox",
-			"label": "Checkboxes Field"
+			"label": "Star Rating Checkboxes Field"
 		},
 		{
 			"configurable_field_id": "15",
