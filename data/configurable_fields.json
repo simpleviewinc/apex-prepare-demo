@@ -63,30 +63,22 @@
     {
       "label": "Star Rating Dropdown Field",
       "type_id": "dropdown",
-      "options_configurable_dropdown": {
-        "set": ["2"]
-      }
+      "options_configurable_dropdown": "2"
     },
     {
       "label": "Visit Reason Radio Field",
       "type_id": "radio",
-      "options_configurable_dropdown": {
-        "set": ["1"]
-      }
+      "options_configurable_dropdown": "1"
     },
     {
       "label": "Visit Reason Multiselect Field",
       "type_id": "advancedSelection",
-      "options_configurable_dropdown": {
-        "set": ["1"]
-      }
+      "options_configurable_dropdown": "1"
     },
     {
       "label": "Star Rating Checkboxes Field",
       "type_id": "checkbox",
-      "options_configurable_dropdown": {
-        "set": ["2"]
-      }
+      "options_configurable_dropdown": "2"
     },
     {
       "label": "Address",
