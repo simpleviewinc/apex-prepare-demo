@@ -29,21 +29,12 @@
 					"postalCode": "90001"
 				},
 				"integer": "78",
-				"dropdown": {
-					"label": "Purple",
-					"value": "5"
-				},
+				"sr_dropdown_id": "13",
 				"textarea": "some\nmulti\nline\ntext",
 				"last_name": "Williams",
-				"checkboxes": [
-					{
-						"label": "Red",
-						"value": "1"
-					},
-					{
-						"label": "Green",
-						"value": "2"
-					}
+				"vr_checkboxes": [
+					"1",
+					"2"
 				],
 				"first_name": "Jennifer",
 				"email_address": "jennifer.williams_0@fakeemail.com"
@@ -77,25 +68,13 @@
 					"postalCode": "97201"
 				},
 				"integer": "23",
-				"dropdown": {
-					"label": "Yellow",
-					"value": "4"
-				},
+				"sr_dropdown_id": "12",
 				"textarea": "It\nis\nFriday\nafternoon",
 				"last_name": "Wilson",
-				"checkboxes": [
-					{
-						"label": "Orange",
-						"value": "6"
-					},
-					{
-						"label": "Purple",
-						"value": "5"
-					},
-					{
-						"label": "Yellow",
-						"value": "4"
-					}
+				"vr_checkboxes": [
+					"6",
+					"5",
+					"4"
 				],
 				"first_name": "Melissa",
 				"email_address": "mwilson@example.com"
