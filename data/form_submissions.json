@@ -10,6 +10,7 @@
 				"date": "2026-01-24T08:00:00.000Z",
 				"text": "Are there any upcoming festivals or events?",
 				"phone": "+15205555555",
+				"sr_radio": {"label": "2 Stars", "value": "10"},
 				"toggle": true,
 				"address": {
 					"city": "Anaheim",
@@ -25,8 +26,10 @@
 					"postalCode": "90001"
 				},
 				"integer": "78",
+				"sr_dropdown": {"label": "4 Stars", "value": "12"},
 				"textarea": "some\nmulti\nline\ntext",
 				"last_name": "Williams",
+				"vr_checkboxes": [{"label": "Dining / Food", "value": "2"}, {"label": "Leisure / Relaxation", "value": "4"}],
 				"first_name": "Jennifer",
 				"email_address": "jennifer.williams_0@fakeemail.com"
 			}
@@ -59,8 +62,10 @@
 					"postalCode": "97201"
 				},
 				"integer": "23",
+				"sr_dropdown": {"label": "3 Stars", "value": "11"},
 				"textarea": "It\nis\nFriday\nafternoon",
 				"last_name": "Wilson",
+				"vr_checkboxes": [{"label": "Event / Entertainment", "value": "3"}, {"label": "Passing Through / Transit", "value": "5"}],
 				"first_name": "Melissa",
 				"email_address": "mwilson@example.com"
 			}
