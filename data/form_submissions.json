@@ -25,10 +25,9 @@
 					"postalCode": "90001"
 				},
 				"integer": "78",
-				"sr_dropdown_id": "13",
 				"textarea": "some\nmulti\nline\ntext",
 				"last_name": "Williams",
-					"first_name": "Jennifer",
+				"first_name": "Jennifer",
 				"email_address": "jennifer.williams_0@fakeemail.com"
 			}
 		},
@@ -60,7 +59,6 @@
 					"postalCode": "97201"
 				},
 				"integer": "23",
-				"sr_dropdown_id": "12",
 				"textarea": "It\nis\nFriday\nafternoon",
 				"last_name": "Wilson",
 				"first_name": "Melissa",
