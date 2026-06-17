@@ -13,12 +13,12 @@
 			"phone": "+15209751234",
 			"url": "https://www.google.com/",
 			"is_toggle": true,
-			"dropdown_id": "5",
-			"radio_id": "2",
-			"multiselect": {
+			"sr_dropdown_id": "13",
+			"sr_radio_id": "12",
+			"vr_multiselect": {
 				"set": ["2","4"]
 			},
-			"checkbox": {
+			"vr_checkboxes": {
 				"set": ["1","3"]
 			},
 			"email": "aaron.bilkins@gmail.com",
@@ -43,7 +43,7 @@
 			"text": "don't call, only email",
 			"datetime_at": "2025-09-26T23:15:00.000Z",
 			"phone": "+15204057894",
-			"dropdown_id": "3"
+			"sr_dropdown_id": "13"
 		},
 		{
 			"parent_id": "apex://models/contacts/11",
@@ -51,8 +51,8 @@
 			"integer": 10,
 			"url": "https://web.archive.org/",
 			"is_toggle": true,
-			"radio_id": "3",
-			"checkbox": {
+			"sr_dropdown_id": "13",
+			"vr_checkboxes": {
 				"set": ["2"]
 			}
 		}
