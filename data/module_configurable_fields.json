@@ -20,10 +20,16 @@
 			"label": "VIP"
 		},
 		{
+			"configurable_field_id": "11",
+			"module": "accounts",
+			"name": "color",
+			"label": "Color"
+		},
+		{
 			"configurable_field_id": "14",
 			"module": "accounts",
-			"name": "radio_stars",
-			"label": "Star Rating"
+			"name": "many",
+			"label": "Choose Many"
 		},
 		{
 			"configurable_field_id": "15",
@@ -96,26 +102,26 @@
 		{
 			"configurable_field_id": "11",
 			"module": "contacts",
-			"name": "sr_dropdown",
-			"label": "Star Rating Dropdown Field"
+			"name": "dropdown",
+			"label": "Dropdown Field"
 		},
 		{
 			"configurable_field_id": "12",
 			"module": "contacts",
-			"name": "vr_checkboxes",
-			"label": "Visit Reason Checkboxes Field"
+			"name": "radio",
+			"label": "Radio Field"
 		},
 		{
 			"configurable_field_id": "13",
 			"module": "contacts",
-			"name": "vr_multiselect",
-			"label": "Visit Reason Multiselect Field"
+			"name": "multiselect",
+			"label": "Multiselect Field"
 		},
 		{
 			"configurable_field_id": "14",
 			"module": "contacts",
-			"name": "sr_radio",
-			"label": "Star Rating Radio Field"
+			"name": "checkbox",
+			"label": "Checkboxes Field"
 		},
 		{
 			"configurable_field_id": "15",
