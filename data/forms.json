@@ -160,8 +160,8 @@
 					},
 					{
 						"configurable_field_id": "14",
-						"label": "Checkboxes",
-						"name": "checkboxes",
+						"label": "Star Rating",
+						"name": "sr_radio",
 						"is_required": false
 					},
 					{
@@ -172,8 +172,8 @@
 					},
 					{
 						"configurable_field_id": "11",
-						"label": "Dropdown",
-						"name": "dropdown",
+						"label": "Star Rating Dropdown",
+						"name": "sr_dropdown",
 						"is_required": false
 					},
 					{
@@ -190,8 +190,8 @@
 					},
 					{
 						"configurable_field_id": "12",
-						"label": "Radio",
-						"name": "radio",
+						"label": "Visit Reason",
+						"name": "vr_checkboxes",
 						"is_required": false
 					},
 					{
