@@ -16,6 +16,83 @@
 			"email_address": "anthony.glazebrook+portal@gmail.com",
 			"type_id": "portal",
 			"is_auth_active": true
+		},
+		{
+			"user_id": "65e8c0aab264bac1f407c274",
+			"first_name": "Brian",
+			"last_name": "Abney",
+			"email_address": "brianabney+admin@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "63f558afaaa3320011741298",
+			"first_name": "Joss",
+			"last_name": "Frazier",
+			"email_address": "jfrazierqa+apex@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "6a45389ad2bcb8e2a5c4edb2",
+			"first_name": "Automation",
+			"last_name": "Testing",
+			"email_address": "rashmi.tu+123@granicus.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "68ee71bda3eb8fa6089f284f",
+			"first_name": "Rashmi",
+			"last_name": "TU",
+			"email_address": "rashmi.tu@granicus.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "6a33c73f84055c5518bd6d7b",
+			"first_name": "Shruthi",
+			"last_name": "RS",
+			"email_address": "shruthirs988@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "65d629f5cad497da1a2a8322",
+			"first_name": "Anna",
+			"last_name": "Test",
+			"email_address": "sowenlotr@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "660b51e3b402af3b8980ab1c",
+			"first_name": "Subaya",
+			"last_name": "Appana",
+			"email_address": "c.a.subaya+1001@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
 		}
 	]
 }
