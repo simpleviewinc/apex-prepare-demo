@@ -65,7 +65,7 @@
 			"user_id": "6a33c73f84055c5518bd6d7b",
 			"first_name": "Shruthi",
 			"last_name": "RS",
-			"email_address": "shruthi.rs@gmail.com",
+			"email_address": "shruthirs988@gmail.com",
 			"type_id": "admin",
 			"is_auth_active": true,
 			"roles": {
@@ -77,6 +77,17 @@
 			"first_name": "Anna",
 			"last_name": "Test",
 			"email_address": "sowenlotr@gmail.com",
+			"type_id": "admin",
+			"is_auth_active": true,
+			"roles": {
+				"set": ["1"]
+			}
+		},
+		{
+			"user_id": "660b51e3b402af3b8980ab1c",
+			"first_name": "Subaya",
+			"last_name": "Appana",
+			"email_address": "c.a.subaya+1001@gmail.com",
 			"type_id": "admin",
 			"is_auth_active": true,
 			"roles": {
