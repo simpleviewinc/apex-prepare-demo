@@ -9,6 +9,7 @@
 	},
 	"scripts": {
 		"generate-events": "ts-node scripts/generateEvents.ts",
-		"generate-inquiries": "ts-node scripts/generateInquiries.ts"
+		"generate-inquiries": "ts-node scripts/generateInquiries.ts",
+		"generate-offers": "ts-node scripts/generateOffers.ts"
 	}
 }
