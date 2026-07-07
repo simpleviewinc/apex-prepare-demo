@@ -4,25 +4,62 @@ import RandomUtils from "../src/RandomUtils";
 
 const OFFER_COUNT = 1000;
 
+// Fixed anchor keeps generated dates reproducible across runs (matches seed T07:00:00.000Z style).
+const DATE_ANCHOR = new Date(Date.UTC(2026, 0, 15, 7, 0, 0));
+
 const accounts = [
 	"7",
-	"13",
 	"28",
-	"36"
+	"36",
+	"13"
 ];
 
+// Listing IDs verified via properties.json account_id resolution.
 const accountListings = new Map([
 	["7", ["12"]],
 	["13", ["1"]],
-	["28", ["28"]],
+	["28", ["26"]],
 	["36", ["33"]]
 ]);
 
+// Account 13 owns image_ids 4, 5, 6 in account_images.json.
+const accountMediaImages = new Map([
+	["13", ["4", "5", "6"]]
+]);
+
+interface SeedOffer {
+	account?: { set: string }
+	title?: string
+	description?: string
+	weburl?: string
+	approval_status?: string
+	approval_parent?: unknown
+}
+
 const seedOffers = require("../data/offers.json").data as SeedOffer[];
 
-const seedTitles = seedOffers.map(o => o.title).filter(Boolean);
-const seedDescriptions = seedOffers.map(o => o.description).filter(Boolean);
-const seedWeburls = seedOffers.map(o => o.weburl).filter(Boolean);
+const productionSeedOffers = seedOffers.filter(o =>
+	!o.approval_status && !o.approval_parent && o.title && o.title.length > 5
+);
+
+function buildSeedPool(account: string, pick: (o: SeedOffer) => string | undefined): string[] {
+	const accountOffers = productionSeedOffers.filter(o => o.account?.set === account);
+	const source = accountOffers.length > 0 ? accountOffers : productionSeedOffers;
+	return source.map(pick).filter((v): v is string => Boolean(v));
+}
+
+const seedByAccount = new Map(accounts.map(account => [
+	account,
+	{
+		titles: buildSeedPool(account, o => o.title),
+		descriptions: buildSeedPool(account, o => o.description),
+		weburls: buildSeedPool(account, o => o.weburl)
+	}
+]));
+
+const fallbackTitles = productionSeedOffers.map(o => o.title).filter(Boolean) as string[];
+const fallbackDescriptions = productionSeedOffers.map(o => o.description).filter(Boolean) as string[];
+const fallbackWeburls = productionSeedOffers.map(o => o.weburl).filter(Boolean) as string[];
 
 const categories = ["1", "2", "3", "4"];
 const channels = ["1", "2", "3", "4", "7"];
@@ -46,12 +83,6 @@ const CHANNEL_MAX = 3;
 
 type DateScenario = "unset" | "past" | "future" | "active";
 
-interface SeedOffer {
-	title?: string
-	description?: string
-	weburl?: string
-}
-
 interface Offer {
 	account: { set: string }
 	title: string
@@ -70,8 +101,7 @@ interface Offer {
 	redeem_to_at?: string
 }
 
-function getDateScenario(index: number, fieldOffset: number): DateScenario {
-	const bucket = (index + fieldOffset) % 10;
+function getDateScenario(bucket: number): DateScenario {
 	if (bucket < 2) {
 		return "unset";
 	}
@@ -89,15 +119,14 @@ function applyDateScenario(r: RandomUtils, scenario: DateScenario): { from?: str
 		return {};
 	}
 
-	const now = new Date();
 	const durationDays = r.getRandomIntInclusive(7, 180);
 
 	if (scenario === "past") {
 		const toOffset = -r.getRandomIntInclusive(1, 365);
 		const fromOffset = toOffset - durationDays;
 		return {
-			from: add(now, { days: fromOffset }).toISOString(),
-			to: add(now, { days: toOffset }).toISOString()
+			from: add(DATE_ANCHOR, { days: fromOffset }).toISOString(),
+			to: add(DATE_ANCHOR, { days: toOffset }).toISOString()
 		};
 	}
 
@@ -105,17 +134,34 @@ function applyDateScenario(r: RandomUtils, scenario: DateScenario): { from?: str
 		const fromOffset = r.getRandomIntInclusive(1, 90);
 		const toOffset = fromOffset + durationDays;
 		return {
-			from: add(now, { days: fromOffset }).toISOString(),
-			to: add(now, { days: toOffset }).toISOString()
+			from: add(DATE_ANCHOR, { days: fromOffset }).toISOString(),
+			to: add(DATE_ANCHOR, { days: toOffset }).toISOString()
 		};
 	}
 
 	const fromOffset = -r.getRandomIntInclusive(30, 180);
 	const toOffset = r.getRandomIntInclusive(30, 180);
 	return {
-		from: add(now, { days: fromOffset }).toISOString(),
-		to: add(now, { days: toOffset }).toISOString()
+		from: add(DATE_ANCHOR, { days: fromOffset }).toISOString(),
+		to: add(DATE_ANCHOR, { days: toOffset }).toISOString()
 	};
+}
+
+function pickDistinct(r: RandomUtils, pool: string[], count: number): string[] {
+	const selected = new Set<string>();
+	while (selected.size < count) {
+		selected.add(r.randEntry(pool));
+	}
+	return Array.from(selected);
+}
+
+function pickDistinctMediaImages(r: RandomUtils, pool: string[]): string[] {
+	if (pool.length === 1) {
+		return [pool[0]];
+	}
+	const first = r.randEntry(pool);
+	const remaining = pool.filter(id => id !== first);
+	return [first, r.randEntry(remaining)];
 }
 
 const offers: Offer[] = [];
@@ -124,37 +170,32 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 	const r = new RandomUtils((100 * i).toString());
 	const account = r.randEntry(accounts);
 	const listings = accountListings.get(account);
-	const title = r.randEntry(seedTitles);
+	const seed = seedByAccount.get(account);
+	const titles = seed?.titles.length ? seed.titles : fallbackTitles;
+	const descriptions = seed?.descriptions.length ? seed.descriptions : fallbackDescriptions;
+	const weburls = seed?.weburls.length ? seed.weburls : fallbackWeburls;
 
 	const offer: Offer = {
 		account: { set: account },
-		title
+		title: r.randEntry(titles)
 	};
 
 	if (HAS_DESCRIPTION_CHANCE > r.random()) {
-		offer.description = r.randEntry(seedDescriptions);
+		offer.description = r.randEntry(descriptions);
 	}
 
-	if (HAS_WEBURL_CHANCE > r.random() && seedWeburls.length > 0) {
-		offer.weburl = r.randEntry(seedWeburls);
+	if (HAS_WEBURL_CHANCE > r.random() && weburls.length > 0) {
+		offer.weburl = r.randEntry(weburls);
 	}
 
 	if (HAS_CATEGORIES_CHANCE > r.random()) {
 		const count = r.getRandomIntInclusive(CATEGORY_MIN, CATEGORY_MAX);
-		const selected = new Set<string>();
-		while (selected.size < count) {
-			selected.add(r.randEntry(categories));
-		}
-		offer.categories = { set: [...selected] };
+		offer.categories = { set: pickDistinct(r, categories, count) };
 	}
 
 	if (HAS_CHANNELS_CHANCE > r.random()) {
 		const count = r.getRandomIntInclusive(CHANNEL_MIN, CHANNEL_MAX);
-		const selected = new Set<string>();
-		while (selected.size < count) {
-			selected.add(r.randEntry(channels));
-		}
-		offer.channels = { set: [...selected] };
+		offer.channels = { set: pickDistinct(r, channels, count) };
 	}
 
 	if (HAS_LISTINGS_CHANCE > r.random() && listings) {
@@ -163,11 +204,7 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 
 	if (HAS_TAGS_CHANCE > r.random()) {
 		const count = r.getRandomIntInclusive(1, tags.length);
-		const selected = new Set<string>();
-		while (selected.size < count) {
-			selected.add(r.randEntry(tags));
-		}
-		offer.tags = { set: [...selected] };
+		offer.tags = { set: pickDistinct(r, tags, count) };
 	}
 
 	if (HAS_RANK_CHANCE > r.random()) {
@@ -178,16 +215,18 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 		offer.is_featured = true;
 	}
 
-	if (HAS_MEDIA_CHANCE > r.random()) {
+	const mediaImages = accountMediaImages.get(account);
+	if (HAS_MEDIA_CHANCE > r.random() && mediaImages) {
+		const [image1, image2] = pickDistinctMediaImages(r, mediaImages);
 		offer.media = {
 			docs: [
-				{ image_id: r.randEntry(["4", "5", "6"]), sort_order: 1 },
-				{ image_id: r.randEntry(["4", "5", "6"]), sort_order: 2 }
+				{ image_id: image1, sort_order: 1 },
+				{ image_id: image2, sort_order: 2 }
 			]
 		};
 	}
 
-	const postDates = applyDateScenario(r, getDateScenario(i, 0));
+	const postDates = applyDateScenario(r, getDateScenario(i % 10));
 	if (postDates.from) {
 		offer.post_from_at = postDates.from;
 	}
@@ -195,7 +234,8 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 		offer.post_to_at = postDates.to;
 	}
 
-	const redeemDates = applyDateScenario(r, getDateScenario(i, 3));
+	const redeemBucket = r.getRandomIntInclusive(0, 9);
+	const redeemDates = applyDateScenario(r, getDateScenario(redeemBucket));
 	if (redeemDates.from) {
 		offer.redeem_from_at = redeemDates.from;
 	}
