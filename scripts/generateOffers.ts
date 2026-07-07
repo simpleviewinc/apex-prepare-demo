@@ -17,10 +17,43 @@ const accounts = [
 // Listing IDs verified via properties.json account_id resolution.
 const accountListings = new Map([
 	["7", ["12"]],
-	["13", ["1"]],
+	["13", ["1", "6"]],
 	["28", ["26"]],
 	["36", ["33"]]
 ]);
+
+const genericOfferTitles = [
+	"Weekend Getaway Special",
+	"Early Bird Discount",
+	"Family Fun Package",
+	"Seasonal Savings Offer",
+	"Members-Only Deal",
+	"Limited Time Promotion",
+	"Stay and Save Bundle",
+	"Dine and Discover Deal",
+	"Adventure Pass Offer",
+	"Holiday Celebration Package",
+	"Midweek Escape Special",
+	"Group Booking Discount",
+	"Last-Minute Deal",
+	"Anniversary Celebration Offer",
+	"Birthday Bonus Package",
+	"Spring Break Special",
+	"Summer Splash Savings",
+	"Fall Foliage Getaway",
+	"Winter Wonderland Package",
+	"Romantic Retreat Offer",
+	"Golf and Stay Package",
+	"Spa Day Special",
+	"Kids Eat Free Promotion",
+	"Buy One Get One Half Off",
+	"Loyalty Rewards Offer",
+	"Extended Stay Discount",
+	"Day Trip Special",
+	"Festival Weekend Package",
+	"Local Explorer Deal",
+	"Grand Opening Special"
+];
 
 // Account 13 owns image_ids 4, 5, 6 in account_images.json.
 const accountMediaImages = new Map([
@@ -48,16 +81,20 @@ function buildSeedPool(account: string, pick: (o: SeedOffer) => string | undefin
 	return source.map(pick).filter((v): v is string => Boolean(v));
 }
 
+function buildTitlePool(account: string): string[] {
+	const accountTitles = buildSeedPool(account, o => o.title);
+	return [...new Set([...accountTitles, ...genericOfferTitles])];
+}
+
 const seedByAccount = new Map(accounts.map(account => [
 	account,
 	{
-		titles: buildSeedPool(account, o => o.title),
+		titles: buildTitlePool(account),
 		descriptions: buildSeedPool(account, o => o.description),
 		weburls: buildSeedPool(account, o => o.weburl)
 	}
 ]));
 
-const fallbackTitles = productionSeedOffers.map(o => o.title).filter(Boolean) as string[];
 const fallbackDescriptions = productionSeedOffers.map(o => o.description).filter(Boolean) as string[];
 const fallbackWeburls = productionSeedOffers.map(o => o.weburl).filter(Boolean) as string[];
 
@@ -148,16 +185,17 @@ function applyDateScenario(r: RandomUtils, scenario: DateScenario): { from?: str
 }
 
 function pickDistinct(r: RandomUtils, pool: string[], count: number): string[] {
+	const limit = Math.min(count, pool.length);
 	const selected = new Set<string>();
-	while (selected.size < count) {
+	while (selected.size < limit) {
 		selected.add(r.randEntry(pool));
 	}
 	return Array.from(selected);
 }
 
 function pickDistinctMediaImages(r: RandomUtils, pool: string[]): string[] {
-	if (pool.length === 1) {
-		return [pool[0]];
+	if (pool.length <= 1) {
+		return pool.slice(0, 1);
 	}
 	const first = r.randEntry(pool);
 	const remaining = pool.filter(id => id !== first);
@@ -171,7 +209,7 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 	const account = r.randEntry(accounts);
 	const listings = accountListings.get(account);
 	const seed = seedByAccount.get(account);
-	const titles = seed?.titles.length ? seed.titles : fallbackTitles;
+	const titles = seed?.titles ?? genericOfferTitles;
 	const descriptions = seed?.descriptions.length ? seed.descriptions : fallbackDescriptions;
 	const weburls = seed?.weburls.length ? seed.weburls : fallbackWeburls;
 
@@ -216,13 +254,10 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 	}
 
 	const mediaImages = accountMediaImages.get(account);
-	if (HAS_MEDIA_CHANCE > r.random() && mediaImages) {
-		const [image1, image2] = pickDistinctMediaImages(r, mediaImages);
+	if (HAS_MEDIA_CHANCE > r.random() && mediaImages?.length) {
+		const images = pickDistinctMediaImages(r, mediaImages);
 		offer.media = {
-			docs: [
-				{ image_id: image1, sort_order: 1 },
-				{ image_id: image2, sort_order: 2 }
-			]
+			docs: images.map((image_id, index) => ({ image_id, sort_order: index + 1 }))
 		};
 	}
 
