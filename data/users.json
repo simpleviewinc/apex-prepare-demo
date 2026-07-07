@@ -18,6 +18,14 @@
 			"is_auth_active": true
 		},
 		{
+			"user_id": "67a65978fa777ac0709bf90e",
+			"first_name": "Brian",
+			"last_name": "Portal",
+			"email_address": "brian.abney+portal@granicus.com",
+			"type_id": "portal",
+			"is_auth_active": true
+		},
+		{
 			"user_id": "65e8c0aab264bac1f407c274",
 			"first_name": "Brian",
 			"last_name": "Abney",
