@@ -10,6 +10,7 @@
 			"interests": { "set": ["1", "5"] },
 			"brochures": { "set": ["4", "1"] },
 			"reasons_for_visit": { "set": ["2"] },
+			"fulfilled_at": "2024-07-25T07:00:00.000Z",
 			"comments": "I want to Ski.  Do you have a season pass for skiing and what are the lift and rental rates"
 		},
 		{
@@ -67,6 +68,7 @@
 			"interests": { "set": ["1", "4"] },
 			"brochures": { "set": ["4", "1"] },
 			"reasons_for_visit": { "set": ["2"] },
+			"fulfilled_at": "2024-07-30T07:00:00.000Z",
 			"comments": "Would like info on trains, historical sites, wineries."
 		},
 		{
@@ -84,6 +86,7 @@
 			"date_at": "2024-02-01T22:31:10.497Z",
 			"brochures": { "set": [ "4", "1", "2", "3" ] },
 			"reasons_for_visit": { "set": ["2"] },
+			"fulfilled_at": "2024-02-10T07:00:00.000Z",
 			"comments": "Could you please send me two sets of brochures because we are coming with another family and want to share all the brochure information with them."
 		},
 		{
@@ -100,6 +103,7 @@
 			"date_at": "2024-02-01T22:31:10.497Z",
 			"brochures": { "set": [ "4", "1", "2", "3" ] },
 			"reasons_for_visit": { "set": ["2"] },
+			"fulfilled_at": "2024-02-05T07:00:00.000Z",
 			"comments": "please send Brochures by this week"
 		},
 		{
