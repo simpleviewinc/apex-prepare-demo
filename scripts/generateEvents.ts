@@ -3,10 +3,6 @@ import RandomUtils from "../src/RandomUtils";
 
 const EVENT_COUNT = 500;
 
-// date_rule_sets dates must remain at client-timezone midnight (America/Phoenix, UTC-7),
-// independent of the host timezone.
-const CLIENT_UTC_OFFSET_HOURS = 7;
-
 const accounts = [
 	"7",
 	"28",
@@ -96,7 +92,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	const day = r.getRandomIntInclusive(0, 28);
 
 	const ruleSet = {
-		start_date_at: new Date(Date.UTC(year, month, day, CLIENT_UTC_OFFSET_HOURS)).toISOString(),
+		start_date_at: new Date(Date.UTC(year, month, day, 7, 0, 0)).toISOString(),
 		start_time: "16:00",
 		end_time: "20:00",
 		frequency_id: "single_date"
