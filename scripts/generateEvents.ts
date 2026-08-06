@@ -3,8 +3,8 @@ import RandomUtils from "../src/RandomUtils";
 
 const EVENT_COUNT = 500;
 
-// date_rule_sets dates must be stored at client-timezone midnight (America/Phoenix, UTC-7),
-// so build them in UTC rather than the host timezone.
+// date_rule_sets dates must remain at client-timezone midnight (America/Phoenix, UTC-7),
+// independent of the host timezone.
 const CLIENT_UTC_OFFSET_HOURS = 7;
 
 const accounts = [

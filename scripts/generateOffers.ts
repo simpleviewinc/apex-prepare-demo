@@ -249,8 +249,6 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 	if (isPublished(offer)) {
 		if (!offer.channels) {
 			offer.channels = { set: ["1"] };
-		} else if (!offer.channels.set.includes("1")) {
-			offer.channels.set.unshift("1");
 		}
 	}
 
