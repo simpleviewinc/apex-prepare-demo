@@ -3,6 +3,10 @@ import RandomUtils from "../src/RandomUtils";
 
 const EVENT_COUNT = 500;
 
+// date_rule_sets dates must be stored at client-timezone midnight (America/Phoenix, UTC-7),
+// so build them in UTC rather than the host timezone.
+const CLIENT_UTC_OFFSET_HOURS = 7;
+
 const accounts = [
 	"7",
 	"28",
@@ -65,6 +69,7 @@ const eventTitles = [
 
 interface Event {
 	account_id: string
+	channels: { set: string[] }
 	title: string
 	description: string
 	date_rule_sets: {
@@ -91,7 +96,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	const day = r.getRandomIntInclusive(0, 28);
 
 	const ruleSet = {
-		start_date_at: new Date(year, month, day).toISOString(),
+		start_date_at: new Date(Date.UTC(year, month, day, CLIENT_UTC_OFFSET_HOURS)).toISOString(),
 		start_time: "16:00",
 		end_time: "20:00",
 		frequency_id: "single_date"
@@ -99,6 +104,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 
 	events.push({
 		account_id,
+		channels: { set: ["1"] },
 		title: r.randEntry(eventTitles),
 		description: "Enjoy the event open to all ages! Food vendors and family-friendly activities will be available throughout the day/night. Just come and enjoy the fun!",
 		date_rule_sets: {

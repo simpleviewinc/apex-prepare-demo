@@ -13,7 +13,8 @@
 					"categories": { "set": ["2"] },
 					"subcategories": { "set": ["4"] }
 				}
-			}
+			},
+			"channels": { "set": ["1"] }
 		},
 		{
 			"title": "Starr Pass Resort - Accommodations - Resorts",
@@ -31,26 +32,30 @@
 			"description": "The 98 acre Desert Museum is a fusion experience: zoo, botanical garden, art gallery, natural history museum, and aquarium.   The Desert Museum is ranked on TripAdvisor.com as one of the Top 10 Museums in the country and the #1 Tucson attraction. Unlike most museums, about 85% of the experience is outdoors! ",
 			"keywords": "Outdoor, museum, Zoo",
 			"property": { "set": "4" },
-			"subcategories": { "set": ["8"] }
+			"subcategories": { "set": ["8"] },
+			"channels": { "set": ["1"] }
 		},
 		{
 			"title": "611 Pub, Inc. - Dining - Bar & Grill",
 			"description": "Easy to Find, Hard to Leave! Pit 611 is your friendly neighborhood bar and grill situated near Audubon, in the heart of Minnesota’s beautiful lakes country. Our clean, relaxed, family-friendly atmosphere provides the perfect backdrop for delicious, home cooked meals, a wide selection of beverages and an all-around great time. Dining options include an outdoor patio with a gorgeous view. Located at the corner of county highways 6 and 11, we’re the easy to find, hard to leave place you won’t soon forget!",
 			"keywords": "Local, Pub",
 			"property": { "set": "2" },
-			"subcategories": { "set": ["6"] }
+			"subcategories": { "set": ["6"] },
+			"channels": { "set": ["1"] }
 		},
 		{
 			"title": "A Cottage At Campbell Farm - Accommodations - Extended Stay",
 			"description": "Private, Romantic, Picturesque and Tranquil. Nestled between pond and forest on our 1780's mountain farm, our cottages are a perfect retreat or a base from which to explore.",
 			"keywords": "Cottages, Cabins",
 			"property": { "set": "5" },
-			"subcategories": { "set": ["7"] }
+			"subcategories": { "set": ["7"] },
+			"channels": { "set": ["1"] }
 		},
 		{
 			"title": "4th Street Event Center Listing",
 			"property": { "set": "6" },
-			"property_id": "6"
+			"property_id": "6",
+			"channels": { "set": ["1"] }
 		},
 		{
 			"title": "Club at Starr Pass",
@@ -135,7 +140,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "14" },
@@ -146,7 +151,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "15" },
@@ -157,7 +162,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "16" },
@@ -168,7 +173,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "17" },
@@ -179,7 +184,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "18" },
@@ -190,7 +195,7 @@
 			"rank": { "set": "2" },
 			"channels": { "set": ["1", "3", "4"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "19" },
@@ -540,7 +545,7 @@
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "52" },
@@ -551,7 +556,7 @@
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z",
+			"post_to_at": "2027-12-31T07:00:00.000Z",
 			"dtn": {
 				"doc": {
 					"is_enabled": true,
@@ -569,7 +574,7 @@
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "54" },
@@ -580,7 +585,7 @@
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "55" },
@@ -591,7 +596,7 @@
 			"rank": { "set": "3" },
 			"channels": { "set": ["1"] },
 			"post_from_at": "2024-01-01T07:00:00.000Z",
-			"post_to_at": "2025-12-15T07:00:00.000Z"
+			"post_to_at": "2027-12-31T07:00:00.000Z"
 		},
 		{
 			"property": { "set": "56" },
