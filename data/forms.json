@@ -6,7 +6,7 @@
 			"type_id": "contact",
 			"is_posted_on_website":true,
 			"is_active":true,
-			"response_text":"all the information in the world",
+			"response_text":"Congratulations! You've signed up for the newsletter.",
 			"is_deleted": false,
 			"inquiry_type_id": "5",
 			"fields": {
