@@ -120,8 +120,6 @@ const CHANNEL_MAX = 3;
 
 type DateScenario = "unset" | "past" | "future" | "active";
 
-const NON_PUBLISHED_APPROVAL_STATUSES = new Set(["draft", "awaiting_approval", "rework"]);
-
 interface Offer {
 	account: { set: string }
 	title: string
@@ -138,14 +136,6 @@ interface Offer {
 	post_to_at?: string
 	redeem_from_at?: string
 	redeem_to_at?: string
-	approval_status?: { set: string } | string | null
-}
-
-function isPublished(offer: Offer): boolean {
-	const approvalStatus = typeof offer.approval_status === "string"
-		? offer.approval_status
-		: offer.approval_status?.set;
-	return !approvalStatus || !NON_PUBLISHED_APPROVAL_STATUSES.has(approvalStatus);
 }
 
 function getDateScenario(bucket: number): DateScenario {
@@ -246,10 +236,9 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 		offer.channels = { set: pickDistinct(r, channels, count) };
 	}
 
-	if (isPublished(offer)) {
-		if (!offer.channels) {
-			offer.channels = { set: ["1"] };
-		}
+	// Generated offers are always published, so they must carry at least one channel to be publishable.
+	if (!offer.channels) {
+		offer.channels = { set: ["1"] };
 	}
 
 	if (HAS_LISTINGS_CHANCE > r.random() && listings) {
