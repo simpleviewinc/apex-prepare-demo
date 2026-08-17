@@ -7,7 +7,7 @@
 			"cancellation_policy": "Must cancel a week in advance.",
 			"check_in_time": "Noon",
 			"check_out_time": "10 AM",
-			"reservation_link": "http://www.myhotel.com",
+			"reservation_link": "http://www.myhotel.com/",
 			"property_id": "1",
 			"sleeping_rooms": {
 				"docs": [

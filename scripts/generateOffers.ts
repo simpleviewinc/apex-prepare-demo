@@ -86,17 +86,24 @@ function buildTitlePool(account: string): string[] {
 	return [...new Set([...accountTitles, ...genericOfferTitles])];
 }
 
+// weburl is stored in the svac url domain, which only accepts URL.href form, so a seed value that
+// is merely browser-valid (mixed case host, no trailing slash) is rewritten on insert rather than
+// stored as seeded.
+function normalizeUrl(value: string): string {
+	return new URL(value).href;
+}
+
 const seedByAccount = new Map(accounts.map(account => [
 	account,
 	{
 		titles: buildTitlePool(account),
 		descriptions: buildSeedPool(account, o => o.description),
-		weburls: buildSeedPool(account, o => o.weburl)
+		weburls: buildSeedPool(account, o => o.weburl).map(normalizeUrl)
 	}
 ]));
 
 const fallbackDescriptions = productionSeedOffers.map(o => o.description).filter(Boolean) as string[];
-const fallbackWeburls = productionSeedOffers.map(o => o.weburl).filter(Boolean) as string[];
+const fallbackWeburls = (productionSeedOffers.map(o => o.weburl).filter(Boolean) as string[]).map(normalizeUrl);
 
 const categories = ["1", "2", "3", "4"];
 const channels = ["1", "2", "3", "4", "7"];

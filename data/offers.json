@@ -24,7 +24,7 @@
 			"redeem_to_at": "2026-02-20T07:00:00.000Z",
 			"tags": { "set": ["2", "3"] },
 			"title": "My 4th Street Full Offer",
-			"weburl": "http://www.4thstreetmarket.com"
+			"weburl": "http://www.4thstreetmarket.com/"
 		},
 		{
 			"account": { "set": "2" },
@@ -1048,7 +1048,7 @@
 			"redeem_to_at": "2026-01-19T07:00:00.000Z",
 			"tags": { "set": ["2"] },
 			"title": "My 4th Street Half Ipsum",
-			"weburl": "http://www.4thstreetmarket.com",
+			"weburl": "http://www.4thstreetmarket.com/",
 			"approval_status": { "set": "draft" },
 			"approval_parent": { "set": "2" }
 		},

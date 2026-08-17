@@ -6,7 +6,7 @@
 			"contact_id": "474",
 			"inquiry_id": "394",
 			"data": {
-				"url": "https://example.com",
+				"url": "https://example.com/",
 				"date": "2026-01-24T08:00:00.000Z",
 				"text": "Are there any upcoming festivals or events?",
 				"phone": "+15205555555",
@@ -39,7 +39,7 @@
 			"contact_id": "596",
 			"inquiry_id": "539",
 			"data": {
-				"url": "https://workinghard.com",
+				"url": "https://workinghard.com/",
 				"date": "2029-05-09T07:00:00.000Z",
 				"text": "What’s the best way to get around the city?",
 				"phone": "+15205751151",

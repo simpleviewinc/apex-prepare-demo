@@ -21,7 +21,7 @@
 			"price": { "set": "2" },
 			"private_dining_capacity": 25,
 			"property_id": "1",
-			"reservation_link": "http://4thstreetmarket.com"
+			"reservation_link": "http://4thstreetmarket.com/"
 		},
 		{
 			"amenities": {
