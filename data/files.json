@@ -213,6 +213,15 @@
 			"name": "bulletin image guide.pdf",
 			"guid": "3b7ade5d-a814-4c85-9562-881fb88a5eab",
 			"file_size": 452871
+		},
+		{
+			"filestorage_id": "cloudinary://apex/contacts/custom_profile_picture/09c990a3-dd70-44ab-b02c-27dcb74e446c-a-aaron.jpg",
+			"name": "aaron.jpg",
+			"guid": "0ea658a6-9e58-43ac-aa9b-d3001a92835c",
+			"file_size": 27245,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1788561473/apex/contacts/custom_profile_picture/09c990a3-dd70-44ab-b02c-27dcb74e446c-a-aaron.jpg.jpg",
+			"height": 700,
+			"width": 1050
 		}
 	]
 }
