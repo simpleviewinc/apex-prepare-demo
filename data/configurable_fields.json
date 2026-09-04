@@ -117,6 +117,13 @@
       "upload_max_limit": 1,
       "is_upload_public": false,
       "instruction_text": "Files are private and require authentication to access."
+    },
+    {
+      "label": "Profile Picture",
+      "type_id": "imageUpload",
+      "size_id": "md",
+      "upload_max_limit": 1,
+      "is_upload_public": true
     }
   ]
 }
