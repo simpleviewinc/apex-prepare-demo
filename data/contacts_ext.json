@@ -13,7 +13,9 @@
 			"phone": "+15209751234",
 			"url": "https://www.google.com/",
 			"is_toggle": true,
-			"profile_picture_id": "26",
+			"profile_picture": {
+				"set": ["26"]
+			},
 			"sr_dropdown_id": "13",
 			"sr_radio_id": "12",
 			"vr_multiselect": {
