@@ -58,6 +58,12 @@
 			"vr_checkboxes": {
 				"set": ["2"]
 			}
+		},
+		{
+			"parent_id": "apex://models/contacts/237",
+			"profile_picture": {
+				"set": ["27"]
+			}
 		}
 	]
 }

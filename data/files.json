@@ -222,6 +222,15 @@
 			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1788561473/apex/contacts/custom_profile_picture/09c990a3-dd70-44ab-b02c-27dcb74e446c-a-aaron.jpg.jpg",
 			"height": 700,
 			"width": 1050
+		},
+		{
+			"filestorage_id": "cloudinary://apex/contacts/custom_profile_picture/fc3ede9b-c6ab-46aa-846e-698cc8e5fe10-a-amanda.jpg",
+			"name": "amanda.jpg",
+			"guid": "a0116e7b-fd51-4cfc-8980-ed640248b4d3",
+			"file_size": 26266,
+			"public_url": "https://res.cloudinary.com/apex-test/image/upload/v1788562142/apex/contacts/custom_profile_picture/fc3ede9b-c6ab-46aa-846e-698cc8e5fe10-a-amanda.jpg.jpg",
+			"height": 350,
+			"width": 642
 		}
 	]
 }
