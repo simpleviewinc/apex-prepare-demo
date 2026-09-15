@@ -124,6 +124,10 @@
       "size_id": "md",
       "upload_max_limit": 1,
       "is_upload_public": true
+    },
+    {
+      "label": "Social Media",
+      "type_id": "socialMedia"
     }
   ]
 }
