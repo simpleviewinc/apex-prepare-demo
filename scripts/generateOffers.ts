@@ -236,6 +236,11 @@ for (let i = 0; i < OFFER_COUNT; i++) {
 		offer.channels = { set: pickDistinct(r, channels, count) };
 	}
 
+	// Generated offers are always published, so they must carry at least one channel to be publishable.
+	if (!offer.channels) {
+		offer.channels = { set: ["1"] };
+	}
+
 	if (HAS_LISTINGS_CHANCE > r.random() && listings) {
 		offer.listings = { set: [r.randEntry(listings)] };
 	}

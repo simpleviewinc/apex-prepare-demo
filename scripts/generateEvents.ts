@@ -65,6 +65,7 @@ const eventTitles = [
 
 interface Event {
 	account_id: string
+	channels: { set: string[] }
 	title: string
 	description: string
 	date_rule_sets: {
@@ -91,7 +92,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 	const day = r.getRandomIntInclusive(0, 28);
 
 	const ruleSet = {
-		start_date_at: new Date(year, month, day).toISOString(),
+		start_date_at: new Date(Date.UTC(year, month, day, 7, 0, 0)).toISOString(),
 		start_time: "16:00",
 		end_time: "20:00",
 		frequency_id: "single_date"
@@ -99,6 +100,7 @@ for (let i = 0; i < EVENT_COUNT; i++) {
 
 	events.push({
 		account_id,
+		channels: { set: ["1"] },
 		title: r.randEntry(eventTitles),
 		description: "Enjoy the event open to all ages! Food vendors and family-friendly activities will be available throughout the day/night. Just come and enjoy the fun!",
 		date_rule_sets: {

@@ -110,6 +110,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -195,6 +200,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -215,6 +225,11 @@
 			"title": "Weekend Getaway Special",
 			"description": "Enjoy non-stop gaming action and the relaxing four-season pool. This package includes a $100 dining credit to Lucky 8 Noodle and Sushi Bar! Available:  Seven days a week.Call or visit website for pricing.",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -377,6 +392,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -396,6 +416,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -673,6 +698,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -726,6 +756,11 @@
 				"set": [
 					"2",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -949,6 +984,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -973,6 +1013,11 @@
 			"title": "Members-Only Deal",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -991,6 +1036,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -1129,6 +1179,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -1174,6 +1229,11 @@
 					"4",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -1370,6 +1430,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -1525,6 +1590,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -1574,6 +1644,11 @@
 				"set": [
 					"3",
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -1630,6 +1705,11 @@
 			},
 			"title": "Fall Foliage Getaway",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -1680,6 +1760,11 @@
 			},
 			"title": "Adventure Pass Offer",
 			"description": " Time to drop the books and hit the fields. All students are invited to play paintball for half price. That's right, all day paintball fun at half the price. Don't miss out on this limited time paintball offer!Every person that makes advance reservations and is paid in full at least 24 hours in advance will receive 100 free paintballs. 2026:  January 6, 7; February 3, 4, 24, 25; March 25, 26, 27, 28, 29, 30; April 1, 2, 3, 4, 5.Cost:$20.99 person with pre-registration discount. $41.99 person on game day. Ages 10 and up. Must have a valid student ID. Call to pre-register. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"rank": {
 				"set": "1"
 			},
@@ -1832,6 +1917,11 @@
 			"title": "Weekend Getaway Special",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -1989,6 +2079,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -2136,6 +2231,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -2189,6 +2289,11 @@
 			"title": "Stay and Save Bundle",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -2255,6 +2360,11 @@
 					"4",
 					"1",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -2402,6 +2512,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -2458,6 +2573,11 @@
 				"set": [
 					"4",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"rank": {
@@ -2629,6 +2749,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -2739,6 +2864,11 @@
 					"1",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -2984,6 +3114,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -3065,6 +3200,11 @@
 					"1",
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -3197,6 +3337,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -3356,6 +3501,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -3403,6 +3553,11 @@
 					"3",
 					"4",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -3762,6 +3917,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -3936,6 +4096,11 @@
 			"title": "Spa Day Special",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -3987,6 +4152,11 @@
 				"set": [
 					"3",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -4198,6 +4368,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -4212,6 +4387,11 @@
 				"set": "13"
 			},
 			"title": "Winter Wonderland Package",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -4234,6 +4414,11 @@
 					"2",
 					"1",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -4510,6 +4695,11 @@
 				"set": [
 					"3",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -5152,6 +5342,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -5226,6 +5421,11 @@
 					"1",
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -5430,6 +5630,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -5498,6 +5703,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -5522,6 +5732,11 @@
 			"categories": {
 				"set": [
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -5722,6 +5937,11 @@
 			},
 			"title": "Grand Opening Special",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -5812,6 +6032,11 @@
 			},
 			"title": "Summer Splash Savings",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -5997,6 +6222,11 @@
 			},
 			"title": "Buy One Get One Half Off",
 			"description": "Enjoy non-stop gaming action and the relaxing four-season pool. This package includes a $100 dining credit to Lucky 8 Noodle and Sushi Bar! Available:  Seven days a week.Call or visit website for pricing.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -6107,6 +6337,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -6190,6 +6425,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -6217,6 +6457,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -6434,6 +6679,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -6451,6 +6701,11 @@
 				"set": [
 					"3",
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -6508,6 +6763,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -6527,6 +6787,11 @@
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -6714,6 +6979,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -6728,6 +6998,11 @@
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -6750,6 +7025,11 @@
 					"1",
 					"4",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -6799,6 +7079,11 @@
 			"title": "Loyalty Rewards Offer",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -6878,6 +7163,11 @@
 				"set": [
 					"4",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -7216,6 +7506,11 @@
 			"title": "Anniversary Celebration Offer",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -7647,6 +7942,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -7824,6 +8124,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -7868,6 +8173,11 @@
 					"4",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -7923,6 +8233,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -7953,6 +8268,11 @@
 					"1",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -8118,6 +8438,11 @@
 				"set": [
 					"3",
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -8398,6 +8723,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -8482,6 +8812,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -8563,6 +8898,11 @@
 			},
 			"title": "Early Bird Discount",
 			"description": "Enjoy non-stop gaming action and the relaxing four-season pool. This package includes a $100 dining credit to Lucky 8 Noodle and Sushi Bar! Available:  Seven days a week.Call or visit website for pricing.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -8586,6 +8926,11 @@
 				"set": [
 					"1",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -8667,6 +9012,11 @@
 			},
 			"title": "Senior Season Pass",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -8834,6 +9184,11 @@
 				"set": [
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -9031,6 +9386,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -9048,6 +9408,11 @@
 			"title": "Winter Wonderland Package",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -9100,6 +9465,11 @@
 					"4",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -9195,6 +9565,11 @@
 					"2",
 					"1",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -10022,6 +10397,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -10044,6 +10424,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -10277,6 +10662,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -10672,6 +11062,11 @@
 			"title": "Stay and Save Bundle",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -10745,6 +11140,11 @@
 			},
 			"title": "Leap Year Twilight Ticket at Camelback Mountain",
 			"description": "Calling all locals with the zip code starting in 183  and college students to Camelback Mountain on Tuesday nights! Every Tuesday night starting at 3 p.m., hit the slopes with a twilight lift ticket for only $39. Available:  Tuesday Cost:  $39 person. Offer valid only for college students and locals in the 183 zip code. This offer must be purchased onsite at Guest Services. Present your college ID, drivers license, or local school ID to redeem your exclusive discount and parking pass. Plus you will receive free parking in lots 5, 7, 8 and 9. This offer is valid every Tuesday night, blackout dates apply (February 20, 2026).",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"3"
@@ -10769,6 +11169,11 @@
 				"set": [
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -10852,6 +11257,11 @@
 			"categories": {
 				"set": [
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -11095,6 +11505,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -11143,6 +11558,11 @@
 					"3",
 					"1",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -11223,6 +11643,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -11245,6 +11670,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -11258,6 +11688,11 @@
 			},
 			"title": "Date Night Getaway",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -11339,6 +11774,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -11457,6 +11897,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -11531,6 +11976,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -11584,6 +12034,11 @@
 					"3",
 					"4",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -11666,6 +12121,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -12062,6 +12522,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -12108,6 +12573,11 @@
 			},
 			"title": "Couples Getaway Package",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"3",
@@ -12196,6 +12666,11 @@
 					"4",
 					"1",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -12548,6 +13023,11 @@
 			},
 			"title": "Day Trip Special",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -13061,6 +13541,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"rank": {
 				"set": "2"
 			},
@@ -13110,6 +13595,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -13196,6 +13686,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -13279,6 +13774,11 @@
 					"2",
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -13519,6 +14019,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -13627,6 +14132,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -13645,6 +14155,11 @@
 				"set": "36"
 			},
 			"title": "Local Explorer Deal",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -13717,6 +14232,11 @@
 			},
 			"title": "My 4th Street Basic Offer",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -13893,6 +14413,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -13979,6 +14504,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -14057,6 +14587,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -14110,6 +14645,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -14134,6 +14674,11 @@
 			},
 			"title": "Last-Minute Deal",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"post_from_at": "2026-04-13T07:00:00.000Z",
 			"post_to_at": "2026-07-20T07:00:00.000Z",
 			"redeem_from_at": "2025-09-30T07:00:00.000Z",
@@ -14270,6 +14815,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -14345,6 +14895,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -14367,6 +14922,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -14414,6 +14974,11 @@
 			"title": "Winterfest Weekend",
 			"description": " Time to drop the books and hit the fields. All students are invited to play paintball for half price. That's right, all day paintball fun at half the price. Don't miss out on this limited time paintball offer!Every person that makes advance reservations and is paid in full at least 24 hours in advance will receive 100 free paintballs. 2026:  January 6, 7; February 3, 4, 24, 25; March 25, 26, 27, 28, 29, 30; April 1, 2, 3, 4, 5.Cost:$20.99 person with pre-registration discount. $41.99 person on game day. Ages 10 and up. Must have a valid student ID. Call to pre-register. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -14718,6 +15283,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -14802,6 +15372,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -14852,6 +15427,11 @@
 			"title": "Kids Eat Free Promotion",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"3",
@@ -14967,6 +15547,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"rank": {
 				"set": "1"
 			},
@@ -15046,6 +15631,11 @@
 			"description": " Give yourself a chance to experience romance. Enjoy a romantic atmosphere as we take it the next level with the perfect package to share with your loved one. Offer includes three days and two nights, romantic decoration in the room, one bottle of wine, desserts, appetizer and one breakfast per couple (chef's selection.) Available:  Seven days a week Call for pricing. Restrictions may apply. Subject to availability ",
 			"weburl": "http://www.4thstreetmarket.com",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -15132,6 +15722,11 @@
 			},
 			"title": "Loyalty Rewards Offer",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"3"
@@ -15158,6 +15753,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -15182,6 +15782,11 @@
 				"set": [
 					"3",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -15349,6 +15954,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -15431,6 +16041,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -15453,6 +16068,11 @@
 				"set": [
 					"4",
 					"3",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -15780,6 +16400,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -15798,6 +16423,11 @@
 			},
 			"title": "Summer Splash Savings",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"is_featured": true,
 			"post_from_at": "2025-09-08T07:00:00.000Z",
 			"post_to_at": "2026-02-15T07:00:00.000Z",
@@ -15910,6 +16540,11 @@
 			"title": "Buy One Get One Half Off",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -16137,6 +16772,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -16757,6 +17397,11 @@
 			},
 			"title": "Festival Weekend Package",
 			"description": "Enjoy non-stop gaming action and the relaxing four-season pool. This package includes a $100 dining credit to Lucky 8 Noodle and Sushi Bar! Available:  Seven days a week.Call or visit website for pricing.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -17108,6 +17753,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -17127,6 +17777,11 @@
 			},
 			"title": "Last-Minute Deal",
 			"description": " Time to drop the books and hit the fields. All students are invited to play paintball for half price. That's right, all day paintball fun at half the price. Don't miss out on this limited time paintball offer!Every person that makes advance reservations and is paid in full at least 24 hours in advance will receive 100 free paintballs. 2026:  January 6, 7; February 3, 4, 24, 25; March 25, 26, 27, 28, 29, 30; April 1, 2, 3, 4, 5.Cost:$20.99 person with pre-registration discount. $41.99 person on game day. Ages 10 and up. Must have a valid student ID. Call to pre-register. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -17249,6 +17904,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -17272,6 +17932,11 @@
 				"set": [
 					"2",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -17315,6 +17980,11 @@
 			"title": "Margarita Mondays",
 			"description": " Book a full or half day of paintball for May 12and pay half-price admission. Available: Sunday Cost: Call (570) 669-9127 for pricing. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -17458,6 +18128,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -17599,6 +18274,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"2"
@@ -17649,6 +18329,11 @@
 				"set": [
 					"3",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -17762,6 +18447,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"post_from_at": "2025-10-21T07:00:00.000Z",
 			"post_to_at": "2026-05-11T07:00:00.000Z",
 			"redeem_from_at": "2025-03-10T07:00:00.000Z",
@@ -17803,6 +18493,11 @@
 				"set": [
 					"2",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -18083,6 +18778,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -18227,6 +18927,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -18310,6 +19015,11 @@
 					"3",
 					"4",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"post_from_at": "2025-08-20T07:00:00.000Z",
@@ -18436,6 +19146,11 @@
 					"1",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -18645,6 +19360,11 @@
 			},
 			"title": "My 4th Street Basic Offer",
 			"description": "This is my 4th Street Offer!\nCome and get it!",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -18986,6 +19706,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -19073,6 +19798,11 @@
 				"set": [
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -19542,6 +20272,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -19768,6 +20503,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -19872,6 +20612,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -19891,6 +20636,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -19978,6 +20728,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"post_from_at": "2025-11-24T07:00:00.000Z",
 			"post_to_at": "2026-05-30T07:00:00.000Z",
 			"redeem_from_at": "2024-11-10T07:00:00.000Z",
@@ -20022,6 +20777,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -20042,6 +20802,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -20252,6 +21017,11 @@
 			"title": "Adventure Pass Offer",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -20271,6 +21041,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -20298,6 +21073,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -20350,6 +21130,11 @@
 				"set": [
 					"4",
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -20439,6 +21224,11 @@
 				"set": [
 					"1",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -20625,6 +21415,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -20646,6 +21441,11 @@
 					"4",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -20762,6 +21562,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -21097,6 +21902,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -21144,6 +21954,11 @@
 			},
 			"title": "Holiday Celebration Package",
 			"description": "Enjoy non-stop gaming action and the relaxing four-season pool. This package includes a $100 dining credit to Lucky 8 Noodle and Sushi Bar! Available:  Seven days a week.Call or visit website for pricing.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -21192,6 +22007,11 @@
 					"4",
 					"2",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -21605,6 +22425,11 @@
 					"4"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -21688,6 +22513,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -21739,6 +22569,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -21758,6 +22593,11 @@
 			},
 			"title": "Loyalty Rewards Offer",
 			"weburl": "http://www.4thstreetmarket.com",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -21776,6 +22616,11 @@
 			"title": "Leap Year Twilight Ticket at Camelback Mountain",
 			"description": " Restaurant Week Includes:  Explore the more exotic flavors of the Republic of Mexico and enjoy a Taste of Mexico. Offer includes octopus taco (charcoal fired octopus arms, chipotle crema, blue corn tortilla, cabbage salpicon), squash blossom (tempura squash blossom on a salbut, topped with salsa ranchera, queso fresco and micro cilantro), Tuetano (skirt steak asada taco topped with bone marrow, salsa verde, onions and micro cilantro), duck mole (duck confit, puebla mole, crema, sesame seeds, queso fresco, onions cilantro), and fluke ceviche (medley sliced peppers, fluke, avocado, cranberry habanero gastrique on a tostada, all served on four inch tortilla or tostada. Available:  Sunday through Friday Cost:  $30 person.",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -21866,6 +22711,11 @@
 					"4",
 					"2",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"post_from_at": "2026-04-09T07:00:00.000Z",
@@ -22130,6 +22980,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -22254,6 +23109,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -22271,6 +23131,11 @@
 			},
 			"title": "Family Fun Package",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -22438,6 +23303,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -22484,6 +23354,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -22632,6 +23507,11 @@
 				"set": [
 					"3",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -22802,6 +23682,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -22875,6 +23760,11 @@
 			"title": "Date Night at Lucky 8",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -23018,6 +23908,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -23478,6 +24373,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -23525,6 +24425,11 @@
 			},
 			"title": "Members-Only Deal",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -23543,6 +24448,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -23570,6 +24480,11 @@
 					"1",
 					"2",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -23739,6 +24654,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"tags": {
 				"set": [
 					"3",
@@ -23845,6 +24765,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -23895,6 +24820,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"rank": {
@@ -23997,6 +24927,11 @@
 			"categories": {
 				"set": [
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -24182,6 +25117,11 @@
 				"set": [
 					"4",
 					"3",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -24579,6 +25519,11 @@
 			},
 			"title": "Festival Weekend Package",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -24945,6 +25890,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -24966,6 +25916,11 @@
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
 			"categories": {
+				"set": [
+					"1"
+				]
+			},
+			"channels": {
 				"set": [
 					"1"
 				]
@@ -25018,6 +25973,11 @@
 			},
 			"title": "Limited Time Promotion",
 			"weburl": "https://www.marriott.com/offers/long-term-stay-savings-in-the-u-s-and-canada-1355935?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -25039,6 +25999,11 @@
 			"categories": {
 				"set": [
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -25402,6 +26367,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -25614,6 +26584,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -25632,6 +26607,11 @@
 				"set": "36"
 			},
 			"title": "Day Trip Special",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -25678,6 +26658,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -25697,6 +26682,11 @@
 			"categories": {
 				"set": [
 					"3",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -25904,6 +26894,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -25958,6 +26953,11 @@
 			"categories": {
 				"set": [
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"rank": {
@@ -26043,6 +27043,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -26063,6 +27068,11 @@
 				"set": [
 					"3",
 					"4",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -26137,6 +27147,11 @@
 			},
 			"title": "Date Night at Lucky 8",
 			"description": " Now is a great time to introduce your family and friends to the world of paintball. Offer includes entry to the  paintball fields, a paintball gun rental, goggles facemask rental, unlimited N2 air fills, free parking, professional paintball referees, as well as all day play. Available: June 14, August 18, September 29, October 13 an 14 Cost:  $21.50 person with pre-registration discount, $42.99 person on game day. Ages 10 and up. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"33"
@@ -26154,6 +27169,11 @@
 			},
 			"title": "Weekend Getaway Special",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -26175,6 +27195,11 @@
 			"categories": {
 				"set": [
 					"3",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -26219,6 +27244,11 @@
 			},
 			"title": "Early Bird Discount",
 			"description": "thank you to First Responders and Veterans for their service. Stop by and enjoy 10% off food purchases. Wednesday through Saturday Cost:  Varies by food item. Wednesdays and Thursdays from 4-8 p.m. and Fridays and Saturdays from 4-9 p.m. Proof of service is required. Cannot be combined with other offers.",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -26353,6 +27383,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"post_from_at": "2025-10-13T07:00:00.000Z",
 			"post_to_at": "2025-10-25T07:00:00.000Z",
 			"redeem_from_at": "2025-05-06T07:00:00.000Z",
@@ -26367,6 +27402,11 @@
 				"set": [
 					"2",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -26422,6 +27462,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"26"
@@ -26442,6 +27487,11 @@
 			},
 			"title": "Family Fun Package",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -26466,6 +27516,11 @@
 					"1",
 					"2",
 					"3"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -26552,6 +27607,11 @@
 			"title": "Kids Eat Free Promotion",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
 			"weburl": "https://www.marriott.com/offers/spa-retreats-package-off-88552/tussp-jw-marriott-tucson-starr-pass-resort-and-spa?propertycode=tussp",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -26828,6 +27888,11 @@
 					"2"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -26881,6 +27946,11 @@
 			"categories": {
 				"set": [
 					"3",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -26938,6 +28008,11 @@
 					"1"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"1"
@@ -26963,6 +28038,11 @@
 				"set": [
 					"3",
 					"2",
+					"1"
+				]
+			},
+			"channels": {
+				"set": [
 					"1"
 				]
 			},
@@ -27068,6 +28148,11 @@
 			},
 			"title": "Midweek Escape Special",
 			"description": "Escape with your loved one with 5,500 acres of natural scenic beauty and relaxation. Enjoy a Couples Getaway Package designed to create unforgettable moments in a luxurious setting. Offer includes up to 15% discount on AAA four diamond accommodations, breakfast daily, complimentary bike rentals for two (value $30), in-room amenities to include fresh flowers, bottle of house Champagne and fresh baked shortbread cookies. ",
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"12"
@@ -27138,6 +28223,11 @@
 					"3"
 				]
 			},
+			"channels": {
+				"set": [
+					"1"
+				]
+			},
 			"listings": {
 				"set": [
 					"6"
@@ -27160,6 +28250,11 @@
 					"1",
 					"3",
 					"2"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
@@ -27189,6 +28284,11 @@
 					"2",
 					"1",
 					"4"
+				]
+			},
+			"channels": {
+				"set": [
+					"1"
 				]
 			},
 			"listings": {
