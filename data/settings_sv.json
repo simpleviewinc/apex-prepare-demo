@@ -1,9 +1,11 @@
 {
 	"model": "settings_sv",
 	"action": "update",
+	"filter": {
+		"key": { "eq": "sv" }
+	},
 	"data": [
 		{
-			"key": "sv",
 			"timezone": "America/Phoenix",
 			"measurement_system": "imperial",
 			"db_server": "10.9.239.30",
