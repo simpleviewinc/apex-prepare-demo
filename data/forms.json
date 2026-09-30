@@ -225,6 +225,86 @@
 					}
 				]
 			}
+		},
+		{
+			"title": "Submit Leisure Event",
+			"type_id": "leisure_event",
+			"is_posted_on_website": true,
+			"is_active": true,
+			"response_text": "Thank you for submitting your event.",
+			"is_deleted": false,
+			"channels": { "set": ["1"] },
+			"leisure_event_tags": { "set": ["1"] },
+			"fields": {
+				"docs": [
+					{
+						"core_field_id": "leisure_event.contact_name",
+						"label": "Contact Name",
+						"name": "contact_name",
+						"is_required": true
+					},
+					{
+						"core_field_id": "leisure_event.title",
+						"label": "Title",
+						"name": "title",
+						"is_required": true
+					},
+					{
+						"core_field_id": "leisure_event.description",
+						"label": "Description",
+						"name": "description",
+						"is_required": true
+					},
+					{
+						"core_field_id": "leisure_event.categories",
+						"label": "Categories",
+						"name": "categories",
+						"is_required": true
+					},
+					{
+						"core_field_id": "leisure_event.dates_and_times",
+						"label": "Dates and Times",
+						"name": "dates_and_times",
+						"is_required": true
+					},
+					{
+						"core_field_id": "leisure_event.weburl",
+						"label": "Website",
+						"name": "weburl",
+						"is_required": false
+					},
+					{
+						"core_field_id": "leisure_event.email",
+						"label": "Email",
+						"name": "email",
+						"is_required": false
+					},
+					{
+						"core_field_id": "leisure_event.venue_listing",
+						"label": "Venue Listing",
+						"name": "venue_listing",
+						"is_required": false
+					},
+					{
+						"core_field_id": "leisure_event.host_listing",
+						"label": "Host Listing",
+						"name": "host_listing",
+						"is_required": false
+					},
+					{
+						"core_field_id": "leisure_event.images",
+						"label": "Images",
+						"name": "images",
+						"is_required": false
+					},
+					{
+						"core_field_id": "leisure_event.social_media",
+						"label": "Social Media",
+						"name": "social_media",
+						"is_required": false
+					}
+				]
+			}
 		}
 	]
 }
