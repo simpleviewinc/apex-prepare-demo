@@ -119,17 +119,13 @@
 			"data": {
 				"contact_name": "Rebecca Brook",
 				"title": "My 4th Street Simple Event",
-				"description": "Published leisure event created from this submission.",
-				"categories": [
-					{ "label": "Festivals", "value": "3" }
-				],
 				"dates_and_times": {
 					"start_date_at": "2026-12-05T07:00:00.000Z",
 					"start_time": "17:00",
 					"end_time": "18:00",
 					"frequency": { "label": "Single Date", "value": "single_date" }
 				},
-				"email": "rebecca.brook@4thstreetmarket.com"
+				"venue_listing": { "label": "4th Street Market - Dining - American", "value": "1" }
 			}
 		},
 		{
@@ -139,18 +135,43 @@
 			"data": {
 				"contact_name": "Rebecca Brook",
 				"title": "4th Street Market Half Event",
-				"description": "Draft leisure event created from this submission.",
+				"description": "My 4th Street Event!\nCome and have fun every Friday!\nLorem ipsum.",
 				"categories": [
+					{ "label": "Family Friendly", "value": "2" },
 					{ "label": "Festivals", "value": "3" },
+					{ "label": "Arts & Culture", "value": "1" },
 					{ "label": "Food", "value": "4" }
 				],
 				"dates_and_times": {
 					"start_date_at": "2026-12-09T07:00:00.000Z",
 					"start_time": "13:00",
 					"end_time": "16:00",
-					"frequency": { "label": "Weekly", "value": "weekly" }
+					"frequency": { "label": "Weekly", "value": "weekly" },
+					"interval": 1,
+					"days": [
+						{ "label": "Friday", "value": "friday" }
+					],
+					"end_option": { "label": "After (X) Occurrences", "value": "occurrences" },
+					"count": 52
 				},
-				"email": "rebecca.brook@4thstreetmarket.com"
+				"email": "rebecca.brook@4thstreetmarket.com",
+				"weburl": "http://www.4thstreetmarket.com/",
+				"venue_listing": { "label": "4th Street Market - Dining - American", "value": "1" },
+				"host_listing": { "label": "4th Street Market - Dining - American", "value": "1" },
+				"images": [
+					{
+						"file_id": "4",
+						"name": "4SMLogoBlue.png",
+						"url": "https://res.cloudinary.com/apex-test/image/upload/v1731453465/apex/account_images/file/48e06832-8dd0-46ba-a085-da133895773a-a-4SMLogoBlue.png.png"
+					}
+				],
+				"social_media": {
+					"social_facebook": "4thstreetmarkets",
+					"social_instagram": "4thstreetmarkets",
+					"social_tiktok": "@4thstreetmarkets",
+					"social_x": "@4thstreetmarkets",
+					"social_youtube": "@4thstreetmkts"
+				}
 			}
 		}
 	]
