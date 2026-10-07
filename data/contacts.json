@@ -2,7 +2,6 @@
 	"model": "contacts",
 	"data": [
 		{
-			"external_id": "987",
 			"first_name": "Lance",
 			"last_name": "Aguilar",
 			"title": "Director of Travel Industry Sales",
@@ -38,7 +37,6 @@
 			"phones": null
 		},
 		{
-			"external_id": "12",
 			"prefix": "Mr",
 			"first_name": "Aaron",
 			"middle_name": "S",
@@ -102,7 +100,6 @@
 			}
 		},
 		{
-			"external_id": "345",
 			"first_name": "Vanessa",
 			"last_name": "Roberts",
 			"title": "Meeting Planner",
@@ -138,7 +135,6 @@
 			"phones": null
 		},
 		{
-			"external_id": "95",
 			"first_name": "Cheryl",
 			"last_name": "Jones",
 			"suffix": "CE",
@@ -175,7 +171,6 @@
 			"phones": null
 		},
 		{
-			"external_id": "95",
 			"first_name": "Nanci",
 			"last_name": "Blackman",
 			"suffix": "ME",
@@ -212,7 +207,6 @@
 			"phones": null
 		},
 		{
-			"external_id": "01",
 			"first_name": "Joss",
 			"last_name": "Frazier",
 			"suffix": "QA",
@@ -249,7 +243,6 @@
 			"phones": null
 		},
 		{
-			"external_id": "218",
 			"first_name": "Pip",
 			"last_name": "Stocking",
 			"title": "Planner",
