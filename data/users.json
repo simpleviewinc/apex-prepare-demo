@@ -29,7 +29,7 @@
 			"user_id": "669041d48608f03f64c13eda",
 			"first_name": "Anna",
 			"last_name": "Portal",
-			"email_address": "sowenlotr+1@gmail.com",
+			"email_address": "fake.email+1@gmail.com",
 			"type_id": "portal",
 			"is_auth_active": true
 		},
@@ -103,7 +103,7 @@
 			"user_id": "65d629f5cad497da1a2a8322",
 			"first_name": "Anna",
 			"last_name": "Test",
-			"email_address": "sowenlotr@gmail.com",
+			"email_address": "fake.email@gmail.com",
 			"type_id": "admin",
 			"is_auth_active": true,
 			"roles": {
